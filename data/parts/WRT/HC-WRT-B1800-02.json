@@ -13,9 +13,7 @@
  "interchange": [],
  "supersedes": "",
  "tags": [
-  "writing",
-  "undeciphered",
-  "Levant"
+  "writing"
  ],
  "route": null,
  "confidence": "debated",
@@ -27,12 +25,33 @@
    {
     "problem": "The 2024 assessment judged one proposal (Woudhuizen/Best), not all proposed decipherments.",
     "evidence": "https://en.wikipedia.org/wiki/Byblos_syllabary"
+   },
+   {
+    "problem": "Open question had no theories (schema requires 2-4).",
+    "evidence": "https://en.wikipedia.org/wiki/Byblos_syllabary"
+   },
+   {
+    "problem": "The 2024 assessment judged one proposal (Woudhuizen/Best), not all proposed decipherments.",
+    "evidence": "https://en.wikipedia.org/wiki/Byblos_syllabary"
    }
   ]
  },
  "kind": "open",
  "question": "Can the Byblos syllabary be read, and what language does it record?",
- "evidence": "Fourteen known inscriptions; sign counts range from about 90 to 114; a 2024 assessment found proposed decipherments scientifically inadequate.",
+ "evidence": "Fourteen known inscriptions; sign counts estimated from about 90 to 114; a 2024 assessment found the Woudhuizen–Best decipherment scientifically inadequate.",
  "wouldSettle": "New inscriptions, ideally a bilingual, enlarging the corpus enough for systematic decipherment.",
- "theories": []
+ "theories": [
+  {
+   "name": "Early West Semitic",
+   "idea": "Mendenhall (1985) read an 'Old Coastal' Semitic language; Colless supports it, but translations are often cryptic."
+  },
+  {
+   "name": "Northwest Semitic near Akkadian",
+   "idea": "Best reads temple-building records; a 2024 critique found the Woudhuizen/Best translations scientifically inadequate."
+  },
+  {
+   "name": "Phoenician",
+   "idea": "Dhorme (1946) read a Phoenician word for 'in the year' and proposed values for 75 signs."
+  }
+ ]
 }

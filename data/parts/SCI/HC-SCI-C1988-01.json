@@ -1,0 +1,31 @@
+{
+ "id": "HC-SCI-C1988-01",
+ "year": 1988,
+ "yearEnd": null,
+ "dateLabel": "from 1988",
+ "title": "Cloning the green fluorescent protein gene",
+ "system": "SCI",
+ "place": "United States",
+ "region": "North America",
+ "figures": [
+  "Douglas Prasher"
+ ],
+ "summary": "Douglas Prasher cloned the gene for green fluorescent protein, the jellyfish glow protein, and shared it with Martin Chalfie and Roger Tsien.",
+ "why": "GFP became a glowing tag used to watch genes and proteins in living cells.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Douglas_Prasher",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Cloned the jellyfish GFP gene and gave it to the labs that turned it into a research tool.",
+  "recognition": "Out of science by 2008, he was driving a courtesy shuttle bus when the 2008 Nobel went to Shimomura, Chalfie and Tsien."
+ }
+}

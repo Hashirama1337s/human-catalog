@@ -1,0 +1,29 @@
+{
+ "id": "HC-SCI-C1937-01",
+ "year": 1937,
+ "yearEnd": null,
+ "dateLabel": "1937",
+ "title": "Nuclear emulsions record cosmic-ray 'stars'",
+ "system": "SCI",
+ "place": "Vienna, Austria",
+ "region": "Europe",
+ "figures": [
+  "Marietta Blau",
+  "Hertha Wambacher"
+ ],
+ "summary": "Marietta Blau developed photographic emulsions to track high-energy particles and, with Hertha Wambacher, found 'disintegration stars' from cosmic rays.",
+ "why": "A key tool of early particle physics.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Marietta_Blau",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Developed photographic nuclear emulsions for imaging particles and found cosmic-ray disintegration stars.",
+  "recognition": "Cecil Powell won the 1950 Nobel Prize for work partly built on hers; she was never awarded one."
+ }
+}

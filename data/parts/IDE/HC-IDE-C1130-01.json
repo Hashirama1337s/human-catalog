@@ -1,0 +1,24 @@
+{
+ "id": "HC-IDE-C1130-01",
+ "year": 1130,
+ "yearEnd": 1200,
+ "dateLabel": "1130-1200",
+ "title": "Zhu Xi shapes Neo-Confucianism",
+ "system": "IDE",
+ "place": "Southern Song dynasty, China",
+ "region": "East Asia",
+ "figures": [
+  "Zhu Xi"
+ ],
+ "summary": "Zhu Xi, a Southern Song philosopher, was a leading figure of Neo-Confucianism. His commentaries on the Four Books, little recognised in his lifetime, later became the standard interpretations.",
+ "why": "From 1313 until 1905 his commentaries were the basis of China's imperial civil service examinations.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Zhu_Xi",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ }
+}

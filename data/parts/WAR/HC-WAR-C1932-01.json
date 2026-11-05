@@ -1,0 +1,30 @@
+{
+ "id": "HC-WAR-C1932-01",
+ "year": 1932,
+ "yearEnd": null,
+ "dateLabel": "December 1932",
+ "title": "Polish codebreakers break Enigma",
+ "system": "WAR",
+ "place": "Warsaw, Poland",
+ "region": "Europe",
+ "figures": [
+  "Marian Rejewski",
+  "Jerzy Różycki",
+  "Henryk Zygalski"
+ ],
+ "summary": "In December 1932 the Polish Cipher Bureau began breaking German Enigma ciphers; five weeks before the Second World War it handed its methods and equipment to France and Britain.",
+ "why": "The foundation of the Allied Ultra codebreaking effort.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Cipher_Bureau_(Poland)",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Broke the German Enigma cipher and gave the methods to Britain and France in 1939.",
+  "recognition": "The work stayed secret; the Polish break was first revealed publicly only in a 1967 book, years before Ultra became widely known."
+ }
+}

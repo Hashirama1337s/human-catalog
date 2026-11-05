@@ -1,0 +1,28 @@
+{
+ "id": "HC-FOD-C1920-01",
+ "year": 1920,
+ "yearEnd": 1940,
+ "dateLabel": "1920s-1930s",
+ "title": "Vavilov maps where crops were born",
+ "system": "FOD",
+ "place": "Leningrad, USSR",
+ "region": "Europe",
+ "figures": [
+  "Nikolai Vavilov"
+ ],
+ "summary": "Vavilov led worldwide seed-collecting expeditions and identified the centres of origin of cultivated plants.",
+ "why": "Founded crop-diversity science and the idea of seed banks for food security.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Nikolai_Vavilov",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Identified the centres of origin of cultivated plants through worldwide seed collection.",
+  "recognition": "Persecuted under Stalin, he died in prison in 1943; his reputation was rehabilitated only in the late 1950s."
+ }
+}

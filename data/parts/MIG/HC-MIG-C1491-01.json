@@ -1,0 +1,46 @@
+{
+ "id": "HC-MIG-C1491-01",
+ "year": 1491,
+ "yearEnd": null,
+ "dateLabel": "before 1492",
+ "title": "How many people lived in the Americas in 1491?",
+ "system": "MIG",
+ "place": "The Americas",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "Estimates range from 8 to 112 million; many scholars now cluster around 45-60 million. The answer sets the scale of the collapse that followed.",
+ "why": "It sets the scale of the demographic catastrophe after European contact.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Population_history_of_the_Indigenous_peoples_of_the_Americas",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "Page gives Dobyns 'possibly over 100 million' (1960s), not '90-112 million (1966)'; 'widely questioned' overstates 'multiple researchers have called ... into question'.",
+    "evidence": "https://en.wikipedia.org/wiki/Population_history_of_the_Indigenous_peoples_of_the_Americas"
+   }
+  ]
+ },
+ "kind": "open",
+ "question": "How many people lived in the Americas just before European contact in 1492?",
+ "evidence": "Kroeber (1939) estimated 8.4 million, Dobyns (1960s) possibly over 100 million, Denevan about 54 million; a 2018 carbon-record study gave just over 60 million; a 2020 genetic study suggests Caribbean estimates may be tenfold too high.",
+ "wouldSettle": "Independent regional evidence, from archaeology, ancient DNA and environmental records, converging on the same totals.",
+ "theories": [
+  {
+   "name": "Low counts",
+   "idea": "Kroeber's 8.4 million; such figures often reflected notions of European superiority."
+  },
+  {
+   "name": "High counts",
+   "idea": "Dobyns, from historical and archaeological data, possibly over 100 million; multiple researchers question such high figures."
+  },
+  {
+   "name": "Middle consensus",
+   "idea": "Denevan's 'consensus count' of about 54 million; most newer estimates fall between 45 and 60 million."
+  }
+ ]
+}

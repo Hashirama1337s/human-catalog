@@ -1,0 +1,34 @@
+{
+ "id": "HC-ART-C1896-01",
+ "year": 1896,
+ "yearEnd": null,
+ "dateLabel": "1896",
+ "title": "La Fee aux Choux, an early narrative fiction film",
+ "system": "ART",
+ "place": "Paris, France",
+ "region": "Europe",
+ "figures": [
+  "Alice Guy-Blaché"
+ ],
+ "summary": "Alice Guy made La Fee aux Choux in 1896 and is credited as the first filmmaker to make a narrative fiction film and the first woman to direct one.",
+ "why": "Helped turn moving pictures into storytelling.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Alice_Guy-Blach%C3%A9",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "Source records a dispute over which La Fee aux Choux is the 1896 film (it 'seems to be lost'; versions of 1900/1902 survive); 'first narrative fiction film' is a contested priority.",
+    "evidence": "https://en.wikipedia.org/wiki/Alice_Guy-Blach%C3%A9"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Directed one of the first narrative fiction films and hundreds more, experimenting with synchronised sound and colour.",
+  "recognition": "She listed her films from memory hoping to win credit; the New York Times added her to 'Overlooked No More' in 2019."
+ }
+}

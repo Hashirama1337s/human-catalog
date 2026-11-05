@@ -12,11 +12,6 @@
  "why": "The largest city of the early Americas left no readable record of the language its people spoke.",
  "interchange": [],
  "supersedes": "",
- "tags": [
-  "languages",
-  "Mesoamerica",
-  "cities"
- ],
  "route": null,
  "confidence": "debated",
  "source": "https://en.wikipedia.org/wiki/Teotihuacan",
@@ -24,6 +19,10 @@
   "status": "corrected",
   "edition": "2.0",
   "notes": [
+   {
+    "problem": "'No known name for its own people' is not in the source; 'no single dominant people' overstates; source says multi-ethnic presence is 'clear'.",
+    "evidence": "https://en.wikipedia.org/wiki/Teotihuacan"
+   },
    {
     "problem": "'No known name for its own people' is not in the source; 'no single dominant people' overstates; source says multi-ethnic presence is 'clear'.",
     "evidence": "https://en.wikipedia.org/wiki/Teotihuacan"
@@ -37,15 +36,15 @@
  "theories": [
   {
    "name": "Nahua (early Nahuatl)",
-   "idea": "The builders spoke an early form of Nahuatl, plausible but unconfirmed."
+   "idea": "An early form of Nahuatl was a main language; plausible but unconfirmed."
   },
   {
    "name": "Totonac or Otomi",
-   "idea": "Early Totonac or Otomi speakers formed the core population."
+   "idea": "Early Totonac or Otomi speakers formed a core population; Totonac is also judged plausible."
   },
   {
    "name": "Multi-ethnic city",
-   "idea": "Several ethnic groups shared the city, with no single dominant people."
+   "idea": "Many groups lived there, including Maya and Oto-Pamean migrants; no single language need have dominated."
   }
  ]
 }

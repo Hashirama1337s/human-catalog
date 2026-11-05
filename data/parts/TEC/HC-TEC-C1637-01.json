@@ -1,0 +1,28 @@
+{
+ "id": "HC-TEC-C1637-01",
+ "year": 1637,
+ "yearEnd": null,
+ "dateLabel": "1637",
+ "title": "Tiangong Kaiwu: an encyclopedia of Chinese technology",
+ "system": "TEC",
+ "place": "Ming China",
+ "region": "East Asia",
+ "figures": [
+  "Song Yingxing"
+ ],
+ "summary": "Late-Ming scholar Song Yingxing published Tiangong Kaiwu, an illustrated encyclopedia of farming, crafts, industry and gunpowder weapons.",
+ "why": "A rare first-hand record of how pre-modern Chinese industry worked.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Song_Yingxing",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Wrote Tiangong Kaiwu, an encyclopedia of China's technology and crafts.",
+  "recognition": "Copies became very scarce in Qing China; the work survived mainly through original copies preserved in Japan."
+ }
+}

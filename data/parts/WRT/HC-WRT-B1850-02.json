@@ -13,20 +13,41 @@
  "interchange": [],
  "supersedes": "",
  "tags": [
-  "writing",
-  "undeciphered",
-  "Minoan"
+  "writing"
  ],
  "route": null,
  "confidence": "debated",
  "source": "https://en.wikipedia.org/wiki/Phaistos_Disc",
  "audit": {
-  "status": "hold",
-  "edition": "2.0"
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Open question had no theories (schema requires 2-4).",
+    "evidence": "https://en.wikipedia.org/wiki/Phaistos_Disc"
+   }
+  ]
  },
  "kind": "open",
  "question": "Is the stamped Phaistos Disc writing, and if so what does it say?",
  "evidence": "45 distinct signs appear 242 times, impressed with individual stamps before firing; date estimates run from about 1850 BCE to after 1400 BCE.",
  "wouldSettle": "Another object made with the same stamps, or a longer text in the same signs.",
- "theories": []
+ "theories": [
+  {
+   "name": "Greek",
+   "idea": "Several readings as an early Greek dialect (Hempl 1911, Faucounau, Ohlenroth and others); none accepted."
+  },
+  {
+   "name": "Luwian or Anatolian",
+   "idea": "Achterberg and colleagues (2004) mapped its signs to Anatolian hieroglyphs and read Luwian; no reading without outside confirmation is accepted."
+  },
+  {
+   "name": "Semitic",
+   "idea": "Aartun (1992) proposed a Semitic reading; not accepted."
+  },
+  {
+   "name": "Logographic or not language",
+   "idea": "Haarmann (1990) read it as logographic writing; Whittaker (2005) as a votive game board."
+  }
+ ]
 }

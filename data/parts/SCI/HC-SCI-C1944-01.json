@@ -23,12 +23,20 @@
  "source": "https://en.wikipedia.org/wiki/Avery%E2%80%93MacLeod%E2%80%93McCarty_experiment",
  "audit": {
   "status": "corrected",
-  "edition": "1.0",
+  "edition": "2.0",
   "notes": [
    {
     "problem": "title overclaims; acceptance came later",
     "evidence": "https://en.wikipedia.org/wiki/Avery%E2%80%93MacLeod%E2%80%93McCarty_experiment"
+   },
+   {
+    "problem": "unsung note attached (v2.2)",
+    "evidence": "https://en.wikipedia.org/wiki/Oswald_Avery"
    }
   ]
+ },
+ "unsung": {
+  "contribution": "Showed in 1944, with MacLeod and McCarty, that DNA is the transforming principle.",
+  "recognition": "Nominated through three decades but never awarded; called the most deserving scientist not to receive the Nobel."
  }
 }

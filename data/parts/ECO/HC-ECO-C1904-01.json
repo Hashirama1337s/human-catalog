@@ -1,0 +1,28 @@
+{
+ "id": "HC-ECO-C1904-01",
+ "year": 1904,
+ "yearEnd": null,
+ "dateLabel": "1903-04",
+ "title": "The Landlord's Game, ancestor of Monopoly",
+ "system": "ECO",
+ "place": "United States",
+ "region": "North America",
+ "figures": [
+  "Lizzie Magie"
+ ],
+ "summary": "Lizzie Magie patented The Landlord's Game, a board game about land and rent, in 1904 (patent 748,626).",
+ "why": "The forerunner of Monopoly, one of the world's best-selling games.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Lizzie_Magie",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Invented and patented The Landlord's Game, the game Monopoly grew from.",
+  "recognition": "Charles Darrow claimed the idea as his own; Parker Brothers credited Darrow, and Magie made about $500 and none of the credit."
+ }
+}

@@ -16,22 +16,23 @@
  "why": "An empire ran on knotted cords; if they held narratives, a whole history is waiting to be read.",
  "interchange": [],
  "supersedes": "",
- "tags": [
-  "writing",
-  "records",
-  "Inca"
- ],
  "route": null,
  "confidence": "debated",
  "source": "https://en.wikipedia.org/wiki/Quipu",
  "audit": {
-  "status": "hold",
-  "edition": "2.0"
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "A 'pre-conquest khipu matched to a known written text' is near impossible (no pre-conquest writing); source names the colonial Santa Valley khipu-document match as the best lead.",
+    "evidence": "https://en.wikipedia.org/wiki/Quipu"
+   }
+  ]
  },
  "kind": "open",
  "question": "Did Andean knotted-cord khipus record words and stories as well as numbers?",
  "evidence": "Just under 1,400 pre-Columbian khipus known; Locke showed base-10 positional numbers; Hyland's phonetic reading uses colonial-era cords.",
- "wouldSettle": "A pre-conquest khipu matched to a known written text, letting non-numeric features be read and tested.",
+ "wouldSettle": "More khipus matched to Spanish colonial transcriptions of the same records, letting non-numeric features be read and tested.",
  "theories": [
   {
    "name": "Binary coding (Urton)",

@@ -1,0 +1,24 @@
+{
+ "id": "HC-IDE-C700-01",
+ "year": 700,
+ "yearEnd": 750,
+ "dateLabel": "c. 700-750 CE (scholarly estimate; debated)",
+ "title": "Adi Shankara and Advaita Vedanta",
+ "system": "IDE",
+ "place": "Kaladi, Kerala, India (per the oldest hagiographies)",
+ "region": "South Asia",
+ "figures": [
+  "Adi Shankara"
+ ],
+ "summary": "Adi Shankara taught Advaita Vedanta: the individual self is identical with Brahman. He wrote commentaries on the Brahma Sutras, principal Upanishads and Bhagavad Gita; his life is known from much later, legendary hagiographies.",
+ "why": "A central teacher of Hindu philosophy whose fame grew mainly from the 14th century; tradition dates him far earlier.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Adi_Shankara",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ }
+}

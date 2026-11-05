@@ -13,20 +13,33 @@
  "interchange": [],
  "supersedes": "",
  "tags": [
-  "writing",
-  "undeciphered",
-  "Elam"
+  "writing"
  ],
  "route": null,
  "confidence": "debated",
  "source": "https://en.wikipedia.org/wiki/Proto-Elamite",
  "audit": {
-  "status": "hold",
-  "edition": "2.0"
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Open question had no theories (schema requires 2-4).",
+    "evidence": "https://en.wikipedia.org/wiki/Proto-Elamite ; https://en.wikipedia.org/wiki/Linear_Elamite"
+   }
+  ]
  },
  "kind": "open",
  "question": "What do the Proto-Elamite tablets of early Iran actually say?",
  "evidence": "Tablets come mainly from Susa, with others from Tepe Sofalin, Tepe Yahya and Tepe Sialk; the script was in use only a few centuries.",
  "wouldSettle": "More tablets, especially longer or bilingual texts, allowing signs to be tied to sounds or words.",
- "theories": []
+ "theories": [
+  {
+   "name": "An early form of Elamite",
+   "idea": "Long assumed from cultural continuity with later Elam; less certain now that the script is found over a wider area."
+  },
+  {
+   "name": "Ancestor of Linear Elamite",
+   "idea": "Desset and colleagues argue Linear Elamite, now partly read as Elamite, evolved from it; Dahl sees only imitation of its signs."
+  }
+ ]
 }

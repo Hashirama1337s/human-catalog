@@ -1,0 +1,43 @@
+{
+ "id": "HC-TEC-B2631-01",
+ "year": -2631,
+ "yearEnd": -550,
+ "dateLabel": "claimed dates from c. 2600 BCE to the 1st millennium BCE (disputed)",
+ "title": "Did Africa invent iron smelting independently?",
+ "system": "TEC",
+ "place": "West and Central Africa (Nigeria, Niger, Cameroon, Central African Republic)",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Mid-20th-century archaeologists thought ironworking reached sub-Saharan Africa from Carthage or Meroë; early radiocarbon dates from several sites have revived the case for independent invention.",
+ "why": "It decides whether iron, a world-changing technology, was invented more than once.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "metalworking"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Iron_metallurgy_in_Africa",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "kind": "open",
+ "question": "Did sub-Saharan Africans invent iron smelting themselves, or did it arrive from North Africa or the Nile?",
+ "evidence": "Claimed early dates include Lejja, Nigeria (2631-2458 BCE), Gbatoro, Cameroon (2368-2200 BCE) and Oboui (c. 2000 BCE); critics cite disturbed sites, old charcoal and imprecise calibration for 800-400 BCE.",
+ "wouldSettle": "Securely stratified, well-dated smelting furnaces, replicated at several independent sites.",
+ "theories": [
+  {
+   "name": "Independent invention",
+   "idea": "Eggert and Holl judge local invention likely, though the evidence remains inconclusive."
+  },
+  {
+   "name": "Diffusion",
+   "idea": "Iron came from Carthage across the Sahara or from Meroë on the Nile; Carthage now looks too late."
+  },
+  {
+   "name": "Early dates unreliable",
+   "idea": "Clist, Killick and Alpern point to disturbed contexts and technical flaws in the early-date studies."
+  }
+ ]
+}

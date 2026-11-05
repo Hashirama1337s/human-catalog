@@ -1,0 +1,29 @@
+{
+ "id": "HC-TEC-C1966-01",
+ "year": 1966,
+ "yearEnd": null,
+ "dateLabel": "1966-69",
+ "title": "Television home security system",
+ "system": "TEC",
+ "place": "United States",
+ "region": "North America",
+ "figures": [
+  "Marie Van Brittan Brown",
+  "Albert Brown"
+ ],
+ "summary": "Nurse Marie Van Brittan Brown and her husband invented a home security system using television surveillance, patented in 1969.",
+ "why": "A forerunner of modern video doorbells and home CCTV.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Marie_Van_Brittan_Brown",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Co-invented a closed-circuit television home security system.",
+  "recognition": "Manufacturers showed no interest and media coverage ceased after 1969; wider recognition came only decades later."
+ }
+}

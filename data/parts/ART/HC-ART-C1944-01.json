@@ -1,0 +1,28 @@
+{
+ "id": "HC-ART-C1944-01",
+ "year": 1944,
+ "yearEnd": null,
+ "dateLabel": "1930s-1940s",
+ "title": "Sister Rosetta Tharpe's electric gospel guitar",
+ "system": "ART",
+ "place": "United States",
+ "region": "North America",
+ "figures": [
+  "Sister Rosetta Tharpe"
+ ],
+ "summary": "Sister Rosetta Tharpe mixed spiritual lyrics with electric guitar and influenced early rock-and-roll musicians including Little Richard, Chuck Berry, Johnny Cash and Elvis Presley.",
+ "why": "A root of rock and roll.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Sister_Rosetta_Tharpe",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Pioneered electric-guitar gospel that influenced the first generation of rock and roll.",
+  "recognition": "Called the Godmother of Rock and Roll, she was inducted into the Rock and Roll Hall of Fame only posthumously, in 2018."
+ }
+}

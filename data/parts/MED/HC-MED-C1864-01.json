@@ -1,0 +1,28 @@
+{
+ "id": "HC-MED-C1864-01",
+ "year": 1864,
+ "yearEnd": null,
+ "dateLabel": "1864",
+ "title": "First African-American woman doctor of medicine",
+ "system": "MED",
+ "place": "Boston, Massachusetts, USA",
+ "region": "North America",
+ "figures": [
+  "Rebecca Lee Crumpler"
+ ],
+ "summary": "Rebecca Lee Crumpler qualified in medicine in 1864, cared for freed people after the Civil War, and published A Book of Medical Discourses in 1883.",
+ "why": "Opened medicine to Black women in the United States.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Rebecca_Lee_Crumpler",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Became the first African-American woman doctor of medicine and wrote an early medical book for women and children.",
+  "recognition": "Ignored by male physicians in her lifetime, she lay in an unmarked grave for 125 years until 2020."
+ }
+}

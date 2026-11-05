@@ -12,10 +12,13 @@
  "why": "Around one million Armenians were murdered.",
  "interchange": [],
  "supersedes": "",
+ "tags": [
+  "atrocity"
+ ],
  "confidence": "established",
  "source": "https://en.wikipedia.org/wiki/Armenian_genocide",
  "audit": {
   "status": "hold",
-  "edition": "1.0"
+  "edition": "2.0"
  }
 }

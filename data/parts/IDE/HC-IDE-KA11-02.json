@@ -14,11 +14,6 @@
  "why": "Monumental building by people without clear farming challenges the old order of farming first, monuments later.",
  "interchange": [],
  "supersedes": "",
- "tags": [
-  "monuments",
-  "Neolithic",
-  "ritual"
- ],
  "route": null,
  "confidence": "debated",
  "source": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe",
@@ -29,21 +24,25 @@
    {
     "problem": "Settlement vs sanctuary is now largely answered (source: settlement inhabited 9500-8000 BCE, domestic structures); what stays open is the enclosures' purpose.",
     "evidence": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe"
+   },
+   {
+    "problem": "Settlement vs sanctuary is now largely answered (source: settlement inhabited 9500-8000 BCE, domestic structures); what stays open is the enclosures' purpose.",
+    "evidence": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe"
    }
   ]
  },
  "kind": "open",
- "question": "Was Göbekli Tepe a ritual sanctuary for hunter-gatherers or a lived-in settlement?",
+ "question": "What were Göbekli Tepe's great pillared enclosures for: ritual buildings or large communal houses?",
  "evidence": "Built and used c. 9500 to at least 8000 BCE; Schmidt called it a sanctuary with few residents; 2019 findings suggest a settlement with domestic structures.",
- "wouldSettle": "Wide excavation of surrounding areas showing year-round houses, hearths and household waste, or their absence.",
+ "wouldSettle": "Floor deposits inside the enclosures showing everyday household activity, or only ritual use.",
  "theories": [
   {
-   "name": "Cult sanctuary",
-   "idea": "Schmidt saw it as a sanctuary used by nomads, with few or no permanent inhabitants."
+   "name": "Cult buildings",
+   "idea": "Schmidt saw the enclosures as a sanctuary for gatherings, with few or no permanent residents."
   },
   {
-   "name": "Settlement with ritual buildings",
-   "idea": "Newer finds suggest people lived there, challenging the strictly cultic view."
+   "name": "Large communal houses",
+   "idea": "Later researchers suggest the enclosures were big shared houses, with impressive posts like Northwest Coast plank houses."
   }
  ]
 }

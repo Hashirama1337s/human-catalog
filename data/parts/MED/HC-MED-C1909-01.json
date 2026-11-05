@@ -1,0 +1,34 @@
+{
+ "id": "HC-MED-C1909-01",
+ "year": 1909,
+ "yearEnd": null,
+ "dateLabel": "1909",
+ "title": "Chagas disease described in full",
+ "system": "MED",
+ "place": "Lassance, Brazil",
+ "region": "Central & South America",
+ "figures": [
+  "Carlos Chagas"
+ ],
+ "summary": "Carlos Chagas described a previously unknown disease, its parasite Trypanosoma cruzi, its insect vector, hosts, clinical signs and epidemiology, a discovery that holds a unique place in medical history.",
+ "why": "One person mapped an entire disease cycle.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Carlos_Chagas",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "'Uniquely complete discovery' not in source; source: 'holds a unique place in the history of medicine'.",
+    "evidence": "https://en.wikipedia.org/wiki/Carlos_Chagas"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Described a new infectious disease together with its pathogen, vector, host, clinical signs and epidemiology.",
+  "recognition": "Nominated for the Nobel Prize in 1913 and 1921, he never received it."
+ }
+}

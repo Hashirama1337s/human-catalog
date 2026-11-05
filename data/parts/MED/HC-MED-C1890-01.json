@@ -1,0 +1,29 @@
+{
+ "id": "HC-MED-C1890-01",
+ "year": 1890,
+ "yearEnd": null,
+ "dateLabel": "1889-90",
+ "title": "Tetanus pure culture and serum therapy",
+ "system": "MED",
+ "place": "Berlin, Germany",
+ "region": "Europe",
+ "figures": [
+  "Kitasato Shibasaburō",
+  "Emil von Behring"
+ ],
+ "summary": "Kitasato first grew the tetanus bacillus in pure culture in 1889 and in 1890 worked with Emil von Behring on serum therapy for tetanus and diphtheria.",
+ "why": "Founded antitoxin therapy, an early weapon against deadly infections.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Kitasato_Shibasabur%C5%8D",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Grew the tetanus bacillus in pure culture and co-developed antitoxin serum therapy.",
+  "recognition": "Nominated for the first Nobel Prize in 1901, he was passed over; Behring received it alone."
+ }
+}

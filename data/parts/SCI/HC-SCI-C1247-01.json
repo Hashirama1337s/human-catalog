@@ -1,0 +1,28 @@
+{
+ "id": "HC-SCI-C1247-01",
+ "year": 1247,
+ "yearEnd": null,
+ "dateLabel": "1247",
+ "title": "Qin Jiushao's method for solving polynomials",
+ "system": "SCI",
+ "place": "Southern Song China",
+ "region": "East Asia",
+ "figures": [
+  "Qin Jiushao"
+ ],
+ "summary": "In his Mathematical Treatise in Nine Sections, Qin Jiushao set out the procedure for solving polynomial equations now taught as Horner's method.",
+ "why": "Still the standard way computers evaluate polynomials.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Qin_Jiushao",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Discovered the efficient polynomial-solving procedure now known as Horner's method.",
+  "recognition": "The method is known today by another man's name, Horner's method."
+ }
+}

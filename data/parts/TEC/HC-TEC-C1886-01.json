@@ -1,0 +1,28 @@
+{
+ "id": "HC-TEC-C1886-01",
+ "year": 1886,
+ "yearEnd": null,
+ "dateLabel": "1886",
+ "title": "First successful dishwasher patented",
+ "system": "TEC",
+ "place": "United States",
+ "region": "North America",
+ "figures": [
+  "Josephine Cochrane"
+ ],
+ "summary": "Josephine Cochrane invented and manufactured the first successful hand-powered dishwasher, patented on 28 December 1886.",
+ "why": "Ancestor of a now-everyday household machine.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Josephine_Cochrane",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Invented and manufactured the first successful hand-powered dishwasher.",
+  "recognition": "She faced many obstacles as a woman inventor; she entered the National Inventors Hall of Fame only posthumously, in 2006."
+ }
+}

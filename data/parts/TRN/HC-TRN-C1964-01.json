@@ -8,7 +8,7 @@
  "place": "Tokyo to Osaka, Japan",
  "region": "East Asia",
  "figures": [],
- "summary": "Japan opened the first railway line built for high-speed travel, between Tokyo and Osaka.",
+ "summary": "Japan opened the Tokaido Shinkansen between Tokyo and Osaka shortly before the 1964 Tokyo Olympics, the first line of its high-speed 'bullet train' network.",
  "why": "Started high-speed rail.",
  "interchange": [],
  "supersedes": "",
@@ -20,6 +20,18 @@
   "notes": [
    {
     "problem": "Source: 'first country to construct railway lines dedicated to high-speed travel'.",
+    "evidence": "https://en.wikipedia.org/wiki/Shinkansen"
+   },
+   {
+    "problem": "Source never states it was the first railway line built for high-speed travel (only a cited book title says so); it says 'The first line, the Tokaido Shinkansen, opened shortly before the 1964 Tokyo Summer Olympics.'",
+    "evidence": "https://en.wikipedia.org/wiki/Shinkansen"
+   },
+   {
+    "problem": "Source: 'first country to construct railway lines dedicated to high-speed travel'.",
+    "evidence": "https://en.wikipedia.org/wiki/Shinkansen"
+   },
+   {
+    "problem": "Source never states it was the first railway line built for high-speed travel (only a cited book title says so); it says 'The first line, the Tokaido Shinkansen, opened shortly before the 1964 Tokyo Summer Olympics.'",
     "evidence": "https://en.wikipedia.org/wiki/Shinkansen"
    }
   ]

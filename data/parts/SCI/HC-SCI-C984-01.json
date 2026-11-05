@@ -1,0 +1,34 @@
+{
+ "id": "HC-SCI-C984-01",
+ "year": 984,
+ "yearEnd": null,
+ "dateLabel": "c. 984",
+ "title": "Ibn Sahl's law of refraction",
+ "system": "SCI",
+ "place": "Abbasid Caliphate",
+ "region": "West Asia",
+ "figures": [
+  "Ibn Sahl"
+ ],
+ "summary": "In an optical treatise written around 984, Ibn Sahl set out the law describing how light bends between materials.",
+ "why": "The basic law behind lenses, eyeglasses and cameras.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ibn_Sahl_(mathematician)",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "Source: Rashed reconstructed the text 'from two manuscripts (edited 1993)'; 'around 1990' is loose.",
+    "evidence": "https://en.wikipedia.org/wiki/Ibn_Sahl_(mathematician)"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Has been described as the discoverer of the law of refraction, in a treatise of about 984.",
+  "recognition": "The law is usually called Snell's law; his treatise was reconstructed from two manuscripts by Roshdi Rashed (1990, edited 1993)."
+ }
+}

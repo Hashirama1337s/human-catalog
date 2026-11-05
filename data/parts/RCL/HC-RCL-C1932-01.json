@@ -1,0 +1,25 @@
+{
+ "id": "HC-RCL-C1932-01",
+ "year": 1932,
+ "yearEnd": 1933,
+ "dateLabel": "1932-1933",
+ "title": "Holodomor: famine in Soviet Ukraine",
+ "system": "RCL",
+ "place": "Soviet Ukraine (present-day Ukraine)",
+ "region": "Europe",
+ "figures": [],
+ "summary": "A man-made famine, driven by forced collectivisation and high grain quotas, killed about 3.5 to 5 million people in Ukraine by recent estimates. Blacklisted villages had food confiscated and were cordoned off.",
+ "why": "Ukraine and 33 other UN member states call it genocide; historians debate intent and the label.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "atrocity"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Holodomor",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ }
+}

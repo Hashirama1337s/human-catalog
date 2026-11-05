@@ -1,0 +1,28 @@
+{
+ "id": "HC-SCI-C1811-01",
+ "year": 1811,
+ "yearEnd": 1847,
+ "dateLabel": "1811-1830s",
+ "title": "Ichthyosaur and plesiosaur fossils of Lyme Regis",
+ "system": "SCI",
+ "place": "Lyme Regis, England",
+ "region": "Europe",
+ "figures": [
+  "Mary Anning"
+ ],
+ "summary": "From age twelve, Anning found the first correctly identified ichthyosaur skeleton and the first two nearly complete plesiosaur skeletons on the Dorset coast.",
+ "why": "Her finds helped show that species had lived and gone extinct long ago.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Mary_Anning",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Found and prepared the first correctly identified ichthyosaur and the first near-complete plesiosaurs.",
+  "recognition": "As a woman she could not join the Geological Society and often did not receive full credit for her finds."
+ }
+}

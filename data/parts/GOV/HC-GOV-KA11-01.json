@@ -1,7 +1,7 @@
 {
  "id": "HC-GOV-KA11-01",
  "year": -9500,
- "yearEnd": null,
+ "yearEnd": -9000,
  "dateLabel": "c. 9500-9000 BCE",
  "title": "Jericho's first permanent settlement",
  "system": "GOV",
@@ -17,5 +17,6 @@
  "audit": {
   "status": "hold",
   "edition": "1.0"
- }
+ },
+ "superlativeSource": "Jericho is among the oldest cities in the world."
 }

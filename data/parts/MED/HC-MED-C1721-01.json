@@ -22,7 +22,17 @@
  "confidence": "established",
  "source": "https://en.wikipedia.org/wiki/Variolation",
  "audit": {
-  "status": "hold",
-  "edition": "1.0"
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "unsung note attached (v2.2)",
+    "evidence": "https://en.wikipedia.org/wiki/Onesimus_(Bostonian)"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Taught Cotton Mather the African practice of variolation, which Mather promoted in Boston's 1721 smallpox outbreak.",
+  "recognition": "Recognition came largely in modern times, such as Boston magazine naming him among the best Bostonians in 2016."
  }
 }

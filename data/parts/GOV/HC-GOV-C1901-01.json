@@ -10,14 +10,20 @@
  "figures": [
   "Edmund Barton"
  ],
- "summary": "On 1 January 1901 six self-governing British colonies united as the Commonwealth of Australia, with Edmund Barton as first prime minister.",
+ "summary": "On 1 January 1901 six self-governing British colonies united as the Commonwealth of Australia; Edmund Barton served as caretaker prime minister and was returned as prime minister at the March 1901 election.",
  "why": "Created the Australian nation-state.",
  "interchange": [],
  "supersedes": "",
  "confidence": "established",
  "source": "https://en.wikipedia.org/wiki/Federation_of_Australia",
  "audit": {
-  "status": "hold",
-  "edition": "2.0"
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source does not use 'first prime minister'; it says Barton 'was the caretaker Prime Minister of Australia at the inaugural national election' and 'The election returned Barton as prime minister'.",
+    "evidence": "https://en.wikipedia.org/wiki/Federation_of_Australia"
+   }
+  ]
  }
 }

@@ -12,11 +12,6 @@
  "why": "If humans did it, it was one of our species' first continent-wide impacts.",
  "interchange": [],
  "supersedes": "",
- "tags": [
-  "extinction",
-  "megafauna",
-  "climate"
- ],
  "route": null,
  "confidence": "debated",
  "source": "https://en.wikipedia.org/wiki/Quaternary_extinction_event",
@@ -24,6 +19,10 @@
   "status": "corrected",
   "edition": "2.0",
   "notes": [
+   {
+    "problem": "Source: 'most scholars support at least a contributory role of humans'; pure-climate theory overstated as an equal rival.",
+    "evidence": "https://en.wikipedia.org/wiki/Quaternary_extinction_event"
+   },
    {
     "problem": "Source: 'most scholars support at least a contributory role of humans'; pure-climate theory overstated as an equal rival.",
     "evidence": "https://en.wikipedia.org/wiki/Quaternary_extinction_event"
@@ -37,11 +36,11 @@
  "theories": [
   {
    "name": "Human hunting and impact",
-   "idea": "Extinctions follow human arrival, suggesting people drove the losses."
+   "idea": "Extinctions follow human arrival on each continent, suggesting people drove the losses."
   },
   {
    "name": "Climate change",
-   "idea": "Late Pleistocene climate shifts, not people, caused the extinctions."
+   "idea": "Late Pleistocene climate shifts were the main driver; now a minority view as the sole cause."
   }
  ]
 }

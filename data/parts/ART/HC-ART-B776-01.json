@@ -3,19 +3,25 @@
  "year": -776,
  "yearEnd": null,
  "dateLabel": "776 BCE (traditional)",
- "title": "First Olympic Games",
+ "title": "First Olympic Games, traditionally dated 776 BCE",
  "system": "ART",
  "place": "Olympia, Greece",
  "region": "Europe",
  "figures": [],
- "summary": "Greek city-states held athletic games at Olympia every four years in honour of Zeus; the four-year Olympiad became a unit of time.",
+ "summary": "Greek city-states held athletic games at Olympia every four years in honour of Zeus, traditionally from 776 BCE; the four-year Olympiad became a unit of time.",
  "why": "Ancestor of the modern Olympics and an early shared calendar for the Greek world.",
  "interchange": [],
  "supersedes": "",
  "confidence": "established",
  "source": "https://en.wikipedia.org/wiki/Ancient_Olympic_Games",
  "audit": {
-  "status": "hold",
-  "edition": "1.0"
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "776 BCE is a traditional date: source says 'traditionally dated to 776 BC' and Aristotle's date was accepted 'by most, though not all' ancient historians.",
+    "evidence": "https://en.wikipedia.org/wiki/Ancient_Olympic_Games"
+   }
+  ]
  }
 }

@@ -1,0 +1,27 @@
+{
+ "id": "HC-WAR-C1995-01",
+ "year": 1995,
+ "yearEnd": null,
+ "dateLabel": "11-22 July 1995",
+ "title": "Srebrenica genocide",
+ "system": "WAR",
+ "place": "Srebrenica, Bosnia and Herzegovina",
+ "region": "Europe",
+ "figures": [
+  "Ratko Mladić"
+ ],
+ "summary": "Bosnian Serb forces under Ratko Mladić killed more than 8,000 Bosniak men and boys in a UN 'safe area' and forcibly expelled 25,000 to 30,000 Bosniaks, mostly women and children.",
+ "why": "International courts (ICTY 2004, ICJ 2007) ruled it genocide, the first legally recognised genocide in Europe since 1945.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "atrocity"
+ ],
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Srebrenica_massacre",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "id": "HC-MED-C1847-01",
+ "year": 1847,
+ "yearEnd": null,
+ "dateLabel": "1847",
+ "title": "Handwashing cuts childbed fever deaths",
+ "system": "MED",
+ "place": "Vienna, Austria",
+ "region": "Europe",
+ "figures": [
+  "Ignaz Semmelweis"
+ ],
+ "summary": "Semmelweis had doctors wash hands in chlorinated lime solution, cutting deaths from childbed fever on wards where mortality was three times the midwives' wards.",
+ "why": "An early proof that cleanliness saves lives in hospitals.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ignaz_Semmelweis",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Showed that handwashing with chlorinated lime sharply cut deaths from childbed fever.",
+  "recognition": "His idea was largely ignored, rejected or ridiculed; it gained acceptance only years after his death."
+ }
+}

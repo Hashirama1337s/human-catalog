@@ -1,0 +1,28 @@
+{
+ "id": "HC-SCI-C1929-03",
+ "year": 1929,
+ "yearEnd": 1938,
+ "dateLabel": "1929-1938",
+ "title": "The cell surface shapes development",
+ "system": "SCI",
+ "place": "Howard University, USA, and Europe",
+ "region": "North America",
+ "figures": [
+  "Ernest Everett Just"
+ ],
+ "summary": "Biologist Ernest Everett Just showed the fundamental role of the cell surface and the layer beneath it in the development of organisms, working partly in European labs.",
+ "why": "Anticipated later work on how the cell's outer layers steer development.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ernest_Everett_Just",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Showed the fundamental role of the cell surface in the development of organisms.",
+  "recognition": "His experimental work was largely ignored; racism kept him confined to an under-funded post."
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "id": "HC-TEC-C1916-01",
+ "year": 1916,
+ "yearEnd": null,
+ "dateLabel": "1916",
+ "title": "Morgan's smoke hood used in a tunnel rescue",
+ "system": "TEC",
+ "place": "Cleveland, Ohio, USA",
+ "region": "North America",
+ "figures": [
+  "Garrett Morgan"
+ ],
+ "summary": "Inventor Garrett Morgan used his protective smoke hood to rescue workers after a 1916 tunnel explosion under Lake Erie; he later patented a three-way traffic signal.",
+ "why": "A breathing hood that let rescuers enter smoke- and gas-filled spaces.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Garrett_Morgan",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "'Pointed the way to gas masks' is unsupported by the source (a common popular claim).",
+    "evidence": "https://en.wikipedia.org/wiki/Garrett_Morgan"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Invented a protective smoke hood and used it to lead a rescue in the 1916 Cleveland tunnel disaster.",
+  "recognition": "Cleveland papers and officials initially ignored his role; he sometimes hired a white actor to front his invention."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "HC-SCI-C1924-01",
+ "year": 1924,
+ "yearEnd": null,
+ "dateLabel": "1924",
+ "title": "Bose's counting of light quanta",
+ "system": "SCI",
+ "place": "Dhaka, Bengal (now Bangladesh)",
+ "region": "South Asia",
+ "figures": [
+  "Satyendra Nath Bose"
+ ],
+ "summary": "Bose derived Planck's radiation law with a new way of counting identical particles; Einstein translated and submitted his paper.",
+ "why": "Laid the foundation of quantum statistics; the boson is named after him.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "paper"
+ ],
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Satyendra_Nath_Bose",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Founded Bose-Einstein statistics by a new method of counting indistinguishable particles.",
+  "recognition": "Seven Nobel Prizes went to research on bosons and Bose-Einstein ideas; Bose himself never received one."
+ }
+}

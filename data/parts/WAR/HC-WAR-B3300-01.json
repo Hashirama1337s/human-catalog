@@ -3,7 +3,7 @@
  "year": -3300,
  "yearEnd": null,
  "dateLabel": "c. 3300 BCE",
- "title": "Earliest swords",
+ "title": "Earliest documented swords",
  "system": "WAR",
  "place": "Arslantepe, Turkey",
  "region": "West Asia",
@@ -15,7 +15,13 @@
  "confidence": "established",
  "source": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions",
  "audit": {
-  "status": "hold",
-  "edition": "1.0"
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Title 'Earliest swords' drops the source's qualifier; source says 'The first documented swords.'",
+    "evidence": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions"
+   }
+  ]
  }
 }

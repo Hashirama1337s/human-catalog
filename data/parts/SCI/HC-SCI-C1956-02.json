@@ -1,0 +1,28 @@
+{
+ "id": "HC-SCI-C1956-02",
+ "year": 1956,
+ "yearEnd": null,
+ "dateLabel": "1956-1990s",
+ "title": "Earth-shape models behind GPS",
+ "system": "SCI",
+ "place": "Dahlgren, Virginia, USA",
+ "region": "North America",
+ "figures": [
+  "Gladys West"
+ ],
+ "summary": "At the US Navy's Dahlgren lab, Gladys West programmed and modelled the precise shape of the Earth from satellite data; her geodesy models were later built into GPS.",
+ "why": "Without an accurate Earth model, GPS would be useless for navigation.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Gladys_West",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Built mathematical models of Earth's shape from satellite data that were incorporated into GPS.",
+  "recognition": "Her role became widely known only after a sorority member read her biography; Air Force Hall of Fame in 2018."
+ }
+}

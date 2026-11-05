@@ -12,10 +12,14 @@
  "why": "Showed meat could cross the world frozen, linking New Zealand farms to British tables.",
  "interchange": [],
  "supersedes": "",
+ "tags": [
+  "seafaring"
+ ],
  "confidence": "established",
  "source": "https://en.wikipedia.org/wiki/Dunedin_(1874_ship)",
  "audit": {
   "status": "hold",
   "edition": "2.0"
- }
+ },
+ "superlativeSource": "the first ship to successfully transport a full cargo of refrigerated meat"
 }

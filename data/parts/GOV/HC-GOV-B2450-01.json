@@ -3,7 +3,7 @@
  "year": -2450,
  "yearEnd": -1450,
  "dateLabel": "c. 2450-1450 BCE",
- "title": "Kerma, first great kingdom of Kush",
+ "title": "Kerma, the kingdom Egyptians called Kush",
  "system": "GOV",
  "place": "Kerma, Sudan",
  "region": "Africa",
@@ -15,7 +15,13 @@
  "confidence": "established",
  "source": "https://en.wikipedia.org/wiki/Kingdom_of_Kush",
  "audit": {
-  "status": "hold",
-  "edition": "1.0"
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source does not call Kerma the 'first great kingdom of Kush'; it says Kerma 'emerged as the dominant political force' and Egyptians identified it as Kush.",
+    "evidence": "https://en.wikipedia.org/wiki/Kingdom_of_Kush"
+   }
+  ]
  }
 }

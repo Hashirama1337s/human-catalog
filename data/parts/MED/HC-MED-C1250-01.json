@@ -17,7 +17,17 @@
  "confidence": "established",
  "source": "https://en.wikipedia.org/wiki/Ibn_al-Nafis",
  "audit": {
-  "status": "hold",
-  "edition": "1.0"
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "unsung note attached (v2.2)",
+    "evidence": "https://en.wikipedia.org/wiki/Ibn_al-Nafis"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "First described the pulmonary circulation of the blood.",
+  "recognition": "His work remained unknown in the West until rediscovered at the start of the 20th century."
  }
 }

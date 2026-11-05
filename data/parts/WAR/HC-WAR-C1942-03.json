@@ -1,0 +1,32 @@
+{
+ "id": "HC-WAR-C1942-03",
+ "year": 1942,
+ "yearEnd": 1945,
+ "dateLabel": "1942-45",
+ "title": "Navajo Code Talkers' unbroken code",
+ "system": "WAR",
+ "place": "Pacific theatre",
+ "region": "Oceania",
+ "figures": [],
+ "summary": "Navajo Marines built and used a code based on their language to send fast, secure battlefield messages in the Pacific War.",
+ "why": "Sped up front-line communication and is credited with some decisive victories.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Code_talker",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "Source: 'are credited with some decisive victories'.",
+    "evidence": "https://en.wikipedia.org/wiki/Code_talker"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Created and transmitted coded messages in the Navajo language for the US Marines.",
+  "recognition": "They received no recognition until their operation was declassified in 1968."
+ }
+}

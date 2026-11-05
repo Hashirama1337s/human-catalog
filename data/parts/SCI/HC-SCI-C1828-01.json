@@ -1,0 +1,28 @@
+{
+ "id": "HC-SCI-C1828-01",
+ "year": 1828,
+ "yearEnd": null,
+ "dateLabel": "1828",
+ "title": "Green's essay on electricity and magnetism",
+ "system": "SCI",
+ "place": "Nottingham, England",
+ "region": "Europe",
+ "figures": [
+  "George Green"
+ ],
+ "summary": "Self-taught miller George Green published An Essay on the Application of Mathematical Analysis to the Theories of Electricity and Magnetism, introducing tools now called Green's theorem and Green's functions.",
+ "why": "His methods are used throughout physics and engineering.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/George_Green_(mathematician)",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Created mathematical methods for electricity and magnetism now known as Green's theorem and Green's functions.",
+  "recognition": "He received little recognition in his lifetime; William Thomson (Lord Kelvin) rediscovered the Essay after his death."
+ }
+}

@@ -12,21 +12,35 @@
  "why": "It records the Minoans in their own words, beside a related script, Linear B, that we can read.",
  "interchange": [],
  "supersedes": "",
- "tags": [
-  "writing",
-  "undeciphered",
-  "Minoan"
- ],
  "route": null,
  "confidence": "debated",
  "source": "https://en.wikipedia.org/wiki/Linear_A",
  "audit": {
-  "status": "hold",
-  "edition": "2.0"
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Open question had no theories (schema requires 2-4).",
+    "evidence": "https://en.wikipedia.org/wiki/Linear_A"
+   }
+  ]
  },
  "kind": "open",
  "question": "What language did the Minoans write in Linear A?",
  "evidence": "About 1,400 inscriptions (about 7,400 sign tokens), roughly half from Hagia Triada; many signs match Linear B, giving approximate but uncertain sound values.",
  "wouldSettle": "A bilingual inscription or a much larger corpus of readable Linear A texts.",
- "theories": []
+ "theories": [
+  {
+   "name": "Anatolian links",
+   "idea": "Scholars have explored parallels with Luwian and Lycian; kinship versus language contact is unresolved."
+  },
+  {
+   "name": "Semitic links",
+   "idea": "Parallels with Phoenician and Ugaritic have been explored, with the same caveat."
+  },
+  {
+   "name": "A language isolate",
+   "idea": "On current evidence, Minoan does not appear to belong to any recognised language family."
+  }
+ ]
 }

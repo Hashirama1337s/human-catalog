@@ -13,9 +13,7 @@
  "interchange": [],
  "supersedes": "",
  "tags": [
-  "collapse",
-  "Bronze Age",
-  "climate"
+  "metalworking"
  ],
  "route": null,
  "confidence": "debated",
@@ -24,6 +22,10 @@
   "status": "corrected",
   "edition": "2.0",
   "notes": [
+   {
+    "problem": "Source: 'It is likely that a combination of several factors is responsible' and names general systems collapse; record omitted both.",
+    "evidence": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse"
+   },
    {
     "problem": "Source: 'It is likely that a combination of several factors is responsible' and names general systems collapse; record omitted both.",
     "evidence": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse"
@@ -50,6 +52,10 @@
   {
    "name": "Disease and volcanic eruptions",
    "idea": "Epidemics or eruptions struck already stressed societies."
+  },
+  {
+   "name": "Systems collapse (Tainter)",
+   "idea": "Interlinked palace societies grew too complex to sustain, so shocks cascaded through the whole network."
   }
  ]
 }

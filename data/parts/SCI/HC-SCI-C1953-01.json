@@ -22,7 +22,17 @@
  "confidence": "established",
  "source": "https://en.wikipedia.org/wiki/Nucleic_acid_double_helix",
  "audit": {
-  "status": "hold",
-  "edition": "1.0"
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "unsung note attached (v2.2)",
+    "evidence": "https://en.wikipedia.org/wiki/Rosalind_Franklin"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Her X-ray work, including Photo 51 taken by her student Raymond Gosling, revealed DNA's structure.",
+  "recognition": "Wilkins showed Photo 51 to Watson without her permission; her contributions were largely unrecognised in her life."
  }
 }

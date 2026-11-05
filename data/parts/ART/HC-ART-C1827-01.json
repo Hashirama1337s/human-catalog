@@ -1,0 +1,28 @@
+{
+ "id": "HC-ART-C1827-01",
+ "year": 1827,
+ "yearEnd": null,
+ "dateLabel": "1827",
+ "title": "Fanny Mendelssohn's songs under her brother's name",
+ "system": "ART",
+ "place": "Berlin, Prussia",
+ "region": "Europe",
+ "figures": [
+  "Fanny Mendelssohn"
+ ],
+ "summary": "Fanny Mendelssohn wrote over 450 works; six of her songs appeared under her brother Felix's name in his Opus 8 and 9 collections.",
+ "why": "A major Romantic composer hidden inside her brother's catalogue.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Fanny_Mendelssohn",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Composed over 450 works, including songs, a string quartet, a piano trio and cantatas.",
+  "recognition": "Six songs were published under Felix's name; her Easter Sonata was credited to him until 2010."
+ }
+}

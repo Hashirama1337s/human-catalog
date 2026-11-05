@@ -1,0 +1,31 @@
+{
+ "id": "HC-TRN-C1761-01",
+ "year": 1761,
+ "yearEnd": null,
+ "dateLabel": "1761-62",
+ "title": "Harrison's sea watch solves longitude",
+ "system": "TRN",
+ "place": "London, England",
+ "region": "Europe",
+ "figures": [
+  "John Harrison"
+ ],
+ "summary": "Joiner and clockmaker John Harrison built marine timekeepers accurate enough to find longitude at sea; his watch was tested on a 1761-62 sea voyage.",
+ "why": "Made safe ocean navigation possible.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "seafaring"
+ ],
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/John_Harrison",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Invented the marine chronometer, solving the longitude problem.",
+  "recognition": "The Board of Longitude attributed his results to luck, and he never received the full reward."
+ }
+}

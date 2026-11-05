@@ -15,34 +15,35 @@
  "why": "Giant lines and figures cover a desert, and no one knows for sure why they were made.",
  "interchange": [],
  "supersedes": "",
- "tags": [
-  "geoglyphs",
-  "ritual",
-  "Andes"
- ],
  "route": null,
  "confidence": "debated",
  "source": "https://en.wikipedia.org/wiki/Nazca_lines",
  "audit": {
-  "status": "hold",
-  "edition": "2.0"
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Aveni rejected astronomical explanations generally, not only constellation links; third theory merged unrelated ideas.",
+    "evidence": "https://en.wikipedia.org/wiki/Nazca_lines"
+   }
+  ]
  },
  "kind": "open",
  "question": "Why did the Nazca people draw giant lines and figures across the desert?",
- "evidence": "Made roughly 500 BCE to 500 CE across Paracas and Nazca phases; some lines appear to follow aquifers; constellation links disputed by Aveni.",
+ "evidence": "Made roughly 500 BCE to 500 CE across Paracas and Nazca phases; some lines appear to follow aquifers; Hawkins and Aveni (1990) found astronomical explanations unsupported.",
  "wouldSettle": "Excavated offerings and dated activity along the lines showing how people used them.",
  "theories": [
   {
    "name": "Astronomical markers",
-   "idea": "Kosok and Reiche proposed sighting lines for solstice sunrises and sunsets."
+   "idea": "Kosok and Reiche proposed solstice sighting lines; later archaeoastronomers found the evidence insufficient."
   },
   {
    "name": "Water and fertility ritual",
-   "idea": "Reinhard linked the lines to worship of water deities; some follow underground water."
+   "idea": "Reinhard linked the lines to worship of water and mountain deities; some follow underground water."
   },
   {
-   "name": "Ceremonial pathways",
-   "idea": "Lines served as walked ritual routes, irrigation tracks and calendar sites."
+   "name": "Pilgrimage and gathering",
+   "idea": "Lines and figures served ritual gatherings that bound pilgrim groups sharing ancestors and beliefs."
   }
  ]
 }

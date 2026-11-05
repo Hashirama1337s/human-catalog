@@ -3,17 +3,20 @@
  "year": 1492,
  "yearEnd": null,
  "dateLabel": "12 October 1492",
- "title": "Columbus lands in the Bahamas: two worlds reconnect",
+ "title": "Columbus reaches the Bahamas; conquest and enslavement begin",
  "system": "MIG",
  "place": "Guanahani (likely San Salvador Island), Bahamas",
  "region": "Central & South America",
  "figures": [
   "Christopher Columbus"
  ],
- "summary": "Columbus's crews landed on an island its Lucayan people called Guanahani. The peoples of the Americas and of Europe and Africa came into lasting contact.",
- "why": "Began lasting exchange of people, crops and diseases between the hemispheres.",
+ "summary": "Columbus's crews landed on Guanahani, home of the Lucayan people. He kidnapped Taíno on his first voyage, took over 1,500 Arawaks in February 1495, and sought profit from enslaving Hispaniola's Native people.",
+ "why": "Began lasting contact, conquest and exchange of people, crops and diseases between the hemispheres.",
  "interchange": [],
  "supersedes": "",
+ "tags": [
+  "seafaring"
+ ],
  "route": [
   [
    37.2,
@@ -31,7 +34,13 @@
  "confidence": "established",
  "source": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus",
  "audit": {
-  "status": "hold",
-  "edition": "1.0"
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Title framed the arrival as a neutral reunion (\"two worlds reconnect\"); omitted that Columbus took captives and enslaved Native people.",
+    "evidence": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus"
+   }
+  ]
  }
 }

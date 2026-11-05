@@ -1,0 +1,37 @@
+{
+ "id": "HC-SCI-C1856-02",
+ "year": 1856,
+ "yearEnd": null,
+ "dateLabel": "1856",
+ "title": "Carbon dioxide traps heat",
+ "system": "SCI",
+ "place": "Albany, New York, USA",
+ "region": "North America",
+ "figures": [
+  "Eunice Newton Foote"
+ ],
+ "summary": "Foote showed that carbon dioxide and water vapour absorb heat from sunlight, and suggested more CO2 could warm the planet.",
+ "why": "The first experimental hint of the greenhouse effect of carbon dioxide.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "astronomy"
+ ],
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Eunice_Newton_Foote",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "'First identified the warming effect' overstates: source says she 'did not examine or detect the absorption ... within the thermal infrared range'; Tyndall first showed the mechanism.",
+    "evidence": "https://en.wikipedia.org/wiki/Eunice_Newton_Foote"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Showed in 1856 that CO2 and water vapour absorb heat from sunlight, and suggested more CO2 would warm the Earth.",
+  "recognition": "Her work was unknown for almost a century; John Tyndall was long recognised as first."
+ }
+}

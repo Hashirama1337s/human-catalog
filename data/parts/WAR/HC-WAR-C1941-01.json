@@ -8,14 +8,23 @@
  "place": "German-occupied Europe",
  "region": "Europe",
  "figures": [],
- "summary": "Nazi Germany and its collaborators murdered about six million Jews.",
+ "summary": "Nazi Germany and its collaborators systematically murdered about six million Jews. Concurrent Nazi persecutions killed millions of other civilians and prisoners of war, including Romani people, about 70,000 disabled Germans (Aktion T4) and about 3.3 million Soviet prisoners of war.",
  "why": "A defining crime of the 20th century.",
  "interchange": [],
  "supersedes": "",
+ "tags": [
+  "atrocity"
+ ],
  "confidence": "established",
  "source": "https://en.wikipedia.org/wiki/The_Holocaust",
  "audit": {
-  "status": "hold",
-  "edition": "1.0"
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Named only Jewish victims; the source also gives other groups murdered by Nazi Germany.",
+    "evidence": "https://en.wikipedia.org/wiki/The_Holocaust"
+   }
+  ]
  }
 }

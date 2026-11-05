@@ -1,0 +1,29 @@
+{
+ "id": "HC-TEC-C1942-02",
+ "year": 1942,
+ "yearEnd": null,
+ "dateLabel": "1942",
+ "title": "Lamarr-Antheil frequency-hopping patent",
+ "system": "TEC",
+ "place": "United States",
+ "region": "North America",
+ "figures": [
+  "Hedy Lamarr",
+  "George Antheil"
+ ],
+ "summary": "Film star Hedy Lamarr and composer George Antheil patented a radio guidance system that hopped between frequencies to resist jamming.",
+ "why": "An early milestone for spread-spectrum radio.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Hedy_Lamarr",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Co-patented a frequency-hopping radio guidance system for torpedoes during the Second World War.",
+  "recognition": "Similar technology entered service only after the patent expired; a 1997 award renewed attention to her as an inventor."
+ }
+}

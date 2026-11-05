@@ -1,0 +1,28 @@
+{
+ "id": "HC-GOV-B1479-02",
+ "year": -1479,
+ "yearEnd": -1458,
+ "dateLabel": "c. 1479-1458 BCE",
+ "title": "Hatshepsut's reign and building programme",
+ "system": "GOV",
+ "place": "Thebes, Egypt",
+ "region": "Africa",
+ "figures": [
+  "Hatshepsut"
+ ],
+ "summary": "Hatshepsut ruled Egypt as pharaoh during a period of prosperity and peace, sent a trade mission to Punt and built the temple at Deir el-Bahari.",
+ "why": "One of ancient Egypt's most prolific builders.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Hatshepsut",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Ruled as pharaoh, funded the Punt expedition and built temples including Deir el-Bahari.",
+  "recognition": "Later her statues were destroyed, monuments defaced and many of her achievements ascribed to other pharaohs."
+ }
+}

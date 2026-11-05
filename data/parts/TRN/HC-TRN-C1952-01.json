@@ -1,0 +1,28 @@
+{
+ "id": "HC-TRN-C1952-01",
+ "year": 1952,
+ "yearEnd": null,
+ "dateLabel": "from 1952",
+ "title": "Mary Golda Ross at Lockheed's Skunk Works",
+ "system": "TRN",
+ "place": "United States",
+ "region": "North America",
+ "figures": [
+  "Mary Golda Ross"
+ ],
+ "summary": "Mary Golda Ross, great-granddaughter of Cherokee Chief John Ross, was one of 40 founding engineers of the secret Skunk Works and worked on the Agena rocket.",
+ "why": "An early Native American woman engineer of the space age.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Mary_Golda_Ross",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Helped found Lockheed's Skunk Works and worked on Agena rocket design.",
+  "recognition": "Most specifics of her work are still classified; national tribute came a decade after her death, on a 2019 coin."
+ }
+}

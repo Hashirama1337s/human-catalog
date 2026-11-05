@@ -1,0 +1,31 @@
+{
+ "id": "HC-SCI-C1930-01",
+ "year": 1930,
+ "yearEnd": null,
+ "dateLabel": "1930",
+ "title": "Chandrasekhar limit: how massive a white dwarf can be",
+ "system": "SCI",
+ "place": "At sea, India to England",
+ "region": "Global",
+ "figures": [
+  "Subrahmanyan Chandrasekhar"
+ ],
+ "summary": "On his voyage from India to Cambridge in 1930, Chandrasekhar calculated the maximum mass of a white dwarf star.",
+ "why": "Key to understanding neutron stars and black holes.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "seafaring"
+ ],
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Calculated the mass limit above which a dead star cannot become a stable white dwarf.",
+  "recognition": "Arthur Eddington openly criticised the theory in 1935 and refused to accept it; the Nobel Prize came only in 1983."
+ }
+}

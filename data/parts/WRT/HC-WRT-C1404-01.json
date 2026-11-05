@@ -12,11 +12,6 @@
  "why": "A whole illustrated book on early-15th-century vellum, in an unknown script, still defeats every reader.",
  "interchange": [],
  "supersedes": "",
- "tags": [
-  "writing",
-  "undeciphered",
-  "manuscripts"
- ],
  "route": null,
  "confidence": "debated",
  "source": "https://en.wikipedia.org/wiki/Voynich_manuscript",
@@ -27,6 +22,10 @@
    {
     "problem": "Source reports both similarities and differences (h2 entropy about 2 vs 3-4 for languages); 'Renaissance Europe' overstates a stylistic 'may have been composed in Italy'.",
     "evidence": "https://en.wikipedia.org/wiki/Voynich_manuscript"
+   },
+   {
+    "problem": "Open question had no theories (schema requires 2-4).",
+    "evidence": "https://en.wikipedia.org/wiki/Voynich_manuscript"
    }
   ]
  },
@@ -34,5 +33,18 @@
  "question": "Who wrote the Voynich manuscript, and is its text a real language?",
  "evidence": "Vellum radiocarbon dated 1404–1438; word frequencies follow Zipf's law; character sequences are more predictable than typical languages.",
  "wouldSettle": "A verified decipherment yielding coherent text, or documents identifying its maker and method.",
- "theories": []
+ "theories": [
+  {
+   "name": "Cipher of a known language",
+   "idea": "Meaningful text hidden by a cipher, perhaps a verbose cipher; Bowern finds simple substitution and polyalphabetic ciphers do not fit its statistics."
+  },
+  {
+   "name": "Natural or constructed language",
+   "idea": "Its statistics resemble natural language; an encoded natural language or invented language has been proposed (Bowern)."
+  },
+  {
+   "name": "Meaningless or hoax text",
+   "idea": "It may be glossolalia, fiction or a deliberate hoax; Duffy says vellum dating rules out a post-medieval forgery."
+  }
+ ]
 }

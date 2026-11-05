@@ -1,0 +1,34 @@
+{
+ "id": "HC-SCI-C1400-01",
+ "year": 1400,
+ "yearEnd": null,
+ "dateLabel": "c. 1400",
+ "title": "Madhava's infinite series for pi",
+ "system": "SCI",
+ "place": "Kerala, India",
+ "region": "South Asia",
+ "figures": [
+  "Madhava of Sangamagrama"
+ ],
+ "summary": "Madhava, founder of the Kerala school, derived infinite series for trigonometric functions and pi, centuries before similar results in Europe.",
+ "why": "Infinite series are a foundation of calculus.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Madhava_of_Sangamagrama",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "'Little known outside Kerala' is not in the source; source only says Whish 'was the first to draw attention to their priority over Newton'.",
+    "evidence": "https://en.wikipedia.org/wiki/Madhava_of_Sangamagrama"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Derived infinite series for pi and trigonometric functions around 1400.",
+  "recognition": "A 19th-century paper by Charles Whish was the first to draw attention to the Kerala school's priority over Newton."
+ }
+}

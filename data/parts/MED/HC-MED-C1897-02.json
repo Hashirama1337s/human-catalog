@@ -1,0 +1,28 @@
+{
+ "id": "HC-MED-C1897-02",
+ "year": 1897,
+ "yearEnd": null,
+ "dateLabel": "1897",
+ "title": "Duchesne: Penicillium moulds weaken bacteria",
+ "system": "MED",
+ "place": "France",
+ "region": "Europe",
+ "figures": [
+  "Ernest Duchesne"
+ ],
+ "summary": "In his 1897 thesis, 23-year-old Ernest Duchesne reported that Penicillium moulds greatly reduced the virulence of bacterial cultures, the first study of moulds' therapeutic power.",
+ "why": "Anticipated the antibiotic era by three decades.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ernest_Duchesne",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "First studied the therapeutic potential of moulds against bacteria.",
+  "recognition": "His research went unnoticed; the Institut Pasteur did not acknowledge his thesis, and he was honoured only in 1949."
+ }
+}

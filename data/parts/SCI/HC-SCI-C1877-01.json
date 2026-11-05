@@ -1,0 +1,35 @@
+{
+ "id": "HC-SCI-C1877-01",
+ "year": 1877,
+ "yearEnd": 1919,
+ "dateLabel": "1877-1919",
+ "title": "The Harvard Computers classify the stars",
+ "system": "SCI",
+ "place": "Cambridge, Massachusetts, USA",
+ "region": "North America",
+ "figures": [],
+ "summary": "Generations of women at Harvard College Observatory measured and classified stars on photographic plates, building the star catalogues astronomy still uses.",
+ "why": "Their classifications became the standard system for stars.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "astronomy"
+ ],
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Harvard_Computers",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "Source: 'some of Pickering's female staff were astronomy graduates', not 'many'.",
+    "evidence": "https://en.wikipedia.org/wiki/Harvard_Computers"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Processed and classified hundreds of thousands of stellar spectra from photographic plates.",
+  "recognition": "Some were astronomy graduates, yet they were paid like unskilled workers, with little chance of promotion."
+ }
+}

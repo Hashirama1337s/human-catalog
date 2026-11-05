@@ -1,0 +1,28 @@
+{
+ "id": "HC-SCI-C1801-01",
+ "year": 1801,
+ "yearEnd": null,
+ "dateLabel": "1801",
+ "title": "Vanadium first discovered in Mexico",
+ "system": "SCI",
+ "place": "Mexico City, New Spain",
+ "region": "Central & South America",
+ "figures": [
+  "Andrés Manuel del Río"
+ ],
+ "summary": "Working at the College of Mines in New Spain, Andrés Manuel del Río discovered compounds of a new element in 1801 and proposed the name panchromium, later erythronium.",
+ "why": "A new element, found in Mexico three decades before Europe named it.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Manuel_del_R%C3%ADo",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Discovered the element now called vanadium.",
+  "recognition": "His discovery was not credited at the time; Nils Sefström of Sweden rediscovered and named it in 1830."
+ }
+}

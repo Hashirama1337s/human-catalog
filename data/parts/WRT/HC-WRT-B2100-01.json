@@ -13,9 +13,7 @@
  "interchange": [],
  "supersedes": "",
  "tags": [
-  "writing",
-  "undeciphered",
-  "Minoan"
+  "writing"
  ],
  "route": null,
  "confidence": "debated",
@@ -27,12 +25,16 @@
    {
     "problem": "Source dates the script to MM I-MM III (infobox); 1700 BCE end is not supported.",
     "evidence": "https://en.wikipedia.org/wiki/Cretan_hieroglyphs"
+   },
+   {
+    "problem": "Open question had no theories (schema requires 2-4); the source names no competing language proposals, only \"possibly Minoan\".",
+    "evidence": "https://en.wikipedia.org/wiki/Cretan_hieroglyphs"
    }
   ]
  },
  "kind": "open",
  "question": "What language do the Cretan hieroglyphs record?",
- "evidence": "About 150 seal documents and 120 clay documents counted by 1989, with later finds such as the Petras deposit adding more.",
+ "evidence": "About 150 seal documents and 120 clay documents counted by 1989, with later finds such as Petras adding more. The language is unknown, possibly Minoan. No proposed reading is accepted.",
  "wouldSettle": "A breakthrough on Linear A or a bilingual find linking hieroglyphic signs to a known language.",
  "theories": []
 }

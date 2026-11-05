@@ -20,7 +20,17 @@
  "confidence": "established",
  "source": "https://en.wikipedia.org/wiki/ENIAC",
  "audit": {
-  "status": "hold",
-  "edition": "1.0"
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "unsung note attached (v2.2)",
+    "evidence": "https://en.wikipedia.org/wiki/ENIAC"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Six women programmed ENIAC, the first programmable electronic general-purpose computer.",
+  "recognition": "Programming was seen as clerical; they were not publicly recognised, often getting no credit in their lifetimes."
  }
 }

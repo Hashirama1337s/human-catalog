@@ -1,0 +1,28 @@
+{
+ "id": "HC-WAR-C1781-01",
+ "year": 1781,
+ "yearEnd": null,
+ "dateLabel": "1781",
+ "title": "James Armistead's intelligence at Yorktown",
+ "system": "WAR",
+ "place": "Virginia, USA",
+ "region": "North America",
+ "figures": [
+  "James Armistead Lafayette"
+ ],
+ "summary": "Enslaved man James Armistead posed as a British courier and passed intelligence that helped American and French forces force Cornwallis to surrender.",
+ "why": "Helped decide the last major battle of the American Revolution.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/James_Armistead_Lafayette",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Spied on British forces, providing intelligence instrumental in the Yorktown surrender.",
+  "recognition": "As a spy who carried no gun, he was excluded from Virginia's law freeing slave soldiers; freed only in 1787."
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "HC-IDE-C1469-01",
+ "year": 1469,
+ "yearEnd": 1539,
+ "dateLabel": "1469 (birth month disputed) - 22 September 1539",
+ "title": "Guru Nanak founds Sikhism",
+ "system": "IDE",
+ "place": "Talwandi (present-day Nankana Sahib, Pakistan) and Kartarpur",
+ "region": "South Asia",
+ "figures": [
+  "Guru Nanak",
+  "Guru Angad"
+ ],
+ "summary": "Guru Nanak, founder of Sikhism and first of the ten Sikh gurus, taught Ik Onkar ('One God'), who dwells in all creation, and a life of honest work and equality. At Kartarpur he built a community with shared meals (langar).",
+ "why": "Founded Sikhism; he chose a disciple, Guru Angad, not his sons, as successor, starting the line of gurus.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Guru_Nanak",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "Source glosses Ik Onkar as 'One God' who dwells in every creation; 'one divine presence' paraphrase drifts.",
+    "evidence": "https://en.wikipedia.org/wiki/Guru_Nanak"
+   }
+  ]
+ }
+}

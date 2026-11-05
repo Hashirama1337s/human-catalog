@@ -1,0 +1,33 @@
+{
+ "id": "HC-RCL-C1885-01",
+ "year": 1885,
+ "yearEnd": 1908,
+ "dateLabel": "1885-1908",
+ "title": "Atrocities in the Congo Free State",
+ "system": "RCL",
+ "place": "Congo Free State (present-day Democratic Republic of the Congo)",
+ "region": "Africa",
+ "figures": [
+  "Leopold II of Belgium"
+ ],
+ "summary": "King Leopold II's privately owned state forced Congolese people to meet rubber quotas, enforced by the Force Publique with killings, hostage-taking and severed hands. Estimates of population loss range from about 1.2-1.5 million to 10 million.",
+ "why": "Forced labour, terror and disease cut populations sharply; the size of the toll and the genocide label remain heatedly debated.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "atrocity"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Congo_Free_State",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "Source's 1.2 or 1.5 million is a population decrease from demographic research (causes 'multifactorial'), not a death toll; label it population loss.",
+    "evidence": "https://en.wikipedia.org/wiki/Congo_Free_State"
+   }
+  ]
+ }
+}

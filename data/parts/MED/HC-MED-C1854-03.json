@@ -1,0 +1,31 @@
+{
+ "id": "HC-MED-C1854-03",
+ "year": 1854,
+ "yearEnd": null,
+ "dateLabel": "1854",
+ "title": "Pacini identifies the cholera bacterium",
+ "system": "MED",
+ "place": "Florence, Italy",
+ "region": "Europe",
+ "figures": [
+  "Filippo Pacini"
+ ],
+ "summary": "Italian anatomist Filippo Pacini isolated the cholera bacterium Vibrio cholerae in 1854.",
+ "why": "Identified the germ behind one of history's deadliest epidemics.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "epidemics"
+ ],
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Filippo_Pacini",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "First isolated and described the cholera bacterium, Vibrio cholerae.",
+  "recognition": "Koch was widely credited 30 years later; the formal name Vibrio cholerae Pacini 1854 honoured him only in 1965."
+ }
+}

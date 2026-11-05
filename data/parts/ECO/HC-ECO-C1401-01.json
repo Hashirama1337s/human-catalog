@@ -1,0 +1,50 @@
+{
+ "id": "HC-ECO-C1401-01",
+ "year": 1401,
+ "yearEnd": 1900,
+ "dateLabel": "start disputed: 15th to 19th century",
+ "title": "Why industry took off in Britain, not China",
+ "system": "ECO",
+ "place": "Western Europe and Asia (Qing China, Mughal India, Tokugawa Japan)",
+ "region": "Global",
+ "figures": [],
+ "summary": "Western Europe and its settler colonies came to outpace Qing China, Mughal India and Tokugawa Japan. When this 'Great Divergence' began, and why, remains disputed.",
+ "why": "It asks why the modern industrial world began where and when it did.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Great_Divergence",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "Evidence misattributes: page cites Maddison only as an external link and the 1400 claim to a 2014 study; van Zanden's point is that late-18th-century living standards in advanced Asia were COMPARABLE, the opposite of the proposal.",
+    "evidence": "https://en.wikipedia.org/wiki/Great_Divergence"
+   }
+  ]
+ },
+ "kind": "open",
+ "question": "Why did Western Europe, led by Britain, industrialise and outpace China and other advanced Asian economies?",
+ "evidence": "Broadberry finds England's silver wages three times the Yangzi Delta's by 1600; Pomeranz and the California school argue the most advanced parts of Asia were comparable until the 19th century.",
+ "wouldSettle": "Comparable long-run wage, income and output series for England and the Yangzi Delta accepted by both camps.",
+ "theories": [
+  {
+   "name": "Coal and colonies",
+   "idea": "Pomeranz: nearby coal and New World land let Britain escape land limits; critics say coal was substitutable."
+  },
+  {
+   "name": "High wages, cheap energy",
+   "idea": "Allen: high British wages made labour-saving machines pay."
+  },
+  {
+   "name": "Institutions and property rights",
+   "idea": "Europe's property and commercial law were more secure; Pomeranz counters that China's land market was freer."
+  },
+  {
+   "name": "Ideas and competing states",
+   "idea": "Mokyr's market for ideas and rivalry among fragmented states (Cox, Sng; Diamond on geography) restrained rulers."
+  }
+ ]
+}

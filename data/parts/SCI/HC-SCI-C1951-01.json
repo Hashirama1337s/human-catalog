@@ -1,0 +1,28 @@
+{
+ "id": "HC-SCI-C1951-01",
+ "year": 1951,
+ "yearEnd": null,
+ "dateLabel": "1951",
+ "title": "Lambda phage discovered",
+ "system": "SCI",
+ "place": "Madison, Wisconsin, USA",
+ "region": "North America",
+ "figures": [
+  "Esther Lederberg"
+ ],
+ "summary": "Esther Lederberg discovered the bacterial virus lambda phage and the fertility factor F, and devised the first working replica plating.",
+ "why": "Lambda phage became a workhorse of molecular biology and genetic engineering.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Esther_Lederberg",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Discovered lambda phage and the F factor, and built the first practical replica plating method.",
+  "recognition": "Struggled for recognition beside her Nobel-winning husband; textbooks often attribute her accomplishments to him."
+ }
+}

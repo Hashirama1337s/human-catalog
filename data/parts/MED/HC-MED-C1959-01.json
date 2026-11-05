@@ -1,0 +1,31 @@
+{
+ "id": "HC-MED-C1959-01",
+ "year": 1959,
+ "yearEnd": null,
+ "dateLabel": "1959",
+ "title": "Cholera toxin discovered",
+ "system": "MED",
+ "place": "India",
+ "region": "South Asia",
+ "figures": [
+  "Sambhu Nath De"
+ ],
+ "summary": "Indian scientist Sambhu Nath De discovered cholera toxin in bacteria-free culture filtrate of Vibrio cholerae, and built an animal model of the disease.",
+ "why": "Explained how cholera kills, the basis of later treatment and vaccine work.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "epidemics"
+ ],
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Sambhu_Nath_De",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Discovered the cholera toxin and an animal model for cholera.",
+  "recognition": "His key paper was initially unrecognised; his work might have stayed unknown, even in India, without a 1986 tribute."
+ }
+}

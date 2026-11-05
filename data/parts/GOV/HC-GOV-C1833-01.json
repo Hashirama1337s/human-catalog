@@ -2,20 +2,26 @@
  "id": "HC-GOV-C1833-01",
  "year": 1833,
  "yearEnd": null,
- "dateLabel": "1833",
+ "dateLabel": "1833 (in force 1 August 1834)",
  "title": "Slavery Abolition Act",
  "system": "GOV",
  "place": "London, England",
  "region": "Europe",
  "figures": [],
- "summary": "Britain's Parliament abolished slavery in most of the British Empire.",
- "why": "Freed hundreds of thousands of enslaved people across the empire.",
+ "summary": "Britain's Parliament abolished slavery in most of the British Empire from 1 August 1834. About 800,000 people were freed, but most were bound as 'apprentices' until 1838-1840; East India Company territories, Ceylon and St Helena were excluded.",
+ "why": "Slave-owners, not the enslaved, were paid £20 million in compensation, about 40% of the Treasury's annual income in 1833.",
  "interchange": [],
  "supersedes": "",
  "confidence": "established",
  "source": "https://en.wikipedia.org/wiki/Slavery_Abolition_Act_1833",
  "audit": {
-  "status": "hold",
-  "edition": "1.0"
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Presented abolition as a straightforward liberation; omitted compensation to slave-owners (not the enslaved), forced apprenticeship and excluded territories.",
+    "evidence": "https://en.wikipedia.org/wiki/Slavery_Abolition_Act_1833"
+   }
+  ]
  }
 }

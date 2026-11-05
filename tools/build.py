@@ -29,5 +29,9 @@ with open(os.path.join(out, "index.html"), "w", encoding="utf8") as fh:
 with open(os.path.join(out, "human-catalog.json"), "w", encoding="utf8") as fh:
     json.dump(parts, fh, ensure_ascii=False, indent=1)
 shutil.copytree(os.path.join(ROOT, "site", "fonts"), os.path.join(out, "fonts"), dirs_exist_ok=True)
+for name in ("people.json", "figure-qids.json", "people-stats.json"):
+    src = os.path.join(ROOT, "data", "people", name)
+    if os.path.exists(src):
+        shutil.copy(src, os.path.join(out, name))
 outside = sum(p["region"] != "Europe" for p in parts) / max(len(parts), 1)
 print(f"built {len(parts)} parts, {outside:.0%} outside Europe, page {len(page) // 1024} KB -> {out}")

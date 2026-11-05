@@ -1,0 +1,28 @@
+{
+ "id": "HC-ART-C1629-01",
+ "year": 1629,
+ "yearEnd": null,
+ "dateLabel": "1629-1630s",
+ "title": "Judith Leyster's paintings",
+ "system": "ART",
+ "place": "Haarlem, Dutch Republic",
+ "region": "Europe",
+ "figures": [
+  "Judith Leyster"
+ ],
+ "summary": "Dutch Golden Age painter Judith Leyster ran her own workshop and painted genre scenes, portraits and still lifes; her first known signed works date from 1629.",
+ "why": "A leading painter whose whole body of work was nearly lost under other names.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Judith_Leyster",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Painted acclaimed genre scenes and portraits as an independent master.",
+  "recognition": "Largely forgotten after her death, her work was attributed to Frans Hals or her husband until her 1893 rediscovery."
+ }
+}

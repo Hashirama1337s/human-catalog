@@ -2,7 +2,7 @@
  "id": "HC-GOV-C1947-01",
  "year": 1947,
  "yearEnd": null,
- "dateLabel": "1947",
+ "dateLabel": "14-15 August 1947",
  "title": "Independence and Partition of India",
  "system": "GOV",
  "place": "India and Pakistan",
@@ -11,14 +11,23 @@
   "Jawaharlal Nehru",
   "Muhammad Ali Jinnah"
  ],
- "summary": "British rule ended and India and Pakistan became independent; partition caused mass migration and violence.",
- "why": "Displaced 12 to 20 million people and created two new nations.",
+ "summary": "British rule ended and India and Pakistan became independent at midnight on 14-15 August 1947. Partition displaced 12 to 20 million people along religious lines; estimates of deaths in the violence range from 200,000 to two million.",
+ "why": "Created two new nations at the cost of mass displacement and killing.",
  "interchange": [],
  "supersedes": "",
+ "tags": [
+  "atrocity"
+ ],
  "confidence": "established",
  "source": "https://en.wikipedia.org/wiki/Partition_of_India",
  "audit": {
-  "status": "hold",
-  "edition": "1.0"
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Gave displacement but no deaths; source gives 200,000 to two million (estimates as of 2009).",
+    "evidence": "https://en.wikipedia.org/wiki/Partition_of_India"
+   }
+  ]
  }
 }

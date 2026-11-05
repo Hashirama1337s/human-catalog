@@ -1,0 +1,24 @@
+{
+ "id": "HC-IDE-C1377-01",
+ "year": 1377,
+ "yearEnd": null,
+ "dateLabel": "1377 (first draft)",
+ "title": "Ibn Khaldun's Muqaddimah",
+ "system": "IDE",
+ "place": "Qal'at Ibn Salama (present-day western Algeria)",
+ "region": "Africa",
+ "figures": [
+  "Ibn Khaldun"
+ ],
+ "summary": "Ibn Khaldun drafted the Muqaddimah, the introduction to his universal history. It argues that group solidarity (asabiyyah) drives political power, so dynasties rise and fall in cycles, and that historians must correct for bias.",
+ "why": "Some modern thinkers see it as a founding work of sociology and the philosophy of history.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Muqaddimah",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "id": "HC-MED-C1944-01",
+ "year": 1944,
+ "yearEnd": null,
+ "dateLabel": "1944",
+ "title": "Blue baby operation (Blalock-Thomas-Taussig shunt)",
+ "system": "MED",
+ "place": "Baltimore, Maryland, USA",
+ "region": "North America",
+ "figures": [
+  "Vivien Thomas"
+ ],
+ "summary": "Lab supervisor Vivien Thomas developed and taught the surgical technique for the first blue baby operation, first performed in November 1944.",
+ "why": "Opened the era of heart surgery on children.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Vivien_Thomas",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "'Unacknowledged until 1976' is too strong: source records a 1969 portrait and a 1971 ceremony honouring him first.",
+    "evidence": "https://en.wikipedia.org/wiki/Vivien_Thomas"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Developed the surgical technique for the shunt that treated blue baby syndrome, and taught it to surgeons.",
+  "recognition": "The 1945 paper credited Blalock and Taussig and did not mention him; Johns Hopkins gave him an honorary doctorate in 1976."
+ }
+}

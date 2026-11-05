@@ -14,10 +14,14 @@
  "why": "A rare well-documented woman scholar of the ancient world.",
  "interchange": [],
  "supersedes": "",
+ "tags": [
+  "astronomy"
+ ],
  "confidence": "established",
  "source": "https://en.wikipedia.org/wiki/Hypatia",
  "audit": {
   "status": "hold",
   "edition": "2.0"
- }
+ },
+ "superlativeSource": "the first female mathematician whose life is reasonably well recorded"
 }

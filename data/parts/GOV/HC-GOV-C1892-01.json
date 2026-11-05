@@ -1,0 +1,34 @@
+{
+ "id": "HC-GOV-C1892-01",
+ "year": 1892,
+ "yearEnd": null,
+ "dateLabel": "1892",
+ "title": "Ida B. Wells documents lynching",
+ "system": "GOV",
+ "place": "Memphis and New York, USA",
+ "region": "North America",
+ "figures": [
+  "Ida B. Wells"
+ ],
+ "summary": "Journalist Ida B. Wells documented lynching in pamphlets such as Southern Horrors and The Red Record, showing it was used to terrorise Black Americans.",
+ "why": "Pioneering reporting that paired lynching statistics with case accounts.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ida_B._Wells",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "'Founded data-driven reporting on racial violence' is not in the source; source says she paired data with descriptive accounts.",
+    "evidence": "https://en.wikipedia.org/wiki/Ida_B._Wells"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Documented and analysed lynching in the United States through investigative reporting.",
+  "recognition": "She was honoured with a Pulitzer Prize special citation only posthumously, in 2020."
+ }
+}

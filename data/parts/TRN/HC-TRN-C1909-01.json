@@ -1,0 +1,32 @@
+{
+ "id": "HC-TRN-C1909-01",
+ "year": 1909,
+ "yearEnd": null,
+ "dateLabel": "1908-09",
+ "title": "Matthew Henson on the North Pole expedition",
+ "system": "TRN",
+ "place": "Arctic Ocean",
+ "region": "North America",
+ "figures": [
+  "Matthew Henson",
+  "Robert Peary"
+ ],
+ "summary": "Henson accompanied Robert Peary on seven Arctic voyages over 23 years, including the 1908-09 expedition that claimed to reach the North Pole.",
+ "why": "A key member of one of the famous polar expeditions.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "seafaring"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Matthew_Henson",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Served as a key member of Peary's Arctic expeditions, including the 1909 North Pole attempt.",
+  "recognition": "Peary received many honours while Henson's contributions were largely ignored; he was re-interred at Arlington only in 1988."
+ }
+}

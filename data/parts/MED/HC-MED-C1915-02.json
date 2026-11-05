@@ -1,0 +1,28 @@
+{
+ "id": "HC-MED-C1915-02",
+ "year": 1915,
+ "yearEnd": null,
+ "dateLabel": "1915",
+ "title": "Bacteriophages discovered",
+ "system": "MED",
+ "place": "London, England",
+ "region": "Europe",
+ "figures": [
+  "Frederick Twort"
+ ],
+ "summary": "Frederick Twort was the original discoverer, in 1915, of bacteriophages: viruses that infect bacteria.",
+ "why": "Phages later became central to molecular biology and phage therapy.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Frederick_Twort",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "First discovered bacteriophages, viruses that infect bacteria.",
+  "recognition": "His discovery was ignored; Felix d'Herelle found phages independently, and Twort's paper was rescued only by later rediscovery."
+ }
+}

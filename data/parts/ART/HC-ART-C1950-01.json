@@ -1,0 +1,31 @@
+{
+ "id": "HC-ART-C1950-01",
+ "year": 1950,
+ "yearEnd": 1990,
+ "dateLabel": "1950s-1990s",
+ "title": "Vivian Maier's street photographs",
+ "system": "ART",
+ "place": "Chicago and New York, USA",
+ "region": "North America",
+ "figures": [
+  "Vivian Maier"
+ ],
+ "summary": "Working as a nanny, Vivian Maier took more than 150,000 photographs of street life, most never printed in her lifetime.",
+ "why": "A major body of 20th-century street photography.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "printing"
+ ],
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Vivian_Maier",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Took over 150,000 street photographs, chiefly of Chicago and New York.",
+  "recognition": "Her photographs were unknown and unpublished in her lifetime; they surfaced at a 2007 storage auction and were recognised after her death."
+ }
+}

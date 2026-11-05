@@ -18,12 +18,20 @@
  "source": "https://en.wikipedia.org/wiki/Penicillin",
  "audit": {
   "status": "corrected",
-  "edition": "1.0",
+  "edition": "2.0",
   "notes": [
    {
     "problem": "'The first antibiotic' overclaims; source: penicillins 'were among the first medications to be effective against many bacterial infections'.",
     "evidence": "https://en.wikipedia.org/wiki/Penicillin"
+   },
+   {
+    "problem": "unsung note attached (v2.2)",
+    "evidence": "https://en.wikipedia.org/wiki/Norman_Heatley"
    }
   ]
+ },
+ "unsung": {
+  "contribution": "Devised the back-extraction purification and vessels that made Oxford's first penicillin production possible in 1940.",
+  "recognition": "Left out of the 1945 Nobel; his contribution was not fully recognised for 45 years."
  }
 }

@@ -1,0 +1,28 @@
+{
+ "id": "HC-SCI-C1934-01",
+ "year": 1934,
+ "yearEnd": null,
+ "dateLabel": "1934",
+ "title": "Ida Noddack proposes nuclei can split",
+ "system": "SCI",
+ "place": "Germany",
+ "region": "Europe",
+ "figures": [
+  "Ida Noddack"
+ ],
+ "summary": "Chemist Ida Noddack was the first to suggest that bombarded uranium nuclei might break into large fragments, the idea later named fission.",
+ "why": "Anticipated nuclear fission by four years.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ida_Noddack",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "First proposed the idea later named nuclear fission.",
+  "recognition": "With no experimental proof offered, her paper was generally ignored and mocked."
+ }
+}

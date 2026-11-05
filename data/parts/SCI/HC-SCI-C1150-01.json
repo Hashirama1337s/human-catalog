@@ -1,0 +1,29 @@
+{
+ "id": "HC-SCI-C1150-01",
+ "year": 1150,
+ "yearEnd": null,
+ "dateLabel": "12th century",
+ "title": "Chakravala method solves 'Pell's equation'",
+ "system": "SCI",
+ "place": "India",
+ "region": "South Asia",
+ "figures": [
+  "Bhaskara II",
+  "Brahmagupta"
+ ],
+ "summary": "Building on Brahmagupta and Jayadeva, Bhaskara II gave the chakravala method, a general way to solve the equation x^2 - n y^2 = 1.",
+ "why": "A landmark of number theory, solved in India centuries before Europe.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Pell's_equation",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Gave a general method (chakravala) for solving the equation later called Pell's equation.",
+  "recognition": "The equation is named after John Pell because Euler mistakenly attributed Brouncker's solution to him."
+ }
+}

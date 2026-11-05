@@ -17,7 +17,17 @@
  "confidence": "established",
  "source": "https://en.wikipedia.org/wiki/Tu_Youyou",
  "audit": {
-  "status": "hold",
-  "edition": "1.0"
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "unsung note attached (v2.2)",
+    "evidence": "https://en.wikipedia.org/wiki/Tu_Youyou"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Led the Project 523 group that obtained pure artemisinin in 1972.",
+  "recognition": "The secret, collective project hid individual credit; international honours came decades later (Lasker 2011, Nobel 2015)."
  }
 }

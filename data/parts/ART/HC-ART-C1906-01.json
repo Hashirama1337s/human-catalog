@@ -1,0 +1,34 @@
+{
+ "id": "HC-ART-C1906-01",
+ "year": 1906,
+ "yearEnd": 1915,
+ "dateLabel": "1906-1915",
+ "title": "Hilma af Klint's abstract paintings",
+ "system": "ART",
+ "place": "Stockholm, Sweden",
+ "region": "Europe",
+ "figures": [
+  "Hilma af Klint"
+ ],
+ "summary": "In 1906 Swedish artist Hilma af Klint painted her first series of abstract works, part of a large cycle completed by 1915.",
+ "why": "Among the first major abstract works in Western art.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Hilma_af_Klint",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "'Only shown posthumously' is contradicted: source records a 1928 London exhibition of her abstract works; 'believing the world was not ready' not in source.",
+    "evidence": "https://en.wikipedia.org/wiki/Hilma_af_Klint"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Painted large abstract works that predate the first purely abstract compositions of Kandinsky, Malevich and Mondrian.",
+  "recognition": "She exhibited the abstract works only a handful of times and directed that they remain unseen until twenty years after her death."
+ }
+}

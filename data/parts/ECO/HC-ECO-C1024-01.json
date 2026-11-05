@@ -3,7 +3,7 @@
  "year": 1024,
  "yearEnd": null,
  "dateLabel": "1024 CE (first state notes)",
- "title": "Jiaozi: first government paper money",
+ "title": "Jiaozi: Song state issues standard paper notes",
  "system": "ECO",
  "place": "Chengdu, Sichuan, China",
  "region": "East Asia",
@@ -13,7 +13,6 @@
  "interchange": [],
  "supersedes": "",
  "tags": [
-  "money",
   "paper"
  ],
  "confidence": "established",
@@ -24,6 +23,10 @@
   "notes": [
    {
     "problem": "Source attributes the claim to numismatists (tagged [who?]); state it as an attribution.",
+    "evidence": "https://en.wikipedia.org/wiki/Jiaozi_(currency)"
+   },
+   {
+    "problem": "Source only says numismatists{who?} 'regard it as the first paper money' (short description: 'One of the first forms of paper money'); it does not call the 1024 issue the first government paper money.",
     "evidence": "https://en.wikipedia.org/wiki/Jiaozi_(currency)"
    }
   ]

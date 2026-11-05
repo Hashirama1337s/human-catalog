@@ -1,0 +1,28 @@
+{
+ "id": "HC-TRN-C1880-01",
+ "year": 1880,
+ "yearEnd": 1884,
+ "dateLabel": "1880-84",
+ "title": "Kintup's marked logs test the Tsangpo river",
+ "system": "TRN",
+ "place": "Tibet",
+ "region": "East Asia",
+ "figures": [
+  "Kintup"
+ ],
+ "summary": "Sikkimese explorer Kintup spent years surveying the unknown Tsangpo gorge and released marked logs to test whether the Tsangpo becomes the Brahmaputra.",
+ "why": "Helped solve where Tibet's great river flows.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Kintup",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Surveyed a previously unknown part of Tibet to show where the Tsangpo river went.",
+  "recognition": "His accomplishment was not acknowledged until 1913."
+ }
+}

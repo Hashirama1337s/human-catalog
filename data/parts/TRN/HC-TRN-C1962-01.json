@@ -1,0 +1,32 @@
+{
+ "id": "HC-TRN-C1962-01",
+ "year": 1962,
+ "yearEnd": null,
+ "dateLabel": "1962",
+ "title": "Orbit maths for the first US orbital flight",
+ "system": "TRN",
+ "place": "Hampton, Virginia, USA",
+ "region": "North America",
+ "figures": [
+  "Katherine Johnson"
+ ],
+ "summary": "Johnson calculated trajectories, launch windows and emergency return paths for Mercury flights, including John Glenn's first US orbit.",
+ "why": "Her numbers helped carry the first Americans into orbit and home.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "astronomy",
+  "flight"
+ ],
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Katherine_Johnson",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Calculated trajectories and return paths for Project Mercury flights, including John Glenn's orbit.",
+  "recognition": "Wide public honour came decades later: the Presidential Medal of Freedom in 2015 and the 2016 film Hidden Figures."
+ }
+}

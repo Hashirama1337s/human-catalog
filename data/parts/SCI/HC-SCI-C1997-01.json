@@ -3,7 +3,7 @@
  "year": 1997,
  "yearEnd": null,
  "dateLabel": "1997",
- "title": "First Neanderthal DNA read",
+ "title": "Neanderthal mitochondrial DNA sequenced",
  "system": "SCI",
  "place": "Germany (Feldhofer Neanderthal specimen)",
  "region": "Europe",
@@ -25,6 +25,10 @@
   "notes": [
    {
     "problem": "'Differed from the mtDNA of all living humans' is not in the cited page; 'start of a new science' contradicts HC-SCI-C1984-01 (aDNA began 1984).",
+    "evidence": "https://en.wikipedia.org/wiki/Svante_P%C3%A4%C3%A4bo"
+   },
+   {
+    "problem": "Cited source says only that in 1997 Paabo's team 'reported their successful sequencing of Neanderthal mitochondrial DNA'; it never says 'first'. Keep 'first' only if re-sourced (e.g. the Krings et al. 1997 paper).",
     "evidence": "https://en.wikipedia.org/wiki/Svante_P%C3%A4%C3%A4bo"
    }
   ]

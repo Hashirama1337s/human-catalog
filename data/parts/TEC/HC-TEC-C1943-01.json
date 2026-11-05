@@ -1,0 +1,28 @@
+{
+ "id": "HC-TEC-C1943-01",
+ "year": 1943,
+ "yearEnd": null,
+ "dateLabel": "1943-44",
+ "title": "Colossus: first programmable electronic computer",
+ "system": "TEC",
+ "place": "Dollis Hill and Bletchley Park, England",
+ "region": "Europe",
+ "figures": [
+  "Tommy Flowers"
+ ],
+ "summary": "Post Office engineer Tommy Flowers designed and built Colossus, which ran in late 1943 and from early 1944 helped break the German Lorenz cipher at Bletchley Park.",
+ "why": "The world's first programmable electronic computer, built for wartime codebreaking.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Tommy_Flowers",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Designed and built Colossus, the first programmable electronic computer.",
+  "recognition": "Kept secret after the war, he received little recognition; his computing work was fully acknowledged only in the 1970s."
+ }
+}

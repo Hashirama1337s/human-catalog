@@ -8,7 +8,7 @@
  "place": "L'Anse aux Meadows, Newfoundland, Canada",
  "region": "North America",
  "figures": [],
- "summary": "Wood from the Norse site at L'Anse aux Meadows was dated to 1021 using a known spike in radiocarbon from the year 993. It is the only confirmed Norse site in the Americas outside Greenland.",
+ "summary": "Wood from the Norse site at L'Anse aux Meadows was dated to 1021 using a known spike in radiocarbon from the year 993. It is the only confirmed Norse site in North America outside Greenland.",
  "why": "The earliest exact year for Europeans in the Americas outside Greenland, 471 years before Columbus.",
  "interchange": [],
  "supersedes": "",
@@ -34,6 +34,18 @@
   "notes": [
    {
     "problem": "'Exactly 1021' overstates (source: 'pinpointed 1021 as a date of Norse activity'); 'first secure date for Europeans in the Americas' ignores Norse Greenland, which the summary itself excludes.",
+    "evidence": "https://en.wikipedia.org/wiki/L%27Anse_aux_Meadows"
+   },
+   {
+    "problem": "Source scope is 'the only confirmed Norse site in North America outside Greenland', not 'the Americas'.",
+    "evidence": "https://en.wikipedia.org/wiki/L%27Anse_aux_Meadows"
+   },
+   {
+    "problem": "'Exactly 1021' overstates (source: 'pinpointed 1021 as a date of Norse activity'); 'first secure date for Europeans in the Americas' ignores Norse Greenland, which the summary itself excludes.",
+    "evidence": "https://en.wikipedia.org/wiki/L%27Anse_aux_Meadows"
+   },
+   {
+    "problem": "Source scope is 'the only confirmed Norse site in North America outside Greenland', not 'the Americas'.",
     "evidence": "https://en.wikipedia.org/wiki/L%27Anse_aux_Meadows"
    }
   ]

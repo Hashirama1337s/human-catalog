@@ -1,0 +1,34 @@
+{
+ "id": "HC-SCI-C1949-02",
+ "year": 1949,
+ "yearEnd": null,
+ "dateLabel": "1949",
+ "title": "Dorothy Vaughan leads the West Area Computers",
+ "system": "SCI",
+ "place": "Hampton, Virginia, USA",
+ "region": "North America",
+ "figures": [
+  "Dorothy Vaughan"
+ ],
+ "summary": "In 1949 Vaughan became acting head of Langley's segregated West Area Computers, later NACA's first Black supervisor, and taught herself and her staff Fortran ahead of electronic computers.",
+ "why": "Kept a segregated team at the front of aerospace computing.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Dorothy_Vaughan",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "Source: acting head from 1949, 'served for years in an acting role'; 'first Black supervisor at NACA', not 'first African-American woman supervisor at Langley' in 1949.",
+    "evidence": "https://en.wikipedia.org/wiki/Dorothy_Vaughan"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Led NACA's segregated West Area Computers and retrained her staff in Fortran programming.",
+  "recognition": "She was honoured with the Congressional Gold Medal only posthumously, in 2019."
+ }
+}

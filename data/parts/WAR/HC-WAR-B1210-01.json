@@ -14,21 +14,39 @@
  "why": "They are bound up with the collapse of the Bronze Age world.",
  "interchange": [],
  "supersedes": "",
- "tags": [
-  "migration",
-  "Bronze Age",
-  "Egypt"
- ],
  "route": null,
  "confidence": "debated",
  "source": "https://en.wikipedia.org/wiki/Sea_Peoples",
  "audit": {
-  "status": "hold",
-  "edition": "2.0"
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Open question had no theories (schema requires 2-4).",
+    "evidence": "https://en.wikipedia.org/wiki/Sea_Peoples"
+   }
+  ]
  },
  "kind": "open",
  "question": "Who were the Sea Peoples who attacked Egypt, and where did they come from?",
  "evidence": "Recorded by Ramesses II, Merneptah (c. 1200 BCE) and Ramesses III at Medinet Habu (Year 8, c. 1175 BCE); 'Sea Peoples' is a modern label.",
  "wouldSettle": "Archaeological and genetic links between destruction layers, new settlers and named groups' homelands.",
- "theories": []
+ "theories": [
+  {
+   "name": "Aegean origins",
+   "idea": "The Peleset (Philistines) are generally placed in the Aegean world; Ekwesh and Denyen are tentatively linked to Achaeans and Danaans."
+  },
+  {
+   "name": "Western Mediterranean links",
+   "idea": "Some archaeologists tie the Sherden to Sardinia's Nuragic culture and the Shekelesh to Sicily, on sparse evidence."
+  },
+  {
+   "name": "Anatolian homelands",
+   "idea": "The Lukka lands lay in later Lycia and Karkiya in western Anatolia; both groups appear in Hittite records."
+  },
+  {
+   "name": "Refugees, not destroyers",
+   "idea": "Older work made them a cause of the Bronze Age collapse; recent work sees refugees fleeing a crisis already under way."
+  }
+ ]
 }

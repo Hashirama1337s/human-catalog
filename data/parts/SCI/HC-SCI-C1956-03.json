@@ -1,0 +1,31 @@
+{
+ "id": "HC-SCI-C1956-03",
+ "year": 1956,
+ "yearEnd": null,
+ "dateLabel": "1956",
+ "title": "Earth's age measured, and lead pollution exposed",
+ "system": "SCI",
+ "place": "United States",
+ "region": "North America",
+ "figures": [
+  "Clair Cameron Patterson"
+ ],
+ "summary": "Clair Patterson's 1956 paper gave the age of the solar system as about 4.55 billion years; his work on lead then exposed widespread lead contamination.",
+ "why": "Fixed the age of the Earth and led to the removal of lead from petrol.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "paper"
+ ],
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Clair_Cameron_Patterson",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Measured Earth's age at 4.55 billion years and campaigned to remove lead from fuel and food cans.",
+  "recognition": "Opposed by industry experts, he was refused research contracts and left off a 1971 lead panel despite being the foremost expert."
+ }
+}

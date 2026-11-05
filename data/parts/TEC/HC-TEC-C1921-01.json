@@ -1,0 +1,34 @@
+{
+ "id": "HC-TEC-C1921-01",
+ "year": 1921,
+ "yearEnd": null,
+ "dateLabel": "1921",
+ "title": "Clarke calculator for power lines",
+ "system": "TEC",
+ "place": "United States",
+ "region": "North America",
+ "figures": [
+  "Edith Clarke"
+ ],
+ "summary": "Edith Clarke invented a graphical calculator for electric power system calculations, filed for patent in 1921 and granted in 1925.",
+ "why": "Sped up the design of electric power grids.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Edith_Clarke",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "Source: 'Unable to find work as an engineer' (general), then joined GE; not refused an engineering post by GE specifically.",
+    "evidence": "https://en.wikipedia.org/wiki/Edith_Clarke"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Invented the Clarke calculator and pioneered analysis of electric power systems.",
+  "recognition": "Unable to find work as an engineer, she joined General Electric supervising computers, paid less than men doing engineering work."
+ }
+}

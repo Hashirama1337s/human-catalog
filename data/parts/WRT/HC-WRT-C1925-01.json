@@ -1,0 +1,28 @@
+{
+ "id": "HC-WRT-C1925-01",
+ "year": 1925,
+ "yearEnd": null,
+ "dateLabel": "1925",
+ "title": "Legendary Tales of the Australian Aborigines",
+ "system": "WRT",
+ "place": "South Australia",
+ "region": "Oceania",
+ "figures": [
+  "David Unaipon"
+ ],
+ "summary": "Ngarrindjeri author and inventor David Unaipon wrote a book-length manuscript of Aboriginal legends in 1925.",
+ "why": "Among the first books of Aboriginal stories written by an Aboriginal author.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/David_Unaipon",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Wrote a book-length collection of Aboriginal legendary tales.",
+  "recognition": "It was published in 1930 under anthropologist William Ramsay Smith's name; only in 2001 did it appear under Unaipon's."
+ }
+}

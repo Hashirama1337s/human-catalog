@@ -12,11 +12,6 @@
  "why": "It is the ancestor of languages from Ireland to India.",
  "interchange": [],
  "supersedes": "",
- "tags": [
-  "languages",
-  "Indo-European",
-  "migration"
- ],
  "route": null,
  "confidence": "debated",
  "source": "https://en.wikipedia.org/wiki/Proto-Indo-European_homeland",
@@ -27,21 +22,25 @@
    {
     "problem": "Steppe homeland for late PIE is near-consensus; open part is archaic PIE. 'Near the Caucasus' conflated the north-Caucasus steppe proposal with the south-Caucasus Armenian hypothesis.",
     "evidence": "https://en.wikipedia.org/wiki/Proto-Indo-European_homeland"
+   },
+   {
+    "problem": "Steppe homeland for late PIE is near-consensus; open part is archaic PIE. 'Near the Caucasus' conflated the north-Caucasus steppe proposal with the south-Caucasus Armenian hypothesis.",
+    "evidence": "https://en.wikipedia.org/wiki/Proto-Indo-European_homeland"
    }
   ]
  },
  "kind": "open",
- "question": "Where and when was the ancestor of the Indo-European languages first spoken?",
+ "question": "Where was the earliest, archaic stage of Proto-Indo-European spoken: on the steppe or south of the Caucasus?",
  "evidence": "Steppe origin dated about 4000–3000 BCE; newer proposals put archaic PIE between the Caucasus and lower Volga about 4400–4000 BCE.",
  "wouldSettle": "Ancient genomes and archaeology tracing a single population to the earliest Anatolian and steppe language splits.",
  "theories": [
   {
    "name": "Pontic–Caspian steppe",
-   "idea": "PIE spread from the steppe north of the Black and Caspian Seas about 4000–3000 BCE."
+   "idea": "All PIE stages arose on the steppe; Lazaridis and Anthony put archaic PIE between Caucasus and lower Volga, 4400–4000 BCE."
   },
   {
-   "name": "Caucasus / Near Eastern origin",
-   "idea": "An earlier stage lay south of or near the Caucasus before reaching the steppe."
+   "name": "South of the Caucasus (Armenian)",
+   "idea": "Archaic PIE was spoken south of the Caucasus before a branch moved onto the steppe."
   }
  ]
 }

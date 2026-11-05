@@ -1,0 +1,28 @@
+{
+ "id": "HC-SCI-C1830-01",
+ "year": 1830,
+ "yearEnd": 1832,
+ "dateLabel": "1830-32",
+ "title": "Galois's theory of solvable equations",
+ "system": "SCI",
+ "place": "Paris, France",
+ "region": "Europe",
+ "figures": [
+  "Évariste Galois"
+ ],
+ "summary": "While still a teenager, Galois found a necessary and sufficient condition for a polynomial equation to be solvable by radicals, founding Galois theory.",
+ "why": "Founded group theory and modern algebra.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/%C3%89variste_Galois",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Founded Galois theory, explaining when polynomial equations can be solved by radicals.",
+  "recognition": "A memoir sent to the Academy was lost; he died at 20 and Liouville acknowledged his work's value only in 1843."
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "id": "HC-SCI-C1050-01",
+ "year": 1050,
+ "yearEnd": null,
+ "dateLabel": "11th century",
+ "title": "Jia Xian's triangle of binomial numbers",
+ "system": "SCI",
+ "place": "Song China",
+ "region": "East Asia",
+ "figures": [
+  "Jia Xian",
+  "Yang Hui"
+ ],
+ "summary": "Chinese mathematician Jia Xian used the triangular array of binomial coefficients in the 11th century; Yang Hui defined it in the 13th. Indian and Persian scholars knew it too.",
+ "why": "A basic tool of algebra, combinatorics and probability.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Pascal's_triangle",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Used and described the triangle of binomial coefficients centuries before Blaise Pascal.",
+  "recognition": "In much of the West it is named after Pascal, though mathematicians in India, Persia and China studied it centuries earlier."
+ }
+}

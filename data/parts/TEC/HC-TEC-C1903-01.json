@@ -1,0 +1,28 @@
+{
+ "id": "HC-TEC-C1903-01",
+ "year": 1903,
+ "yearEnd": null,
+ "dateLabel": "1903",
+ "title": "First working windshield wiper patented",
+ "system": "TEC",
+ "place": "Birmingham, Alabama, USA",
+ "region": "North America",
+ "figures": [
+  "Mary Anderson"
+ ],
+ "summary": "Mary Anderson patented a hand-operated blade device to clear snow, ice and sleet from the windshields of electric cars and other vehicles.",
+ "why": "The blueprint for every modern windshield wiper.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Mary_Anderson_(inventor)",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Invented and patented the first operational windshield wiper.",
+  "recognition": "Her patent expired in 1920 without mass production; its impact only became clear in retrospect."
+ }
+}

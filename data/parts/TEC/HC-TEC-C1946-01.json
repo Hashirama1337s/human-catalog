@@ -1,0 +1,31 @@
+{
+ "id": "HC-TEC-C1946-01",
+ "year": 1946,
+ "yearEnd": null,
+ "dateLabel": "1946-1950s",
+ "title": "Waterproof diaper cover and the disposable diaper idea",
+ "system": "TEC",
+ "place": "United States",
+ "region": "North America",
+ "figures": [
+  "Marion Donovan"
+ ],
+ "summary": "In 1946 Marion Donovan created a reusable waterproof diaper cover, sold from 1949, and then designed a disposable paper diaper.",
+ "why": "Paved the way for disposable diapers used by billions.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "paper"
+ ],
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Marion_Donovan",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Invented the waterproof diaper cover and an early disposable paper diaper.",
+  "recognition": "Manufacturers rejected and laughed at the idea; Victor Mills later capitalised on it with Pampers."
+ }
+}

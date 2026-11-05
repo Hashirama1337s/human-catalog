@@ -1,0 +1,19 @@
+{
+ "people": 24053,
+ "dropped": {
+  "impossible lifespan": 18
+ },
+ "female_share": 0.142,
+ "by_birth_era": {
+  "before 500": 4728,
+  "1500-1799": 3881,
+  "1800-1899": 2964,
+  "1900+": 3936,
+  "500-1499": 8544
+ },
+ "death_unknown": 581,
+ "coarse_birth_precision": 3637,
+ "legendary": 64,
+ "dated_by_death_or_floruit_only": 815,
+ "bytes": 2230180
+}

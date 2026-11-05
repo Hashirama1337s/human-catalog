@@ -1,0 +1,28 @@
+{
+ "id": "HC-SCI-C1952-01",
+ "year": 1952,
+ "yearEnd": null,
+ "dateLabel": "1950s",
+ "title": "Rift valley mapped in the Mid-Atlantic Ridge",
+ "system": "SCI",
+ "place": "Lamont Geological Observatory, New York, USA",
+ "region": "North America",
+ "figures": [
+  "Marie Tharp"
+ ],
+ "summary": "Working from sonar soundings, Tharp mapped the Atlantic Ocean floor with Bruce Heezen and identified the rift along the Mid-Atlantic Ridge.",
+ "why": "Helped bring about acceptance of plate tectonics.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Marie_Tharp",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Mapped the Atlantic seafloor and found the rift valley along the Mid-Atlantic Ridge.",
+  "recognition": "Heezen at first dismissed her explanation as 'girl talk'; she was recognised mainly late in life."
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "id": "HC-SCI-C1891-01",
+ "year": 1891,
+ "yearEnd": null,
+ "dateLabel": "1891",
+ "title": "Pockels measures surface films on water",
+ "system": "SCI",
+ "place": "Germany",
+ "region": "Europe",
+ "figures": [
+  "Agnes Pockels"
+ ],
+ "summary": "Working at home without university training, Agnes Pockels built a sliding trough to measure surface tension; Lord Rayleigh forwarded her results to Nature in 1891.",
+ "why": "Helped establish surface science; her trough led to the Langmuir-Blodgett trough.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Agnes_Pockels",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "Source: biography on her 70th birthday in 1932, honorary doctorate 'in the following year' (1933), not 1932. 'Founded' overstates 'fundamental in establishing'.",
+    "evidence": "https://en.wikipedia.org/wiki/Agnes_Pockels"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Invented a slide trough for quantitative measurements of surface films on water.",
+  "recognition": "She never received a formal appointment for her scientific work; an honorary doctorate came only in 1933."
+ }
+}

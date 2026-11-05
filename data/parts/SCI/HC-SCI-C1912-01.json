@@ -1,0 +1,34 @@
+{
+ "id": "HC-SCI-C1912-01",
+ "year": 1912,
+ "yearEnd": null,
+ "dateLabel": "1912",
+ "title": "Leavitt's law: a yardstick for cosmic distances",
+ "system": "SCI",
+ "place": "Cambridge, Massachusetts, USA",
+ "region": "North America",
+ "figures": [
+  "Henrietta Swan Leavitt"
+ ],
+ "summary": "Working as a low-paid plate reader at Harvard College Observatory, Leavitt found that Cepheid stars' brightness is tied to their pulsing period.",
+ "why": "Gave astronomers their first way to measure distances to other galaxies.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "'Women could not operate the telescopes' carries a 'dubious' tag in the source; replaced with sourced pay and Nobel facts.",
+    "evidence": "https://en.wikipedia.org/wiki/Henrietta_Swan_Leavitt"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Discovered the period-luminosity relation of Cepheid variable stars, the key to measuring distances beyond our galaxy.",
+  "recognition": "Paid about 30 cents an hour as a plate reader; a 1924 Nobel nomination attempt came three years after she had died."
+ }
+}

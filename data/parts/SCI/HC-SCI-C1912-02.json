@@ -1,0 +1,28 @@
+{
+ "id": "HC-SCI-C1912-02",
+ "year": 1912,
+ "yearEnd": null,
+ "dateLabel": "1912",
+ "title": "Continental drift proposed",
+ "system": "SCI",
+ "place": "Germany",
+ "region": "Europe",
+ "figures": [
+  "Alfred Wegener"
+ ],
+ "summary": "Meteorologist Alfred Wegener suggested in 1912 that the continents slowly drift around the Earth.",
+ "why": "The forerunner of plate tectonics.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Alfred_Wegener",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Proposed that the continents drift across the Earth's surface.",
+  "recognition": "Mainstream geology did not accept the idea until the 1960s, decades after his death."
+ }
+}

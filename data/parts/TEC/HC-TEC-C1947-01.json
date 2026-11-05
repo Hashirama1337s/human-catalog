@@ -3,7 +3,7 @@
  "year": 1947,
  "yearEnd": null,
  "dateLabel": "1947",
- "title": "Transistor invented",
+ "title": "First working transistor (point-contact)",
  "system": "TEC",
  "place": "Murray Hill, New Jersey, United States",
  "region": "North America",
@@ -30,6 +30,10 @@
    },
    {
     "problem": "Source documents an independent 1948 invention by Mataré and Welker; interchange was empty.",
+    "evidence": "https://en.wikipedia.org/wiki/Transistor"
+   },
+   {
+    "problem": "'Transistor invented' ignores Lilienfeld's 1925-28 field-effect transistor patents named in the source; source supports 'The first working device was a point-contact transistor invented in 1947'.",
     "evidence": "https://en.wikipedia.org/wiki/Transistor"
    }
   ]

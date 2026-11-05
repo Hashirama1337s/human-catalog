@@ -14,10 +14,14 @@
  "why": "Showed space travel was not only for men, two years after Gagarin.",
  "interchange": [],
  "supersedes": "",
+ "tags": [
+  "astronomy"
+ ],
  "confidence": "established",
  "source": "https://en.wikipedia.org/wiki/Valentina_Tereshkova",
  "audit": {
   "status": "hold",
   "edition": "2.0"
- }
+ },
+ "superlativeSource": "She was the first woman in space"
 }

@@ -1,0 +1,37 @@
+{
+ "id": "HC-SCI-C1905-02",
+ "year": 1905,
+ "yearEnd": null,
+ "dateLabel": "1905",
+ "title": "Stevens links X and Y chromosomes to sex",
+ "system": "SCI",
+ "place": "Bryn Mawr, Pennsylvania, USA",
+ "region": "North America",
+ "figures": [
+  "Nettie Stevens"
+ ],
+ "summary": "Stevens saw that male mealworms make two kinds of sperm, one with a large chromosome and one with a small one, linking chromosomes to sex.",
+ "why": "First link between a visible chromosome difference and a trait.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Nettie_Stevens",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "Title claims sole discovery; source: 'Edmund Wilson made similar discoveries to her around the same time'.",
+    "evidence": "https://en.wikipedia.org/wiki/Nettie_Stevens"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Showed sex is determined by chromosomes (the XY system); Edmund Wilson reached similar results independently at the same time.",
+  "recognition": "Many authors credited Wilson alone for the discovery; Thomas Hunt Morgan has also been credited."
+ }
+}

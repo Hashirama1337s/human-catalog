@@ -1,0 +1,28 @@
+{
+ "id": "HC-MED-C1951-01",
+ "year": 1951,
+ "yearEnd": null,
+ "dateLabel": "1951",
+ "title": "HeLa: the first immortal human cell line",
+ "system": "MED",
+ "place": "Baltimore, Maryland, USA",
+ "region": "North America",
+ "figures": [
+  "Henrietta Lacks"
+ ],
+ "summary": "Cells from Henrietta Lacks's cervical tumour became HeLa, the first human cells that kept dividing in the lab, and one of medicine's most important research tools.",
+ "why": "Underpinned decades of research, from vaccines to cancer biology.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Henrietta_Lacks",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Her tumour cells became HeLa, the first immortalised human cell line.",
+  "recognition": "Samples were taken without her permission or knowledge; her family was not told the cell line existed until 1975."
+ }
+}

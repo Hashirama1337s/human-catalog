@@ -1,0 +1,28 @@
+{
+ "id": "HC-SCI-C1923-01",
+ "year": 1923,
+ "yearEnd": null,
+ "dateLabel": "1923",
+ "title": "The embryonic organizer",
+ "system": "SCI",
+ "place": "Freiburg, Germany",
+ "region": "Europe",
+ "figures": [
+  "Hilde Mangold"
+ ],
+ "summary": "In her 1923 dissertation, Hilde Mangold grafted embryo tissue to show that one region organises the whole body plan of a developing embryo.",
+ "why": "Founded the study of how embryos pattern themselves.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Hilde_Mangold",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Carried out the experiments that discovered the embryonic organizer.",
+  "recognition": "She died in 1924; her mentor Hans Spemann won the 1935 Nobel Prize on the foundation of her thesis."
+ }
+}

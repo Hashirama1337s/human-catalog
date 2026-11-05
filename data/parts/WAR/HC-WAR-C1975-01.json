@@ -1,0 +1,33 @@
+{
+ "id": "HC-WAR-C1975-01",
+ "year": 1975,
+ "yearEnd": 1979,
+ "dateLabel": "17 April 1975 - January 1979",
+ "title": "Cambodian genocide under the Khmer Rouge",
+ "system": "WAR",
+ "place": "Cambodia (Democratic Kampuchea)",
+ "region": "Southeast Asia",
+ "figures": [
+  "Pol Pot"
+ ],
+ "summary": "An estimated 1.5 to 2 million people, 20-25% of Cambodia's 1975 population, died under Pol Pot's Khmer Rouge. It targeted former officials, professionals, intellectuals, monks, and Chinese, Cham, Vietnamese and Thai minorities.",
+ "why": "A Vietnamese invasion ended the regime; a UN-backed tribunal later convicted two Khmer Rouge leaders of genocide.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "atrocity"
+ ],
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Cambodian_genocide",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "Source gives 1.5-2 million (20-25%), not 1.2-2.2 million; '7 January 1979' is not on the page (lede: 'By January 1979'); the conviction year differs between sources (verdict Nov 2018, page says 28 March 2019), so drop it.",
+    "evidence": "https://en.wikipedia.org/wiki/Cambodian_genocide"
+   }
+  ]
+ }
+}

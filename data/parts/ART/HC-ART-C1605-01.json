@@ -10,14 +10,20 @@
  "figures": [
   "Miguel de Cervantes"
  ],
- "summary": "Cervantes published the first part of his story about a man who reads too many chivalry tales and sets out as a knight.",
+ "summary": "Cervantes published his novel about a man who reads too many chivalry tales and sets out as a knight; a sequel, Part Two, followed in 1615.",
  "why": "Often called the first modern novel.",
  "interchange": [],
  "supersedes": "",
  "confidence": "established",
  "source": "https://en.wikipedia.org/wiki/Don_Quixote",
  "audit": {
-  "status": "hold",
-  "edition": "1.0"
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source warns that for 1605 readers Don Quixote 'was a one-volume book ... not the first part of a two-part set'; Part Two was 'a sequel published ten years after'.",
+    "evidence": "https://en.wikipedia.org/wiki/Don_Quixote"
+   }
+  ]
  }
 }

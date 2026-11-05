@@ -1,7 +1,7 @@
 {
  "id": "HC-IDE-B1240-01",
  "year": -1240,
- "yearEnd": 1160,
+ "yearEnd": -660,
  "dateLabel": "jars placed from c. 1240–660 BCE; burials to c. 1160 CE",
  "title": "Who made the Plain of Jars, and how were they used?",
  "system": "IDE",
@@ -14,11 +14,6 @@
  "why": "Megalithic stone jars dot a landscape, and their maker culture remains shadowy.",
  "interchange": [],
  "supersedes": "",
- "tags": [
-  "megaliths",
-  "burial",
-  "Southeast Asia"
- ],
  "route": null,
  "confidence": "debated",
  "source": "https://en.wikipedia.org/wiki/Plain_of_Jars",

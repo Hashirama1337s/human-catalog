@@ -1,0 +1,34 @@
+{
+ "id": "HC-SCI-C1956-01",
+ "year": 1956,
+ "yearEnd": null,
+ "dateLabel": "1956-57",
+ "title": "Wu experiment: nature tells left from right",
+ "system": "SCI",
+ "place": "National Bureau of Standards, Washington, D.C., USA",
+ "region": "North America",
+ "figures": [
+  "Chien-Shiung Wu"
+ ],
+ "summary": "Chien-Shiung Wu led the experiment showing that parity is not conserved in weak nuclear decays, overturning an assumed symmetry of physics.",
+ "why": "Proved that nature's laws are not mirror-symmetric.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Chien-Shiung_Wu",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "The 1956 experiment ran at the NBS low-temperature laboratory in Washington DC: Wu experiment page caption 'performed at the Bureau of Standards low temperature laboratory, Washington DC, in 1956'. The biography's 'Maryland' conflicts with it.",
+    "evidence": "https://en.wikipedia.org/wiki/Wu_experiment"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Designed and led the experiment proving that parity is not conserved in weak interactions.",
+  "recognition": "Theorists Lee and Yang won the 1957 Nobel Prize for the discovery; Wu was not included."
+ }
+}

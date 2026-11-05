@@ -1,0 +1,28 @@
+{
+ "id": "HC-SCI-C1967-01",
+ "year": 1967,
+ "yearEnd": null,
+ "dateLabel": "1967",
+ "title": "First pulsar discovered",
+ "system": "SCI",
+ "place": "Cambridge, England",
+ "region": "Europe",
+ "figures": [
+  "Jocelyn Bell Burnell"
+ ],
+ "summary": "As a PhD student, Bell noticed a regular radio signal in her chart data and persisted against doubts that it was interference. It was the first known pulsar.",
+ "why": "Opened the study of neutron stars, collapsed stellar cores.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Jocelyn_Bell_Burnell",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Spotted and pursued the anomalous radio signal that proved to be the first known pulsar.",
+  "recognition": "The 1974 Nobel Prize in Physics recognised the discovery, but she was not among its recipients."
+ }
+}

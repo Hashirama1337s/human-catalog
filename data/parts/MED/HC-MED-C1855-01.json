@@ -1,0 +1,34 @@
+{
+ "id": "HC-MED-C1855-01",
+ "year": 1855,
+ "yearEnd": null,
+ "dateLabel": "1855",
+ "title": "Mary Seacole's British Hotel in the Crimea",
+ "system": "MED",
+ "place": "Balaclava, Crimea",
+ "region": "Europe",
+ "figures": [
+  "Mary Seacole"
+ ],
+ "summary": "Jamaican nurse and businesswoman Mary Seacole set up the British Hotel near the front to feed and care for sick and convalescent officers in the Crimean War.",
+ "why": "A self-funded hotel and canteen for officers near the Crimean front.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Mary_Seacole",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "Source reports critics (Lynn McDonald, Nightingale Society) arguing 'Seacole's role in the Crimean War was overplayed'; the venture became mainly food and drink.",
+    "evidence": "https://en.wikipedia.org/wiki/Mary_Seacole"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Nursed and supplied soldiers in the Crimean War from her self-funded British Hotel.",
+  "recognition": "Famous in her day, she was largely forgotten for almost a century after her death."
+ }
+}

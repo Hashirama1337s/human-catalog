@@ -1,0 +1,28 @@
+{
+ "id": "HC-GOV-C1963-01",
+ "year": 1963,
+ "yearEnd": null,
+ "dateLabel": "1963",
+ "title": "Bayard Rustin organises the March on Washington",
+ "system": "GOV",
+ "place": "Washington, D.C., USA",
+ "region": "North America",
+ "figures": [
+  "Bayard Rustin"
+ ],
+ "summary": "Bayard Rustin was the principal organiser of the 1963 March on Washington for Jobs and Freedom and a long-time adviser on nonviolent protest.",
+ "why": "One of the largest civil rights demonstrations in US history.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Bayard_Rustin",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Principal organiser of the 1963 March on Washington.",
+  "recognition": "Criticised for being gay, he usually advised from behind the scenes; the Presidential Medal of Freedom came posthumously in 2013."
+ }
+}

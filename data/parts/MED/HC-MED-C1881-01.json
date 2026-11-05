@@ -1,0 +1,28 @@
+{
+ "id": "HC-MED-C1881-01",
+ "year": 1881,
+ "yearEnd": null,
+ "dateLabel": "1881",
+ "title": "Mosquitoes carry yellow fever",
+ "system": "MED",
+ "place": "Havana, Cuba",
+ "region": "Central & South America",
+ "figures": [
+  "Carlos Finlay"
+ ],
+ "summary": "Cuban physician Carlos Finlay proposed in 1881 that a mosquito, now known as Aedes aegypti, carries yellow fever from sick to healthy people.",
+ "why": "The key to controlling yellow fever.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Carlos_Finlay",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "First proposed that mosquitoes transmit yellow fever, backing it with years of evidence.",
+  "recognition": "Ridiculed at the 1881 conference; history books gave Walter Reed much of the credit, though Reed himself credited Finlay."
+ }
+}

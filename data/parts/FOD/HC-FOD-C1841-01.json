@@ -1,0 +1,28 @@
+{
+ "id": "HC-FOD-C1841-01",
+ "year": 1841,
+ "yearEnd": null,
+ "dateLabel": "1841",
+ "title": "Hand-pollination of vanilla",
+ "system": "FOD",
+ "place": "Sainte-Suzanne, Reunion",
+ "region": "Africa",
+ "figures": [
+  "Edmond Albius"
+ ],
+ "summary": "Enslaved twelve-year-old Edmond Albius invented a quick way to hand-pollinate vanilla flowers with a thin stick and a thumb gesture. Nearly all vanilla is still pollinated this way.",
+ "why": "Made vanilla farming possible far from its native range.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Edmond_Albius",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Invented the fast hand-pollination technique that made vanilla a global crop.",
+  "recognition": "Attempts to win him a reward failed; a botanist falsely claimed priority; he died in poverty in 1880."
+ }
+}

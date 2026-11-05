@@ -17,7 +17,17 @@
  "confidence": "established",
  "source": "https://en.wikipedia.org/wiki/William_T._G._Morton",
  "audit": {
-  "status": "hold",
-  "edition": "1.0"
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "unsung note attached (v2.2)",
+    "evidence": "https://en.wikipedia.org/wiki/Crawford_Long"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Used ether to remove a neck tumour on 30 March 1842, years before Morton's 1846 demonstration.",
+  "recognition": "He did not publish until 1849; Morton is generally credited, and priority became the 'ether controversy'."
  }
 }

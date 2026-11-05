@@ -15,7 +15,17 @@
  "confidence": "established",
  "source": "https://en.wikipedia.org/wiki/Kingdom_of_Benin",
  "audit": {
-  "status": "hold",
-  "edition": "1.0"
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "unsung note attached (v2.2)",
+    "evidence": "https://en.wikipedia.org/wiki/Benin_Bronzes"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Edo artists cast the Benin Bronzes from the 14th century onward.",
+  "recognition": "Late-19th-century scholars wrongly said Benin's metalworking came from Portuguese traders."
  }
 }

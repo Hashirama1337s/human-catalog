@@ -1,0 +1,37 @@
+{
+ "id": "HC-MED-C1958-01",
+ "year": 1958,
+ "yearEnd": null,
+ "dateLabel": "1958",
+ "title": "Trisomy 21: the cause of Down syndrome",
+ "system": "MED",
+ "place": "Paris, France",
+ "region": "Europe",
+ "figures": [
+  "Marthe Gautier"
+ ],
+ "summary": "Gautier set up cell culture in Paris and found that people with Down syndrome carry a third copy of chromosome 21.",
+ "why": "First chromosome abnormality linked to a human condition.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Marthe_Gautier",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "Contested credit story stated as fact; source: 'according to Gautier's account' and 'The Jerome Lejeune Foundation asserts... Lejeune, and not Gautier, identified the 47th chromosome'.",
+    "evidence": "https://en.wikipedia.org/wiki/Marthe_Gautier"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Found the extra chromosome 21 behind Down syndrome, using cell cultures she established.",
+  "recognition": "Lejeune was first author of the 1959 paper and took credit; the Lejeune Foundation disputes her account."
+ }
+}

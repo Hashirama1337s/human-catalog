@@ -1,0 +1,28 @@
+{
+ "id": "HC-TEC-C1872-01",
+ "year": 1872,
+ "yearEnd": 1883,
+ "dateLabel": "1870s-1883",
+ "title": "Emily Roebling completes the Brooklyn Bridge",
+ "system": "TEC",
+ "place": "New York, USA",
+ "region": "North America",
+ "figures": [
+  "Emily Warren Roebling"
+ ],
+ "summary": "When chief engineer Washington Roebling became bedridden with caisson disease, his wife Emily carried the bridge project for more than ten years until it was completed.",
+ "why": "One of the great engineering works of the 19th century.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Emily_Warren_Roebling",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Managed technical work on the Brooklyn Bridge for over a decade after her husband fell ill.",
+  "recognition": "The New York Times published a belated obituary in 2018 for people overlooked at their deaths; an honorary doctorate came in 2024."
+ }
+}

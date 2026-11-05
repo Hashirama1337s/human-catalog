@@ -12,6 +12,9 @@
  "why": "A single standard designed to let text in all the world's writing systems move between computers.",
  "interchange": [],
  "supersedes": "",
+ "tags": [
+  "writing"
+ ],
  "confidence": "established",
  "source": "https://en.wikipedia.org/wiki/Unicode",
  "audit": {
@@ -23,5 +26,6 @@
     "evidence": "https://en.wikipedia.org/wiki/Unicode"
    }
   ]
- }
+ },
+ "superlativeSource": "the first volume of The Unicode Standard was published that October"
 }

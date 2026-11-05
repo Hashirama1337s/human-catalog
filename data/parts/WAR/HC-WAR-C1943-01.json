@@ -1,0 +1,29 @@
+{
+ "id": "HC-WAR-C1943-01",
+ "year": 1943,
+ "yearEnd": 1944,
+ "dateLabel": "1942-1944",
+ "title": "Women Airforce Service Pilots (WASP)",
+ "system": "WAR",
+ "place": "United States",
+ "region": "North America",
+ "figures": [],
+ "summary": "About 1,074 women pilots ferried 12,652 aircraft, towed targets and carried cargo for the US Army Air Forces; 38 died in service.",
+ "why": "Freed male pilots for combat in the Second World War.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "flight"
+ ],
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Women_Airforce_Service_Pilots",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Flew over 60 million miles ferrying and testing military aircraft for the US Army Air Forces.",
+  "recognition": "As civilians they got no military benefits and their records stayed secret; veteran status came in 1977, a Gold Medal in 2009."
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "id": "HC-WAR-C1917-01",
+ "year": 1917,
+ "yearEnd": 1920,
+ "dateLabel": "1917-1920",
+ "title": "The Chinese Labour Corps on the Western Front",
+ "system": "WAR",
+ "place": "France and Belgium",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Some 140,000 Chinese men worked for the British and French in the First World War, unloading ships, digging trenches, repairing roads and railways and later clearing mines.",
+ "why": "Kept the Allied supply lines running in the First World War.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Chinese_Labour_Corps",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Provided the labour that built depots, trenches, roads and railways behind Allied lines.",
+  "recognition": "Their contribution went largely uncommemorated for decades and was later 'airbrushed from history'; they were ineligible for the Military Medal."
+ }
+}

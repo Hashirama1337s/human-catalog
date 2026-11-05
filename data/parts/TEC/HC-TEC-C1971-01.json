@@ -3,14 +3,14 @@
  "year": 1971,
  "yearEnd": null,
  "dateLabel": "1971",
- "title": "Intel 4004, first microprocessor for general sale",
+ "title": "Intel 4004, an early single-chip microprocessor",
  "system": "TEC",
  "place": "Silicon Valley, California, United States",
  "region": "North America",
  "figures": [
   "Federico Faggin"
  ],
- "summary": "Intel released the 4004, the first microprocessor sold for general use: a computer processor on one chip. A few earlier designs existed only inside other products.",
+ "summary": "Intel released the 4004, a 4-bit computer processor on a single chip, first used in Busicom calculators: the first significant commercial example of large-scale integration of a CPU.",
  "why": "Put a computer's processor on one chip that anyone could buy.",
  "interchange": [],
  "supersedes": "",
@@ -26,6 +26,18 @@
    },
    {
     "problem": "Bare 'first commercial microprocessor' overreaches: source says 4004 was first 'available for general use' and Four-Phase AL1 was first in a commercial product; 'made PCs possible' overclaims.",
+    "evidence": "https://en.wikipedia.org/wiki/Intel_4004"
+   },
+   {
+    "problem": "Source does not say 'first microprocessor sold for general use' (priority is contested by other 1969-71 chips); it says 'the first significant commercial example of large-scale integration'.",
+    "evidence": "https://en.wikipedia.org/wiki/Intel_4004"
+   },
+   {
+    "problem": "Bare 'first commercial microprocessor' overreaches: source says 4004 was first 'available for general use' and Four-Phase AL1 was first in a commercial product; 'made PCs possible' overclaims.",
+    "evidence": "https://en.wikipedia.org/wiki/Intel_4004"
+   },
+   {
+    "problem": "Source does not say 'first microprocessor sold for general use' (priority is contested by other 1969-71 chips); it says 'the first significant commercial example of large-scale integration'.",
     "evidence": "https://en.wikipedia.org/wiki/Intel_4004"
    }
   ]

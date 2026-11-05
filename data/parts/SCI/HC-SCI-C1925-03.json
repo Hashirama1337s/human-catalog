@@ -1,0 +1,28 @@
+{
+ "id": "HC-SCI-C1925-03",
+ "year": 1925,
+ "yearEnd": null,
+ "dateLabel": "1925",
+ "title": "Stars are made mostly of hydrogen and helium",
+ "system": "SCI",
+ "place": "Cambridge, Massachusetts, USA",
+ "region": "North America",
+ "figures": [
+  "Cecilia Payne-Gaposchkin"
+ ],
+ "summary": "In her 1925 doctoral thesis, Payne showed that stars are composed mainly of hydrogen and helium, against the belief that the Sun resembled Earth.",
+ "why": "Founded our picture of what the universe is made of.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ },
+ "unsung": {
+  "contribution": "Showed in her 1925 thesis that stars are made mainly of hydrogen and helium.",
+  "recognition": "Leading astronomers, including Henry Norris Russell, rejected the conclusion; Russell published similar results in 1929 with only brief acknowledgement."
+ }
+}

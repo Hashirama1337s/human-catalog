@@ -1,0 +1,34 @@
+{
+ "id": "HC-MED-C1915-01",
+ "year": 1915,
+ "yearEnd": null,
+ "dateLabel": "1915-16",
+ "title": "Ball method: first effective leprosy treatment",
+ "system": "MED",
+ "place": "Honolulu, Hawaii",
+ "region": "Oceania",
+ "figures": [
+  "Alice Ball"
+ ],
+ "summary": "Chemist Alice Ball made chaulmoogra oil injectable, producing the first effective treatment for leprosy before her death at 24.",
+ "why": "The only effective leprosy treatment until sulfonamide drugs in the 1940s.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Alice_Ball",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "'Used worldwide until antibiotics' not in source; source: 'the only available, effective treatment for leprosy' until sulfonamides in the 1940s.",
+    "evidence": "https://en.wikipedia.org/wiki/Alice_Ball"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Turned chaulmoogra oil into an injectable form, the first effective leprosy treatment.",
+  "recognition": "After her death, Arthur Dean published the work without crediting her; others restored her credit later."
+ }
+}

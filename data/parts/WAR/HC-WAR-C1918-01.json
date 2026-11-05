@@ -1,0 +1,32 @@
+{
+ "id": "HC-WAR-C1918-01",
+ "year": 1918,
+ "yearEnd": null,
+ "dateLabel": "1918",
+ "title": "Choctaw code talkers of the First World War",
+ "system": "WAR",
+ "place": "France",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Choctaw soldiers of the US 142nd Infantry relayed battlefield messages in their own language from October 1918, inventing terms such as 'big gun' for artillery.",
+ "why": "Held by the Choctaw Nation to be the first Native American code talkers in the US military.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Choctaw_code_talkers",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "Source attributes the 'first' claim to the Choctaw government, not as established fact.",
+    "evidence": "https://en.wikipedia.org/wiki/Choctaw_code_talkers"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Sent coded battlefield messages in Choctaw that the enemy could not decipher.",
+  "recognition": "Little was said or written of them after the war; France honoured them in 1989 and Congress in 2008."
+ }
+}

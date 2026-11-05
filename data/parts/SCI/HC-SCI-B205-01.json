@@ -1,7 +1,7 @@
 {
  "id": "HC-SCI-B205-01",
  "year": -205,
- "yearEnd": -60,
+ "yearEnd": -87,
  "dateLabel": "built c. 205–87 BCE (debated); wreck c. 70–60 BCE",
  "title": "Who built the Antikythera mechanism, and where",
  "system": "SCI",
@@ -12,11 +12,6 @@
  "why": "Its sophistication implies a lost tradition of gearwork that no other surviving object shows.",
  "interchange": [],
  "supersedes": "",
- "tags": [
-  "computing",
-  "astronomy",
-  "Greece"
- ],
  "route": null,
  "confidence": "debated",
  "source": "https://en.wikipedia.org/wiki/Antikythera_mechanism",

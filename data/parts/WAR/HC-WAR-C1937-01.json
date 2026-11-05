@@ -1,0 +1,25 @@
+{
+ "id": "HC-WAR-C1937-01",
+ "year": 1937,
+ "yearEnd": 1938,
+ "dateLabel": "December 1937 - March 1938",
+ "title": "Nanjing Massacre",
+ "system": "WAR",
+ "place": "Nanjing, China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "After taking Nanjing, the Imperial Japanese Army carried out mass murder and rape. Newer estimates put the dead at 100,000-200,000 (others range from 40,000 to over 340,000); about 20,000 rapes is the most common estimate.",
+ "why": "Still contested in Sino-Japanese relations; some Japanese nationalists and officials have denied or minimised it.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "atrocity"
+ ],
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Nanjing_Massacre",
+ "audit": {
+  "status": "hold",
+  "edition": "2.2"
+ }
+}

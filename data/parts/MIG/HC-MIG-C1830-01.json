@@ -12,10 +12,13 @@
  "why": "A defining injustice of US Indian removal.",
  "interchange": [],
  "supersedes": "",
+ "tags": [
+  "atrocity"
+ ],
  "confidence": "established",
  "source": "https://en.wikipedia.org/wiki/Trail_of_Tears",
  "audit": {
   "status": "hold",
-  "edition": "1.0"
+  "edition": "2.0"
  }
 }

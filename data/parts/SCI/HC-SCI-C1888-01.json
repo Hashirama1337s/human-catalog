@@ -1,0 +1,34 @@
+{
+ "id": "HC-SCI-C1888-01",
+ "year": 1888,
+ "yearEnd": null,
+ "dateLabel": "1888",
+ "title": "Horsehead Nebula found on a Harvard plate",
+ "system": "SCI",
+ "place": "Cambridge, Massachusetts, USA",
+ "region": "North America",
+ "figures": [
+  "Williamina Fleming"
+ ],
+ "summary": "Fleming, a founding member of the Harvard Computers who led the Draper Catalogue work, catalogued over ten thousand stars and discovered the Horsehead Nebula on a photographic plate in 1888.",
+ "why": "One of the sky's most famous objects, found by a plate reader.",
+ "interchange": [],
+ "supersedes": "",
+ "route": null,
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Williamina_Fleming",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.2",
+  "notes": [
+   {
+    "problem": "Source does not call her 'head of Harvard's women computers'; it says 'one of the founding members' and in charge of the Draper Catalogue.",
+    "evidence": "https://en.wikipedia.org/wiki/Williamina_Fleming"
+   }
+  ]
+ },
+ "unsung": {
+  "contribution": "Identified the Horsehead Nebula and catalogued thousands of stars for the Harvard spectral survey.",
+  "recognition": "The first Dreyer Index Catalogue left her name out, attributing the Harvard discoveries to Pickering."
+ }
+}
