@@ -1,0 +1,21 @@
+{
+ "id": "HC-IDE-KA92-01",
+ "year": -90050,
+ "yearEnd": null,
+ "dateLabel": "c. 92,000 years ago",
+ "title": "Burials with grave goods (Qafzeh)",
+ "system": "IDE",
+ "place": "Qafzeh Cave, Israel",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "Early modern humans bury their dead; a boy lies with deer antlers, and ochre is found with burials.",
+ "why": "Among the oldest signs of funeral rites and possibly of beliefs about death.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Qafzeh_Cave",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

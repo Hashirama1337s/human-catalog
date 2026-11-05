@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-C1905-01",
+ "year": 1905,
+ "yearEnd": null,
+ "dateLabel": "1905",
+ "title": "Einstein's miracle year",
+ "system": "SCI",
+ "place": "Bern, Switzerland",
+ "region": "Europe",
+ "figures": [
+  "Albert Einstein"
+ ],
+ "summary": "Patent clerk Albert Einstein published papers on light quanta, Brownian motion, special relativity and E = mc2.",
+ "why": "Reshaped physics.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Annus_mirabilis_papers",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

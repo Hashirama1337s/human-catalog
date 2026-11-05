@@ -1,0 +1,23 @@
+{
+ "id": "HC-WRT-C1569-01",
+ "year": 1569,
+ "yearEnd": null,
+ "dateLabel": "1569",
+ "title": "Mercator's world map projection",
+ "system": "WRT",
+ "place": "Duisburg, Germany",
+ "region": "Europe",
+ "figures": [
+  "Gerardus Mercator"
+ ],
+ "summary": "Gerardus Mercator drew a world map on which a straight line is a constant compass course.",
+ "why": "Became the standard for sea navigation; still used for web maps.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Mercator_projection",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

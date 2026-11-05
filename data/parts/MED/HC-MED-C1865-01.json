@@ -1,0 +1,23 @@
+{
+ "id": "HC-MED-C1865-01",
+ "year": 1865,
+ "yearEnd": 1867,
+ "dateLabel": "1865-1867",
+ "title": "Lister's antiseptic surgery",
+ "system": "MED",
+ "place": "Glasgow, Scotland",
+ "region": "Europe",
+ "figures": [
+  "Joseph Lister"
+ ],
+ "summary": "Joseph Lister used carbolic acid to kill germs in wounds and on instruments.",
+ "why": "Cut deaths from infection after surgery.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Joseph_Lister",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

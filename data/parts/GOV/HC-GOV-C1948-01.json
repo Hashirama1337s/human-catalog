@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1948-01",
+ "year": 1948,
+ "yearEnd": null,
+ "dateLabel": "1948",
+ "title": "Universal Declaration of Human Rights",
+ "system": "GOV",
+ "place": "Paris, France",
+ "region": "Global",
+ "figures": [
+  "Eleanor Roosevelt"
+ ],
+ "summary": "The United Nations listed basic rights and freedoms belonging to every human being.",
+ "why": "The foundation of international human rights.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

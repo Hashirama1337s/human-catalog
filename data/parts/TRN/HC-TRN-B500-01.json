@@ -1,0 +1,29 @@
+{
+ "id": "HC-TRN-B500-01",
+ "year": -500,
+ "yearEnd": null,
+ "dateLabel": "5th century BCE",
+ "title": "Royal Road of Persia",
+ "system": "TRN",
+ "place": "Susa (Iran) to Sardis (Turkey)",
+ "region": "West Asia",
+ "figures": [
+  "Darius I"
+ ],
+ "summary": "The Achaemenids rebuilt a 2,699 km highway; relay couriers were meant to cover it in nine days, against ninety on foot.",
+ "why": "An early example of a state-run road and postal system.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Royal_Road",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Source: couriers 'were supposed to travel' Susa-Sardis 'in nine days'; summary states it as achieved fact.",
+    "evidence": "https://en.wikipedia.org/wiki/Royal_Road"
+   }
+  ]
+ }
+}

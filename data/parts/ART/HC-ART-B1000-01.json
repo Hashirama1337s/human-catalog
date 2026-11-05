@@ -1,0 +1,21 @@
+{
+ "id": "HC-ART-B1000-01",
+ "year": -1000,
+ "yearEnd": -650,
+ "dateLabel": "11th-7th centuries BCE",
+ "title": "Classic of Poetry (Shijing)",
+ "system": "ART",
+ "place": "Zhou China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "A collection of 305 songs and poems, traditionally said to have been edited by Confucius.",
+ "why": "The oldest existing collection of Chinese poetry and one of the Five Classics.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Classic_of_Poetry",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

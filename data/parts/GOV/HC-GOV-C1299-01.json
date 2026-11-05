@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1299-01",
+ "year": 1299,
+ "yearEnd": null,
+ "dateLabel": "c. 1299",
+ "title": "Ottoman state founded",
+ "system": "GOV",
+ "place": "Northwestern Anatolia, Turkey",
+ "region": "West Asia",
+ "figures": [
+  "Osman I"
+ ],
+ "summary": "Osman I founded a small principality that grew into a vast empire.",
+ "why": "Lasted into the 20th century.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ottoman_Empire",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

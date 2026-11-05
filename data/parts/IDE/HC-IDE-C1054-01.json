@@ -1,0 +1,21 @@
+{
+ "id": "HC-IDE-C1054-01",
+ "year": 1054,
+ "yearEnd": null,
+ "dateLabel": "1054 CE",
+ "title": "East-West Schism",
+ "system": "IDE",
+ "place": "Rome and Constantinople",
+ "region": "Europe",
+ "figures": [],
+ "summary": "The Catholic and Eastern Orthodox churches broke communion after disputes over doctrine and authority.",
+ "why": "Christianity's lasting split into Catholic and Orthodox.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/East%E2%80%93West_Schism",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

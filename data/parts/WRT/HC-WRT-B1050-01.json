@@ -1,0 +1,24 @@
+{
+ "id": "HC-WRT-B1050-01",
+ "year": -1050,
+ "yearEnd": null,
+ "dateLabel": "c. 1050 BCE (conventional date)",
+ "title": "Phoenician alphabet",
+ "system": "WRT",
+ "place": "Phoenicia (Lebanon)",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "Phoenician traders used a 22-letter consonant alphabet, written right to left in a fixed direction, and carried it around the Mediterranean.",
+ "why": "Parent of the Greek alphabet and, through it, the Latin alphabet.",
+ "interchange": [],
+ "supersedes": "Proto-Sinaitic script",
+ "tags": [
+  "writing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Phoenician_alphabet",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "HC-MIG-KA24-01",
+ "year": -22050,
+ "yearEnd": null,
+ "dateLabel": "c. 24,000 years ago",
+ "title": "Mal'ta boy: Siberian link to Native Americans",
+ "system": "MIG",
+ "place": "Mal'ta, Siberia, Russia",
+ "region": "Central Asia",
+ "figures": [],
+ "summary": "The genome of a 24,000-year-old Siberian boy (published 2014) revealed the 'Ancient North Eurasians'. The study estimated that 14-38% of Native American ancestry may come from a population related to him.",
+ "why": "Native American ancestry mixes East Asian and ancient Siberian roots.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Mal%27ta_boy",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'About 35% by one estimate' not in cited page; the 2014 paper's abstract gives 14 to 38%.",
+    "evidence": "https://europepmc.org/article/MED/24256729"
+   }
+  ]
+ }
+}

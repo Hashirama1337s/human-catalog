@@ -1,0 +1,21 @@
+{
+ "id": "HC-MIG-C1830-01",
+ "year": 1830,
+ "yearEnd": 1850,
+ "dateLabel": "1830-1850",
+ "title": "Trail of Tears",
+ "system": "MIG",
+ "place": "Southeastern United States to Oklahoma",
+ "region": "North America",
+ "figures": [],
+ "summary": "The US government forced Cherokee, Creek and other Native nations off their lands and marched them west; thousands died.",
+ "why": "A defining injustice of US Indian removal.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Trail_of_Tears",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "HC-WRT-C1947-02",
+ "year": 1947,
+ "yearEnd": 1956,
+ "dateLabel": "1946/1947-1956",
+ "title": "Dead Sea Scrolls found",
+ "system": "WRT",
+ "place": "Qumran Caves, West Bank",
+ "region": "West Asia",
+ "figures": [
+  "Muhammed edh-Dhib"
+ ],
+ "summary": "Bedouin shepherds and then archaeologists found scrolls dating from the 3rd century BCE to the 1st century CE in caves near the Dead Sea. They include the oldest surviving manuscripts of entire biblical books.",
+ "why": "They include the oldest surviving manuscripts of entire books of the Bible.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Dead_Sea_Scrolls",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

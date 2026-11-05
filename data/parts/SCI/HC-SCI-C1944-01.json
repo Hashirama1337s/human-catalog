@@ -1,0 +1,34 @@
+{
+ "id": "HC-SCI-C1944-01",
+ "year": 1944,
+ "yearEnd": null,
+ "dateLabel": "1944",
+ "title": "DNA identified as the bacterial transforming principle",
+ "system": "SCI",
+ "place": "New York, United States",
+ "region": "North America",
+ "figures": [
+  "Oswald Avery",
+  "Colin MacLeod",
+  "Maclyn McCarty"
+ ],
+ "summary": "Avery, MacLeod and McCarty showed that DNA, not protein, transforms bacteria from one type to another. Destroying DNA stopped the effect; destroying protein or RNA did not.",
+ "why": "Pointed science at DNA as the carrier of heredity.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Avery%E2%80%93MacLeod%E2%80%93McCarty_experiment",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "title overclaims; acceptance came later",
+    "evidence": "https://en.wikipedia.org/wiki/Avery%E2%80%93MacLeod%E2%80%93McCarty_experiment"
+   }
+  ]
+ }
+}

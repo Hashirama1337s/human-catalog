@@ -1,0 +1,26 @@
+{
+ "id": "HC-FOD-B7050-02",
+ "year": -7050,
+ "yearEnd": null,
+ "dateLabel": "c. 9,000 years ago",
+ "title": "Maize domesticated from teosinte",
+ "system": "FOD",
+ "place": "Balsas River valley, Mexico",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "All maize comes from a single domestication of the wild grass teosinte in southern Mexico.",
+ "why": "Maize became a foundation of American civilisations and a top world crop.",
+ "interchange": [
+  "Wheat and barley in the Fertile Crescent; rice and millet in China"
+ ],
+ "supersedes": "",
+ "tags": [
+  "domestication"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Maize",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

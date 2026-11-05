@@ -1,0 +1,23 @@
+{
+ "id": "HC-TRN-B312-01",
+ "year": -312,
+ "yearEnd": null,
+ "dateLabel": "312 BCE",
+ "title": "Appian Way built",
+ "system": "TRN",
+ "place": "Rome to Brindisi, Italy",
+ "region": "Europe",
+ "figures": [
+  "Appius Claudius Caecus"
+ ],
+ "summary": "The censor Appius Claudius began a military road south from Rome during the Samnite Wars.",
+ "why": "Called the 'queen of the long roads'; the first long road built to move troops.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Appian_Way",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

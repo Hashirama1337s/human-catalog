@@ -1,0 +1,21 @@
+{
+ "id": "HC-WAR-C1915-01",
+ "year": 1915,
+ "yearEnd": 1917,
+ "dateLabel": "1915-1917",
+ "title": "Armenian genocide",
+ "system": "WAR",
+ "place": "Ottoman Empire (modern Turkey)",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "The Ottoman government organised the mass deportation and killing of its Armenian subjects, many in death marches.",
+ "why": "Around one million Armenians were murdered.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Armenian_genocide",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

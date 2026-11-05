@@ -1,0 +1,37 @@
+{
+ "id": "HC-RCL-C536-02",
+ "year": 536,
+ "yearEnd": null,
+ "dateLabel": "536 CE",
+ "title": "Which volcano darkened the skies in 536",
+ "system": "RCL",
+ "place": "Northern Hemisphere",
+ "region": "Global",
+ "figures": [],
+ "summary": "The source of the eruption remains to be found. Rabaul, Krakatoa, Ilopango and Iceland have all been ruled out; ice-core ash points to several eruptions in North America.",
+ "why": "The 536 event is linked to extreme weather, possibly including the fall of Teotihuacan.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "eruptions",
+  "climate",
+  "Late Antiquity"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Volcanic_winter_of_536",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ },
+ "kind": "open",
+ "question": "Which eruption caused the volcanic winter of 536 CE?",
+ "evidence": "Ice-core geochemistry distinguishes at least three synchronous North American eruptions: one linked to Mono Craters, others likely the eastern Aleutians and Northern Cordilleran province.",
+ "wouldSettle": "Ash in the ice matched chemically and by date to a specific volcano.",
+ "theories": [
+  {
+   "name": "Multiple North American eruptions",
+   "idea": "Several near-simultaneous eruptions, including Mono Craters and Alaskan sources, together caused the cooling."
+  }
+ ]
+}

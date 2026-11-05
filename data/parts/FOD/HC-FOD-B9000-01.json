@@ -1,0 +1,24 @@
+{
+ "id": "HC-FOD-B9000-01",
+ "year": -9000,
+ "yearEnd": null,
+ "dateLabel": "c. 9000 BCE",
+ "title": "Barley domesticated",
+ "system": "FOD",
+ "place": "Near East",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "Barley is domesticated in the Near East around 11,000 years ago, among the first crops.",
+ "why": "A staple grain for bread, beer and animal feed.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "domestication"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Neolithic_Revolution",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "id": "HC-IDE-KA335-01",
+ "year": -333050,
+ "yearEnd": -234050,
+ "dateLabel": "c. 335,000–236,000 years ago",
+ "title": "Did small-brained Homo naledi bury its dead?",
+ "system": "IDE",
+ "place": "Rising Star Cave, South Africa",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Excavators claimed burials and engravings at Rising Star Cave, but the burial claims caused significant academic backlash and many paleontologists question the engravings.",
+ "why": "If true, symbolic burial would not require a big brain, upending ideas of what makes humans unique.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "burial",
+  "archaic humans",
+  "symbolism"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Homo_naledi",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ },
+ "kind": "open",
+ "question": "Did Homo naledi deliberately bury its dead and engrave cave walls?",
+ "evidence": "Fossils dated about 335,000–236,000 years ago (2017); burial claims criticised on taphonomic, stratigraphic and mineralogical grounds.",
+ "wouldSettle": "Independent excavation and sediment analysis showing deliberately dug pits, and secure dating of the engravings.",
+ "theories": [
+  {
+   "name": "Deliberate burial",
+   "idea": "Excavators argue Homo naledi intentionally placed bodies in dug graves."
+  },
+  {
+   "name": "Natural accumulation",
+   "idea": "Critics question the taphonomic and stratigraphic evidence that the bodies were buried on purpose."
+  }
+ ]
+}

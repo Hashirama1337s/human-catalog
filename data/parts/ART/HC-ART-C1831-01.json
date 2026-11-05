@@ -1,0 +1,23 @@
+{
+ "id": "HC-ART-C1831-01",
+ "year": 1831,
+ "yearEnd": null,
+ "dateLabel": "c. 1831",
+ "title": "Hokusai's The Great Wave",
+ "system": "ART",
+ "place": "Edo (Tokyo), Japan",
+ "region": "East Asia",
+ "figures": [
+  "Hokusai"
+ ],
+ "summary": "Katsushika Hokusai made a woodblock print of a towering wave about to crash on boats, with Mount Fuji behind.",
+ "why": "Probably the most famous Japanese artwork worldwide.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

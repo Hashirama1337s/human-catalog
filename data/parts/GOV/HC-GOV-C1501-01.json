@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1501-01",
+ "year": 1501,
+ "yearEnd": 1736,
+ "dateLabel": "1501-1736",
+ "title": "Safavid Empire founded in Iran",
+ "system": "GOV",
+ "place": "Tabriz, Iran",
+ "region": "West Asia",
+ "figures": [
+  "Ismail I"
+ ],
+ "summary": "Shah Ismail I founded the Safavid dynasty and made Twelver Shia Islam the official religion of Iran.",
+ "why": "Shaped Iran's national and Shia identity, which lasts to the present day.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Safavid_Iran",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "id": "HC-ART-B500-01",
+ "year": -500,
+ "yearEnd": 500,
+ "dateLabel": "c. 500 BCE-500 CE",
+ "title": "Nazca lines",
+ "system": "ART",
+ "place": "Nazca Desert, Peru",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "People drew huge figures and lines in the desert by removing dark stones to show lighter ground beneath.",
+ "why": "Giant geoglyphs whose purpose is still argued over.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Nazca_lines",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

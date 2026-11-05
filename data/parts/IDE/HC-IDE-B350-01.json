@@ -1,0 +1,23 @@
+{
+ "id": "HC-IDE-B350-01",
+ "year": -350,
+ "yearEnd": null,
+ "dateLabel": "4th century BCE (earliest versions)",
+ "title": "Tao Te Ching",
+ "system": "IDE",
+ "place": "China",
+ "region": "East Asia",
+ "figures": [
+  "Laozi"
+ ],
+ "summary": "The founding text of Taoism, traditionally credited to Laozi. Its earliest known version, from Guodian, dates to about 400-300 BCE.",
+ "why": "Taoism shaped Chinese religion, medicine, art and thought.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Tao_Te_Ching",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

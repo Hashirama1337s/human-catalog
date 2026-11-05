@@ -1,0 +1,21 @@
+{
+ "id": "HC-WAR-C1994-01",
+ "year": 1994,
+ "yearEnd": null,
+ "dateLabel": "1994",
+ "title": "Rwandan genocide",
+ "system": "WAR",
+ "place": "Rwanda",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Hutu extremists murdered hundreds of thousands of Tutsi in about 100 days.",
+ "why": "Changed how the world thinks about preventing genocide.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Rwandan_genocide",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

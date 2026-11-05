@@ -1,0 +1,31 @@
+{
+ "id": "HC-SCI-C775-01",
+ "year": 775,
+ "yearEnd": null,
+ "dateLabel": "late 8th century",
+ "title": "House of Wisdom, Baghdad",
+ "system": "SCI",
+ "place": "Baghdad, Iraq",
+ "region": "West Asia",
+ "figures": [
+  "Harun al-Rashid",
+  "al-Mansur",
+  "al-Ma'mun"
+ ],
+ "summary": "An Abbasid library in Baghdad, later a public academy under al-Ma'mun; some historians argue its image as a great academy was built by later scholars.",
+ "why": "In popular reference, one of the world's largest libraries of the Islamic Golden Age.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/House_of_Wisdom",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Source: academy narrative challenged by historians; marked established. yearEnd 850 unsupported (destroyed 1258).",
+    "evidence": "https://en.wikipedia.org/wiki/House_of_Wisdom"
+   }
+  ]
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "id": "HC-WAR-C1904-01",
+ "year": 1904,
+ "yearEnd": 1908,
+ "dateLabel": "1904-1908",
+ "title": "Herero and Nama genocide",
+ "system": "WAR",
+ "place": "German South West Africa (present-day Namibia)",
+ "region": "Africa",
+ "figures": [
+  "Lothar von Trotha"
+ ],
+ "summary": "German colonial forces under Lothar von Trotha drove the Herero into the desert, and survivors were held in concentration camps; an estimated 40,000-80,000 Herero and 10,000 Nama died. Germany acknowledged in 2015 that it was genocide.",
+ "why": "Colonial mass killing in Africa that Germany formally acknowledged a century later.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Herero_and_Nama_genocide",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source says these numbers 'died' (desert, camps, disease), not all 'killed' by Trotha's troops; state the means soberly.",
+    "evidence": "https://en.wikipedia.org/wiki/Herero_and_Nama_genocide"
+   }
+  ]
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-B3100-01",
+ "year": -3100,
+ "yearEnd": null,
+ "dateLabel": "c. 3100 BCE (±150 years)",
+ "title": "Narmer and the unification of Egypt",
+ "system": "GOV",
+ "place": "Egypt",
+ "region": "Africa",
+ "figures": [
+  "Narmer"
+ ],
+ "summary": "Narmer is widely credited with uniting Upper and Lower Egypt and founding the First Dynasty. How much he alone did is debated.",
+ "why": "Start of the long-lived Egyptian state.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Narmer",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

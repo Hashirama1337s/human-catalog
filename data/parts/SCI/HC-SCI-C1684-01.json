@@ -1,0 +1,26 @@
+{
+ "id": "HC-SCI-C1684-01",
+ "year": 1684,
+ "yearEnd": null,
+ "dateLabel": "1684",
+ "title": "Calculus published",
+ "system": "SCI",
+ "place": "Leipzig, Germany",
+ "region": "Europe",
+ "figures": [
+  "Gottfried Wilhelm Leibniz",
+  "Isaac Newton"
+ ],
+ "summary": "Leibniz published his calculus, the mathematics of change; Newton had developed his own version earlier but published later.",
+ "why": "The core mathematics of physics and engineering.",
+ "interchange": [
+  "Newton developed calculus independently in England; historians agree the two worked independently"
+ ],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Leibniz%E2%80%93Newton_calculus_controversy",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "id": "HC-TRN-C1488-01",
+ "year": 1488,
+ "yearEnd": null,
+ "dateLabel": "February 1488",
+ "title": "Dias rounds the tip of Africa",
+ "system": "TRN",
+ "place": "Southern tip of Africa, South Africa",
+ "region": "Africa",
+ "figures": [
+  "Bartolomeu Dias"
+ ],
+ "summary": "The Portuguese mariner Bartolomeu Dias became the first European navigator to round the southern tip of Africa.",
+ "why": "Opened the sea route later used by Vasco da Gama.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "seafaring"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Bartolomeu_Dias",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

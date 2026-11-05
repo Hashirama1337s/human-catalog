@@ -1,0 +1,32 @@
+{
+ "id": "HC-SCI-C1984-01",
+ "year": 1984,
+ "yearEnd": null,
+ "dateLabel": "1984",
+ "title": "First ancient DNA study (the quagga)",
+ "system": "SCI",
+ "place": "University of California, Berkeley, United States",
+ "region": "North America",
+ "figures": [
+  "Russ Higuchi"
+ ],
+ "summary": "Russ Higuchi's team sequenced DNA from a museum skin of the quagga, an extinct zebra. It was the first study of what became known as ancient DNA. Within two years Svante Pääbo recovered DNA from human mummies.",
+ "why": "Proved DNA can survive long after death, opening the door to ancient genomes.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ancient_DNA",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source says 'first study of what would come to be called aDNA', not first ancient DNA; the 1985 Egyptian-mummy date is not in the source ('over the next two years').",
+    "evidence": "https://en.wikipedia.org/wiki/Ancient_DNA"
+   }
+  ]
+ }
+}

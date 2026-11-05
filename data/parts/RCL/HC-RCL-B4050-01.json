@@ -1,0 +1,21 @@
+{
+ "id": "HC-RCL-B4050-01",
+ "year": -4050,
+ "yearEnd": -3050,
+ "dateLabel": "c. 6,000-5,000 years ago",
+ "title": "End of the Green Sahara",
+ "system": "RCL",
+ "place": "Sahara",
+ "region": "Africa",
+ "figures": [],
+ "summary": "The African Humid Period ends and the Sahara dries; people move toward reliable water such as the Nile Valley.",
+ "why": "Pushed people into river valleys where early states rose.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/African_humid_period",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

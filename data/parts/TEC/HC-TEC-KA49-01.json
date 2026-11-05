@@ -1,0 +1,27 @@
+{
+ "id": "HC-TEC-KA49-01",
+ "year": -47050,
+ "yearEnd": -43050,
+ "dateLabel": "c. 49,000-45,000 years ago",
+ "title": "Ground-edge stone axes",
+ "system": "TEC",
+ "place": "Australia",
+ "region": "Oceania",
+ "figures": [],
+ "summary": "Australians grind stone tools to a smooth edge, the earliest known ground stone tools.",
+ "why": "Grinding, later central to Neolithic axes, began here first.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Interchange not shown independent: source only lists Japan 'closer to 30 ka' after Australia; no independence claim.",
+    "evidence": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions"
+   }
+  ]
+ }
+}

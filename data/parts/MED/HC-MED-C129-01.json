@@ -1,0 +1,23 @@
+{
+ "id": "HC-MED-C129-01",
+ "year": 129,
+ "yearEnd": 216,
+ "dateLabel": "129-c. 216 CE",
+ "title": "Galen",
+ "system": "MED",
+ "place": "Pergamon (Turkey) and Rome",
+ "region": "Europe",
+ "figures": [
+  "Galen"
+ ],
+ "summary": "Galen, physician to emperors, wrote on anatomy, physiology, drugs and the nervous system.",
+ "why": "One of the most accomplished medical researchers of antiquity.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Galen",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

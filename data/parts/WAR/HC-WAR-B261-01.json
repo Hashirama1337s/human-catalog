@@ -1,0 +1,29 @@
+{
+ "id": "HC-WAR-B261-01",
+ "year": -261,
+ "yearEnd": null,
+ "dateLabel": "c. 261 BCE",
+ "title": "Kalinga War",
+ "system": "WAR",
+ "place": "Kalinga (battle presumed at Dhauli), Odisha, India",
+ "region": "South Asia",
+ "figures": [
+  "Ashoka"
+ ],
+ "summary": "The Maurya Empire conquered the coastal kingdom of Kalinga in one of the largest and deadliest battles in Indian history.",
+ "why": "The only major war Ashoka fought after taking the throne.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Kalinga_War",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Place stated as fact; source: 'It is presumed that the battle was fought on Dhauli hills'.",
+    "evidence": "https://en.wikipedia.org/wiki/Kalinga_War"
+   }
+  ]
+ }
+}

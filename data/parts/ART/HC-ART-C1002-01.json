@@ -1,0 +1,23 @@
+{
+ "id": "HC-ART-C1002-01",
+ "year": 1002,
+ "yearEnd": null,
+ "dateLabel": "1002",
+ "title": "Sei Shonagon's Pillow Book",
+ "system": "ART",
+ "place": "Kyoto, Japan",
+ "region": "East Asia",
+ "figures": [
+  "Sei Shonagon"
+ ],
+ "summary": "Sei Shonagon, a lady at the Heian court of Empress Teishi, completed a book of lists, anecdotes and observations of court life in 1002.",
+ "why": "A personal, witty record of daily life a thousand years ago.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/The_Pillow_Book",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

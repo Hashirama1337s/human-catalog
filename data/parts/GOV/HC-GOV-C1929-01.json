@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1929-01",
+ "year": 1929,
+ "yearEnd": null,
+ "dateLabel": "28 or 29 December 1929",
+ "title": "Samoa's Black Saturday",
+ "system": "GOV",
+ "place": "Apia, Samoa",
+ "region": "Oceania",
+ "figures": [
+  "Tupua Tamasese Lealofi III"
+ ],
+ "summary": "The Mau, a non-violent Samoan movement for independence from New Zealand rule, marched in Apia in December 1929. Police fired on the crowd, killing leader Tupua Tamasese Lealofi III. Samoa won independence in 1962.",
+ "why": "A peaceful independence struggle in the Pacific that ended in self-rule.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Mau_movement",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

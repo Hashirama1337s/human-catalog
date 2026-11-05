@@ -1,0 +1,21 @@
+{
+ "id": "HC-MIG-C300-01",
+ "year": 300,
+ "yearEnd": 600,
+ "dateLabel": "c. 300-600 CE",
+ "title": "Migration Period in Europe",
+ "system": "MIG",
+ "place": "Europe",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Goths, Vandals, Huns, Slavs and others moved into and settled the lands of the Western Roman Empire.",
+ "why": "Led to the post-Roman kingdoms that became Europe's nations.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Migration_Period",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

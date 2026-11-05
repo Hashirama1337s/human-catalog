@@ -1,0 +1,24 @@
+{
+ "id": "HC-MIG-B8300-01",
+ "year": -8300,
+ "yearEnd": null,
+ "dateLabel": "c. 8300 BCE",
+ "title": "Cheddar Man: dark skin, light eyes",
+ "system": "MIG",
+ "place": "Gough's Cave, Cheddar, Somerset, England",
+ "region": "Europe",
+ "figures": [],
+ "summary": "DNA from a skeleton found in 1903 in Gough's Cave suggests he most likely had dark skin and blue-green eyes, and could not digest milk as an adult. The predictions come with large uncertainty.",
+ "why": "Early Europeans did not look like most Europeans today.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Cheddar_Man",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

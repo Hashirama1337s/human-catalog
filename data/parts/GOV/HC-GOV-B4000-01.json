@@ -1,0 +1,27 @@
+{
+ "id": "HC-GOV-B4000-01",
+ "year": -4000,
+ "yearEnd": -3200,
+ "dateLabel": "c. 4000-3200 BCE",
+ "title": "Uruk, one of the first great cities",
+ "system": "GOV",
+ "place": "Warka, Muthanna, Iraq",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "During the Uruk period the city grows to perhaps 50,000 residents by about 3100 BCE.",
+ "why": "Arguably the first true city; writing and monumental buildings emerged here.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Uruk",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Title overclaims: source says 'one of the first cities' and 'arguably the first true city'; 'where writing first appears' is stronger than 'writing ... emerged here'.",
+    "evidence": "https://en.wikipedia.org/wiki/Uruk"
+   }
+  ]
+ }
+}

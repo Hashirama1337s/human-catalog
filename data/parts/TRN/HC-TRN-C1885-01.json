@@ -1,0 +1,33 @@
+{
+ "id": "HC-TRN-C1885-01",
+ "year": 1885,
+ "yearEnd": null,
+ "dateLabel": "1885",
+ "title": "Benz Patent-Motorwagen, early practical motor car",
+ "system": "TRN",
+ "place": "Mannheim, Germany",
+ "region": "Europe",
+ "figures": [
+  "Carl Benz",
+  "Bertha Benz"
+ ],
+ "summary": "Carl Benz built a three-wheeled vehicle powered by a petrol engine, patented in 1886.",
+ "why": "Widely regarded as the first practical automobile.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "wheels"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Benz_Patent-Motorwagen",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Title 'the first car' overclaims; source: 'widely regarded as the first practical automobile'.",
+    "evidence": "https://en.wikipedia.org/wiki/Benz_Patent-Motorwagen"
+   }
+  ]
+ }
+}

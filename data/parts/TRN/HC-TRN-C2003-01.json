@@ -1,0 +1,26 @@
+{
+ "id": "HC-TRN-C2003-01",
+ "year": 2003,
+ "yearEnd": null,
+ "dateLabel": "2003",
+ "title": "China's first astronaut",
+ "system": "TRN",
+ "place": "Jiuquan, China",
+ "region": "East Asia",
+ "figures": [
+  "Yang Liwei"
+ ],
+ "summary": "Shenzhou 5 carried Yang Liwei into orbit.",
+ "why": "China became the third country to launch humans into space.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "astronomy"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Shenzhou_5",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "id": "HC-ART-C1913-01",
+ "year": 1913,
+ "yearEnd": null,
+ "dateLabel": "1913",
+ "title": "Raja Harishchandra, often called India's first feature film",
+ "system": "ART",
+ "place": "Bombay (Mumbai), India",
+ "region": "South Asia",
+ "figures": [
+  "Dadasaheb Phalke"
+ ],
+ "summary": "Dadasaheb Phalke made Raja Harishchandra, a silent film based on a Hindu legend.",
+ "why": "Laid the foundation for India's film industry.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Raja_Harishchandra",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Title states 'first' as fact; source: 'often considered the first', status 'has been debated' (Shree Pundalik, 1912). Confidence should be debated.",
+    "evidence": "https://en.wikipedia.org/wiki/Raja_Harishchandra"
+   }
+  ]
+ }
+}

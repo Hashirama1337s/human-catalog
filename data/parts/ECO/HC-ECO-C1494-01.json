@@ -1,0 +1,32 @@
+{
+ "id": "HC-ECO-C1494-01",
+ "year": 1494,
+ "yearEnd": null,
+ "dateLabel": "1494",
+ "title": "Pacioli publishes double-entry bookkeeping",
+ "system": "ECO",
+ "place": "Venice, Italy",
+ "region": "Europe",
+ "figures": [
+  "Luca Pacioli"
+ ],
+ "summary": "Pacioli's Summa de arithmetica, printed in Venice, included one of the first published descriptions of double-entry bookkeeping, the method Venetian merchants used.",
+ "why": "Double-entry accounting still underpins business everywhere.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "printing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Luca_Pacioli",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'The first published work... on the continent' is stronger than the source body ('one of the first published descriptions'); 'on the continent' is unclear.",
+    "evidence": "https://en.wikipedia.org/wiki/Luca_Pacioli"
+   }
+  ]
+ }
+}

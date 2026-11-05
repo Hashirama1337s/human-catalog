@@ -1,0 +1,23 @@
+{
+ "id": "HC-TRN-C1825-01",
+ "year": 1825,
+ "yearEnd": null,
+ "dateLabel": "1825",
+ "title": "Stockton and Darlington Railway",
+ "system": "TRN",
+ "place": "County Durham, England",
+ "region": "Europe",
+ "figures": [
+  "George Stephenson"
+ ],
+ "summary": "The world's first public railway to use steam locomotives opened in northern England.",
+ "why": "Launched the railway age.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Stockton_and_Darlington_Railway",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

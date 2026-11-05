@@ -1,0 +1,24 @@
+{
+ "id": "HC-MIG-KA14-02",
+ "year": -12350,
+ "yearEnd": null,
+ "dateLabel": "c. 14,300 years ago",
+ "title": "Human DNA in Paisley Caves coprolites",
+ "system": "MIG",
+ "place": "Paisley Caves, Oregon, United States",
+ "region": "North America",
+ "figures": [],
+ "summary": "Fossilised human dung from Paisley Caves, dated to about 14,300 years ago, contains human DNA, putting people in western North America before the Clovis culture.",
+ "why": "Helped end the idea that Clovis people were the first Americans.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Settlement_of_the_Americas",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

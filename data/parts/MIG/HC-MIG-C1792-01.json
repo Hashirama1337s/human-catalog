@@ -1,0 +1,23 @@
+{
+ "id": "HC-MIG-C1792-01",
+ "year": 1792,
+ "yearEnd": null,
+ "dateLabel": "1792",
+ "title": "Freetown founded by Black Loyalists",
+ "system": "MIG",
+ "place": "Freetown, Sierra Leone",
+ "region": "Africa",
+ "figures": [
+  "John Clarkson"
+ ],
+ "summary": "On 11 March 1792, 1,196 African Americans, Black Loyalists who had sailed from Nova Scotia, founded Freetown. An earlier 1787 settlement of formerly enslaved people from London had been destroyed in 1789.",
+ "why": "A return migration across the Atlantic by people freed from slavery.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Freetown",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

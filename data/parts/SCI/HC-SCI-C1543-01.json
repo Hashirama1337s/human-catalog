@@ -1,0 +1,32 @@
+{
+ "id": "HC-SCI-C1543-01",
+ "year": 1543,
+ "yearEnd": null,
+ "dateLabel": "1543",
+ "title": "Copernicus puts the Sun at the center",
+ "system": "SCI",
+ "place": "Nuremberg, Germany",
+ "region": "Europe",
+ "figures": [
+  "Nicolaus Copernicus"
+ ],
+ "summary": "Copernicus's book De revolutionibus argued that the Earth and planets orbit the Sun.",
+ "why": "Helped launch the Scientific Revolution.",
+ "interchange": [],
+ "supersedes": "Earth-centered (Ptolemaic) model",
+ "tags": [
+  "astronomy"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/De_revolutionibus_orbium_coelestium",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "overclaim: helped usher in, not started",
+    "evidence": "https://en.wikipedia.org/wiki/De_revolutionibus_orbium_coelestium"
+   }
+  ]
+ }
+}

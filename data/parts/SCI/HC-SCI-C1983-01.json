@@ -1,0 +1,26 @@
+{
+ "id": "HC-SCI-C1983-01",
+ "year": 1983,
+ "yearEnd": null,
+ "dateLabel": "1983",
+ "title": "PCR: copying DNA in a test tube",
+ "system": "SCI",
+ "place": "Cetus Corporation, Emeryville, California, United States",
+ "region": "North America",
+ "figures": [
+  "Kary Mullis"
+ ],
+ "summary": "Kary Mullis invented the polymerase chain reaction, which makes millions of copies of a DNA stretch. It can work on ancient DNA tens of thousands of years old. Nobel Prize 1993.",
+ "why": "Let scientists study tiny, damaged DNA from old bones.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Polymerase_chain_reaction",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

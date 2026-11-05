@@ -1,0 +1,23 @@
+{
+ "id": "HC-ECO-C1977-01",
+ "year": 1977,
+ "yearEnd": null,
+ "dateLabel": "1977",
+ "title": "Wangari Maathai's Green Belt Movement",
+ "system": "ECO",
+ "place": "Kenya",
+ "region": "Africa",
+ "figures": [
+  "Wangari Maathai"
+ ],
+ "summary": "Wangari Maathai founded the Green Belt Movement in Kenya in 1977 with the National Council of Women of Kenya. More than 51 million trees have been planted since, and she won the 2004 Nobel Peace Prize.",
+ "why": "A grassroots, women-led movement linking trees, livelihoods and democracy.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Green_Belt_Movement",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

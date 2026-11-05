@@ -1,0 +1,30 @@
+{
+ "id": "HC-MIG-KA54-01",
+ "year": -52050,
+ "yearEnd": -42050,
+ "dateLabel": "c. 54,000-44,000 years ago",
+ "title": "Interbreeding with Denisovans",
+ "system": "MIG",
+ "place": "Asia (exact region unknown)",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Modern humans mix with Denisovans, an archaic group known mostly from DNA. About 4-6% of Melanesian genomes come from Denisovans.",
+ "why": "A whole human lineage was discovered largely through the DNA it left in us.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Interbreeding_between_archaic_and_modern_humans",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Place 'Eastern Asia' not in source; source says mixing came before entry into Sahul and 'did not take place in the regions near southern Siberia'.",
+    "evidence": "https://en.wikipedia.org/wiki/Interbreeding_between_archaic_and_modern_humans"
+   }
+  ]
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "id": "HC-TEC-C1039-01",
+ "year": 1039,
+ "yearEnd": 1048,
+ "dateLabel": "1039-1048 CE",
+ "title": "Movable type invented by Bi Sheng",
+ "system": "TEC",
+ "place": "Song China",
+ "region": "East Asia",
+ "figures": [
+  "Bi Sheng"
+ ],
+ "summary": "Bi Sheng made movable type from fired clay, one piece per Chinese character.",
+ "why": "The world's first movable type.",
+ "interchange": [],
+ "supersedes": "Woodblock printing",
+ "tags": [
+  "printing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Bi_Sheng",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

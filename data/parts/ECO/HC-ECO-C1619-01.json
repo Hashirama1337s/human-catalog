@@ -1,0 +1,29 @@
+{
+ "id": "HC-ECO-C1619-01",
+ "year": 1619,
+ "yearEnd": null,
+ "dateLabel": "1619",
+ "title": "Dutch found Batavia",
+ "system": "ECO",
+ "place": "Jakarta, Indonesia",
+ "region": "Southeast Asia",
+ "figures": [
+  "Jan Pieterszoon Coen"
+ ],
+ "summary": "In 1619 Jan Pieterszoon Coen's forces razed Jayakarta, expelled its people and founded Batavia on its ruins. It became the centre of the Dutch East India Company's trading network in Asia.",
+ "why": "The seed of Dutch colonial rule in Indonesia; the city is today's Jakarta.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Batavia,_Dutch_East_Indies",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Sober wording: source says Coen razed Jayakarta and expelled its population; summary hid the violence.",
+    "evidence": "https://en.wikipedia.org/wiki/Batavia,_Dutch_East_Indies"
+   }
+  ]
+ }
+}

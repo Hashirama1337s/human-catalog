@@ -1,0 +1,23 @@
+{
+ "id": "HC-ECO-C1600-01",
+ "year": 1600,
+ "yearEnd": null,
+ "dateLabel": "1600",
+ "title": "English East India Company chartered",
+ "system": "ECO",
+ "place": "London, England",
+ "region": "Europe",
+ "figures": [
+  "Elizabeth I"
+ ],
+ "summary": "Queen Elizabeth I granted a charter to merchants trading with Asia.",
+ "why": "The company later ruled much of India: trade turned into empire.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/East_India_Company",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

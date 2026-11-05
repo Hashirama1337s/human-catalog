@@ -1,0 +1,31 @@
+{
+ "id": "HC-TRN-C1804-01",
+ "year": 1804,
+ "yearEnd": 1806,
+ "dateLabel": "1804-1806",
+ "title": "Lewis and Clark Expedition",
+ "system": "TRN",
+ "place": "Camp Dubois (Illinois) up the Missouri River to Fort Clatsop (Oregon) on the Pacific coast",
+ "region": "North America",
+ "figures": [
+  "Meriwether Lewis",
+  "William Clark",
+  "Sacagawea"
+ ],
+ "summary": "An expedition crossed western North America to the Pacific coast and back, helped by the Shoshone interpreter Sacagawea.",
+ "why": "Mapped the American West for the US government.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Sacagawea was interpreter, not guide; Pacific coast not US territory then",
+    "evidence": "https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition"
+   }
+  ]
+ }
+}

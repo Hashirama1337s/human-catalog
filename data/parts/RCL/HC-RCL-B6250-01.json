@@ -1,0 +1,27 @@
+{
+ "id": "HC-RCL-B6250-01",
+ "year": -6250,
+ "yearEnd": null,
+ "dateLabel": "c. 8,200 years ago (c. 6200 BCE)",
+ "title": "8.2-kiloyear cold event",
+ "system": "RCL",
+ "place": "North Atlantic",
+ "region": "Global",
+ "figures": [],
+ "summary": "Global temperatures drop rapidly for two to four centuries, probably after meltwater from draining glacial lakes disrupted North Atlantic currents.",
+ "why": "Coincides with a Mesolithic population drop in western Scotland and drought in East Africa.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/8.2-kiloyear_event",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Cause stated as fact; source: 'may have been caused by a large meltwater pulse'; event was a 'drop in global temperatures', and source warns such links are 'difficult'.",
+    "evidence": "https://en.wikipedia.org/wiki/8.2-kiloyear_event"
+   }
+  ]
+ }
+}

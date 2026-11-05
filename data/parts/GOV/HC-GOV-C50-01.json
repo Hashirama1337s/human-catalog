@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-C50-01",
+ "year": 50,
+ "yearEnd": null,
+ "dateLabel": "1st century CE",
+ "title": "Kingdom of Aksum founded",
+ "system": "GOV",
+ "place": "Axum, Ethiopia",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Emerging from the earlier D'mt civilization, Aksum grew into a trading kingdom of the Horn of Africa and southern Arabia.",
+ "why": "Counted among the four great powers of the 3rd century.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Kingdom_of_Aksum",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

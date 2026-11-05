@@ -1,0 +1,30 @@
+{
+ "id": "HC-TEC-B4500-01",
+ "year": -4500,
+ "yearEnd": null,
+ "dateLabel": "mid-5th millennium BCE",
+ "title": "Earliest known potter's wheel",
+ "system": "TEC",
+ "place": "Western Ukraine (Cucuteni-Trypillia)",
+ "region": "Europe",
+ "figures": [],
+ "summary": "A potter's wheel from the Cucuteni-Trypillia culture predates those in Mesopotamia. Where the wheel was first invented remains unclear.",
+ "why": "Rotary motion for making pots, a forerunner of wheeled machines.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "wheels"
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Wheel",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Tournettes c. 3500 BCE' not in source and not shown independent; source says only that potter's wheels were used in the 4th millennium BCE Middle East.",
+    "evidence": "https://en.wikipedia.org/wiki/Wheel"
+   }
+  ]
+ }
+}

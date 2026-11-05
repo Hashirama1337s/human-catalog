@@ -1,0 +1,25 @@
+{
+ "id": "HC-WAR-C1939-01",
+ "year": 1939,
+ "yearEnd": 1945,
+ "dateLabel": "1939-1945",
+ "title": "World War II",
+ "system": "WAR",
+ "place": "Worldwide",
+ "region": "Global",
+ "figures": [
+  "Winston Churchill",
+  "Franklin D. Roosevelt",
+  "Joseph Stalin"
+ ],
+ "summary": "The Allies fought Nazi Germany, Italy and Japan in the deadliest war in history.",
+ "why": "Reshaped the world order.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/World_War_II",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

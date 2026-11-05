@@ -1,0 +1,21 @@
+{
+ "id": "HC-IDE-KA11-01",
+ "year": -9500,
+ "yearEnd": -8000,
+ "dateLabel": "c. 9500-8000 BCE",
+ "title": "Göbekli Tepe stone enclosures",
+ "system": "IDE",
+ "place": "Şanlıurfa Province, Turkey",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "Large circular stone enclosures are built from about 9500 BCE; the site is used until at least 8000 BCE.",
+ "why": "Among the oldest known surviving monumental buildings, made at the dawn of farming.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

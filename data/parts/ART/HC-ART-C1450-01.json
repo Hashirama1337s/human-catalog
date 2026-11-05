@@ -1,0 +1,29 @@
+{
+ "id": "HC-ART-C1450-01",
+ "year": 1450,
+ "yearEnd": null,
+ "dateLabel": "c. 1450",
+ "title": "Machu Picchu built",
+ "system": "ART",
+ "place": "Urubamba Valley, Peru",
+ "region": "Central & South America",
+ "figures": [
+  "Pachacuti"
+ ],
+ "summary": "An Inca citadel was built high on a ridge, probably as an estate for Pachacuti; radiocarbon dates place its use c. 1420-1530.",
+ "why": "One of the most iconic symbols of the Inca civilization.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Machu_Picchu",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Its own summary shows the c. 1450 date is contested by radiocarbon (occupation c. 1420-1530); 'most famous symbol' is stronger than source ('one of the most iconic symbols').",
+    "evidence": "https://en.wikipedia.org/wiki/Machu_Picchu"
+   }
+  ]
+ }
+}

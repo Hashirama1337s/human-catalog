@@ -1,0 +1,23 @@
+{
+ "id": "HC-WRT-C100-01",
+ "year": 100,
+ "yearEnd": null,
+ "dateLabel": "c. 100 CE",
+ "title": "Ban Zhao completes the Book of Han",
+ "system": "WRT",
+ "place": "China",
+ "region": "East Asia",
+ "figures": [
+  "Ban Zhao"
+ ],
+ "summary": "Ban Zhao finished her brother Ban Gu's history of the Western Han, the Book of Han, and wrote Lessons for Women. She is the first known female Chinese historian.",
+ "why": "A woman helped write one of China's official dynastic histories.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ban_Zhao",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

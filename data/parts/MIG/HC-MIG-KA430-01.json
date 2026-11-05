@@ -1,0 +1,24 @@
+{
+ "id": "HC-MIG-KA430-01",
+ "year": -428050,
+ "yearEnd": null,
+ "dateLabel": "before c. 430,000 years ago",
+ "title": "Neanderthal and Denisovan lines part ways",
+ "system": "MIG",
+ "place": "Eurasia; evidence from Sima de los Huesos, Spain",
+ "region": "Europe",
+ "figures": [],
+ "summary": "DNA from 430,000-year-old bones at Sima de los Huesos, Spain, sits on the Neanderthal side of the family tree, so Neanderthals and Denisovans had already split before then.",
+ "why": "Ancient DNA from very old fossils can pin down when branches of the human family separated.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "debated",
+ "source": "https://pubmed.ncbi.nlm.nih.gov/26976447/",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

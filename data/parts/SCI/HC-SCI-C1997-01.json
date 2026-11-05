@@ -1,0 +1,32 @@
+{
+ "id": "HC-SCI-C1997-01",
+ "year": 1997,
+ "yearEnd": null,
+ "dateLabel": "1997",
+ "title": "First Neanderthal DNA read",
+ "system": "SCI",
+ "place": "Germany (Feldhofer Neanderthal specimen)",
+ "region": "Europe",
+ "figures": [
+  "Svante Pääbo"
+ ],
+ "summary": "Svante Pääbo's team sequenced mitochondrial DNA from the Neanderthal bones found in 1856 in the Feldhofer grotto, Neander Valley.",
+ "why": "The first DNA read from an extinct kind of human; ancient DNA research itself began in 1984.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Svante_P%C3%A4%C3%A4bo",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "'Differed from the mtDNA of all living humans' is not in the cited page; 'start of a new science' contradicts HC-SCI-C1984-01 (aDNA began 1984).",
+    "evidence": "https://en.wikipedia.org/wiki/Svante_P%C3%A4%C3%A4bo"
+   }
+  ]
+ }
+}

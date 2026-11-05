@@ -1,0 +1,21 @@
+{
+ "id": "HC-WRT-B250-02",
+ "year": -250,
+ "yearEnd": 100,
+ "dateLabel": "3rd century BCE-1st century CE",
+ "title": "Dead Sea Scrolls",
+ "system": "WRT",
+ "place": "Qumran Caves, West Bank",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "Ancient Jewish manuscripts, many of them biblical, hidden in caves near the Dead Sea.",
+ "why": "Found 1946-1956; a major window on Judaism of the Second Temple period.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Dead_Sea_Scrolls",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

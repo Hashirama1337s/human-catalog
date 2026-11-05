@@ -1,0 +1,29 @@
+{
+ "id": "HC-MED-C1928-01",
+ "year": 1928,
+ "yearEnd": null,
+ "dateLabel": "1928",
+ "title": "Penicillin discovered",
+ "system": "MED",
+ "place": "London, England",
+ "region": "Europe",
+ "figures": [
+  "Alexander Fleming"
+ ],
+ "summary": "Alexander Fleming noticed a mould killing bacteria in a dish.",
+ "why": "One of the first antibiotics; saved millions from infections.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Penicillin",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'The first antibiotic' overclaims; source: penicillins 'were among the first medications to be effective against many bacterial infections'.",
+    "evidence": "https://en.wikipedia.org/wiki/Penicillin"
+   }
+  ]
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1789-01",
+ "year": 1789,
+ "yearEnd": 1799,
+ "dateLabel": "1789-1799",
+ "title": "French Revolution",
+ "system": "GOV",
+ "place": "Paris, France",
+ "region": "Europe",
+ "figures": [
+  "Maximilien Robespierre"
+ ],
+ "summary": "French people overthrew the absolute monarchy, abolished feudal privileges and declared a republic.",
+ "why": "Spread ideas of liberty, equality and citizenship worldwide.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/French_Revolution",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

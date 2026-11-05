@@ -1,0 +1,24 @@
+{
+ "id": "HC-WAR-C1453-01",
+ "year": 1453,
+ "yearEnd": null,
+ "dateLabel": "29 May 1453",
+ "title": "Fall of Constantinople",
+ "system": "WAR",
+ "place": "Constantinople (Istanbul), Turkey",
+ "region": "Europe",
+ "figures": [
+  "Mehmed II",
+  "Constantine XI"
+ ],
+ "summary": "After a 53-day siege, the Ottoman army of Mehmed II captured the Byzantine capital.",
+ "why": "Ended the Byzantine Empire; Constantinople became the Ottoman capital.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Fall_of_Constantinople",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "id": "HC-ECO-C2008-01",
+ "year": 2008,
+ "yearEnd": null,
+ "dateLabel": "2008",
+ "title": "Global financial crisis",
+ "system": "ECO",
+ "place": "Worldwide",
+ "region": "Global",
+ "figures": [],
+ "summary": "The collapse of the US housing bubble triggered a worldwide banking crisis.",
+ "why": "The worst downturn since the Great Depression.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/2008_financial_crisis",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

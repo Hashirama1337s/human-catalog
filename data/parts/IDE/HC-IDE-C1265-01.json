@@ -1,0 +1,29 @@
+{
+ "id": "HC-IDE-C1265-01",
+ "year": 1265,
+ "yearEnd": 1274,
+ "dateLabel": "1265-1274",
+ "title": "Aquinas writes the Summa Theologiae",
+ "system": "IDE",
+ "place": "Rome, Italy and Paris, France",
+ "region": "Europe",
+ "figures": [
+  "Thomas Aquinas"
+ ],
+ "summary": "Thomas Aquinas set out the reasoning for nearly all points of Christian theology, using Aristotle's philosophy.",
+ "why": "Shaped Catholic theology and Western philosophy.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Summa_Theologica",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Place too narrow: source says it was begun at Santa Sabina (Rome) and worked on until his death, including his 1269-1272 Paris regency.",
+    "evidence": "https://en.wikipedia.org/wiki/Summa_Theologica"
+   }
+  ]
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "HC-SCI-C1981-01",
+ "year": 1981,
+ "yearEnd": null,
+ "dateLabel": "1981",
+ "title": "Human mitochondrial genome sequenced",
+ "system": "SCI",
+ "place": "University of Cambridge, UK",
+ "region": "Europe",
+ "figures": [
+  "Frederick Sanger"
+ ],
+ "summary": "A group led by Frederick Sanger published the full 16,569-letter human mitochondrial DNA sequence (the Cambridge Reference Sequence). A corrected version followed in 1999.",
+ "why": "The reference that maternal-ancestry studies, including 'Mitochondrial Eve', were built on.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Cambridge_Reference_Sequence",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Spelling mismatch: summary 'Fred Sanger' vs figures 'Frederick Sanger'.",
+    "evidence": "https://en.wikipedia.org/wiki/Cambridge_Reference_Sequence"
+   }
+  ]
+ }
+}

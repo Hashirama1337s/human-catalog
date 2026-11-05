@@ -1,0 +1,32 @@
+{
+ "id": "HC-MED-C865-01",
+ "year": 865,
+ "yearEnd": 925,
+ "dateLabel": "lived 864 or 865 to 925 or 935 CE",
+ "title": "Al-Razi tells smallpox from measles",
+ "system": "MED",
+ "place": "Baghdad, Iraq",
+ "region": "West Asia",
+ "figures": [
+  "al-Razi"
+ ],
+ "summary": "The Persian physician al-Razi wrote one of the earliest surviving books describing smallpox and measles as distinct diseases, alongside one by Thabit ibn Qurra.",
+ "why": "A landmark in clinical diagnosis.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "epidemics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Abu_Bakr_al-Razi",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source gives birth '864 or 865' and credits Thabit ibn Qurra with a same-titled book; earlier late-antique authors also differentiated them.",
+    "evidence": "https://en.wikipedia.org/wiki/Abu_Bakr_al-Razi"
+   }
+  ]
+ }
+}

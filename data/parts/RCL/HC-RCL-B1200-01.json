@@ -1,0 +1,24 @@
+{
+ "id": "HC-RCL-B1200-01",
+ "year": -1200,
+ "yearEnd": -1150,
+ "dateLabel": "late 13th-early 12th century BCE",
+ "title": "Late Bronze Age collapse",
+ "system": "RCL",
+ "place": "Eastern Mediterranean and Near East",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "Bronze Age societies of the eastern Mediterranean collapsed suddenly and violently; the Sea Peoples raided Egypt around 1200 BCE.",
+ "why": "Palace economies broke into small villages; Greece entered its Dark Ages (c. 1200-800 BCE).",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "metalworking"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

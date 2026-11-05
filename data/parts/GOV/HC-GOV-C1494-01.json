@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-C1494-01",
+ "year": 1494,
+ "yearEnd": null,
+ "dateLabel": "7 June 1494",
+ "title": "Treaty of Tordesillas",
+ "system": "GOV",
+ "place": "Tordesillas, Spain",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Portugal and Castile divided newly found lands outside Europe along a line 370 leagues west of the Cape Verde islands.",
+ "why": "Split the colonial world between two kingdoms, shaping the Americas' languages.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Treaty_of_Tordesillas",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

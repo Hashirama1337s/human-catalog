@@ -1,0 +1,26 @@
+{
+ "id": "HC-WRT-C1822-01",
+ "year": 1822,
+ "yearEnd": null,
+ "dateLabel": "1822",
+ "title": "Hieroglyphs deciphered",
+ "system": "WRT",
+ "place": "Paris, France",
+ "region": "Europe",
+ "figures": [
+  "Jean-François Champollion"
+ ],
+ "summary": "Using the Rosetta Stone, Champollion announced how to read Egyptian hieroglyphs.",
+ "why": "Opened ancient Egypt's own records.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "writing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Champollion",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

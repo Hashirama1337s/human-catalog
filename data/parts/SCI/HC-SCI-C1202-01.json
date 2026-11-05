@@ -1,0 +1,29 @@
+{
+ "id": "HC-SCI-C1202-01",
+ "year": 1202,
+ "yearEnd": null,
+ "dateLabel": "1202 CE",
+ "title": "Fibonacci's Liber Abaci",
+ "system": "SCI",
+ "place": "Pisa, Italy",
+ "region": "Europe",
+ "figures": [
+  "Fibonacci"
+ ],
+ "summary": "Fibonacci's 'Book of Calculation', among the first Western books on Hindu-Arabic numerals, promoted base-10 place-value notation in Europe.",
+ "why": "Helped Europe move from Roman numerals to today's digits, a shift that took centuries.",
+ "interchange": [],
+ "supersedes": "Roman numerals",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Liber_Abaci",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Introduced' and 'Europe switched' overstate; source: 'among the first' and abacists persisted for centuries.",
+    "evidence": "https://en.wikipedia.org/wiki/Liber_Abaci"
+   }
+  ]
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "id": "HC-TEC-C1945-01",
+ "year": 1945,
+ "yearEnd": null,
+ "dateLabel": "1945",
+ "title": "ENIAC electronic computer",
+ "system": "TEC",
+ "place": "Philadelphia, United States",
+ "region": "North America",
+ "figures": [
+  "John Mauchly",
+  "J. Presper Eckert"
+ ],
+ "summary": "ENIAC was a programmable, general-purpose electronic digital computer.",
+ "why": "Opened the computer age.",
+ "interchange": [
+  "Britain's Colossus (1944) and Germany's Z3 (1941) were developed separately"
+ ],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/ENIAC",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

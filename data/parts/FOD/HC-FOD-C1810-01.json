@@ -1,0 +1,23 @@
+{
+ "id": "HC-FOD-C1810-01",
+ "year": 1810,
+ "yearEnd": null,
+ "dateLabel": "1810",
+ "title": "Appert publishes airtight food preservation",
+ "system": "FOD",
+ "place": "Massy, near Paris, France",
+ "region": "Europe",
+ "figures": [
+  "Nicolas Appert"
+ ],
+ "summary": "Nicolas Appert sealed food in glass jars and boiled them. In 1810 the French government paid him 12,000 francs to make the method public, and he published The Art of Preserving Animal and Vegetable Substances.",
+ "why": "Called the father of food science; sealing and heating food in containers stopped it spoiling.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Nicolas_Appert",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

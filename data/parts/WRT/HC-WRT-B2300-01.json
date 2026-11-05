@@ -1,0 +1,24 @@
+{
+ "id": "HC-WRT-B2300-01",
+ "year": -2300,
+ "yearEnd": null,
+ "dateLabel": "c. 2300 BCE",
+ "title": "Enheduanna, priestess-poet of Ur",
+ "system": "WRT",
+ "place": "Ur, Iraq",
+ "region": "West Asia",
+ "figures": [
+  "Enheduanna",
+  "Sargon of Akkad"
+ ],
+ "summary": "Enheduanna, daughter of Sargon of Akkad, was high priestess of the moon god at Ur. Hymns such as the Exaltation of Inanna are credited to her, though scholars debate whether she wrote them.",
+ "why": "Celebrated as the earliest known named author in world history.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Enheduanna",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

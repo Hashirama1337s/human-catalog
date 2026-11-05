@@ -1,0 +1,27 @@
+{
+ "id": "HC-TEC-C1837-01",
+ "year": 1837,
+ "yearEnd": null,
+ "dateLabel": "1837",
+ "title": "Electric telegraph patented",
+ "system": "TEC",
+ "place": "London, England",
+ "region": "Europe",
+ "figures": [
+  "William Fothergill Cooke",
+  "Charles Wheatstone",
+  "Samuel Morse"
+ ],
+ "summary": "Cooke and Wheatstone patented a commercial electric telegraph that sent messages along wires.",
+ "why": "Messages could cross countries in moments.",
+ "interchange": [
+  "Samuel Morse developed his telegraph and code independently in the United States"
+ ],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Electrical_telegraph",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

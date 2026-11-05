@@ -1,0 +1,23 @@
+{
+ "id": "HC-ECO-C1913-01",
+ "year": 1913,
+ "yearEnd": null,
+ "dateLabel": "1913",
+ "title": "Ford's moving assembly line",
+ "system": "ECO",
+ "place": "Highland Park, Michigan, United States",
+ "region": "North America",
+ "figures": [
+  "Henry Ford"
+ ],
+ "summary": "Ford's factory began moving cars past workers on a conveyor.",
+ "why": "Mass production became the industrial standard.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Assembly_line",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

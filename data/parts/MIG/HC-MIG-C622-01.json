@@ -1,0 +1,29 @@
+{
+ "id": "HC-MIG-C622-01",
+ "year": 622,
+ "yearEnd": null,
+ "dateLabel": "622 CE",
+ "title": "The Hijra to Medina",
+ "system": "MIG",
+ "place": "Mecca to Medina, Saudi Arabia",
+ "region": "West Asia",
+ "figures": [
+  "Muhammad"
+ ],
+ "summary": "Muhammad and his followers left Mecca, where they faced persecution, and moved to Medina.",
+ "why": "Year one of the Islamic calendar.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Hijrah",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "'Where the first Muslim community took shape' is not in the source.",
+    "evidence": "https://en.wikipedia.org/wiki/Hijrah"
+   }
+  ]
+ }
+}

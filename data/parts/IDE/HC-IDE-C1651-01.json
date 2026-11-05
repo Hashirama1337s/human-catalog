@@ -1,0 +1,29 @@
+{
+ "id": "HC-IDE-C1651-01",
+ "year": 1651,
+ "yearEnd": null,
+ "dateLabel": "1651",
+ "title": "Hobbes's Leviathan",
+ "system": "IDE",
+ "place": "London, England",
+ "region": "Europe",
+ "figures": [
+  "Thomas Hobbes"
+ ],
+ "summary": "Thomas Hobbes argued that people agree to obey a strong ruler to escape a violent state of nature.",
+ "why": "One of the earliest and most influential works of social contract theory.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Leviathan_(Hobbes_book)",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Founded social contract theory' is stronger than the source ('one of the earliest and most influential examples').",
+    "evidence": "https://en.wikipedia.org/wiki/Leviathan_(Hobbes_book)"
+   }
+  ]
+ }
+}

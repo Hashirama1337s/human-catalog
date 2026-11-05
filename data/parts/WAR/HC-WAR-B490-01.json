@@ -1,0 +1,23 @@
+{
+ "id": "HC-WAR-B490-01",
+ "year": -490,
+ "yearEnd": null,
+ "dateLabel": "490 BCE",
+ "title": "Battle of Marathon",
+ "system": "WAR",
+ "place": "Marathon, Greece",
+ "region": "Europe",
+ "figures": [
+  "Darius I"
+ ],
+ "summary": "Athenians and Plataeans crushed a larger Persian invasion force, a turning point in the Greco-Persian Wars.",
+ "why": "A turning point in the Greco-Persian Wars.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Battle_of_Marathon",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "id": "HC-SCI-C1088-01",
+ "year": 1088,
+ "yearEnd": null,
+ "dateLabel": "c. 1088 CE",
+ "title": "University of Bologna",
+ "system": "SCI",
+ "place": "Bologna, Italy",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Teaching began in Bologna around 1088, organised by student guilds by the late 12th century.",
+ "why": "Usually called the oldest university in continuous operation; its 1088 date was set by 19th-century historians.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/University_of_Bologna",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Disputed 'oldest' (UNESCO/Guinness cite al-Qarawiyyin); 1088 traced back by a 19th-century committee.",
+    "evidence": "https://en.wikipedia.org/wiki/University_of_Bologna ; https://en.wikipedia.org/wiki/University_of_al-Qarawiyyin"
+   }
+  ]
+ }
+}

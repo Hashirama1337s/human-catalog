@@ -1,0 +1,27 @@
+{
+ "id": "HC-MED-C1796-01",
+ "year": 1796,
+ "yearEnd": null,
+ "dateLabel": "1796",
+ "title": "Jenner's smallpox vaccine",
+ "system": "MED",
+ "place": "Berkeley, England",
+ "region": "Europe",
+ "figures": [
+  "Edward Jenner"
+ ],
+ "summary": "Edward Jenner showed that infection with mild cowpox protected people against smallpox.",
+ "why": "The first vaccine; led to smallpox's eradication.",
+ "interchange": [],
+ "supersedes": "Variolation",
+ "tags": [
+  "epidemics",
+  "vaccines"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Edward_Jenner",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

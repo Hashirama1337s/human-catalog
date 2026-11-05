@@ -1,0 +1,23 @@
+{
+ "id": "HC-ART-C1010-01",
+ "year": 1010,
+ "yearEnd": null,
+ "dateLabel": "early 11th century",
+ "title": "The Tale of Genji",
+ "system": "ART",
+ "place": "Heian court, Japan",
+ "region": "East Asia",
+ "figures": [
+  "Murasaki Shikibu"
+ ],
+ "summary": "The noblewoman Murasaki Shikibu wrote a long story of life at the Heian court.",
+ "why": "The first novel by a woman to win global recognition.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/The_Tale_of_Genji",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "id": "HC-SCI-C2019-01",
+ "year": 2019,
+ "yearEnd": null,
+ "dateLabel": "May 2019",
+ "title": "Denisovan jaw from the Tibetan Plateau",
+ "system": "SCI",
+ "place": "Baishiya Karst Cave, Xiahe, Gansu, China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Proteins from a jawbone found in 1980 identified it as Denisovan and over 160,000 years old, from a high, low-oxygen cave on the edge of the Tibetan Plateau.",
+ "why": "Puts Denisovans on the high Tibetan Plateau, home of the Denisovan-derived altitude gene.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Xiahe_mandible",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

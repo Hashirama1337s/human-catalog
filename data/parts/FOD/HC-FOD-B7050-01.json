@@ -1,0 +1,30 @@
+{
+ "id": "HC-FOD-B7050-01",
+ "year": -7050,
+ "yearEnd": null,
+ "dateLabel": "c. 9,000 years ago",
+ "title": "Rice domesticated",
+ "system": "FOD",
+ "place": "Yangtze region, China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Asian rice is first domesticated by Neolithic peoples of the Upper and Lower Yangtze; estimates range from 13,500 to 8,200 years ago.",
+ "why": "Rice is now the staple food of over half the world's population.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "domestication"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Domestication_of_rice",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "'Feeds more people than any other crop' is not in the source; it says staple of over half the world.",
+    "evidence": "https://en.wikipedia.org/wiki/Domestication_of_rice"
+   }
+  ]
+ }
+}

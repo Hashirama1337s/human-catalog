@@ -1,0 +1,29 @@
+{
+ "id": "HC-WAR-C732-01",
+ "year": 732,
+ "yearEnd": null,
+ "dateLabel": "732 CE",
+ "title": "Battle of Tours",
+ "system": "WAR",
+ "place": "Between Tours and Poitiers, France",
+ "region": "Europe",
+ "figures": [
+  "Charles Martel"
+ ],
+ "summary": "Frankish forces under Charles Martel defeated an invading Umayyad army from al-Andalus.",
+ "why": "Widely credited with halting the northward Umayyad advance into Gaul, though its importance is debated.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Battle_of_Tours",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Source: 'widely believed to have stopped' the advance; significance disputed by Lewis, von Grunebaum and others.",
+    "evidence": "https://en.wikipedia.org/wiki/Battle_of_Tours"
+   }
+  ]
+ }
+}

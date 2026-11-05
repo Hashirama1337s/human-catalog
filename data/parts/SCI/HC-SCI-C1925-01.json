@@ -1,0 +1,33 @@
+{
+ "id": "HC-SCI-C1925-01",
+ "year": 1925,
+ "yearEnd": null,
+ "dateLabel": "1925",
+ "title": "Quantum mechanics founded",
+ "system": "SCI",
+ "place": "Göttingen, Germany",
+ "region": "Europe",
+ "figures": [
+  "Werner Heisenberg",
+  "Max Born",
+  "Pascual Jordan"
+ ],
+ "summary": "Heisenberg, Born and Jordan created matrix mechanics, the first logically consistent formulation of quantum mechanics.",
+ "why": "Explains atoms, chemistry and electronics.",
+ "interchange": [
+  "Erwin Schrödinger's wave mechanics (1926) was an equivalent formulation"
+ ],
+ "supersedes": "Bohr model",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Matrix_mechanics",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source: 'first conceptually autonomous and logically consistent formulation', not 'first complete theory'.",
+    "evidence": "https://en.wikipedia.org/wiki/Matrix_mechanics"
+   }
+  ]
+ }
+}

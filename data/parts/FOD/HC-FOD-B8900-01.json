@@ -1,0 +1,24 @@
+{
+ "id": "HC-FOD-B8900-01",
+ "year": -8900,
+ "yearEnd": -8300,
+ "dateLabel": "c. 8900-8300 BCE",
+ "title": "Cassava domesticated",
+ "system": "FOD",
+ "place": "Southwestern Amazon basin",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "Cassava, a starchy root, is domesticated in the southwestern Amazon.",
+ "why": "Now a staple food for hundreds of millions in the tropics.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "domestication"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

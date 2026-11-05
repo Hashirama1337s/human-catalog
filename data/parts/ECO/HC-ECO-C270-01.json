@@ -1,0 +1,26 @@
+{
+ "id": "HC-ECO-C270-01",
+ "year": 270,
+ "yearEnd": 310,
+ "dateLabel": "reign of Endybis (270-310)",
+ "title": "Aksum mints coins",
+ "system": "ECO",
+ "place": "Axum, Ethiopia",
+ "region": "Africa",
+ "figures": [
+  "Endybis"
+ ],
+ "summary": "Aksum began minting coins found as far away as Caesarea and southern India.",
+ "why": "Shows Aksum as a major power on the Rome-India trade route.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "money"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Kingdom_of_Aksum",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

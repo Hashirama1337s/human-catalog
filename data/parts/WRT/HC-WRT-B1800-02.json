@@ -1,0 +1,38 @@
+{
+ "id": "HC-WRT-B1800-02",
+ "year": -1800,
+ "yearEnd": -1400,
+ "dateLabel": "probably 18th–15th century BCE",
+ "title": "Undeciphered: the Byblos syllabary",
+ "system": "WRT",
+ "place": "Byblos, Lebanon",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "Fourteen inscriptions from Byblos use a script still classed as undeciphered. The corpus is considered too small for internal analysis, and claimed decipherments have not won acceptance.",
+ "why": "A whole Bronze Age writing system from a major Levantine port remains silent.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "writing",
+  "undeciphered",
+  "Levant"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Byblos_syllabary",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "The 2024 assessment judged one proposal (Woudhuizen/Best), not all proposed decipherments.",
+    "evidence": "https://en.wikipedia.org/wiki/Byblos_syllabary"
+   }
+  ]
+ },
+ "kind": "open",
+ "question": "Can the Byblos syllabary be read, and what language does it record?",
+ "evidence": "Fourteen known inscriptions; sign counts range from about 90 to 114; a 2024 assessment found proposed decipherments scientifically inadequate.",
+ "wouldSettle": "New inscriptions, ideally a bilingual, enlarging the corpus enough for systematic decipherment.",
+ "theories": []
+}

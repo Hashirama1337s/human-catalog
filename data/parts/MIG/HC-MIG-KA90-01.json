@@ -1,0 +1,24 @@
+{
+ "id": "HC-MIG-KA90-01",
+ "year": -88050,
+ "yearEnd": null,
+ "dateLabel": "c. 90,000 years ago",
+ "title": "'Denny': child of a Neanderthal and a Denisovan",
+ "system": "MIG",
+ "place": "Denisova Cave, Altai Mountains, Russia",
+ "region": "Central Asia",
+ "figures": [],
+ "summary": "A bone fragment from a girl who died at 13 or older carried DNA from a Neanderthal mother and a Denisovan father. The genome was published in 2018.",
+ "why": "Direct proof that different human groups met and had children together.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Denny_(hybrid_hominin)",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

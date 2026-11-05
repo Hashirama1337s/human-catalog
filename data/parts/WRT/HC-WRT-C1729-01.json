@@ -1,0 +1,26 @@
+{
+ "id": "HC-WRT-C1729-01",
+ "year": 1729,
+ "yearEnd": null,
+ "dateLabel": "1729",
+ "title": "Müteferrika's Istanbul press prints its first book",
+ "system": "WRT",
+ "place": "Istanbul, Turkey",
+ "region": "West Asia",
+ "figures": [
+  "İbrahim Müteferrika"
+ ],
+ "summary": "İbrahim Müteferrika, the first Muslim to run a printing press with movable Arabic type, printed his first book; by 1743 he had issued 17 works.",
+ "why": "Brought printed books to Ottoman Turkish readers.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "printing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ibrahim_Muteferrika",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

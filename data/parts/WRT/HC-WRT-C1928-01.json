@@ -1,0 +1,29 @@
+{
+ "id": "HC-WRT-C1928-01",
+ "year": 1928,
+ "yearEnd": null,
+ "dateLabel": "1928",
+ "title": "Turkey switches to a Latin alphabet",
+ "system": "WRT",
+ "place": "Turkey",
+ "region": "West Asia",
+ "figures": [
+  "Mustafa Kemal Ataturk"
+ ],
+ "summary": "A law of 1 November 1928 replaced the Arabic-based Ottoman script, used for Turkish for over 1,000 years, with a Latin alphabet, at Ataturk's personal initiative.",
+ "why": "A nation changed its script by law; literacy rose sharply afterward, helped by many other reforms.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Turkish_alphabet",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "'Exact figures are disputed' is not in the source; source says literacy rose from about 10% to over 90% but other factors also contributed.",
+    "evidence": "https://en.wikipedia.org/wiki/Turkish_alphabet"
+   }
+  ]
+ }
+}

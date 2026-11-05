@@ -1,0 +1,26 @@
+{
+ "id": "HC-FOD-B3500-01",
+ "year": -3500,
+ "yearEnd": -3000,
+ "dateLabel": "c. 3500-3000 BCE",
+ "title": "Sorghum domesticated",
+ "system": "FOD",
+ "place": "Eastern Sudan (Atbara and Gash rivers)",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Sorghum is domesticated more than 5,000 years ago in eastern Sudan; a site near Kassala yields material from 3500-3000 BCE.",
+ "why": "An African grain now among the world's top cereals.",
+ "interchange": [
+  "Wheat and barley in the Fertile Crescent; rice and millet in China"
+ ],
+ "supersedes": "",
+ "tags": [
+  "domestication"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Sorghum_bicolor",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

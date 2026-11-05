@@ -1,0 +1,23 @@
+{
+ "id": "HC-MIG-B597-01",
+ "year": -597,
+ "yearEnd": -587,
+ "dateLabel": "597 and 587 BCE",
+ "title": "Babylonian exile of the Judeans",
+ "system": "MIG",
+ "place": "Jerusalem to Babylon, Iraq",
+ "region": "West Asia",
+ "figures": [
+  "Nebuchadnezzar II"
+ ],
+ "summary": "The Neo-Babylonian Empire deported thousands of Judeans after taking Jerusalem in 597 BCE, and more after destroying Jerusalem and Solomon's Temple in 587 BCE.",
+ "why": "A defining event in Jewish history.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Babylonian_captivity",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

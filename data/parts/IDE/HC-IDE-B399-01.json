@@ -1,0 +1,24 @@
+{
+ "id": "HC-IDE-B399-01",
+ "year": -399,
+ "yearEnd": null,
+ "dateLabel": "399 BCE",
+ "title": "Trial and death of Socrates",
+ "system": "IDE",
+ "place": "Athens, Greece",
+ "region": "Europe",
+ "figures": [
+  "Socrates",
+  "Plato"
+ ],
+ "summary": "Socrates questioned everything, wrote nothing, and was put to death by Athens in 399 BCE. His student Plato preserved his ideas in dialogues.",
+ "why": "Socrates is often seen as the first Western moral philosopher.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Socrates",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

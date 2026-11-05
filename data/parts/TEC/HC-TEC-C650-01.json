@@ -1,0 +1,25 @@
+{
+ "id": "HC-TEC-C650-01",
+ "year": 650,
+ "yearEnd": null,
+ "dateLabel": "by the 7th century CE",
+ "title": "Woodblock printing on paper",
+ "system": "TEC",
+ "place": "Tang China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Printers carved whole pages into wooden blocks, inked them and pressed paper onto them.",
+ "why": "The most common East Asian printing method for over a thousand years.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "paper",
+  "printing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Woodblock_printing",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-C1911-01",
+ "year": 1911,
+ "yearEnd": null,
+ "dateLabel": "1911",
+ "title": "Rutherford discovers the atomic nucleus",
+ "system": "SCI",
+ "place": "Manchester, England",
+ "region": "Europe",
+ "figures": [
+  "Ernest Rutherford"
+ ],
+ "summary": "Ernest Rutherford showed that an atom's mass sits in a tiny central nucleus.",
+ "why": "The modern picture of the atom.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Rutherford_model",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "id": "HC-MIG-KA200-02",
+ "year": -198050,
+ "yearEnd": -30050,
+ "dateLabel": "c. 200,000–32,000 years ago",
+ "title": "Who the Denisovans were and how far they ranged",
+ "system": "MIG",
+ "place": "Siberia, Tibet, China, Laos",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Known mostly from DNA and a handful of fossils at seven locations, Denisovans may be a separate species or an archaic subspecies; their full range rests largely on DNA traces in living people.",
+ "why": "Their genes live on in many modern people, yet their body and homeland are barely known.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "Denisovans",
+  "archaic humans",
+  "DNA"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Denisovan",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source lead gives approximately 200,000-32,000 years ago, not 50,000.",
+    "evidence": "https://en.wikipedia.org/wiki/Denisovan"
+   }
+  ]
+ },
+ "kind": "open",
+ "question": "Who exactly were the Denisovans, what did they look like, and how far did they range?",
+ "evidence": "Fossils from Denisova Cave, Xiahe (Tibet), Tam Ngu Hao (Laos), Penghu, Harbin (confirmed Denisovan 2025); some East Asian archaic fossils may or may not belong to them.",
+ "wouldSettle": "More DNA- or protein-identified skeletons, especially complete skulls and finds from Southeast Asia.",
+ "theories": [
+  {
+   "name": "A distinct Homo species",
+   "idea": "Denisovans were their own species, now tied to fossils like the Harbin skull."
+  },
+  {
+   "name": "Archaic subspecies of Homo sapiens",
+   "idea": "They were a subspecies within our own species rather than a separate species."
+  }
+ ]
+}

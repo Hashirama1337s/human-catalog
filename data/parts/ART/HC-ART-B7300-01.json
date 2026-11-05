@@ -1,0 +1,27 @@
+{
+ "id": "HC-ART-B7300-01",
+ "year": -7300,
+ "yearEnd": null,
+ "dateLabel": "c. 7300 BCE onward",
+ "title": "Cueva de las Manos hand stencils",
+ "system": "ART",
+ "place": "Santa Cruz Province, Argentina",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "Hundreds of stenciled hands, plus guanacos and hunting scenes, painted in waves from about 7300 BCE.",
+ "why": "A long-lived rock art tradition at the far end of the Americas.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Cueva_de_las_Manos",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Sulawesi stencil item is not in the source and not shown independent (stencilling may be an inherited practice).",
+    "evidence": "https://en.wikipedia.org/wiki/Cueva_de_las_Manos"
+   }
+  ]
+ }
+}

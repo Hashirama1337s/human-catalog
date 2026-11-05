@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-B27-01",
+ "year": -27,
+ "yearEnd": null,
+ "dateLabel": "27 BCE",
+ "title": "Roman Empire begins under Augustus",
+ "system": "GOV",
+ "place": "Rome, Italy",
+ "region": "Europe",
+ "figures": [
+  "Augustus"
+ ],
+ "summary": "Octavian, renamed Augustus, became the first Roman emperor, beginning two centuries of relative peace, the Pax Romana.",
+ "why": "Ruled the Mediterranean world; the Western half fell in 476.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Augustus",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

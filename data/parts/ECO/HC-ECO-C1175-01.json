@@ -1,0 +1,27 @@
+{
+ "id": "HC-ECO-C1175-01",
+ "year": 1175,
+ "yearEnd": 1450,
+ "dateLabel": "late 12th century-1669 (expanded 13th-15th centuries)",
+ "title": "Hanseatic League",
+ "system": "ECO",
+ "place": "Lübeck, Germany and Baltic ports",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Merchant guilds and towns formed a trading network of nearly 200 settlements in eight modern countries.",
+ "why": "Dominated northern European trade for centuries.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Hanseatic_League",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Label gave the expansion phase as the lifespan; a Hanseatic Day still met in 1669.",
+    "evidence": "https://en.wikipedia.org/wiki/Hanseatic_League"
+   }
+  ]
+ }
+}

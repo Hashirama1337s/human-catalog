@@ -1,0 +1,27 @@
+{
+ "id": "HC-SCI-C1964-01",
+ "year": 1964,
+ "yearEnd": null,
+ "dateLabel": "1964",
+ "title": "Cosmic microwave background found",
+ "system": "SCI",
+ "place": "Holmdel, New Jersey, United States",
+ "region": "North America",
+ "figures": [
+  "Arno Penzias",
+  "Robert Wilson"
+ ],
+ "summary": "Radio astronomers found a faint glow coming from every direction in the sky.",
+ "why": "Strong evidence for the Big Bang.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "astronomy"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Discovery_of_cosmic_microwave_background_radiation",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

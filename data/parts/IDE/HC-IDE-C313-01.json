@@ -1,0 +1,30 @@
+{
+ "id": "HC-IDE-C313-01",
+ "year": 313,
+ "yearEnd": null,
+ "dateLabel": "313 CE",
+ "title": "Edict of Milan: tolerance for Christians",
+ "system": "IDE",
+ "place": "Milan, Italy",
+ "region": "Europe",
+ "figures": [
+  "Constantine I",
+  "Licinius"
+ ],
+ "summary": "Emperors Constantine and Licinius agreed to treat Christians kindly and allow religious freedom; the surviving text is a letter, not a formal edict.",
+ "why": "Gave Christians legal status and relief from persecution, opening the way for Christianity's rise.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Edict_of_Milan",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Ended persecution' overstates source's 'reprieve from persecution'; scholars doubt a formal edict existed.",
+    "evidence": "https://en.wikipedia.org/wiki/Edict_of_Milan"
+   }
+  ]
+ }
+}

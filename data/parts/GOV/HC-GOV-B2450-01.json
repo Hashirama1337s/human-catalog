@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-B2450-01",
+ "year": -2450,
+ "yearEnd": -1450,
+ "dateLabel": "c. 2450-1450 BCE",
+ "title": "Kerma, first great kingdom of Kush",
+ "system": "GOV",
+ "place": "Kerma, Sudan",
+ "region": "Africa",
+ "figures": [],
+ "summary": "The city-state of Kerma controlled the Nile Valley between the first and fourth cataracts, an area as large as Egypt; Egyptians called it Kush.",
+ "why": "One of Africa's earliest powerful states south of Egypt, a rival and trade partner of the pharaohs.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Kingdom_of_Kush",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

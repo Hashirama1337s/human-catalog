@@ -1,0 +1,21 @@
+{
+ "id": "HC-RCL-C1845-01",
+ "year": 1845,
+ "yearEnd": 1852,
+ "dateLabel": "1845-1852",
+ "title": "Great Famine in Ireland",
+ "system": "RCL",
+ "place": "Ireland",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Potato blight destroyed Ireland's main food crop; about a million people died and a million emigrated.",
+ "why": "Reshaped Ireland and the Irish diaspora.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Great_Famine_(Ireland)",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

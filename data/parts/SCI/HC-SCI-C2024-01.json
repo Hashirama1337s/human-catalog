@@ -1,0 +1,27 @@
+{
+ "id": "HC-SCI-C2024-01",
+ "year": 2024,
+ "yearEnd": null,
+ "dateLabel": "12 December 2024",
+ "title": "Oldest modern human genomes yet date Neanderthal mixing",
+ "system": "SCI",
+ "place": "Ranis, Germany, and Zlatý kůň, Czechia",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Genomes from seven people who lived 49,000-42,000 years ago narrowed the main interbreeding with Neanderthals to about 49,000-45,000 years ago, later than earlier estimates.",
+ "why": "Tightens the clock on when our ancestors left Africa and met Neanderthals.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://nachrichten.idw-online.de/2024/12/12/when-did-modern-humans-and-neanderthals-interbreed-the-oldest-genomes-of-modern-humans-to-date-provide-new-insights",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source states 'oldest genomes of modern humans to date' plainly; the superlative is time-bound, so mark it 'yet'.",
+    "evidence": "https://nachrichten.idw-online.de/2024/12/12/when-did-modern-humans-and-neanderthals-interbreed-the-oldest-genomes-of-modern-humans-to-date-provide-new-insights"
+   }
+  ]
+ }
+}

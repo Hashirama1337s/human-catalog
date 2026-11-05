@@ -1,0 +1,21 @@
+{
+ "id": "HC-WAR-C1941-01",
+ "year": 1941,
+ "yearEnd": 1945,
+ "dateLabel": "1941-1945",
+ "title": "The Holocaust",
+ "system": "WAR",
+ "place": "German-occupied Europe",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Nazi Germany and its collaborators murdered about six million Jews.",
+ "why": "A defining crime of the 20th century.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/The_Holocaust",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

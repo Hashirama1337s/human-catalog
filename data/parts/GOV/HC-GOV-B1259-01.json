@@ -1,0 +1,24 @@
+{
+ "id": "HC-GOV-B1259-01",
+ "year": -1259,
+ "yearEnd": null,
+ "dateLabel": "c. 1259 BCE",
+ "title": "Egyptian-Hittite peace treaty",
+ "system": "GOV",
+ "place": "Egypt and Hattusa, Anatolia",
+ "region": "West Asia",
+ "figures": [
+  "Ramesses II",
+  "Hattusili III"
+ ],
+ "summary": "Egypt and the Hittite Empire agreed an 'Eternal Treaty' of peace; versions survive from both sides.",
+ "why": "The oldest known surviving peace treaty.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Egyptian%E2%80%93Hittite_peace_treaty",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "HC-MIG-C1788-01",
+ "year": 1788,
+ "yearEnd": null,
+ "dateLabel": "1788",
+ "title": "First Fleet reaches Australia",
+ "system": "MIG",
+ "place": "Sydney, Australia",
+ "region": "Oceania",
+ "figures": [
+  "Arthur Phillip"
+ ],
+ "summary": "Eleven British ships carrying convicts landed at Botany Bay and founded a penal colony at Sydney Cove.",
+ "why": "Began British colonisation of Australia, with grave effects on Aboriginal peoples.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/First_Fleet",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

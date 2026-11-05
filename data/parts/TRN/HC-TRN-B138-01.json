@@ -1,0 +1,30 @@
+{
+ "id": "HC-TRN-B138-01",
+ "year": -138,
+ "yearEnd": -114,
+ "dateLabel": "138-c. 114 BCE (missions; died c. 114 BCE)",
+ "title": "Zhang Qian's missions to Central Asia",
+ "system": "TRN",
+ "place": "Chang'an, China to Bactria",
+ "region": "Central Asia",
+ "figures": [
+  "Zhang Qian",
+  "Emperor Wu of Han"
+ ],
+ "summary": "The Han envoy Zhang Qian travelled west and brought back reports on Central Asian kingdoms and Parthia.",
+ "why": "Opened official Chinese contact with the West and the Silk Road trade.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Zhang_Qian",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Date: source says the first mission left in 138 BCE; record starts at -125.",
+    "evidence": "https://en.wikipedia.org/wiki/Zhang_Qian"
+   }
+  ]
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "HC-TRN-C1519-01",
+ "year": 1519,
+ "yearEnd": 1522,
+ "dateLabel": "1519-1522",
+ "title": "First voyage around the world",
+ "system": "TRN",
+ "place": "Seville and Sanlúcar de Barrameda, Spain (start and finish)",
+ "region": "Global",
+ "figures": [
+  "Ferdinand Magellan",
+  "Juan Sebastián Elcano"
+ ],
+ "summary": "A Spanish fleet led by Magellan sailed west around South America and across the Pacific. Magellan was killed in the Philippines; Elcano brought one ship home.",
+ "why": "Proved ships could sail around the world westward and revealed the vast size of the Pacific.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "seafaring"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Magellan_expedition",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Source infobox gives Sanlúcar as start and end port (fleet left Seville downriver); 'how huge the Earth is' not in source: it says the voyage revealed the Pacific's vast scale.",
+    "evidence": "https://en.wikipedia.org/wiki/Magellan_expedition"
+   }
+  ]
+ }
+}

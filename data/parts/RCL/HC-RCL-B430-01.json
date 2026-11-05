@@ -1,0 +1,24 @@
+{
+ "id": "HC-RCL-B430-01",
+ "year": -430,
+ "yearEnd": null,
+ "dateLabel": "430 BCE",
+ "title": "Plague of Athens",
+ "system": "RCL",
+ "place": "Athens, Greece",
+ "region": "Europe",
+ "figures": [],
+ "summary": "An epidemic struck Athens in the second year of the Peloponnesian War, entering through the port of Piraeus.",
+ "why": "Killed an estimated 75,000-100,000 people, about a quarter of the city.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "epidemics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Plague_of_Athens",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

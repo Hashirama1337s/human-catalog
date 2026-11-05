@@ -1,0 +1,42 @@
+{
+ "id": "HC-MIG-B3000-01",
+ "year": -3000,
+ "yearEnd": -1500,
+ "dateLabel": "c. 3000-1500 BCE",
+ "title": "Austronesian expansion out of Taiwan",
+ "system": "MIG",
+ "place": "Taiwan to the Philippines and Indonesia",
+ "region": "Southeast Asia",
+ "figures": [],
+ "summary": "Austronesian seafarers began spreading from Taiwan around 3000-1500 BCE, reaching the northern Philippines by about 2200 BCE. Their descendants later settled from Madagascar to Rapa Nui.",
+ "why": "One seafaring people's descendants now live from Madagascar to Rapa Nui.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "seafaring"
+ ],
+ "route": [
+  [
+   23.7,
+   121.0
+  ],
+  [
+   20.4,
+   122.0
+  ],
+  [
+   14.0,
+   121.0
+  ],
+  [
+   -2.0,
+   118.0
+  ]
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Austronesian_peoples",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

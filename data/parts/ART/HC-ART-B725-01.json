@@ -1,0 +1,23 @@
+{
+ "id": "HC-ART-B725-01",
+ "year": -725,
+ "yearEnd": null,
+ "dateLabel": "late 8th century BCE",
+ "title": "Homer's Iliad",
+ "system": "ART",
+ "place": "Greece",
+ "region": "Europe",
+ "figures": [
+  "Homer"
+ ],
+ "summary": "An epic poem of 15,693 lines about the Trojan War, attributed to Homer.",
+ "why": "Often regarded as the first substantial work of European literature.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Iliad",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "id": "HC-MED-C1804-01",
+ "year": 1804,
+ "yearEnd": null,
+ "dateLabel": "1804",
+ "title": "Hanaoka's surgery under general anaesthesia",
+ "system": "MED",
+ "place": "Kii Province (now Wakayama Prefecture), Japan",
+ "region": "East Asia",
+ "figures": [
+  "Hanaoka Seishū"
+ ],
+ "summary": "Japanese surgeon Hanaoka Seishū removed a breast tumour from a patient under a herbal general anaesthetic.",
+ "why": "Regarded by some as the first reliably documented surgery under general anaesthesia.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Hanaoka_Seish%C5%AB",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Why says 'first recorded'; source hedges ('said to have been', 'regarded today by some as the first reliable documentation'). Place: he practised in Hirayama, Kii Province (now Wakayama Prefecture), not Wakayama city.",
+    "evidence": "https://en.wikipedia.org/wiki/Hanaoka_Seish%C5%AB"
+   }
+  ]
+ }
+}

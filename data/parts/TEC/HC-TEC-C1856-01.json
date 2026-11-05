@@ -1,0 +1,34 @@
+{
+ "id": "HC-TEC-C1856-01",
+ "year": 1856,
+ "yearEnd": null,
+ "dateLabel": "1856",
+ "title": "Bessemer steel process",
+ "system": "TEC",
+ "place": "Cheltenham, England",
+ "region": "Europe",
+ "figures": [
+  "Henry Bessemer"
+ ],
+ "summary": "Henry Bessemer patented a way to make steel cheaply by blowing air through molten iron.",
+ "why": "Cheap steel built railways, ships and skyscrapers.",
+ "interchange": [
+  "American William Kelly was said to have found the process independently in 1851 (disputed)"
+ ],
+ "supersedes": "",
+ "tags": [
+  "metalworking"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Bessemer_process",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Place wrong for 1856: source has the process first described at Cheltenham (Aug 1856); Sheffield steelmaking began only from 1858 under licence.",
+    "evidence": "https://en.wikipedia.org/wiki/Bessemer_process"
+   }
+  ]
+ }
+}

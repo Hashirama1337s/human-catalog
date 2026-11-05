@@ -1,0 +1,24 @@
+{
+ "id": "HC-TRN-B3700-01",
+ "year": -3700,
+ "yearEnd": -3500,
+ "dateLabel": "c. 3700-3500 BCE",
+ "title": "Botai horses (early domestication?)",
+ "system": "TRN",
+ "place": "Botai culture, Kazakhstan",
+ "region": "Central Asia",
+ "figures": [],
+ "summary": "Botai people exploited horses heavily, possibly herding them. Whether they truly domesticated them is debated; modern horses descend mainly from a later lineage.",
+ "why": "Horses would later transform travel and war.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "domestication"
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Domestication_of_the_horse",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

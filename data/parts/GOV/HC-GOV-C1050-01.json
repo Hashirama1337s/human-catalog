@@ -1,0 +1,27 @@
+{
+ "id": "HC-GOV-C1050-01",
+ "year": 1050,
+ "yearEnd": 1350,
+ "dateLabel": "c. 1050-1350 CE",
+ "title": "Cahokia",
+ "system": "GOV",
+ "place": "Collinsville, Illinois, USA (across from St. Louis)",
+ "region": "North America",
+ "figures": [],
+ "summary": "A Native American city across the Mississippi from today's St. Louis, with about 80 surviving mounds.",
+ "why": "At its height around 1100 CE it covered about 6 square miles.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Cahokia",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Place reads as if St. Louis is in Illinois; source: site is in Illinois across the Mississippi from St. Louis.",
+    "evidence": "https://en.wikipedia.org/wiki/Cahokia"
+   }
+  ]
+ }
+}

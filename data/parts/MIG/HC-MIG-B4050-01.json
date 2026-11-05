@@ -1,0 +1,42 @@
+{
+ "id": "HC-MIG-B4050-01",
+ "year": -4050,
+ "yearEnd": 450,
+ "dateLabel": "c. 6,000-1,500 years ago (start debated)",
+ "title": "Bantu expansion across Africa",
+ "system": "MIG",
+ "place": "From the Cameroon-Nigeria highlands to East and Southern Africa",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Bantu-speaking farmers spread from the Cameroon-Nigeria highlands, reaching Lake Victoria by about 500 BCE and South Africa probably by 300 CE. Genetics confirms a large migration that mixed with local peoples.",
+ "why": "Shaped the languages and ancestry of much of sub-Saharan Africa.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "route": [
+  [
+   6.0,
+   10.5
+  ],
+  [
+   0.0,
+   20.0
+  ],
+  [
+   -1.0,
+   32.0
+  ],
+  [
+   -26.0,
+   30.0
+  ]
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Bantu_expansion",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

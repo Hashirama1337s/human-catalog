@@ -1,0 +1,29 @@
+{
+ "id": "HC-ECO-C1859-01",
+ "year": 1859,
+ "yearEnd": null,
+ "dateLabel": "1859",
+ "title": "Drake drills for oil",
+ "system": "ECO",
+ "place": "Cherrytree Township, near Titusville, Pennsylvania, United States",
+ "region": "North America",
+ "figures": [
+  "Edwin Drake"
+ ],
+ "summary": "Edwin Drake drilled a successful oil well in Pennsylvania.",
+ "why": "Often called the first commercial oil well, though sites elsewhere also claim the title.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Drake_Well",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Why overclaims: source says 'often referred to as the first commercial oil well, although that title is also claimed' (incl. West Virginia, US). Well is in Cherrytree Township, ~3 miles south of Titusville.",
+    "evidence": "https://en.wikipedia.org/wiki/Drake_Well"
+   }
+  ]
+ }
+}

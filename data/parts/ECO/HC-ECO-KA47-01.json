@@ -1,0 +1,21 @@
+{
+ "id": "HC-ECO-KA47-01",
+ "year": -45050,
+ "yearEnd": null,
+ "dateLabel": "c. 47,000 years ago",
+ "title": "Oldest known mine (ochre)",
+ "system": "ECO",
+ "place": "Eswatini",
+ "region": "Africa",
+ "figures": [],
+ "summary": "People dig hematite to make red ochre pigment, the oldest known mining.",
+ "why": "Organised labour to extract a valued material.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

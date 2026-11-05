@@ -1,0 +1,26 @@
+{
+ "id": "HC-SCI-C150-01",
+ "year": 150,
+ "yearEnd": null,
+ "dateLabel": "2nd century CE",
+ "title": "Ptolemy's Almagest",
+ "system": "SCI",
+ "place": "Alexandria, Egypt",
+ "region": "Africa",
+ "figures": [
+  "Ptolemy"
+ ],
+ "summary": "Ptolemy described the motions of stars and planets with a model that put the Earth at the centre.",
+ "why": "The standard astronomy text for over 1,200 years.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "astronomy"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Almagest",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "id": "HC-FOD-C1000-01",
+ "year": 1000,
+ "yearEnd": 1550,
+ "dateLabel": "end of the 10th-16th century",
+ "title": "Mississippian maize farming towns",
+ "system": "FOD",
+ "place": "Southeastern USA",
+ "region": "North America",
+ "figures": [],
+ "summary": "Mississippian peoples built mound towns with priestly rulers, fed largely by maize farming.",
+ "why": "Maize became the main crop of the Southeast's mound-building towns.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Mississippian_period_(archaeology)",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Year 950 conflicts with 'end of the 10th century' in the label and source.",
+    "evidence": "https://en.wikipedia.org/wiki/Mississippian_period_(archaeology)"
+   }
+  ]
+ }
+}

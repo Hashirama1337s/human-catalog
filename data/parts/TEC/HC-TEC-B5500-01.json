@@ -1,0 +1,30 @@
+{
+ "id": "HC-TEC-B5500-01",
+ "year": -5500,
+ "yearEnd": null,
+ "dateLabel": "c. 5500 BCE",
+ "title": "Copper smelting",
+ "system": "TEC",
+ "place": "Pločnik and Belovode, Serbia",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Evidence of smelting copper from ore at Belovode and Pločnik.",
+ "why": "Extracting metal from rock began the age of metals.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "metalworking"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Cold-hammering native copper is not smelting; interchange is not a parallel invention.",
+    "evidence": "https://en.wikipedia.org/wiki/Timeline_of_prehistory"
+   }
+  ]
+ }
+}

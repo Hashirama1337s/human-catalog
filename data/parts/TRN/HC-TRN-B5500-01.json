@@ -1,0 +1,24 @@
+{
+ "id": "HC-TRN-B5500-01",
+ "year": -5500,
+ "yearEnd": null,
+ "dateLabel": "c. 5500 BCE",
+ "title": "Sailing",
+ "system": "TRN",
+ "place": "Mesopotamia",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "Sailing boats are depicted on pottery in Mesopotamia, later in Egypt.",
+ "why": "Wind power for travel and trade.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "seafaring"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

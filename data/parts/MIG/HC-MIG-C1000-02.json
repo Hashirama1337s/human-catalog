@@ -1,0 +1,45 @@
+{
+ "id": "HC-MIG-C1000-02",
+ "year": 1000,
+ "yearEnd": 1500,
+ "dateLabel": "c. 1000–1500 CE",
+ "title": "Why the Dorset people of the Arctic vanished",
+ "system": "MIG",
+ "place": "Arctic Canada and Greenland",
+ "region": "North America",
+ "figures": [],
+ "summary": "The Dorset were extinct by 1500 at the latest, perhaps by 1000. Why they vanished is unclear, and there is almost no evidence of contact with the incoming Thule.",
+ "why": "A whole Arctic people disappeared as the Thule spread through their lands.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "Arctic",
+  "extinction",
+  "migration"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Dorset_culture",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ },
+ "kind": "open",
+ "question": "Why did the Dorset culture of the Arctic disappear?",
+ "evidence": "Radiocarbon dates at Cambridge Bay to about 1350 CE; Medieval Warm Period sea-ice loss would have hit them; virtually no genetic or cultural interaction with Thule.",
+ "wouldSettle": "Well-dated last Dorset sites set against sea-ice records, Thule arrival dates and ancient DNA.",
+ "theories": [
+  {
+   "name": "Loss of sea ice",
+   "idea": "Medieval Warm Period melting reduced the sea ice they relied on."
+  },
+  {
+   "name": "New diseases",
+   "idea": "They were vulnerable to newly introduced diseases."
+  },
+  {
+   "name": "Thule replacement",
+   "idea": "The incoming Thule took over their lands, though direct conflict is unproven."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "id": "HC-WRT-B800-01",
+ "year": -800,
+ "yearEnd": null,
+ "dateLabel": "late 9th or early 8th century BCE",
+ "title": "Greek alphabet, earliest known to write vowels",
+ "system": "WRT",
+ "place": "Greece",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Greeks adapted the Phoenician letters and added signs for vowels as well as consonants.",
+ "why": "The earliest known alphabet to write vowels systematically; ancestor of the Latin alphabet.",
+ "interchange": [],
+ "supersedes": "Phoenician alphabet",
+ "tags": [
+  "writing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Greek_alphabet",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source: 'earliest known alphabetic script to systematically write vowels'.",
+    "evidence": "https://en.wikipedia.org/wiki/Greek_alphabet"
+   }
+  ]
+ }
+}

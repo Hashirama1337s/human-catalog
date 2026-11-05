@@ -1,0 +1,24 @@
+{
+ "id": "HC-RCL-C1545-01",
+ "year": 1545,
+ "yearEnd": 1548,
+ "dateLabel": "1545-1548",
+ "title": "Cocoliztli epidemic in New Spain",
+ "system": "RCL",
+ "place": "Central Mexico",
+ "region": "North America",
+ "figures": [],
+ "summary": "A deadly epidemic called cocoliztli killed millions of people in Mexico; its exact cause is still argued about.",
+ "why": "One of the worst disease disasters in history.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "epidemics"
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Cocoliztli_epidemics",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "id": "HC-SCI-C2012-02",
+ "year": 2012,
+ "yearEnd": null,
+ "dateLabel": "2012",
+ "title": "Higgs boson discovered",
+ "system": "SCI",
+ "place": "CERN, Geneva, Switzerland",
+ "region": "Europe",
+ "figures": [
+  "Peter Higgs"
+ ],
+ "summary": "Experiments at the Large Hadron Collider found the Higgs boson.",
+ "why": "Confirmed the Higgs field, which gives the massive elementary particles their mass.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Higgs_boson",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Overclaim: source says the Higgs field gives rest mass to 'all massive elementary particles', not all elementary particles (photons, gluons are massless).",
+    "evidence": "https://en.wikipedia.org/wiki/Higgs_boson"
+   }
+  ]
+ }
+}

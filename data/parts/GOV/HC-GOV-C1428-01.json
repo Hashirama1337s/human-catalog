@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-C1428-01",
+ "year": 1428,
+ "yearEnd": 1521,
+ "dateLabel": "1428-1521",
+ "title": "Aztec Triple Alliance",
+ "system": "GOV",
+ "place": "Valley of Mexico, Mexico",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "Tenochtitlan, Tetzcoco and Tlacopan formed an alliance that ruled the Valley of Mexico and beyond.",
+ "why": "The empire overthrown by Spanish conquistadors and their native allies in 1521.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Aztec_Empire",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

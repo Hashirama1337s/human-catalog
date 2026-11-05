@@ -1,0 +1,29 @@
+{
+ "id": "HC-MED-C1543-01",
+ "year": 1543,
+ "yearEnd": null,
+ "dateLabel": "1543",
+ "title": "Vesalius's Fabrica remaps the human body",
+ "system": "MED",
+ "place": "Basel, Switzerland",
+ "region": "Europe",
+ "figures": [
+  "Andreas Vesalius"
+ ],
+ "summary": "Andreas Vesalius published a richly illustrated anatomy textbook based on his own dissections of human bodies.",
+ "why": "Corrected hundreds of Galen's errors by trusting direct study of human bodies over ancient authority.",
+ "interchange": [],
+ "supersedes": "Galen's anatomy",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/De_Humani_Corporis_Fabrica_Libri_Septem",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Founded modern anatomy' is not in the source; it says the Fabrica rectified about 300 of Galen's errors.",
+    "evidence": "https://en.wikipedia.org/wiki/De_Humani_Corporis_Fabrica_Libri_Septem"
+   }
+  ]
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "id": "HC-TRN-C1498-01",
+ "year": 1498,
+ "yearEnd": null,
+ "dateLabel": "20 May 1498",
+ "title": "Vasco da Gama reaches India by sea",
+ "system": "TRN",
+ "place": "Kozhikode (Calicut), India",
+ "region": "South Asia",
+ "figures": [
+  "Vasco da Gama"
+ ],
+ "summary": "Da Gama sailed around the Cape of Good Hope and across the Indian Ocean from Malindi to India.",
+ "why": "The first ocean route linking Europe and Asia.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "seafaring"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Vasco_da_Gama",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

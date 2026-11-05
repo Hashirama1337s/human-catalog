@@ -1,0 +1,21 @@
+{
+ "id": "HC-TEC-B2600-02",
+ "year": -2600,
+ "yearEnd": -1900,
+ "dateLabel": "c. 2600-1900 BCE (mature phase)",
+ "title": "Indus cities with drains and planned streets",
+ "system": "TEC",
+ "place": "Mohenjo-daro and Harappa, Pakistan",
+ "region": "South Asia",
+ "figures": [],
+ "summary": "The mature Indus Valley Civilisation built cities of baked brick with elaborate drainage and water-supply systems, across an area larger than Egypt and Mesopotamia combined.",
+ "why": "Some of the earliest urban sanitation known; its script is still undeciphered.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

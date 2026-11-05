@@ -1,0 +1,21 @@
+{
+ "id": "HC-ECO-C1602-01",
+ "year": 1602,
+ "yearEnd": null,
+ "dateLabel": "1602",
+ "title": "Dutch East India Company (VOC)",
+ "system": "ECO",
+ "place": "Amsterdam, Netherlands",
+ "region": "Europe",
+ "figures": [],
+ "summary": "The Dutch government chartered the VOC, a company whose shares ordinary investors could buy and sell.",
+ "why": "Template for the modern publicly traded corporation and stock market.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Dutch_East_India_Company",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

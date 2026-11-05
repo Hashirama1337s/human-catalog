@@ -1,0 +1,29 @@
+{
+ "id": "HC-GOV-B2300-01",
+ "year": -2300,
+ "yearEnd": -2154,
+ "dateLabel": "c. 2300 BCE",
+ "title": "Akkadian Empire, often called the first empire",
+ "system": "GOV",
+ "place": "Mesopotamia, Iraq (capital Akkad, site not yet found)",
+ "region": "West Asia",
+ "figures": [
+  "Sargon of Akkad"
+ ],
+ "summary": "Sargon of Akkad conquered the Sumerian city-states and united Akkadian and Sumerian speakers under one central government.",
+ "why": "Often seen as the first empire in world history.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Akkadian_Empire",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Place implies a known site; source: 'the location of its capital, the city of Akkad/Agade, is still unknown'.",
+    "evidence": "https://en.wikipedia.org/wiki/Akkadian_Empire"
+   }
+  ]
+ }
+}

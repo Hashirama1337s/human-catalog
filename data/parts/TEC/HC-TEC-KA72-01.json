@@ -1,0 +1,27 @@
+{
+ "id": "HC-TEC-KA72-01",
+ "year": -70050,
+ "yearEnd": -58050,
+ "dateLabel": "c. 72,000-60,000 years ago",
+ "title": "Bow and arrow (likely arrowheads)",
+ "system": "TEC",
+ "place": "Sibudu Cave, South Africa",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Likely stone arrowheads from Sibudu Cave suggest bow-and-arrow hunting. The earliest arrows are still argued over; possible points from Obi-Rakhmat, Uzbekistan (c. 80,000 years ago) are an older claim.",
+ "why": "The bow stored energy for long-range hunting and later warfare.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Bow_and_arrow",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "interchange not shown independent",
+    "evidence": "https://en.wikipedia.org/wiki/Bow_and_arrow"
+   }
+  ]
+ }
+}

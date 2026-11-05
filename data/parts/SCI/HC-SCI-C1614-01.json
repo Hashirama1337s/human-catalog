@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-C1614-01",
+ "year": 1614,
+ "yearEnd": null,
+ "dateLabel": "1614",
+ "title": "Logarithms published",
+ "system": "SCI",
+ "place": "Edinburgh, Scotland",
+ "region": "Europe",
+ "figures": [
+  "John Napier"
+ ],
+ "summary": "John Napier published tables of logarithms, which turn multiplication into easier addition.",
+ "why": "Made long calculations far faster for astronomers and navigators.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/John_Napier",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "HC-IDE-C350-01",
+ "year": 350,
+ "yearEnd": null,
+ "dateLabel": "mid-4th century CE",
+ "title": "Aksum adopts Christianity",
+ "system": "IDE",
+ "place": "Axum, Ethiopia",
+ "region": "Africa",
+ "figures": [
+  "Ezana"
+ ],
+ "summary": "Under King Ezana, Aksum made Christianity its state religion.",
+ "why": "Ethiopia became one of the oldest Christian nations.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Kingdom_of_Aksum",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

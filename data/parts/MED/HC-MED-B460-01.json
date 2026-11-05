@@ -1,0 +1,23 @@
+{
+ "id": "HC-MED-B460-01",
+ "year": -460,
+ "yearEnd": -370,
+ "dateLabel": "c. 460-370 BCE",
+ "title": "Hippocrates, 'father of medicine'",
+ "system": "MED",
+ "place": "Kos, Greece",
+ "region": "Europe",
+ "figures": [
+  "Hippocrates"
+ ],
+ "summary": "Hippocrates and his followers treated illness as natural rather than divine and stressed careful observation; the Hippocratic Oath is credited to him.",
+ "why": "Made medicine a profession with an ethical code still echoed by doctors today.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Hippocrates",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

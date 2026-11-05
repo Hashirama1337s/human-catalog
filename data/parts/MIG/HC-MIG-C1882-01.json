@@ -1,0 +1,23 @@
+{
+ "id": "HC-MIG-C1882-01",
+ "year": 1882,
+ "yearEnd": 1943,
+ "dateLabel": "1882-1943",
+ "title": "Chinese Exclusion Act",
+ "system": "MIG",
+ "place": "Washington, D.C., United States",
+ "region": "North America",
+ "figures": [
+  "Chester A. Arthur"
+ ],
+ "summary": "Signed on 6 May 1882, the Act banned immigration of Chinese labourers. It was the first US immigration law to target a specific nationality and was repealed only in 1943.",
+ "why": "The first US immigration law to target a specific nationality.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Chinese_Exclusion_Act",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

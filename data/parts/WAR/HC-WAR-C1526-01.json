@@ -1,0 +1,24 @@
+{
+ "id": "HC-WAR-C1526-01",
+ "year": 1526,
+ "yearEnd": null,
+ "dateLabel": "1526",
+ "title": "Babur founds the Mughal Empire at Panipat",
+ "system": "WAR",
+ "place": "Panipat, India",
+ "region": "South Asia",
+ "figures": [
+  "Babur",
+  "Ibrahim Lodi"
+ ],
+ "summary": "Babur, a ruler from Central Asia, defeated the Delhi Sultanate's army using field guns and founded the Mughal Empire.",
+ "why": "The Mughals ruled most of the Indian subcontinent for two centuries.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/First_Battle_of_Panipat",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

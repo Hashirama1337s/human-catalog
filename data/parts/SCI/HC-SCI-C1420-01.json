@@ -1,0 +1,33 @@
+{
+ "id": "HC-SCI-C1420-01",
+ "year": 1420,
+ "yearEnd": 1449,
+ "dateLabel": "1420s",
+ "title": "Ulugh Beg Observatory",
+ "system": "SCI",
+ "place": "Samarkand, Uzbekistan",
+ "region": "Central Asia",
+ "figures": [
+  "Ulugh Beg",
+  "Jamshid al-Kashi"
+ ],
+ "summary": "The Timurid ruler and astronomer Ulugh Beg built a great observatory; it was destroyed in 1449.",
+ "why": "Its school of astronomers was the last of its kind from the medieval Islamic period.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "astronomy"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ulugh_Beg_Observatory",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Last great observatory' is not in the source; it says the school 'was the last of its kind from the Islamic Medieval period'.",
+    "evidence": "https://en.wikipedia.org/wiki/Ulugh_Beg_Observatory"
+   }
+  ]
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "HC-WRT-B3300-01",
+ "year": -3300,
+ "yearEnd": null,
+ "dateLabel": "c. 3300 BCE",
+ "title": "Earliest known writing at Uruk (proto-cuneiform)",
+ "system": "WRT",
+ "place": "Uruk, Iraq",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "The first unequivocal written documents appear at Uruk. Most are accounting records.",
+ "why": "Writing let people store information outside memory: the start of recorded history.",
+ "interchange": [
+  "Egyptian hieroglyphs c. 3400-3200 BCE (independence debated)"
+ ],
+ "supersedes": "",
+ "tags": [
+  "writing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Cuneiform",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "'Writing invented at Uruk' exceeds source ('first unequivocal written documents'); Egyptian origin left open ('no definitive determination').",
+    "evidence": "https://en.wikipedia.org/wiki/Cuneiform"
+   }
+  ]
+ }
+}

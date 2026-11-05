@@ -1,0 +1,34 @@
+{
+ "id": "HC-MED-C2020-01",
+ "year": 2020,
+ "yearEnd": null,
+ "dateLabel": "2020",
+ "title": "First mRNA vaccines authorised",
+ "system": "MED",
+ "place": "United Kingdom",
+ "region": "Global",
+ "figures": [],
+ "summary": "In December 2020 the UK became the first country to authorise the Pfizer-BioNTech COVID-19 vaccine, the first mRNA vaccine authorised for use in humans.",
+ "why": "A new vaccine technology.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "vaccines"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Pfizer%E2%80%93BioNTech_COVID-19_vaccine",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Place 'Worldwide' over-broad (UK MHRA authorised first, 2 Dec 2020); title said 'approved' while summary said 'authorised'.",
+    "evidence": "https://en.wikipedia.org/wiki/MRNA_vaccine"
+   },
+   {
+    "problem": "Moderna 'approved the same month' is not in the source and was an emergency authorisation, not approval; source does state first mRNA vaccine authorised for humans.",
+    "evidence": "https://en.wikipedia.org/wiki/Pfizer%E2%80%93BioNTech_COVID-19_vaccine"
+   }
+  ]
+ }
+}

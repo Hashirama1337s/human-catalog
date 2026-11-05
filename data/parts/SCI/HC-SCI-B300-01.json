@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-B300-01",
+ "year": -300,
+ "yearEnd": null,
+ "dateLabel": "c. 300 BCE",
+ "title": "Euclid's Elements",
+ "system": "SCI",
+ "place": "Greek world (Euclid's life is little known)",
+ "region": "Europe",
+ "figures": [
+  "Euclid"
+ ],
+ "summary": "Euclid gathered Greek geometry and number theory into 13 books built from definitions, axioms and proofs.",
+ "why": "The oldest surviving large-scale deductive maths text; used as a textbook for over 2,000 years.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Euclid%27s_Elements",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

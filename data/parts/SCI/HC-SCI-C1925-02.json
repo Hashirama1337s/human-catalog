@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-C1925-02",
+ "year": 1925,
+ "yearEnd": null,
+ "dateLabel": "1925 (found 1924)",
+ "title": "Taung Child points to Africa as our cradle",
+ "system": "SCI",
+ "place": "Taung, South Africa",
+ "region": "Africa",
+ "figures": [
+  "Raymond Dart"
+ ],
+ "summary": "Raymond Dart described a small fossil skull from a South African lime quarry as Australopithecus africanus in Nature on 7 February 1925. It was among the first early human-relative fossils from Africa.",
+ "why": "The first fossil evidence that humanity's roots lie in Africa.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Taung_Child",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

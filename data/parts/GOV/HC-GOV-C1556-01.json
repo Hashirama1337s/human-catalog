@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1556-01",
+ "year": 1556,
+ "yearEnd": 1605,
+ "dateLabel": "1556-1605",
+ "title": "Reign of Akbar the Great",
+ "system": "GOV",
+ "place": "Agra, India",
+ "region": "South Asia",
+ "figures": [
+  "Akbar"
+ ],
+ "summary": "Mughal emperor Akbar expanded the empire across much of the Indian subcontinent and encouraged dialogue between religions.",
+ "why": "Built the Mughal state and a model of religious tolerance.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Akbar",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

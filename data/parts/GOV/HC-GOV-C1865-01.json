@@ -1,0 +1,29 @@
+{
+ "id": "HC-GOV-C1865-01",
+ "year": 1865,
+ "yearEnd": null,
+ "dateLabel": "1865",
+ "title": "Thirteenth Amendment ends US slavery",
+ "system": "GOV",
+ "place": "Washington, D.C., United States",
+ "region": "North America",
+ "figures": [
+  "Abraham Lincoln"
+ ],
+ "summary": "The US Constitution was amended to abolish slavery.",
+ "why": "Made slavery illegal throughout the United States, except as punishment for a crime.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Why omits the source's key exception: abolished slavery 'except as punishment for a crime'.",
+    "evidence": "https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution"
+   }
+  ]
+ }
+}

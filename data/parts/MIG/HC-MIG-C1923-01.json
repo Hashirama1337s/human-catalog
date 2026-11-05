@@ -1,0 +1,27 @@
+{
+ "id": "HC-MIG-C1923-01",
+ "year": 1923,
+ "yearEnd": null,
+ "dateLabel": "1923",
+ "title": "Greece-Turkey population exchange",
+ "system": "MIG",
+ "place": "Lausanne, Switzerland (Greece and Turkey)",
+ "region": "Europe",
+ "figures": [],
+ "summary": "A convention signed on 30 January 1923 made a compulsory exchange by religion: about 1.2 million Greek Orthodox Christians, many of whom had already fled, and 355,000-400,000 Muslims from Greece were displaced.",
+ "why": "A treaty-ordered mutual expulsion of over 1.5 million people, decided by religion.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Population_exchange_between_Greece_and_Turkey",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "'Swapped' and 'left' soften a compulsory expulsion (source: 'compulsory population exchange, or agreed mutual expulsion'); most Greeks had already fled before the formal exchange.",
+    "evidence": "https://en.wikipedia.org/wiki/Population_exchange_between_Greece_and_Turkey"
+   }
+  ]
+ }
+}

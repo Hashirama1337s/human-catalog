@@ -1,0 +1,24 @@
+{
+ "id": "HC-TEC-B250-01",
+ "year": -250,
+ "yearEnd": null,
+ "dateLabel": "by the 3rd century BCE",
+ "title": "Water wheel",
+ "system": "TEC",
+ "place": "Near East",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "Water wheels were used in the Near East by the 3rd century BCE to turn millstones for grinding grain.",
+ "why": "One of the first machines to use a natural power source other than muscle.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "wheels"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Water_wheel",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

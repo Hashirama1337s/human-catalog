@@ -1,0 +1,21 @@
+{
+ "id": "HC-IDE-B1500-01",
+ "year": -1500,
+ "yearEnd": -1000,
+ "dateLabel": "c. 1500-1000 BCE (composition)",
+ "title": "Rigveda composed",
+ "system": "IDE",
+ "place": "Northwestern Indian subcontinent",
+ "region": "South Asia",
+ "figures": [],
+ "summary": "Hymns in Vedic Sanskrit were composed and passed down orally with great precision; the Rigveda is the oldest of the four Vedas.",
+ "why": "The oldest Hindu scripture and among the oldest texts in any Indo-European language.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Rigveda",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

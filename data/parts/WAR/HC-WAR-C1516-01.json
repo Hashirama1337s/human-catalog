@@ -1,0 +1,29 @@
+{
+ "id": "HC-WAR-C1516-01",
+ "year": 1516,
+ "yearEnd": 1517,
+ "dateLabel": "1516-1517",
+ "title": "Ottomans conquer Mamluk Egypt and Syria",
+ "system": "WAR",
+ "place": "Marj Dabiq, Syria and Cairo, Egypt",
+ "region": "Africa",
+ "figures": [
+  "Selim I"
+ ],
+ "summary": "The Ottoman Empire under Selim I defeated the Mamluk Sultanate, which had ruled from Egypt.",
+ "why": "Brought Egypt, the Levant and the holy cities of the Hejaz under Ottoman rule.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Mamluk_War_(1516%E2%80%931517)",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Place too narrow: the decisive battle was Marj Dabiq in Syria (1516); Ridaniya was fought at the doorstep of Cairo (1517).",
+    "evidence": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Mamluk_War_(1516%E2%80%931517)"
+   }
+  ]
+ }
+}

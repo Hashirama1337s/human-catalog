@@ -1,0 +1,45 @@
+{
+ "id": "HC-RCL-C1150-01",
+ "year": 1150,
+ "yearEnd": 1722,
+ "dateLabel": "12th century – 1722 CE",
+ "title": "Did Rapa Nui collapse before Europeans came?",
+ "system": "RCL",
+ "place": "Rapa Nui (Easter Island)",
+ "region": "Oceania",
+ "figures": [
+  "Jared Diamond",
+  "Terry Hunt",
+  "Carl Lipo"
+ ],
+ "summary": "The ecocide story of a pre-contact collapse is highly controversial. Critics find no conclusive evidence of collapse before 1722 and blame later disease and slave raiding.",
+ "why": "Rapa Nui is the world's favourite parable of environmental self-destruction; the parable may be wrong.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "collapse",
+  "Polynesia",
+  "environment"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Easter_Island",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ },
+ "kind": "open",
+ "question": "Did Rapa Nui society collapse from deforestation before European contact, or only after it?",
+ "evidence": "Settlement best estimate 12th century; deforestation from land clearing and Polynesian rats; studies suggest steady population growth to 1722; a megadrought from about 1550 identified.",
+ "wouldSettle": "Dated settlement and population records across the island spanning 1550 to 1722.",
+ "theories": [
+  {
+   "name": "Ecocide collapse",
+   "idea": "Diamond: deforestation destabilised society before Europeans arrived."
+  },
+  {
+   "name": "Post-contact catastrophe",
+   "idea": "Hunt, Lipo and others: population grew until contact, then disease and slave raiding devastated it."
+  }
+ ]
+}

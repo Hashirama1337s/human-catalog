@@ -1,0 +1,23 @@
+{
+ "id": "HC-MED-C1972-01",
+ "year": 1972,
+ "yearEnd": null,
+ "dateLabel": "1972",
+ "title": "Artemisinin discovered",
+ "system": "MED",
+ "place": "Beijing, China",
+ "region": "East Asia",
+ "figures": [
+  "Tu Youyou"
+ ],
+ "summary": "Tu Youyou isolated artemisinin from sweet wormwood, inspired by traditional Chinese texts.",
+ "why": "Saved millions from malaria.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Tu_Youyou",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

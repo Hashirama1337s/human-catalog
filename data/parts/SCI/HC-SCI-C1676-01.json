@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-C1676-01",
+ "year": 1676,
+ "yearEnd": null,
+ "dateLabel": "1676",
+ "title": "Leeuwenhoek sees microorganisms",
+ "system": "SCI",
+ "place": "Delft, Netherlands",
+ "region": "Europe",
+ "figures": [
+  "Antonie van Leeuwenhoek"
+ ],
+ "summary": "Using his own powerful single-lens microscopes, Antonie van Leeuwenhoek described tiny living creatures in water.",
+ "why": "Discovered the world of microbes.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

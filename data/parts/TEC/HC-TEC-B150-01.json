@@ -1,0 +1,31 @@
+{
+ "id": "HC-TEC-B150-01",
+ "year": -150,
+ "yearEnd": null,
+ "dateLabel": "2nd century BCE",
+ "title": "Antikythera mechanism",
+ "system": "TEC",
+ "place": "Shipwreck off Antikythera, Greece",
+ "region": "Europe",
+ "figures": [],
+ "summary": "A hand-cranked bronze gear device that modelled the motions of the Sun and Moon and predicted eclipses; it may also have shown the five known planets.",
+ "why": "The oldest known analogue computer.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "astronomy",
+  "metalworking"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Antikythera_mechanism",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Planet display stated as fact; source calls planetary gearing speculation.",
+    "evidence": "https://en.wikipedia.org/wiki/Antikythera_mechanism"
+   }
+  ]
+ }
+}

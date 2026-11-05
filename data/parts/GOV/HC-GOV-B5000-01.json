@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-B5000-01",
+ "year": -5000,
+ "yearEnd": -3000,
+ "dateLabel": "c. 5000-3000 BCE",
+ "title": "Yangshao culture",
+ "system": "GOV",
+ "place": "Middle Yellow River, China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Millet farmers along the Yellow River live in villages like ditch-enclosed Banpo and make painted pottery.",
+ "why": "A founding farming culture of northern China.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Yangshao_culture",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

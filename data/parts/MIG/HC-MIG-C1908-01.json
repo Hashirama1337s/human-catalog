@@ -1,0 +1,21 @@
+{
+ "id": "HC-MIG-C1908-01",
+ "year": 1908,
+ "yearEnd": null,
+ "dateLabel": "1908",
+ "title": "Kasato Maru brings Japanese settlers to Brazil",
+ "system": "MIG",
+ "place": "Santos, Brazil",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "On 18 June 1908 the ship Kasato Maru reached Santos with 781 people, the first official group of Japanese immigrants to Brazil.",
+ "why": "The first official group of Japanese immigrants to Brazil.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Kasato_Maru",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

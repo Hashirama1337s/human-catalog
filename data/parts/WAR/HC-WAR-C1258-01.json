@@ -1,0 +1,24 @@
+{
+ "id": "HC-WAR-C1258-01",
+ "year": 1258,
+ "yearEnd": null,
+ "dateLabel": "1258 CE",
+ "title": "Mongols sack Baghdad",
+ "system": "WAR",
+ "place": "Baghdad, Iraq",
+ "region": "West Asia",
+ "figures": [
+  "Hulegu",
+  "al-Musta'sim"
+ ],
+ "summary": "A Mongol army under Hulegu took Baghdad and killed the last Abbasid caliph in Baghdad.",
+ "why": "Traditionally seen as the end of the Islamic Golden Age.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Siege_of_Baghdad",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

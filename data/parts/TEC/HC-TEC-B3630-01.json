@@ -1,0 +1,27 @@
+{
+ "id": "HC-TEC-B3630-01",
+ "year": -3630,
+ "yearEnd": null,
+ "dateLabel": "c. 3630 BCE",
+ "title": "Earliest surviving silk fabric",
+ "system": "TEC",
+ "place": "Qingtaicun, near Xingyang, Henan, China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "The earliest surviving silk fabric, wrapped around a child's body at a Yangshao culture site near Xingyang, dates to about 3630 BCE. Traces of silk protein at Jiahu are far older.",
+ "why": "Silk later drove trade routes across Eurasia.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Overclaim: summary says 'earliest evidence of silk garments'; cited timeline only says 'Silk garments (sericulture) in China' (3630 BC). Silk article: earliest silk evidence is Jiahu fibroin ~8,500 years ago; 3630 BC is the 'earliest surviving example of silk fabric' at Qingtaicun.",
+    "evidence": "https://en.wikipedia.org/wiki/Silk"
+   }
+  ]
+ }
+}

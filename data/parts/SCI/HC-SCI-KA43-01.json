@@ -1,0 +1,21 @@
+{
+ "id": "HC-SCI-KA43-01",
+ "year": -41050,
+ "yearEnd": -40050,
+ "dateLabel": "c. 43,000-42,000 years ago",
+ "title": "Lebombo bone (notched tally?)",
+ "system": "SCI",
+ "place": "Border Cave, South Africa-Eswatini",
+ "region": "Africa",
+ "figures": [],
+ "summary": "A notched bone, radiocarbon dated 24 times, has been suggested to be a tally stick. Its purpose is uncertain.",
+ "why": "Possibly among the earliest counting tools.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Lebombo_bone",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

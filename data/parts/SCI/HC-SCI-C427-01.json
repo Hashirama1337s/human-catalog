@@ -1,0 +1,27 @@
+{
+ "id": "HC-SCI-C427-01",
+ "year": 427,
+ "yearEnd": 1400,
+ "dateLabel": "427-c. 1400 CE",
+ "title": "Nalanda, great centre of learning",
+ "system": "SCI",
+ "place": "Nalanda, near Rajgir, Bihar, India",
+ "region": "South Asia",
+ "figures": [],
+ "summary": "A great Buddhist monastery and centre of learning that drew students from Tibet, China, Korea and Central Asia for almost a thousand years.",
+ "why": "Among the greatest centres of learning in the ancient world.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Nalanda_mahavihara",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Site is ~16 km north of Rajgir, not Rajgir; 'first residential university' label is challenged by scholars (source).",
+    "evidence": "https://en.wikipedia.org/wiki/Nalanda_mahavihara"
+   }
+  ]
+ }
+}

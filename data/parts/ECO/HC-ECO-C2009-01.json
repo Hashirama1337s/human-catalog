@@ -1,0 +1,26 @@
+{
+ "id": "HC-ECO-C2009-01",
+ "year": 2009,
+ "yearEnd": null,
+ "dateLabel": "2009",
+ "title": "Bitcoin launched",
+ "system": "ECO",
+ "place": "Internet",
+ "region": "Global",
+ "figures": [
+  "Satoshi Nakamoto"
+ ],
+ "summary": "The pseudonymous Satoshi Nakamoto launched Bitcoin, digital money with no central bank.",
+ "why": "The first decentralised digital currency.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "money"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Bitcoin",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

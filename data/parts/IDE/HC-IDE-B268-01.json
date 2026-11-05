@@ -1,0 +1,23 @@
+{
+ "id": "HC-IDE-B268-01",
+ "year": -268,
+ "yearEnd": -232,
+ "dateLabel": "c. 268-232 BCE",
+ "title": "Ashoka spreads Buddhism",
+ "system": "IDE",
+ "place": "Pataliputra (Patna), India",
+ "region": "South Asia",
+ "figures": [
+  "Ashoka"
+ ],
+ "summary": "After a bloody conquest, the Maurya emperor Ashoka became a patron of Buddhism and carved moral edicts across his empire.",
+ "why": "Helped turn Buddhism into a religion spread across Asia.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ashoka",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

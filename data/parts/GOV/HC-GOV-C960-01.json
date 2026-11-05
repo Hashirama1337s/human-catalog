@@ -1,0 +1,27 @@
+{
+ "id": "HC-GOV-C960-01",
+ "year": 960,
+ "yearEnd": 1279,
+ "dateLabel": "960-1279 CE",
+ "title": "Song dynasty",
+ "system": "GOV",
+ "place": "China",
+ "region": "East Asia",
+ "figures": [
+  "Emperor Taizu of Song"
+ ],
+ "summary": "Founded by Emperor Taizu, the Song ruled China during a time of innovation in printing, money and science.",
+ "why": "Saw paper money, movable type and navigation by compass.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "money",
+  "printing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Song_dynasty",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

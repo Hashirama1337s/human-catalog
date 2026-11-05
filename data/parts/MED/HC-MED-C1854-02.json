@@ -1,0 +1,23 @@
+{
+ "id": "HC-MED-C1854-02",
+ "year": 1854,
+ "yearEnd": 1860,
+ "dateLabel": "1854-1860",
+ "title": "Florence Nightingale and modern nursing",
+ "system": "MED",
+ "place": "Scutari (Istanbul), Turkey; London, England",
+ "region": "Europe",
+ "figures": [
+  "Florence Nightingale"
+ ],
+ "summary": "Nightingale reached the Scutari army hospital in November 1854 and reformed care of wounded soldiers. She pioneered statistical charts, and in 1860 founded the first secular nursing school, at St Thomas' Hospital, London.",
+ "why": "Laid the foundation of professional nursing and used charts to show what was killing patients.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Florence_Nightingale",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

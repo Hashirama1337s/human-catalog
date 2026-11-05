@@ -1,0 +1,45 @@
+{
+ "id": "HC-MIG-KA45-01",
+ "year": -43050,
+ "yearEnd": -41050,
+ "dateLabel": "c. 45,000-43,000 years ago",
+ "title": "Modern humans arrive in Europe",
+ "system": "MIG",
+ "place": "Europe",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Waves of Homo sapiens spread into Europe from about 45,000 years ago, where Neanderthals already live. Earlier short-lived incursions are known, such as Mandrin Cave, France, c. 54,000 years ago.",
+ "why": "Start of tens of thousands of years of shared and then sole occupation.",
+ "interchange": [],
+ "supersedes": "",
+ "route": [
+  [
+   32.7,
+   35.0
+  ],
+  [
+   39.0,
+   33.0
+  ],
+  [
+   42.9,
+   25.4
+  ],
+  [
+   48.0,
+   16.0
+  ]
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'first waves' contradicted by Mandrin Cave",
+    "evidence": "https://en.wikipedia.org/wiki/Cro-Magnon"
+   }
+  ]
+ }
+}

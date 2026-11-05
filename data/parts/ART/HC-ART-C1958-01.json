@@ -1,0 +1,23 @@
+{
+ "id": "HC-ART-C1958-01",
+ "year": 1958,
+ "yearEnd": null,
+ "dateLabel": "1958",
+ "title": "Achebe's Things Fall Apart",
+ "system": "ART",
+ "place": "Nigeria",
+ "region": "Africa",
+ "figures": [
+  "Chinua Achebe"
+ ],
+ "summary": "Chinua Achebe's novel shows life in an Igbo village before and after colonial arrival.",
+ "why": "One of the most translated works of literature in the world.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Things_Fall_Apart",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

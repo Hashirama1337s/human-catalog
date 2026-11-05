@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-B18-01",
+ "year": -18,
+ "yearEnd": 660,
+ "dateLabel": "18 BCE-660 CE",
+ "title": "Paekche kingdom",
+ "system": "GOV",
+ "place": "Southwestern Korea",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "One of the Three Kingdoms of Korea, with the largest population of the three.",
+ "why": "One of Korea's Three Kingdoms, with Goguryeo and Silla.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Paekche",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

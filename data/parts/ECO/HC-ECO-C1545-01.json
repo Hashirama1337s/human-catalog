@@ -1,0 +1,21 @@
+{
+ "id": "HC-ECO-C1545-01",
+ "year": 1545,
+ "yearEnd": null,
+ "dateLabel": "1545",
+ "title": "Silver discovered at Potosí",
+ "system": "ECO",
+ "place": "Potosí, Bolivia",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "A mountain of silver ore, the Cerro Rico, was found at Potosí in the Andes; Indigenous forced labour mined it for the Spanish crown.",
+ "why": "Its silver flooded world trade, from Spain to China.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Potos%C3%AD",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

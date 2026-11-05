@@ -1,0 +1,27 @@
+{
+ "id": "HC-GOV-C605-01",
+ "year": 605,
+ "yearEnd": null,
+ "dateLabel": "605 CE (Sui dynasty)",
+ "title": "Imperial examinations begin",
+ "system": "GOV",
+ "place": "China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "China began recruiting officials through written examinations; the Tang made the system regular.",
+ "why": "Made written exams a path into government, choosing officials by merit.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Imperial_examination",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Date: 581 is the Sui founding; source dates the origin of the exams to 605.",
+    "evidence": "https://en.wikipedia.org/wiki/Imperial_examination"
+   }
+  ]
+ }
+}

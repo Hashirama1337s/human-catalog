@@ -1,0 +1,27 @@
+{
+ "id": "HC-GOV-C1390-01",
+ "year": 1390,
+ "yearEnd": null,
+ "dateLabel": "c. 1390",
+ "title": "Kingdom of Kongo founded",
+ "system": "GOV",
+ "place": "Northern Angola, western DR Congo and Republic of the Congo",
+ "region": "Africa",
+ "figures": [],
+ "summary": "According to Kongo tradition, the kingdom was formed c. 1390 through a political marriage between rulers of two Kikongo-speaking peoples.",
+ "why": "A major Central African state, independent until 1862.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Kingdom_of_Kongo",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Founding marriage is oral tradition that the source says changed over time; place omitted Republic of the Congo.",
+    "evidence": "https://en.wikipedia.org/wiki/Kingdom_of_Kongo"
+   }
+  ]
+ }
+}

@@ -1,0 +1,56 @@
+name: Suggest a part
+description: Something that changed what people could do or think, and is missing.
+labels: [new-part]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Part title (60 characters or fewer)
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Date, as a careful book prints it
+      placeholder: c. 3300 BCE
+    validations:
+      required: true
+  - type: input
+    id: place
+    attributes:
+      label: Place and modern country
+    validations:
+      required: true
+  - type: dropdown
+    id: system
+    attributes:
+      label: System
+      options: [Origins & Migration, Tools & Technology, Food & Farming, Science & Mathematics, Medicine & Health, Writing & Records, "Art, Music & Story", Belief & Philosophy, "Power, Law & Government", "Trade, Money & Work", War & Conflict, Exploration & Transport, "Notices (plagues, eruptions, collapses)"]
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: What happened (1-2 plain sentences) and why it matters
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: A source you opened that states the date (link)
+    validations:
+      required: true
+  - type: dropdown
+    id: debated
+    attributes:
+      label: Do specialists argue about the date or claim?
+      options: ["No", "Yes", Not sure]
+    validations:
+      required: true
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Check
+      options:
+        - label: I wrote "earliest known" (not "first ever") and used my own words.
+          required: true

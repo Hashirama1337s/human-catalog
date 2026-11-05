@@ -1,0 +1,21 @@
+{
+ "id": "HC-MIG-KA18-01",
+ "year": -15550,
+ "yearEnd": -12650,
+ "dateLabel": "c. 17,500-14,600 years ago",
+ "title": "First Americans split into northern and southern branches",
+ "system": "MIG",
+ "place": "North America",
+ "region": "North America",
+ "figures": [],
+ "summary": "Genomes show Native Americans divided into northern and southern branches about 17,500-14,600 years ago. The founders were few, an effective size of about 70 by one estimate, then grew very fast.",
+ "why": "Almost all Indigenous peoples from Canada to Patagonia trace back to these two branches.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Genetic_history_of_Indigenous_peoples_of_the_Americas",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

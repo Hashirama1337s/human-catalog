@@ -1,0 +1,23 @@
+{
+ "id": "HC-ECO-C1978-01",
+ "year": 1978,
+ "yearEnd": null,
+ "dateLabel": "1978",
+ "title": "China's reform and opening",
+ "system": "ECO",
+ "place": "Beijing, China",
+ "region": "East Asia",
+ "figures": [
+  "Deng Xiaoping"
+ ],
+ "summary": "Deng Xiaoping began market reforms and opened China to foreign investment.",
+ "why": "Lifted hundreds of millions out of poverty.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Reform_and_opening_up",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

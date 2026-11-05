@@ -1,0 +1,21 @@
+{
+ "id": "HC-ECO-C1501-01",
+ "year": 1501,
+ "yearEnd": null,
+ "dateLabel": "16th century-19th century",
+ "title": "Atlantic slave trade",
+ "system": "ECO",
+ "place": "Central and West Africa to the Americas",
+ "region": "Africa",
+ "figures": [],
+ "summary": "European traders shipped enslaved Africans, mostly from Central and West Africa, across the Atlantic to the Americas from the 16th century well into the 19th. About 12.75 million people were loaded onto ships; up to 2 million died at sea.",
+ "why": "Millions of people were taken by force; the trade bound Africa, Europe and the Americas together through slavery.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Atlantic_slave_trade",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

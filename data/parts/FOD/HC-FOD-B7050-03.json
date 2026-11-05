@@ -1,0 +1,23 @@
+{
+ "id": "HC-FOD-B7050-03",
+ "year": -7050,
+ "yearEnd": null,
+ "dateLabel": "c. 9,000 years ago",
+ "title": "Farming begins in New Guinea",
+ "system": "FOD",
+ "place": "Kuk Swamp, Western Highlands, Papua New Guinea",
+ "region": "Oceania",
+ "figures": [],
+ "summary": "Drainage ditches at Kuk Swamp show early farming. UNESCO lists it as a place where people independently developed agriculture.",
+ "why": "Proof that farming was invented separately in several parts of the world.",
+ "interchange": [
+  "Farming also invented in the Fertile Crescent, China, Mesoamerica, the Andes and Africa"
+ ],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Kuk_Swamp",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

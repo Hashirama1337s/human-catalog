@@ -1,0 +1,27 @@
+{
+ "id": "HC-FOD-KA14-02",
+ "year": -12250,
+ "yearEnd": null,
+ "dateLabel": "c. 14,200 years ago",
+ "title": "Oldest agreed domestic dog",
+ "system": "FOD",
+ "place": "Bonn-Oberkassel, Germany",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Dog remains buried with people at Oberkassel are the oldest widely agreed domestic dog. Earlier dates around 23,000 years ago in Siberia are proposed.",
+ "why": "Probably the first domesticated animal, long before any crop.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "'The first domesticated animal' stated as fact; summary itself notes earlier proposed dates.",
+    "evidence": "https://en.wikipedia.org/wiki/Timeline_of_prehistory"
+   }
+  ]
+ }
+}

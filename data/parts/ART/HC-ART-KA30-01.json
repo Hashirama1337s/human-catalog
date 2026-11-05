@@ -1,0 +1,21 @@
+{
+ "id": "HC-ART-KA30-01",
+ "year": -28050,
+ "yearEnd": null,
+ "dateLabel": "c. 30,000 years ago",
+ "title": "Apollo 11 Cave painted slabs",
+ "system": "ART",
+ "place": "ǀAi-ǀAis/Richtersveld Transfrontier Park, Namibia",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Stone slabs drawn with animals, including a part-human, part-animal figure, are Africa's oldest figurative art.",
+ "why": "Figurative art in Africa as old as much of Europe's.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Apollo_11_Cave",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

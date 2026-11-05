@@ -1,0 +1,29 @@
+{
+ "id": "HC-WAR-C751-01",
+ "year": 751,
+ "yearEnd": null,
+ "dateLabel": "751 CE",
+ "title": "Battle of Talas",
+ "system": "WAR",
+ "place": "Talas River, Kyrgyzstan/Kazakhstan",
+ "region": "Central Asia",
+ "figures": [
+  "Gao Xianzhi"
+ ],
+ "summary": "An Abbasid army defeated a Tang Chinese army over control of Central Asia. Chinese captives are said to have brought papermaking to West Asia, though this is disputed.",
+ "why": "Marked the limit of Tang expansion westward.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Battle_of_Talas",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Samarkand as the papermaking site is not in source (source: 'peoples of West Asia').",
+    "evidence": "https://en.wikipedia.org/wiki/Battle_of_Talas"
+   }
+  ]
+ }
+}

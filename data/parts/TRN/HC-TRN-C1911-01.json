@@ -1,0 +1,29 @@
+{
+ "id": "HC-TRN-C1911-01",
+ "year": 1911,
+ "yearEnd": null,
+ "dateLabel": "1911",
+ "title": "First people at the South Pole",
+ "system": "TRN",
+ "place": "South Pole, Antarctica",
+ "region": "Global",
+ "figures": [
+  "Roald Amundsen"
+ ],
+ "summary": "Roald Amundsen's Norwegian team reached the South Pole, five weeks before Robert Falcon Scott's party.",
+ "why": "Won the race to the South Pole; Scott's party died on its return.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Amundsen%27s_South_Pole_expedition",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "'Conquered Earth's last great geographic goal' is not in the source.",
+    "evidence": "https://en.wikipedia.org/wiki/Amundsen%27s_South_Pole_expedition"
+   }
+  ]
+ }
+}

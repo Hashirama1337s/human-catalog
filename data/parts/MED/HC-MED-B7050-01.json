@@ -1,0 +1,21 @@
+{
+ "id": "HC-MED-B7050-01",
+ "year": -7050,
+ "yearEnd": -5550,
+ "dateLabel": "c. 9,000-7,500 years ago",
+ "title": "Drilled teeth (proto-dentistry)",
+ "system": "MED",
+ "place": "Mehrgarh, Pakistan",
+ "region": "South Asia",
+ "figures": [],
+ "summary": "Eleven molar crowns from nine adults show holes drilled in living people.",
+ "why": "Oldest evidence of drilling teeth in living people.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Mehrgarh",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

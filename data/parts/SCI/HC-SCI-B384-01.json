@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-B384-01",
+ "year": -384,
+ "yearEnd": -322,
+ "dateLabel": "384-322 BCE",
+ "title": "Aristotle",
+ "system": "SCI",
+ "place": "Athens, Greece (born Stagira)",
+ "region": "Europe",
+ "figures": [
+  "Aristotle"
+ ],
+ "summary": "Aristotle wrote on logic, biology, physics, politics, ethics and the arts, and founded the Lyceum school in Athens.",
+ "why": "Set the groundwork for the development of modern science.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Aristotle",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

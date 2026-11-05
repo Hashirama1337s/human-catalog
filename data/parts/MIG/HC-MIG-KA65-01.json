@@ -1,0 +1,24 @@
+{
+ "id": "HC-MIG-KA65-01",
+ "year": -63050,
+ "yearEnd": -45050,
+ "dateLabel": "c. 65,000-47,000 years ago",
+ "title": "Interbreeding with Neanderthals",
+ "system": "MIG",
+ "place": "Eurasia",
+ "region": "Global",
+ "figures": [],
+ "summary": "Modern humans and Neanderthals have children together. People outside Africa today carry roughly 1-4% Neanderthal DNA.",
+ "why": "Neanderthals did not fully vanish; part of their DNA lives on in billions of people.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Interbreeding_between_archaic_and_modern_humans",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

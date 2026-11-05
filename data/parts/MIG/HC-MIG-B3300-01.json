@@ -1,0 +1,38 @@
+{
+ "id": "HC-MIG-B3300-01",
+ "year": -3300,
+ "yearEnd": -2600,
+ "dateLabel": "c. 3300-2600 BCE",
+ "title": "Yamnaya herders spread from the steppe",
+ "system": "MIG",
+ "place": "Pontic-Caspian steppe (Ukraine, Russia) into Europe",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Ancient DNA shows steppe herders of the Yamnaya culture spread west; later Corded Ware people carried up to 75% Yamnaya-like ancestry. Whether they spoke early Indo-European is still argued.",
+ "why": "A major population shift in European prehistory, clearly visible in DNA.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "route": [
+  [
+   47.5,
+   40.0
+  ],
+  [
+   45.5,
+   28.0
+  ],
+  [
+   51.0,
+   12.0
+  ]
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Yamnaya_culture",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

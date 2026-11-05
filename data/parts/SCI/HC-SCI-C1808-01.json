@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-C1808-01",
+ "year": 1808,
+ "yearEnd": null,
+ "dateLabel": "1808",
+ "title": "Dalton's atomic theory",
+ "system": "SCI",
+ "place": "Manchester, England",
+ "region": "Europe",
+ "figures": [
+  "John Dalton"
+ ],
+ "summary": "John Dalton proposed that each element is made of its own kind of atom with a fixed weight.",
+ "why": "The basis of modern chemistry.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/John_Dalton",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

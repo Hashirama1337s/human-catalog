@@ -1,0 +1,21 @@
+{
+ "id": "HC-ART-B447-01",
+ "year": -447,
+ "yearEnd": -432,
+ "dateLabel": "447-432 BCE",
+ "title": "Parthenon built",
+ "system": "ART",
+ "place": "Acropolis, Athens, Greece",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Athens built a marble temple to Athena, completed in 438 BCE, with sculpture work continuing until 432 BCE.",
+ "why": "An enduring symbol of ancient Greece, Western civilisation and democracy.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Parthenon",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

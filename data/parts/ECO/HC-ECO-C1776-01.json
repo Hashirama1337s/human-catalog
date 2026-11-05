@@ -1,0 +1,23 @@
+{
+ "id": "HC-ECO-C1776-01",
+ "year": 1776,
+ "yearEnd": null,
+ "dateLabel": "1776",
+ "title": "Adam Smith's Wealth of Nations",
+ "system": "ECO",
+ "place": "Great Britain",
+ "region": "Europe",
+ "figures": [
+  "Adam Smith"
+ ],
+ "summary": "Adam Smith explained how division of labour and free markets create wealth.",
+ "why": "Founded modern economics.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/The_Wealth_of_Nations",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

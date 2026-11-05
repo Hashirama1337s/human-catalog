@@ -1,0 +1,29 @@
+{
+ "id": "HC-TRN-C1908-01",
+ "year": 1908,
+ "yearEnd": null,
+ "dateLabel": "1908",
+ "title": "Ford Model T",
+ "system": "TRN",
+ "place": "Detroit, United States",
+ "region": "North America",
+ "figures": [
+  "Henry Ford"
+ ],
+ "summary": "Ford introduced an affordable, sturdy car for ordinary people.",
+ "why": "Made car travel affordable for middle-class Americans.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ford_Model_T",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Put the world on wheels' overclaims; source: 'first mass-affordable automobile, which made car travel available to middle-class Americans'.",
+    "evidence": "https://en.wikipedia.org/wiki/Ford_Model_T"
+   }
+  ]
+ }
+}

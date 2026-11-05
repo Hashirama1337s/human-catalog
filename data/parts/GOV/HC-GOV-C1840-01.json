@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-C1840-01",
+ "year": 1840,
+ "yearEnd": null,
+ "dateLabel": "1840",
+ "title": "Treaty of Waitangi",
+ "system": "GOV",
+ "place": "Waitangi, New Zealand",
+ "region": "Oceania",
+ "figures": [],
+ "summary": "British representatives and Māori chiefs signed a treaty; its English and Māori versions differ in meaning.",
+ "why": "New Zealand's founding document.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Treaty_of_Waitangi",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

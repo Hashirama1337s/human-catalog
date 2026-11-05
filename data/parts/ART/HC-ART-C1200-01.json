@@ -1,0 +1,30 @@
+{
+ "id": "HC-ART-C1200-01",
+ "year": 1200,
+ "yearEnd": 1400,
+ "dateLabel": "1200-1400 CE",
+ "title": "Ife sculptures",
+ "system": "ART",
+ "place": "Ile-Ife, Nigeria",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Artists of Ife made naturalistic heads and figures in bronze, stone and terracotta.",
+ "why": "Celebrated examples of naturalism in pre-colonial African art.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "metalworking"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/If%E1%BA%B9",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Among the finest sculptures of medieval Africa' is not in source.",
+    "evidence": "https://en.wikipedia.org/wiki/If%E1%BA%B9"
+   }
+  ]
+ }
+}

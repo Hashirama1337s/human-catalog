@@ -1,0 +1,41 @@
+{
+ "id": "HC-RCL-KA13-03",
+ "year": -10950,
+ "yearEnd": -9750,
+ "dateLabel": "c. 12,900–11,700 years ago",
+ "title": "What triggered the Younger Dryas cold snap",
+ "system": "RCL",
+ "place": "North Atlantic and Northern Hemisphere",
+ "region": "Global",
+ "figures": [],
+ "summary": "Scientists agree a weakened Atlantic overturning circulation caused the chill, but the trigger is unsettled; the classic meltwater-flood route faces problems and the volcanic idea is unresolved.",
+ "why": "The cold snap struck just as people in West Asia began moving toward farming.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "climate",
+  "Ice Age",
+  "ocean circulation"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Younger_Dryas",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ },
+ "kind": "open",
+ "question": "What triggered the sudden Younger Dryas cooling 12,900 years ago?",
+ "evidence": "Cooling began about 12,870 years BP, ended about 11,700; Lake Agassiz and Mackenzie River meltwater routes proposed; no matching sea-level rise; no dated impact crater.",
+ "wouldSettle": "Dated sediment evidence of a meltwater flood or a volcanic marker exactly at the onset.",
+ "theories": [
+  {
+   "name": "Meltwater flood",
+   "idea": "Glacial lake water, via Lake Agassiz or the Mackenzie River, weakened the Atlantic circulation."
+  },
+  {
+   "name": "Volcanic trigger",
+   "idea": "An eruption started the cooling; the debate continues without conclusive proof or rejection."
+  }
+ ]
+}

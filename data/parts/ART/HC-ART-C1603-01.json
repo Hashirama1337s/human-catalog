@@ -1,0 +1,23 @@
+{
+ "id": "HC-ART-C1603-01",
+ "year": 1603,
+ "yearEnd": null,
+ "dateLabel": "1603",
+ "title": "Kabuki theatre begins",
+ "system": "ART",
+ "place": "Kyoto, Japan",
+ "region": "East Asia",
+ "figures": [
+  "Izumo no Okuni"
+ ],
+ "summary": "Izumo no Okuni began performing a new style of dance-drama in Kyoto.",
+ "why": "Kabuki became one of Japan's great performing arts.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Kabuki",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "HC-GOV-C1701-01",
+ "year": 1701,
+ "yearEnd": 1902,
+ "dateLabel": "1701-1902",
+ "title": "Asante Empire",
+ "system": "GOV",
+ "place": "Kumasi, Ghana",
+ "region": "Africa",
+ "figures": [
+  "Osei Tutu",
+  "Okomfo Anokye"
+ ],
+ "summary": "King Osei Tutu and his adviser Okomfo Anokye united the Asante, won independence from Denkyira in 1701, and made the Golden Stool their symbol of unity. Britain absorbed Asante into the Gold Coast colony in 1902.",
+ "why": "A powerful West African state that lasted about two centuries before British annexation.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Asante_Empire",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

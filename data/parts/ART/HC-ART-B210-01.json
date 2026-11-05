@@ -1,0 +1,23 @@
+{
+ "id": "HC-ART-B210-01",
+ "year": -210,
+ "yearEnd": -209,
+ "dateLabel": "210-209 BCE",
+ "title": "Terracotta Army",
+ "system": "ART",
+ "place": "Lintong, near Xi'an, China",
+ "region": "East Asia",
+ "figures": [
+  "Qin Shi Huang"
+ ],
+ "summary": "Thousands of life-size clay soldiers were buried with the first emperor to protect him in the afterlife.",
+ "why": "Rediscovered by farmers in 1974; one of the greatest archaeological finds.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Terracotta_Army",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

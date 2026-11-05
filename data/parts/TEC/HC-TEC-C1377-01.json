@@ -1,0 +1,30 @@
+{
+ "id": "HC-TEC-C1377-01",
+ "year": 1377,
+ "yearEnd": null,
+ "dateLabel": "1377",
+ "title": "Jikji: oldest surviving book printed with metal type",
+ "system": "TEC",
+ "place": "Heungdeok Temple, Korea",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "A Korean Buddhist anthology was printed with movable metal type during the Goryeo dynasty.",
+ "why": "The oldest surviving book printed with movable metal type, 78 years before Gutenberg's Bible.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "printing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Jikji",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Title drops 'surviving': source says 'oldest extant book printed with movable metal type'; earlier metal-type printing is not ruled out.",
+    "evidence": "https://en.wikipedia.org/wiki/Jikji"
+   }
+  ]
+ }
+}

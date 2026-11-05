@@ -1,0 +1,21 @@
+{
+ "id": "HC-WAR-B8550-01",
+ "year": -8550,
+ "yearEnd": -7550,
+ "dateLabel": "c. 10,500-9,500 years ago",
+ "title": "Nataruk killings",
+ "system": "WAR",
+ "place": "Nataruk, Turkana County, Kenya",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Remains of 27 people found by Lake Turkana are read by some as a massacre of foragers. Others dispute this.",
+ "why": "If a massacre, it shows warfare among hunter-gatherers.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Nataruk",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

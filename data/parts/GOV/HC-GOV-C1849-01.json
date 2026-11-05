@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1849-01",
+ "year": 1849,
+ "yearEnd": null,
+ "dateLabel": "1849-1860s",
+ "title": "Harriet Tubman's escape and rescues",
+ "system": "GOV",
+ "place": "Maryland to Philadelphia, United States",
+ "region": "North America",
+ "figures": [
+  "Harriet Tubman"
+ ],
+ "summary": "Harriet Tubman escaped slavery to Philadelphia in 1849, then made about 13 missions back to free about 70 people using the Underground Railroad. Her later Combahee River Raid freed more than 700.",
+ "why": "Widely credited as the first woman to lead an armed military operation in the United States.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Harriet_Tubman",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

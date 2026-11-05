@@ -1,0 +1,23 @@
+{
+ "id": "HC-MED-C1250-01",
+ "year": 1250,
+ "yearEnd": null,
+ "dateLabel": "13th century",
+ "title": "Ibn al-Nafis describes pulmonary circulation",
+ "system": "MED",
+ "place": "Cairo, Egypt (born Damascus)",
+ "region": "Africa",
+ "figures": [
+  "Ibn al-Nafis"
+ ],
+ "summary": "Ibn al-Nafis described blood flowing through the lungs between the heart's chambers.",
+ "why": "Centuries before William Harvey's 1628 work.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ibn_al-Nafis",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

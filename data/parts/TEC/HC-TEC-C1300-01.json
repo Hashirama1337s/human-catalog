@@ -1,0 +1,31 @@
+{
+ "id": "HC-TEC-C1300-01",
+ "year": 1300,
+ "yearEnd": null,
+ "dateLabel": "c. 1300",
+ "title": "Mechanical clocks in Europe",
+ "system": "TEC",
+ "place": "Europe",
+ "region": "Europe",
+ "figures": [],
+ "summary": "The verge escapement made Europe's first mechanical clocks possible around 1300. Chinese water-driven clocks had used escapements since 723.",
+ "why": "The escapement marked the beginning of the true mechanical clock in Europe.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Clock",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Why overclaims: same source describes Chinese water-driven clockwork escapements from 723 and Su Song's 1088 clock tower; it says the escapement 'marks the beginning of the true mechanical clock'.",
+    "evidence": "https://en.wikipedia.org/wiki/Clock"
+   },
+   {
+    "problem": "Same source credits Yi Xing (723) with the world's first clockwork escapement; 'weight-driven' not in source.",
+    "evidence": "https://en.wikipedia.org/wiki/Clock"
+   }
+  ]
+ }
+}

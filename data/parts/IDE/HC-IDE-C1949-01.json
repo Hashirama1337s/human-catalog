@@ -1,0 +1,23 @@
+{
+ "id": "HC-IDE-C1949-01",
+ "year": 1949,
+ "yearEnd": null,
+ "dateLabel": "1949",
+ "title": "Beauvoir's The Second Sex",
+ "system": "IDE",
+ "place": "France",
+ "region": "Europe",
+ "figures": [
+  "Simone de Beauvoir"
+ ],
+ "summary": "Simone de Beauvoir argued that men are treated as the default human and women as the Other, and that women's subordination comes from society and history, not biology alone.",
+ "why": "Described as the starting inspiration of second-wave feminism.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/The_Second_Sex",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

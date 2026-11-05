@@ -1,0 +1,32 @@
+{
+ "id": "HC-SCI-C1938-01",
+ "year": 1938,
+ "yearEnd": null,
+ "dateLabel": "1938",
+ "title": "Nuclear fission discovered",
+ "system": "SCI",
+ "place": "Berlin, Germany",
+ "region": "Europe",
+ "figures": [
+  "Otto Hahn",
+  "Lise Meitner",
+  "Fritz Strassmann",
+  "Otto Frisch"
+ ],
+ "summary": "Hahn and Strassmann split uranium atoms; Meitner and Otto Frisch explained it.",
+ "why": "Led to nuclear power and nuclear weapons.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Nuclear_fission",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Summary names Otto Frisch (co-explainer per source) but figures omit him.",
+    "evidence": "https://en.wikipedia.org/wiki/Nuclear_fission"
+   }
+  ]
+ }
+}

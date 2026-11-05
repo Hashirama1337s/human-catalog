@@ -1,0 +1,29 @@
+{
+ "id": "HC-GOV-B51-01",
+ "year": -51,
+ "yearEnd": -30,
+ "dateLabel": "51-30 BCE",
+ "title": "Cleopatra, last Hellenistic pharaoh",
+ "system": "GOV",
+ "place": "Alexandria, Egypt",
+ "region": "Africa",
+ "figures": [
+  "Cleopatra VII"
+ ],
+ "summary": "Cleopatra ruled Ptolemaic Egypt from 51 to 30 BCE and is the only Ptolemaic ruler known to have learned Egyptian. After her death in Alexandria in 30 BCE, Egypt became a Roman province.",
+ "why": "Her death marks the end of the Hellenistic period.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Cleopatra",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source says 'only Ptolemaic ruler known to have learned the Egyptian language', not 'first'.",
+    "evidence": "https://en.wikipedia.org/wiki/Cleopatra"
+   }
+  ]
+ }
+}

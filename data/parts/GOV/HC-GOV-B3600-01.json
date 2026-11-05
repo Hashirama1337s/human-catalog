@@ -1,0 +1,27 @@
+{
+ "id": "HC-GOV-B3600-01",
+ "year": -3600,
+ "yearEnd": null,
+ "dateLabel": "c. 3600 BCE",
+ "title": "Earliest known monumental buildings in coastal Peru",
+ "system": "GOV",
+ "place": "Sechin Bajo, coastal Peru",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "Sechin Bajo has the earliest known monumental buildings of coastal Peru.",
+ "why": "Large-scale building in South America by 3600 BCE.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "'First' priority claims for Andean monumental architecture shift with new finds; use 'earliest known'.",
+    "evidence": "https://en.wikipedia.org/wiki/Timeline_of_prehistory"
+   }
+  ]
+ }
+}

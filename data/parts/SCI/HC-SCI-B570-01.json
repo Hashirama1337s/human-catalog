@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-B570-01",
+ "year": -570,
+ "yearEnd": -495,
+ "dateLabel": "c. 570-495 BCE",
+ "title": "Pythagoras and his school",
+ "system": "SCI",
+ "place": "Croton, Italy (born Samos, Greece)",
+ "region": "Europe",
+ "figures": [
+  "Pythagoras"
+ ],
+ "summary": "Pythagoras founded a school at Croton around 530 BCE; his political and religious teachings spread through southern Italy.",
+ "why": "Influenced Plato and Aristotle; his name is tied to the famous right-triangle theorem.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Pythagoras",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

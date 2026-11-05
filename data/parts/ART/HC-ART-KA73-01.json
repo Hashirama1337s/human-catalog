@@ -1,0 +1,27 @@
+{
+ "id": "HC-ART-KA73-01",
+ "year": -71050,
+ "yearEnd": null,
+ "dateLabel": "c. 73,000 years ago",
+ "title": "Oldest known drawing",
+ "system": "ART",
+ "place": "Blombos Cave, Western Cape, South Africa",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Nine red lines drawn with an ochre crayon on a small rock fragment. Engraved ochre pieces from the same cave are 70,000-100,000 years old.",
+ "why": "Deliberate abstract marks: among the earliest known visual symbols.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Blombos_Cave",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'The start of visual symbols' contradicts the record's own summary: engraved ochre from the same cave is older (70,000-100,000 years).",
+    "evidence": "https://en.wikipedia.org/wiki/Blombos_Cave"
+   }
+  ]
+ }
+}

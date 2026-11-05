@@ -1,0 +1,27 @@
+{
+ "id": "HC-MIG-KA315-01",
+ "year": -313050,
+ "yearEnd": null,
+ "dateLabel": "c. 315,000 years ago",
+ "title": "Earliest known Homo sapiens",
+ "system": "MIG",
+ "place": "Jebel Irhoud, Morocco",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Fossils first thought to be Neanderthal are now assigned to our species, making them the oldest known. Some scientists still question the classification.",
+ "why": "Pushed the likely origin of our species back about 100,000 years and suggested it may have emerged across Africa.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Jebel_Irhoud",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "classification disputed; why overstated",
+    "evidence": "https://en.wikipedia.org/wiki/Jebel_Irhoud"
+   }
+  ]
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1957-01",
+ "year": 1957,
+ "yearEnd": null,
+ "dateLabel": "1957",
+ "title": "Ghana wins independence",
+ "system": "GOV",
+ "place": "Accra, Ghana",
+ "region": "Africa",
+ "figures": [
+  "Kwame Nkrumah"
+ ],
+ "summary": "Ghana became independent from Britain under Kwame Nkrumah.",
+ "why": "Inspired independence movements across Africa.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ghana",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

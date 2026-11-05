@@ -1,0 +1,23 @@
+{
+ "id": "HC-MIG-C1620-01",
+ "year": 1620,
+ "yearEnd": null,
+ "dateLabel": "1620",
+ "title": "Mayflower reaches New England",
+ "system": "MIG",
+ "place": "Plymouth, Massachusetts, United States",
+ "region": "North America",
+ "figures": [
+  "William Bradford"
+ ],
+ "summary": "The ship Mayflower carried English Pilgrims across the Atlantic to found Plymouth Colony.",
+ "why": "A founding story of the United States.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Mayflower",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

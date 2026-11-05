@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-C1949-01",
+ "year": 1949,
+ "yearEnd": null,
+ "dateLabel": "1949",
+ "title": "Radiocarbon dating",
+ "system": "SCI",
+ "place": "University of Chicago, United States",
+ "region": "North America",
+ "figures": [
+  "Willard Libby"
+ ],
+ "summary": "Willard Libby's team showed that the slow decay of carbon-14 can date once-living material, publishing tests on Egyptian tomb samples in 1949. It works back to about 50,000 years. Nobel Prize 1960.",
+ "why": "Gave the human story its first reliable clock.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Radiocarbon_dating",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

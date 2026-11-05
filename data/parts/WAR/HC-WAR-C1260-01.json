@@ -1,0 +1,21 @@
+{
+ "id": "HC-WAR-C1260-01",
+ "year": 1260,
+ "yearEnd": null,
+ "dateLabel": "3 September 1260",
+ "title": "Battle of Ain Jalut",
+ "system": "WAR",
+ "place": "Jezreel Valley, Israel",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "The Mamluks of Egypt defeated a Mongol army in Galilee.",
+ "why": "The first major halt to the Mongol advance.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Battle_of_Ain_Jalut",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

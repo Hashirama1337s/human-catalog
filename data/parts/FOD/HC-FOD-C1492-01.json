@@ -1,0 +1,24 @@
+{
+ "id": "HC-FOD-C1492-01",
+ "year": 1492,
+ "yearEnd": null,
+ "dateLabel": "from 1492",
+ "title": "Columbian exchange begins",
+ "system": "FOD",
+ "place": "Americas and Afro-Eurasia",
+ "region": "Global",
+ "figures": [],
+ "summary": "Plants, animals and diseases began crossing between the Americas and Afro-Eurasia after Columbus's 1492 voyage.",
+ "why": "Moved crops, livestock and diseases between hemispheres, changing life on both sides.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "seafaring"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Columbian_exchange",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

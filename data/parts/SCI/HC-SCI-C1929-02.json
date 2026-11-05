@@ -1,0 +1,29 @@
+{
+ "id": "HC-SCI-C1929-02",
+ "year": 1929,
+ "yearEnd": null,
+ "dateLabel": "1929",
+ "title": "Clovis site discovered in New Mexico",
+ "system": "SCI",
+ "place": "Blackwater Draw, near Clovis, New Mexico, United States",
+ "region": "North America",
+ "figures": [
+  "Ridgely Whiteman"
+ ],
+ "summary": "Nineteen-year-old Ridgely Whiteman found the Clovis site. For decades Clovis people were thought to be the first Americans; most researchers now reject this, as several sites are at least 1,000 years older.",
+ "why": "Shows how one site shaped, and then misled, the story of the first Americans.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Clovis_culture",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Abandoned after the early 2000s' unsupported; source says Clovis First is 'today ... generally rejected' with no date (Monte Verde was accepted in the late 1990s).",
+    "evidence": "https://en.wikipedia.org/wiki/Clovis_culture"
+   }
+  ]
+ }
+}

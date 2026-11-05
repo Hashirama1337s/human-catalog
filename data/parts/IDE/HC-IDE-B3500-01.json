@@ -1,0 +1,27 @@
+{
+ "id": "HC-IDE-B3500-01",
+ "year": -3500,
+ "yearEnd": null,
+ "dateLabel": "c. 3500 BCE",
+ "title": "Early deliberate mummification in Egypt",
+ "system": "IDE",
+ "place": "Egypt",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Egyptians begin deliberately preserving the dead with linen wrappings and resin-based embalming oils; a Turin mummy about 5,600 years old shows the practice. Older mummies are known from Chile and Southeast Asia.",
+ "why": "Start of a practice central to Egyptian religion for millennia.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Title drops the source's qualifier ('First evidence of mummification in Egypt', Timeline of prehistory, 3500 BC). Mummy article: Chinchorro child mummy c. 5050 BC and smoke-dried mummies ~10,000 BC are older.",
+    "evidence": "https://en.wikipedia.org/wiki/Mummy"
+   }
+  ]
+ }
+}

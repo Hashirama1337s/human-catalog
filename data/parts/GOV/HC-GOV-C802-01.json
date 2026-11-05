@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C802-01",
+ "year": 802,
+ "yearEnd": 1431,
+ "dateLabel": "802-1431 CE",
+ "title": "Khmer Empire",
+ "system": "GOV",
+ "place": "Angkor, Cambodia",
+ "region": "Southeast Asia",
+ "figures": [
+  "Jayavarman II"
+ ],
+ "summary": "Jayavarman II declared himself universal ruler, founding an empire of water-managed cities.",
+ "why": "Ruled most of mainland Southeast Asia.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Khmer_Empire",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

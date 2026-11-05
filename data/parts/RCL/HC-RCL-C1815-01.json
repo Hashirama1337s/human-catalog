@@ -1,0 +1,21 @@
+{
+ "id": "HC-RCL-C1815-01",
+ "year": 1815,
+ "yearEnd": null,
+ "dateLabel": "1815",
+ "title": "Mount Tambora eruption",
+ "system": "RCL",
+ "place": "Sumbawa, Indonesia",
+ "region": "Southeast Asia",
+ "figures": [],
+ "summary": "The most powerful volcanic eruption in recorded history; its ash cooled the world, causing the 'Year Without a Summer' in 1816.",
+ "why": "Caused crop failures and famine far beyond Indonesia.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/1815_eruption_of_Mount_Tambora",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

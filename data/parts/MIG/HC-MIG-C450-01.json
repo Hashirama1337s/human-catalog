@@ -1,0 +1,48 @@
+{
+ "id": "HC-MIG-C450-01",
+ "year": 450,
+ "yearEnd": 1100,
+ "dateLabel": "c. 1,500 years ago (left India); Balkans c. 900 years ago",
+ "title": "Romani ancestors leave northwestern India",
+ "system": "MIG",
+ "place": "Northwestern South Asia to the Balkans",
+ "region": "South Asia",
+ "figures": [],
+ "summary": "Genetic studies (2012) suggest the Roma descend from a single group that left northwestern India about 1,500 years ago and reached the Balkans about 900 years ago. Historians often place the departure around 1000 CE.",
+ "why": "Genes and language agree that the Roma came from India.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "route": [
+  [
+   30.0,
+   74.0
+  ],
+  [
+   32.0,
+   53.0
+  ],
+  [
+   39.0,
+   35.0
+  ],
+  [
+   43.0,
+   22.0
+  ]
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Romani_people",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Europe's largest minority' is not in the cited source.",
+    "evidence": "https://en.wikipedia.org/wiki/Romani_people"
+   }
+  ]
+ }
+}

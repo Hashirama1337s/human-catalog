@@ -1,0 +1,32 @@
+{
+ "id": "HC-WRT-B250-03",
+ "year": -250,
+ "yearEnd": null,
+ "dateLabel": "3rd century BCE (earliest inscriptions)",
+ "title": "Maya script",
+ "system": "WRT",
+ "place": "San Bartolo, Guatemala",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "The earliest identifiably Maya inscriptions date to the 3rd century BCE; Maya writing was used until the Spanish conquest.",
+ "why": "The only Mesoamerican writing system substantially deciphered.",
+ "interchange": [
+  "Four independent inventions of writing are most commonly recognised: Mesopotamia (c. 3400-3100 BCE), Egypt (c. 3250 BCE, still debated), China and Mesoamerica"
+ ],
+ "supersedes": "",
+ "tags": [
+  "writing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Maya_script",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Same over-strong interchange as era-B 33: 'at least four times', and Egypt's independence is not settled (History of writing).",
+    "evidence": "https://en.wikipedia.org/wiki/History_of_writing"
+   }
+  ]
+ }
+}

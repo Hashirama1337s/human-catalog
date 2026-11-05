@@ -1,0 +1,23 @@
+{
+ "id": "HC-WAR-C1591-01",
+ "year": 1591,
+ "yearEnd": null,
+ "dateLabel": "1591",
+ "title": "Battle of Tondibi ends the Songhai Empire",
+ "system": "WAR",
+ "place": "Tondibi, Mali",
+ "region": "Africa",
+ "figures": [
+  "Ahmad al-Mansur"
+ ],
+ "summary": "A Moroccan army armed with guns defeated the much larger Songhai army near the Niger River.",
+ "why": "Brought down the Songhai Empire of West Africa.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Battle_of_Tondibi",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

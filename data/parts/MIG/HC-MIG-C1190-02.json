@@ -1,0 +1,38 @@
+{
+ "id": "HC-MIG-C1190-02",
+ "year": 1190,
+ "yearEnd": 1290,
+ "dateLabel": "c. 1190-1290 CE",
+ "title": "Polynesians reach Rapa Nui (Easter Island)",
+ "system": "MIG",
+ "place": "Rapa Nui (Easter Island), Chile",
+ "region": "Oceania",
+ "figures": [],
+ "summary": "Rapa Nui was settled in the same burst of voyaging, about 1190-1290 CE by the 2011 study.",
+ "why": "The eastern tip of the Polynesian triangle, closest to South America.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "seafaring"
+ ],
+ "route": [
+  [
+   -17.5,
+   -149.8
+  ],
+  [
+   -23.1,
+   -135.0
+  ],
+  [
+   -27.1,
+   -109.4
+  ]
+ ],
+ "confidence": "debated",
+ "source": "https://manoa.hawaii.edu/news/article.php?aId=4097",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

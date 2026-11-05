@@ -1,0 +1,27 @@
+{
+ "id": "HC-SCI-C2017-01",
+ "year": 2017,
+ "yearEnd": null,
+ "dateLabel": "June 2017",
+ "title": "Jebel Irhoud redated to c. 315,000 years",
+ "system": "SCI",
+ "place": "Jebel Irhoud, Morocco",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Fossils found in 1961, once thought about 40,000 years old, were dated to about 315,000 years. If they are Homo sapiens, as most researchers accept but some dispute, they are the oldest known of our species.",
+ "why": "Our species turned out far older than once thought.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Jebel_Irhoud",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "oldest claim stated flat",
+    "evidence": "https://en.wikipedia.org/wiki/Jebel_Irhoud"
+   }
+  ]
+ }
+}

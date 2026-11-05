@@ -1,0 +1,24 @@
+{
+ "id": "HC-FOD-B8000-01",
+ "year": -8000,
+ "yearEnd": null,
+ "dateLabel": "c. 8000 BCE",
+ "title": "Goats domesticated",
+ "system": "FOD",
+ "place": "Fertile Crescent",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "The earliest suggested dates for domesticating goats.",
+ "why": "Hardy animals for milk, meat and hair in dry lands.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "domestication"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

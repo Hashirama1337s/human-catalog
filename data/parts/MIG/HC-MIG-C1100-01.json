@@ -1,0 +1,45 @@
+{
+ "id": "HC-MIG-C1100-01",
+ "year": 1100,
+ "yearEnd": 1300,
+ "dateLabel": "12th–13th century CE",
+ "title": "Why the Ancestral Puebloans left the Four Corners",
+ "system": "MIG",
+ "place": "Four Corners, United States",
+ "region": "North America",
+ "figures": [],
+ "summary": "The main reason the Ancestral Puebloans moved away is unclear, though one consensus view combines pressure from newcomers with climate-driven crop failures.",
+ "why": "Whole regions of homes were left behind within about two centuries.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "migration",
+  "North America",
+  "climate"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Ancestral_Puebloans",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ },
+ "kind": "open",
+ "question": "Why did the Ancestral Puebloans leave their cliff and canyon homes in the 12th and 13th centuries?",
+ "evidence": "Departures during the 12th and 13th centuries; proposed causes include drought, soil erosion, deforestation, hostile newcomers and religious change.",
+ "wouldSettle": "Tree-ring dated records of drought, violence and migration compared across sites.",
+ "theories": [
+  {
+   "name": "Drought and climate",
+   "idea": "Prolonged drought and climate change caused crop failures."
+  },
+  {
+   "name": "Numic newcomers",
+   "idea": "Pressure from Numic-speaking peoples moving onto the Colorado Plateau pushed them out."
+  },
+  {
+   "name": "Religious or cultural change",
+   "idea": "Changing beliefs, perhaps with Mesoamerican influence, drew people elsewhere."
+  }
+ ]
+}

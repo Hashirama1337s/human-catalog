@@ -1,0 +1,52 @@
+{
+ "id": "HC-IDE-B3100-01",
+ "year": -3100,
+ "yearEnd": -1600,
+ "dateLabel": "c. 3100–1600 BCE",
+ "title": "What Stonehenge was for",
+ "system": "IDE",
+ "place": "Wiltshire, England",
+ "region": "Europe",
+ "figures": [
+  "Mike Parker Pearson",
+  "Timothy Darvill"
+ ],
+ "summary": "Many aspects of Stonehenge, including how it was built and what it was used for, remain subject to debate. Its builders left no written records.",
+ "why": "It is Europe's most famous prehistoric monument, built over fifteen centuries.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "monuments",
+  "Neolithic",
+  "ritual"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Stonehenge",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ },
+ "kind": "open",
+ "question": "What was Stonehenge for, and how were its stones moved?",
+ "evidence": "Begun about 3100 BCE; sarsen circle 2600–2400 BCE; bluestones placed 2400–2200 BCE; aligned on solstices; cremation cemetery in an early phase.",
+ "wouldSettle": "Excavated evidence of transport routes and of activities at the site, dated phase by phase.",
+ "theories": [
+  {
+   "name": "Monument to the dead",
+   "idea": "A burial and cremation site; nearby Durrington Walls represented the living."
+  },
+  {
+   "name": "Solar calendar or observatory",
+   "idea": "Its solstice alignments suggest a celestial observatory function."
+  },
+  {
+   "name": "Healing centre",
+   "idea": "Wainwright and Darvill proposed a prehistoric healing site, like Lourdes."
+  },
+  {
+   "name": "Symbol of unification",
+   "idea": "It marked peace and unity as Neolithic Britain culturally unified."
+  }
+ ]
+}

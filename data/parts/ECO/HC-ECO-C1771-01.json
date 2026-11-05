@@ -1,0 +1,29 @@
+{
+ "id": "HC-ECO-C1771-01",
+ "year": 1771,
+ "yearEnd": null,
+ "dateLabel": "1771",
+ "title": "Arkwright's Cromford Mill",
+ "system": "ECO",
+ "place": "Cromford, England",
+ "region": "Europe",
+ "figures": [
+  "Richard Arkwright"
+ ],
+ "summary": "Richard Arkwright built the first successful water-powered cotton spinning mill, with houses built nearby for its workers.",
+ "why": "A model for the factory system of the Industrial Revolution.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Cromford_Mill",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source itself says 'not that it was the first but that it was the first successful cotton spinning factory'.",
+    "evidence": "https://en.wikipedia.org/wiki/Cromford_Mill"
+   }
+  ]
+ }
+}

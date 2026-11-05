@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-B508-01",
+ "year": -508,
+ "yearEnd": -507,
+ "dateLabel": "508-507 BCE",
+ "title": "Cleisthenes' reforms: Athenian democracy",
+ "system": "GOV",
+ "place": "Athens, Greece",
+ "region": "Europe",
+ "figures": [
+  "Cleisthenes"
+ ],
+ "summary": "Cleisthenes broke the power of noble families and gave every free adult male citizen a share in ruling the city.",
+ "why": "The best-known early democracy, though women, slaves and foreigners were excluded.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Athenian_democracy",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

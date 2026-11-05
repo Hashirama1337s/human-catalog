@@ -1,0 +1,24 @@
+{
+ "id": "HC-GOV-C1910-01",
+ "year": 1910,
+ "yearEnd": 1920,
+ "dateLabel": "1910-1920",
+ "title": "Mexican Revolution",
+ "system": "GOV",
+ "place": "Mexico",
+ "region": "North America",
+ "figures": [
+  "Emiliano Zapata",
+  "Pancho Villa"
+ ],
+ "summary": "A long civil war overthrew dictator Porfirio Díaz and led to a new constitution in 1917.",
+ "why": "Reshaped modern Mexico.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Mexican_Revolution",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

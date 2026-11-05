@@ -1,0 +1,26 @@
+{
+ "id": "HC-SCI-C1859-01",
+ "year": 1859,
+ "yearEnd": null,
+ "dateLabel": "1859",
+ "title": "Darwin's On the Origin of Species",
+ "system": "SCI",
+ "place": "London, England",
+ "region": "Europe",
+ "figures": [
+  "Charles Darwin",
+  "Alfred Russel Wallace"
+ ],
+ "summary": "Darwin argued that species evolve over generations by natural selection.",
+ "why": "The unifying idea of biology.",
+ "interchange": [
+  "Alfred Russel Wallace reached natural selection independently in Southeast Asia (joint papers 1858)"
+ ],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/On_the_Origin_of_Species",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

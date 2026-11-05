@@ -1,0 +1,29 @@
+{
+ "id": "HC-WRT-C1513-01",
+ "year": 1513,
+ "yearEnd": null,
+ "dateLabel": "1513",
+ "title": "Piri Reis world map",
+ "system": "WRT",
+ "place": "Gallipoli, Turkey",
+ "region": "West Asia",
+ "figures": [
+  "Piri Reis"
+ ],
+ "summary": "Ottoman admiral Piri Reis compiled a world map from many sources; the surviving part shows the coasts of Europe, Africa and South America.",
+ "why": "Its legend says it drew on many older maps, including one by Christopher Columbus.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Piri_Reis_map",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'One of the oldest surviving maps to show the Americas' is not in the source (only in a cited book title).",
+    "evidence": "https://en.wikipedia.org/wiki/Piri_Reis_map"
+   }
+  ]
+ }
+}

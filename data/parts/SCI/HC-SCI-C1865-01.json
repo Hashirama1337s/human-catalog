@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-C1865-01",
+ "year": 1865,
+ "yearEnd": null,
+ "dateLabel": "1865",
+ "title": "Maxwell unifies electricity and magnetism",
+ "system": "SCI",
+ "place": "London, England",
+ "region": "Europe",
+ "figures": [
+  "James Clerk Maxwell"
+ ],
+ "summary": "Maxwell's equations showed light is a wave of electric and magnetic fields.",
+ "why": "Foundation for radio, TV and modern physics.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/A_Dynamical_Theory_of_the_Electromagnetic_Field",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

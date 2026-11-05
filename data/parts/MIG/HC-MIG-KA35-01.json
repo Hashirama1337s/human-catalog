@@ -1,0 +1,39 @@
+{
+ "id": "HC-MIG-KA35-01",
+ "year": -33050,
+ "yearEnd": null,
+ "dateLabel": "by c. 35,000 years ago",
+ "title": "Siberia, Korea and Japan settled",
+ "system": "MIG",
+ "place": "Siberia, Korea, Japan",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Modern humans colonise Siberia, the Korean peninsula and the Japanese islands.",
+ "why": "Humans adapt to cold north-east Asia, the springboard toward the Americas.",
+ "interchange": [],
+ "supersedes": "",
+ "route": [
+  [
+   50.0,
+   90.0
+  ],
+  [
+   52.0,
+   104.0
+  ],
+  [
+   40.0,
+   127.0
+  ],
+  [
+   36.0,
+   138.0
+  ]
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Early_human_migrations",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

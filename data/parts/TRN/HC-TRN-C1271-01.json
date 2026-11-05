@@ -1,0 +1,24 @@
+{
+ "id": "HC-TRN-C1271-01",
+ "year": 1271,
+ "yearEnd": 1295,
+ "dateLabel": "1271-1295",
+ "title": "Marco Polo's travels",
+ "system": "TRN",
+ "place": "Venice to Yuan China",
+ "region": "Central Asia",
+ "figures": [
+  "Marco Polo",
+  "Kublai Khan"
+ ],
+ "summary": "The Venetian Marco Polo travelled the Silk Road to China and described it in a famous book.",
+ "why": "Gave Europeans their first detailed look at China.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Marco_Polo",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

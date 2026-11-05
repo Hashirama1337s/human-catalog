@@ -1,0 +1,29 @@
+{
+ "id": "HC-IDE-C1762-01",
+ "year": 1762,
+ "yearEnd": null,
+ "dateLabel": "1762",
+ "title": "Rousseau's The Social Contract",
+ "system": "IDE",
+ "place": "Amsterdam, Netherlands (printed)",
+ "region": "Europe",
+ "figures": [
+  "Jean-Jacques Rousseau"
+ ],
+ "summary": "Jean-Jacques Rousseau argued that legitimate power comes from the people's general will.",
+ "why": "Inspired revolutionaries in France and beyond.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/The_Social_Contract",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Place field is not a place ('Geneva-born author, French-language book'); source infobox: 'France (edited in Amsterdam)'.",
+    "evidence": "https://en.wikipedia.org/wiki/The_Social_Contract"
+   }
+  ]
+ }
+}

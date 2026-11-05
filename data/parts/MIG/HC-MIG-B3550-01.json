@@ -1,0 +1,31 @@
+{
+ "id": "HC-MIG-B3550-01",
+ "year": -3550,
+ "yearEnd": -2050,
+ "dateLabel": "c. 5,500-4,000 years ago",
+ "title": "Farmers cross to Taiwan",
+ "system": "MIG",
+ "place": "Taiwan",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Farming peoples migrate into Taiwan. Around 5,000 years ago the Austronesian expansion begins, later reaching across the Pacific and Indian oceans.",
+ "why": "Start of the widest language spread before modern times.",
+ "interchange": [],
+ "supersedes": "",
+ "route": [
+  [
+   26.0,
+   119.3
+  ],
+  [
+   23.7,
+   121.0
+  ]
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Neolithic_Revolution",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

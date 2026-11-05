@@ -1,0 +1,23 @@
+{
+ "id": "HC-TEC-C2007-01",
+ "year": 2007,
+ "yearEnd": null,
+ "dateLabel": "2007",
+ "title": "iPhone launches the smartphone era",
+ "system": "TEC",
+ "place": "San Francisco, United States",
+ "region": "North America",
+ "figures": [
+  "Steve Jobs"
+ ],
+ "summary": "Apple unveiled the iPhone, a touchscreen phone, music player and internet device.",
+ "why": "Put a computer in billions of pockets.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/IPhone_(1st_generation)",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

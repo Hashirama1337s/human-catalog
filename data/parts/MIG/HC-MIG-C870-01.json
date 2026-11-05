@@ -1,0 +1,27 @@
+{
+ "id": "HC-MIG-C870-01",
+ "year": 870,
+ "yearEnd": 874,
+ "dateLabel": "870s CE (traditional years 870 and 874)",
+ "title": "Norse settlement of Iceland",
+ "system": "MIG",
+ "place": "Iceland",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Norse settlers crossed the North Atlantic to claim the unsettled island; Irish monks may have visited earlier.",
+ "why": "Iceland had been unsettled land until then.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Settlement_of_Iceland",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Uninhabited' overstates; source says 'unsettled' and reports Irish monks (papar).",
+    "evidence": "https://en.wikipedia.org/wiki/Settlement_of_Iceland"
+   }
+  ]
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "HC-MED-C1897-01",
+ "year": 1897,
+ "yearEnd": null,
+ "dateLabel": "1897",
+ "title": "Mosquitoes shown to carry malaria",
+ "system": "MED",
+ "place": "Secunderabad, India",
+ "region": "South Asia",
+ "figures": [
+  "Ronald Ross"
+ ],
+ "summary": "Ronald Ross found malaria parasites in mosquitoes, showing how the disease spreads.",
+ "why": "Made mosquito control a weapon against malaria.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ronald_Ross",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

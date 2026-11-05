@@ -1,0 +1,24 @@
+{
+ "id": "HC-SCI-C2018-01",
+ "year": 2018,
+ "yearEnd": null,
+ "dateLabel": "January 2018",
+ "title": "Upward Sun River infant reveals 'Ancient Beringians'",
+ "system": "SCI",
+ "place": "Upward Sun River site, Alaska, United States",
+ "region": "North America",
+ "figures": [],
+ "summary": "The genome of an infant buried about 11,500 years ago in Alaska revealed a lost population, the Ancient Beringians, who split from other Native American ancestors about 22,000-18,100 years ago.",
+ "why": "Supports the idea of a long pause in Beringia before people moved south.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Upward_Sun_River_site",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

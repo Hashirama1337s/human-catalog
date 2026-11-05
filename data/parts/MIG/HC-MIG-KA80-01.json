@@ -1,0 +1,24 @@
+{
+ "id": "HC-MIG-KA80-01",
+ "year": -78050,
+ "yearEnd": null,
+ "dateLabel": "c. 120,000-80,000 years ago (claimed; contested)",
+ "title": "Fuyan Cave teeth: early sapiens in China?",
+ "system": "MIG",
+ "place": "Fuyan Cave, China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "47 human teeth were reported in 2015 as 80,000-120,000 years old. A 2021 study using ancient DNA and dating argued they are far younger (Holocene), and one tooth may not be human.",
+ "why": "A case study in how a headline date can be overturned by better dating.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Fuyan_Cave",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "id": "HC-ECO-C1929-01",
+ "year": 1929,
+ "yearEnd": 1939,
+ "dateLabel": "1929-1939",
+ "title": "Great Depression",
+ "system": "ECO",
+ "place": "Worldwide",
+ "region": "Global",
+ "figures": [],
+ "summary": "After the 1929 Wall Street crash, a worldwide economic collapse threw millions out of work.",
+ "why": "A severe worldwide economic downturn that lasted about a decade.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Great_Depression",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Worst economic crisis of the 20th century' not in source; lead says only 'a severe global economic downturn from 1929 to 1939'.",
+    "evidence": "https://en.wikipedia.org/wiki/Great_Depression"
+   }
+  ]
+ }
+}

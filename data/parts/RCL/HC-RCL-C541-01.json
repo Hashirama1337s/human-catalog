@@ -1,0 +1,32 @@
+{
+ "id": "HC-RCL-C541-01",
+ "year": 541,
+ "yearEnd": 549,
+ "dateLabel": "541-549 CE",
+ "title": "Plague of Justinian",
+ "system": "RCL",
+ "place": "Mediterranean, Europe and Near East",
+ "region": "Europe",
+ "figures": [
+  "Justinian I"
+ ],
+ "summary": "A plague epidemic swept the Mediterranean world; at its height it reportedly killed about a fifth of Constantinople's people, though the toll is debated.",
+ "why": "The first outbreak of the first plague pandemic, which recurred until the mid-8th century.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "epidemics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Plague_of_Justinian",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Mortality 'remains heavily debated' per source; 'why' gave an anecdote, not significance.",
+    "evidence": "https://en.wikipedia.org/wiki/Plague_of_Justinian"
+   }
+  ]
+ }
+}

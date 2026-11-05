@@ -1,0 +1,29 @@
+{
+ "id": "HC-MED-C627-01",
+ "year": 627,
+ "yearEnd": null,
+ "dateLabel": "627 CE (tradition)",
+ "title": "Traditional first mobile hospital (bimaristan)",
+ "system": "MED",
+ "place": "Medina, Saudi Arabia",
+ "region": "West Asia",
+ "figures": [
+  "Rufaidah al-Aslamia"
+ ],
+ "summary": "Tradition says Rufaidah al-Aslamia set up a medical tent during a battle; such tents grew into Islamic hospitals called bimaristans.",
+ "why": "Bimaristans became the hospitals of the medieval Islamic world.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Bimaristan",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Title asserts 'first'; source and summary give it only as tradition.",
+    "evidence": "https://en.wikipedia.org/wiki/Bimaristan"
+   }
+  ]
+ }
+}

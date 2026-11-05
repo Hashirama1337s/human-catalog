@@ -1,0 +1,21 @@
+{
+ "id": "HC-FOD-C1150-01",
+ "year": 1150,
+ "yearEnd": 1350,
+ "dateLabel": "earliest dated fields 1150-1350 CE",
+ "title": "Chinampa farming",
+ "system": "FOD",
+ "place": "Valley of Mexico, Mexico",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "Farmers built small rectangular fields on lake beds and wetlands, which fed great cities.",
+ "why": "Turned shallow lake beds into rich farmland.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Chinampa",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

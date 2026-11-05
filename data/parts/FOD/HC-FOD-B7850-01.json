@@ -1,0 +1,24 @@
+{
+ "id": "HC-FOD-B7850-01",
+ "year": -7850,
+ "yearEnd": null,
+ "dateLabel": "c. 9,800 years ago",
+ "title": "Domesticated emmer wheat",
+ "system": "FOD",
+ "place": "Chogha Golan, Iran",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "After more than 2,000 years of cultivating wild plants, people at Chogha Golan grow domesticated emmer wheat.",
+ "why": "Wheat became one of humanity's most important foods.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "domestication"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Neolithic_Revolution",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-C1687-01",
+ "year": 1687,
+ "yearEnd": null,
+ "dateLabel": "1687",
+ "title": "Newton's Principia",
+ "system": "SCI",
+ "place": "London, England",
+ "region": "Europe",
+ "figures": [
+  "Isaac Newton"
+ ],
+ "summary": "Newton set out his three laws of motion and the law of universal gravitation.",
+ "why": "Explained both falling apples and orbiting planets with one set of laws.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

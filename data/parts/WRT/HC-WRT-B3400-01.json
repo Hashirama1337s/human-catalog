@@ -1,0 +1,32 @@
+{
+ "id": "HC-WRT-B3400-01",
+ "year": -3400,
+ "yearEnd": -3200,
+ "dateLabel": "c. 3400-3200 BCE",
+ "title": "Earliest Egyptian hieroglyphs",
+ "system": "WRT",
+ "place": "Abydos, Egypt",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Early glyphs from Abydos may point to Egyptian writing developing independently of Mesopotamia. Scholars have not settled the question.",
+ "why": "Writing in Egypt, possibly one of the independent inventions of writing.",
+ "interchange": [
+  "Proto-cuneiform at Uruk c. 3300 BCE"
+ ],
+ "supersedes": "",
+ "tags": [
+  "writing"
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Egyptian_hieroglyphs",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "dateLabel says c. 3400-3200 BCE (source: Abydos glyphs 'dated between 3400 and 3200 BC') but yearEnd is null.",
+    "evidence": "https://en.wikipedia.org/wiki/Egyptian_hieroglyphs"
+   }
+  ]
+ }
+}

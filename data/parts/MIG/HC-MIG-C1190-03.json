@@ -1,0 +1,38 @@
+{
+ "id": "HC-MIG-C1190-03",
+ "year": 1190,
+ "yearEnd": 1290,
+ "dateLabel": "c. 1190-1290 CE",
+ "title": "Polynesians reach Aotearoa New Zealand",
+ "system": "MIG",
+ "place": "Aotearoa New Zealand",
+ "region": "Oceania",
+ "figures": [],
+ "summary": "Māori ancestors sailed southwest to New Zealand in the same dispersal, about 1190-1290 CE by the 2011 study.",
+ "why": "The southwestern corner of the Polynesian triangle; Māori ancestry begins here.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "seafaring"
+ ],
+ "route": [
+  [
+   -17.5,
+   -149.8
+  ],
+  [
+   -21.2,
+   -159.8
+  ],
+  [
+   -36.8,
+   174.8
+  ]
+ ],
+ "confidence": "debated",
+ "source": "https://manoa.hawaii.edu/news/article.php?aId=4097",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

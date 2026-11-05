@@ -1,0 +1,21 @@
+{
+ "id": "HC-MIG-C1834-01",
+ "year": 1834,
+ "yearEnd": 1917,
+ "dateLabel": "1834-1917",
+ "title": "Indian indentured labour system",
+ "system": "MIG",
+ "place": "India to Mauritius, the Caribbean, Natal, Fiji and elsewhere",
+ "region": "Global",
+ "figures": [],
+ "summary": "After slavery ended in British colonies, more than 1.6 million Indian workers were shipped under labour contracts to plantations, starting with Mauritius in 1834. The system ended for most colonies in 1917.",
+ "why": "Carried Indian workers to Mauritius, the Caribbean, Natal and Fiji after slavery ended there.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Indian_indenture_system",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

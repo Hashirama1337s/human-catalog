@@ -1,0 +1,32 @@
+{
+ "id": "HC-TEC-B3275-01",
+ "year": -3275,
+ "yearEnd": -3230,
+ "dateLabel": "c. 3275-3230 BCE",
+ "title": "Ötzi the Iceman",
+ "system": "TEC",
+ "place": "Ötztal Alps, Austria-Italy border",
+ "region": "Europe",
+ "figures": [
+  "Ötzi"
+ ],
+ "summary": "A man preserved in Alpine ice carried a near-pure copper axe and had 61 tattoos. He most likely bled to death after an arrow shattered his shoulder blade.",
+ "why": "A frozen snapshot of everyday Copper Age technology and life.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "metalworking"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/%C3%96tzi",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Cause of death stated as fact; source: 'Currently, it is believed that [he] bled to death after the arrow shattered the scapula'.",
+    "evidence": "https://en.wikipedia.org/wiki/%C3%96tzi"
+   }
+  ]
+ }
+}

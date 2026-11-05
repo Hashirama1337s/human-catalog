@@ -1,0 +1,21 @@
+{
+ "id": "HC-ART-KA60-01",
+ "year": -58050,
+ "yearEnd": null,
+ "dateLabel": "c. 60,000 years ago",
+ "title": "Engraved ostrich eggshell containers",
+ "system": "ART",
+ "place": "Diepkloof Rock Shelter, Western Cape, South Africa",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Water containers made of ostrich eggshell carry repeated engraved patterns.",
+ "why": "Some of the earliest evidence of a shared symbol system.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Diepkloof_Rock_Shelter",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

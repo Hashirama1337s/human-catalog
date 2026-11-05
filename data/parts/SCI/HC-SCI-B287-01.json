@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-B287-01",
+ "year": -287,
+ "yearEnd": -212,
+ "dateLabel": "c. 287-212 BCE",
+ "title": "Archimedes",
+ "system": "SCI",
+ "place": "Syracuse, Sicily, Italy",
+ "region": "Europe",
+ "figures": [
+  "Archimedes"
+ ],
+ "summary": "Archimedes used infinitesimals and the method of exhaustion to find areas and volumes.",
+ "why": "Anticipated calculus; ranked among the greatest mathematicians of all time.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Archimedes",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

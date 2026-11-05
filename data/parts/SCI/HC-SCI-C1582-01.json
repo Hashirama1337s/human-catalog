@@ -1,0 +1,26 @@
+{
+ "id": "HC-SCI-C1582-01",
+ "year": 1582,
+ "yearEnd": null,
+ "dateLabel": "1582",
+ "title": "Gregorian calendar introduced",
+ "system": "SCI",
+ "place": "Rome, Italy",
+ "region": "Europe",
+ "figures": [
+  "Pope Gregory XIII"
+ ],
+ "summary": "Pope Gregory XIII replaced the Julian calendar, skipping ten days and changing leap-year rules to match the solar year.",
+ "why": "The calendar most of the world uses today.",
+ "interchange": [],
+ "supersedes": "Julian calendar",
+ "tags": [
+  "calendars"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Gregorian_calendar",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "HC-TRN-C1853-01",
+ "year": 1853,
+ "yearEnd": 1854,
+ "dateLabel": "1853-1854",
+ "title": "Perry opens Japan",
+ "system": "TRN",
+ "place": "Uraga and Edo Bay, Japan",
+ "region": "East Asia",
+ "figures": [
+  "Matthew C. Perry"
+ ],
+ "summary": "US warships under Commodore Perry forced Japan to open its ports to American ships.",
+ "why": "Ended Japan's isolation and sped up modernisation.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Perry_Expedition",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

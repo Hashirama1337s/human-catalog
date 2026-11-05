@@ -1,0 +1,26 @@
+{
+ "id": "HC-TEC-C1088-02",
+ "year": 1088,
+ "yearEnd": 1094,
+ "dateLabel": "1088-1094 CE",
+ "title": "Su Song's astronomical clock tower",
+ "system": "TEC",
+ "place": "Kaifeng, China",
+ "region": "East Asia",
+ "figures": [
+  "Su Song"
+ ],
+ "summary": "Su Song built a 40-foot water-powered clock tower that drove an armillary sphere and star globe.",
+ "why": "A high point of medieval mechanical engineering.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "astronomy"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Su_Song",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

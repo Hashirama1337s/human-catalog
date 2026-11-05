@@ -1,0 +1,24 @@
+{
+ "id": "HC-WAR-C1482-01",
+ "year": 1482,
+ "yearEnd": 1492,
+ "dateLabel": "1482-1492",
+ "title": "Granada War",
+ "system": "WAR",
+ "place": "Granada, Spain",
+ "region": "Europe",
+ "figures": [
+  "Isabella I",
+  "Ferdinand II"
+ ],
+ "summary": "The Catholic Monarchs of Spain conquered the Nasrid Emirate of Granada.",
+ "why": "Ended the last Islamic rule on the Iberian peninsula.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Granada_War",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

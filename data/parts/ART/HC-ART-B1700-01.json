@@ -1,0 +1,51 @@
+{
+ "id": "HC-ART-B1700-01",
+ "year": -1700,
+ "yearEnd": -1150,
+ "dateLabel": "c. 1700–1150 BCE",
+ "title": "Who made the Sanxingdui bronzes, and why buried?",
+ "system": "ART",
+ "place": "Sichuan, China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "With no written records, the uses of Sanxingdui's strange bronzes are hard to determine, it is unclear what rites the broken and buried objects served, and the culture's end is unresolved.",
+ "why": "A spectacular bronze culture left no writing to explain itself.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "bronze",
+  "China",
+  "ritual"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Sanxingdui",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source calls the pits 'sacrificial'; what is unclear is which ritual purpose, not whether they were ritual.",
+    "evidence": "https://en.wikipedia.org/wiki/Sanxingdui"
+   }
+  ]
+ },
+ "kind": "open",
+ "question": "Who were the people of Sanxingdui, why did they bury their bronzes, and why did their culture end?",
+ "evidence": "Walled city founded about 1600 BCE; artefacts radiocarbon dated to the 12th–11th centuries BCE; objects broken, burned and carefully buried; flood and earthquake evidence found.",
+ "wouldSettle": "Inscriptions or securely dated settlement layers explaining the burials and the culture's end.",
+ "theories": [
+  {
+   "name": "Part of the Shu kingdom",
+   "idea": "Many Chinese archaeologists identify Sanxingdui as part of the ancient kingdom of Shu."
+  },
+  {
+   "name": "Ended by natural disaster",
+   "idea": "Floods or an earthquake brought the culture to an end."
+  },
+  {
+   "name": "Ended by invasion",
+   "idea": "Another culture invaded and ended Sanxingdui."
+  }
+ ]
+}

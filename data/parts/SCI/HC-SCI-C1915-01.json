@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-C1915-01",
+ "year": 1915,
+ "yearEnd": null,
+ "dateLabel": "1915",
+ "title": "Einstein's general relativity",
+ "system": "SCI",
+ "place": "Berlin, Germany",
+ "region": "Europe",
+ "figures": [
+  "Albert Einstein"
+ ],
+ "summary": "Einstein described gravity as the bending of space and time by mass and energy.",
+ "why": "Our theory of gravity, black holes and the universe.",
+ "interchange": [],
+ "supersedes": "Newtonian gravity (at extreme scales)",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/General_relativity",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

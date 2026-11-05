@@ -1,0 +1,21 @@
+{
+ "id": "HC-ECO-C960-01",
+ "year": 960,
+ "yearEnd": 1000,
+ "dateLabel": "c. 960-1000 CE",
+ "title": "Kilwa Sultanate",
+ "system": "ECO",
+ "place": "Kilwa Kisiwani, Tanzania",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Kilwa grew into a trading power whose rule eventually stretched along the whole Swahili Coast.",
+ "why": "Linked Africa into Indian Ocean trade.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Kilwa_Sultanate",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

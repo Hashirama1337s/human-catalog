@@ -1,0 +1,29 @@
+{
+ "id": "HC-WRT-B285-01",
+ "year": -285,
+ "yearEnd": -246,
+ "dateLabel": "probably built under Ptolemy II (r. 285-246 BCE)",
+ "title": "Library of Alexandria",
+ "system": "WRT",
+ "place": "Alexandria, Egypt",
+ "region": "Africa",
+ "figures": [
+  "Ptolemy II"
+ ],
+ "summary": "Part of a research institute called the Mouseion, the library collected huge numbers of papyrus scrolls.",
+ "why": "One of the largest and most important libraries of the ancient world.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Source: established 'Possibly during the reign of Ptolemy II Philadelphus (285-246 BC)' and 'probably not built until the reign of his son'. Label states it as certain and uses 284.",
+    "evidence": "https://en.wikipedia.org/wiki/Library_of_Alexandria"
+   }
+  ]
+ }
+}

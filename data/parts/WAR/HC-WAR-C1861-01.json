@@ -1,0 +1,23 @@
+{
+ "id": "HC-WAR-C1861-01",
+ "year": 1861,
+ "yearEnd": 1865,
+ "dateLabel": "1861-1865",
+ "title": "American Civil War",
+ "system": "WAR",
+ "place": "United States",
+ "region": "North America",
+ "figures": [
+  "Abraham Lincoln"
+ ],
+ "summary": "Southern states that seceded to preserve slavery fought the Union and were defeated.",
+ "why": "Preserved the US and ended slavery there.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/American_Civil_War",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

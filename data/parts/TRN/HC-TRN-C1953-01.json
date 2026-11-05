@@ -1,0 +1,34 @@
+{
+ "id": "HC-TRN-C1953-01",
+ "year": 1953,
+ "yearEnd": null,
+ "dateLabel": "1953",
+ "title": "First confirmed ascent of Mount Everest",
+ "system": "TRN",
+ "place": "Mount Everest, Nepal-China border",
+ "region": "South Asia",
+ "figures": [
+  "Tenzing Norgay",
+  "Edmund Hillary"
+ ],
+ "summary": "Tenzing Norgay and Edmund Hillary reached the summit of the world's highest mountain.",
+ "why": "Reached the roof of the world.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/1953_British_Mount_Everest_expedition",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Place: Everest 'marks part of the China-Nepal border at its summit'; climb was from the Nepalese side, summit is not in Nepal alone.",
+    "evidence": "https://en.wikipedia.org/wiki/Mount_Everest"
+   },
+   {
+    "problem": "Source: 'the first confirmed to have succeeded'; the 1924 Mallory-Irvine question keeps 'first' open.",
+    "evidence": "https://en.wikipedia.org/wiki/1953_British_Mount_Everest_expedition"
+   }
+  ]
+ }
+}

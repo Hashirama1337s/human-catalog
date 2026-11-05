@@ -1,0 +1,38 @@
+{
+ "id": "HC-MIG-C1000-01",
+ "year": 1000,
+ "yearEnd": 1300,
+ "dateLabel": "c. 1000-1300 CE",
+ "title": "Thule (ancestral Inuit) spread to Greenland",
+ "system": "MIG",
+ "place": "Alaska across Arctic Canada to Greenland",
+ "region": "North America",
+ "figures": [],
+ "summary": "Thule people, ancestors of today's Inuit, moved east from Alaska from about 1000 CE and reached Greenland by the 13th century. Genetics shows they replaced the earlier Dorset Paleo-Inuit by about 1300 CE.",
+ "why": "Today's Inuit descend from this second Arctic migration, not the first.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "route": [
+  [
+   68.0,
+   -165.0
+  ],
+  [
+   72.0,
+   -95.0
+  ],
+  [
+   77.0,
+   -69.0
+  ]
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Thule_people",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

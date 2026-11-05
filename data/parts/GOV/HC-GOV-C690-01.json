@@ -1,0 +1,29 @@
+{
+ "id": "HC-GOV-C690-01",
+ "year": 690,
+ "yearEnd": 705,
+ "dateLabel": "690-705",
+ "title": "Wu Zetian rules China as emperor",
+ "system": "GOV",
+ "place": "China",
+ "region": "East Asia",
+ "figures": [
+  "Wu Zetian"
+ ],
+ "summary": "In 690 Wu Zetian proclaimed her own Zhou dynasty in place of the Tang and crowned herself emperor, ruling until 705. She is the only undisputed female sovereign in China's history.",
+ "why": "The only woman ever to take the title huangdi, emperor of China.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Wu_Zetian",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "'Rule China in her own name' is looser than the source; source: 'only woman in the history of China to assume the title huangdi'.",
+    "evidence": "https://en.wikipedia.org/wiki/Wu_Zetian"
+   }
+  ]
+ }
+}

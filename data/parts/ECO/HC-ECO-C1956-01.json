@@ -1,0 +1,23 @@
+{
+ "id": "HC-ECO-C1956-01",
+ "year": 1956,
+ "yearEnd": null,
+ "dateLabel": "1956",
+ "title": "Shipping container revolution",
+ "system": "ECO",
+ "place": "Newark, New Jersey, United States",
+ "region": "North America",
+ "figures": [
+  "Malcom McLean"
+ ],
+ "summary": "Malcom McLean shipped goods in standard steel containers.",
+ "why": "Made global trade cheap and fast.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Malcom_McLean",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

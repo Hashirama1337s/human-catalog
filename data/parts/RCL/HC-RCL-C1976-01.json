@@ -1,0 +1,27 @@
+{
+ "id": "HC-RCL-C1976-01",
+ "year": 1976,
+ "yearEnd": null,
+ "dateLabel": "1976",
+ "title": "Ebola virus disease first reported",
+ "system": "RCL",
+ "place": "Nzara, South Sudan, and Yambuku, DR Congo",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Ebola virus disease was first reported in sub-Saharan Africa; outbreaks have recurred since, the largest in West Africa in 2013-2016.",
+ "why": "A lasting threat of deadly viruses.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ebola",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Place over-broad: source names the two 1976 outbreak sites, Nzara (South Sudan) and Yambuku (DR Congo).",
+    "evidence": "https://en.wikipedia.org/wiki/Ebola"
+   }
+  ]
+ }
+}

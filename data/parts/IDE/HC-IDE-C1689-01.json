@@ -1,0 +1,23 @@
+{
+ "id": "HC-IDE-C1689-01",
+ "year": 1689,
+ "yearEnd": null,
+ "dateLabel": "1689",
+ "title": "Locke's Two Treatises of Government",
+ "system": "IDE",
+ "place": "London, England",
+ "region": "Europe",
+ "figures": [
+  "John Locke"
+ ],
+ "summary": "John Locke argued that government rests on the consent of the governed and must protect life, liberty and property.",
+ "why": "Deeply influenced the American and French revolutions.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Two_Treatises_of_Government",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

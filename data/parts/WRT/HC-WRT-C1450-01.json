@@ -1,0 +1,45 @@
+{
+ "id": "HC-WRT-C1450-01",
+ "year": 1450,
+ "yearEnd": 1864,
+ "dateLabel": "wood dated mid-1400s to 1800s; first reported 1864",
+ "title": "Undeciphered: Rongorongo of Rapa Nui",
+ "system": "WRT",
+ "place": "Rapa Nui (Easter Island)",
+ "region": "Oceania",
+ "figures": [],
+ "summary": "None of the Rongorongo glyphs can be read. Most specialists think it is proto-writing rather than full writing, and whether it was invented before European contact is still argued.",
+ "why": "If home-grown, it would be one of very few independent inventions of writing in human history.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "writing",
+  "undeciphered",
+  "Polynesia"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Rongorongo",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ },
+ "kind": "open",
+ "question": "Is Rongorongo true writing, did it arise before European contact, and what does it say?",
+ "evidence": "About 26 accepted texts survive; first documented 1864. A 2024 study dated one tablet's wood to the mid-1400s, but that dates the wood, not the writing.",
+ "wouldSettle": "Securely dated pre-contact inscribed objects, or an internal decipherment that reads consistent Rapa Nui language.",
+ "theories": [
+  {
+   "name": "Proto-writing, not full script",
+   "idea": "The prevailing view: the glyphs were a memory aid rather than a full system recording spoken language."
+  },
+  {
+   "name": "Inspired by the 1770 Spanish treaty",
+   "idea": "Some scholars suggest islanders created it after seeing Spaniards write during a 1770 treaty signing."
+  },
+  {
+   "name": "Independent internal invention",
+   "idea": "Others see it as a development within Rapa Nui culture, not prompted by Europeans."
+  }
+ ]
+}

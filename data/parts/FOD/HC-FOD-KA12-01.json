@@ -1,0 +1,24 @@
+{
+ "id": "HC-FOD-KA12-01",
+ "year": -10000,
+ "yearEnd": -9000,
+ "dateLabel": "c. 10,000-9000 BCE",
+ "title": "Sheep domesticated",
+ "system": "FOD",
+ "place": "Southwest Asia",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "Sheep are domesticated in Southwest Asia, among the first livestock.",
+ "why": "Meat, milk and later wool on the hoof.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "domestication"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

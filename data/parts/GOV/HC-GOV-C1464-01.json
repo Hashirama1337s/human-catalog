@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1464-01",
+ "year": 1464,
+ "yearEnd": 1591,
+ "dateLabel": "c. 1464",
+ "title": "Songhai Empire",
+ "system": "GOV",
+ "place": "Gao, Mali",
+ "region": "Africa",
+ "figures": [
+  "Sonni Ali"
+ ],
+ "summary": "Sonni Ali made Gao the capital of an empire that conquered Timbuktu (1468) and Djenne (1475).",
+ "why": "One of the largest African empires in history.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Songhai_Empire",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

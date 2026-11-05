@@ -1,0 +1,24 @@
+{
+ "id": "HC-TEC-B3631-01",
+ "year": -3631,
+ "yearEnd": -3350,
+ "dateLabel": "c. 3631-3350 BCE",
+ "title": "Earliest images of wheeled vehicles",
+ "system": "TEC",
+ "place": "Bronocice, Poland, and Uruk, Iraq",
+ "region": "Global",
+ "figures": [],
+ "summary": "A pot from Bronocice shows a wheeled vehicle, and pictographs at Uruk show wagons, both in the mid-4th millennium BCE. Where the wheel began is unresolved.",
+ "why": "The wheel transformed transport, farming and war.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "wheels"
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Wheel",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

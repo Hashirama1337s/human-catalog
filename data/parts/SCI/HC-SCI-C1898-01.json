@@ -1,0 +1,24 @@
+{
+ "id": "HC-SCI-C1898-01",
+ "year": 1898,
+ "yearEnd": null,
+ "dateLabel": "1898",
+ "title": "Curies discover polonium and radium",
+ "system": "SCI",
+ "place": "Paris, France",
+ "region": "Europe",
+ "figures": [
+  "Marie Curie",
+  "Pierre Curie"
+ ],
+ "summary": "Marie and Pierre Curie discovered two new radioactive elements.",
+ "why": "Marie Curie later became the first person to win two Nobel Prizes.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Marie_Curie",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

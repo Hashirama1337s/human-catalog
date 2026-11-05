@@ -1,0 +1,27 @@
+{
+ "id": "HC-ART-KA68-01",
+ "year": -65850,
+ "yearEnd": null,
+ "dateLabel": "at least 67,800 years ago",
+ "title": "Oldest securely dated rock art (hand stencil)",
+ "system": "ART",
+ "place": "Liang Metanduno, Muna Island, Sulawesi, Indonesia",
+ "region": "Southeast Asia",
+ "figures": [],
+ "summary": "A hand stencil on a cave wall is the oldest securely dated rock art.",
+ "why": "Shows cave art in Asia at least as old as any securely dated in Europe.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Title drops 'securely'; why 'cave art began in Asia' goes beyond the source ('oldest securely dated ... reported to date').",
+    "evidence": "https://en.wikipedia.org/wiki/Timeline_of_prehistory"
+   }
+  ]
+ }
+}

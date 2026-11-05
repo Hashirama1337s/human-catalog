@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-B1200-01",
+ "year": -1200,
+ "yearEnd": -400,
+ "dateLabel": "c. 1200-400 BCE",
+ "title": "Olmec civilization",
+ "system": "GOV",
+ "place": "Veracruz and Tabasco, Mexico",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "The Olmecs built centres at San Lorenzo and later La Venta on Mexico's Gulf Coast, during Mesoamerica's formative period.",
+ "why": "One of the cradles of civilization; shaped later Mesoamerican cultures.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Olmecs",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

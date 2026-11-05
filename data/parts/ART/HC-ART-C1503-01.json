@@ -1,0 +1,23 @@
+{
+ "id": "HC-ART-C1503-01",
+ "year": 1503,
+ "yearEnd": null,
+ "dateLabel": "c. 1503",
+ "title": "Leonardo begins the Mona Lisa",
+ "system": "ART",
+ "place": "Florence, Italy",
+ "region": "Europe",
+ "figures": [
+  "Leonardo da Vinci"
+ ],
+ "summary": "Leonardo da Vinci began a portrait of the Florentine woman Lisa Gherardini, worked on it for years, and never handed it over.",
+ "why": "Became the most famous, most visited painting in the world.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Mona_Lisa",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

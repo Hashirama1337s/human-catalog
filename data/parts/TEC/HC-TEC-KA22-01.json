@@ -1,0 +1,27 @@
+{
+ "id": "HC-TEC-KA22-01",
+ "year": -20050,
+ "yearEnd": null,
+ "dateLabel": "c. 22,000 years ago",
+ "title": "Fish hook",
+ "system": "TEC",
+ "place": "Okinawa Island, Japan",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "A fish hook from Okinawa dates to about 22,000 years ago, among the oldest known.",
+ "why": "A simple device that opened new food sources.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Oldest known' is not in the source, which says only '22 kya: Fish hook in Okinawa Island'.",
+    "evidence": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions"
+   }
+  ]
+ }
+}

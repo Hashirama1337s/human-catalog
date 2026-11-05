@@ -1,0 +1,21 @@
+{
+ "id": "HC-FOD-C1450-01",
+ "year": 1450,
+ "yearEnd": null,
+ "dateLabel": "mid-15th century",
+ "title": "Coffee drinking begins",
+ "system": "FOD",
+ "place": "Yemen",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "The earliest reports of coffee drinking come from Sufis in Yemen.",
+ "why": "Most of the world's coffee came from Yemen until the late 17th century; now a global drink.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Coffee",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "id": "HC-TRN-C1998-01",
+ "year": 1998,
+ "yearEnd": null,
+ "dateLabel": "1998",
+ "title": "International Space Station begun",
+ "system": "TRN",
+ "place": "Earth orbit",
+ "region": "Global",
+ "figures": [],
+ "summary": "The first module of the ISS was launched.",
+ "why": "Humans have lived continuously in orbit since 2000.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/International_Space_Station",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

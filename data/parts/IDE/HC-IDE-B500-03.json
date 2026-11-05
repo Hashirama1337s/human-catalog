@@ -1,0 +1,23 @@
+{
+ "id": "HC-IDE-B500-03",
+ "year": -500,
+ "yearEnd": null,
+ "dateLabel": "6th or 5th century BCE",
+ "title": "Mahavira reforms Jainism",
+ "system": "IDE",
+ "place": "India",
+ "region": "South Asia",
+ "figures": [
+  "Mahavira"
+ ],
+ "summary": "Mahavira, the 24th Tirthankara of Jain tradition, revived and reformed an older Jain community.",
+ "why": "Shaped Jainism, an Indian religion that continues today.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Mahavira",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

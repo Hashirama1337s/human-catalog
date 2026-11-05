@@ -1,0 +1,32 @@
+{
+ "id": "HC-WRT-B2800-01",
+ "year": -2800,
+ "yearEnd": -1900,
+ "dateLabel": "c. 2800–1900 BCE",
+ "title": "Undeciphered: the Indus script",
+ "system": "WRT",
+ "place": "Indus Valley, Pakistan and India",
+ "region": "South Asia",
+ "figures": [],
+ "summary": "Despite many attempts, the script of the Indus cities has not been deciphered. Its inscriptions are tiny, about five signs on average, and no bilingual text is known.",
+ "why": "A major Bronze Age urban civilisation left thousands of inscriptions, yet not one word can be read.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "writing",
+  "undeciphered",
+  "Indus"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Indus_script",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ },
+ "kind": "open",
+ "question": "What language did the Indus script write, and can it be read at all?",
+ "evidence": "Over 400 principal signs (estimates up to about 694), mostly on seals and short single-line texts; no named rulers attested; no known bilingual inscription.",
+ "wouldSettle": "A bilingual inscription, like the Rosetta Stone, or a much longer Indus text.",
+ "theories": []
+}

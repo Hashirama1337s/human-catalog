@@ -1,0 +1,21 @@
+{
+ "id": "HC-WAR-C1947-01",
+ "year": 1947,
+ "yearEnd": 1991,
+ "dateLabel": "1947-1991",
+ "title": "Cold War",
+ "system": "WAR",
+ "place": "Worldwide",
+ "region": "Global",
+ "figures": [],
+ "summary": "The US and Soviet Union competed through arms races, proxy wars and space races, without fighting directly.",
+ "why": "Divided the world into rival blocs for decades.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Cold_War",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

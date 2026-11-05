@@ -1,0 +1,35 @@
+{
+ "id": "HC-SCI-C1987-01",
+ "year": 1987,
+ "yearEnd": null,
+ "dateLabel": "1 January 1987",
+ "title": "'Mitochondrial Eve' paper",
+ "system": "SCI",
+ "place": "University of California, Berkeley, United States",
+ "region": "North America",
+ "figures": [
+  "Rebecca Cann",
+  "Mark Stoneking",
+  "Allan Wilson"
+ ],
+ "summary": "Cann, Stoneking and Wilson concluded in Nature that all living people's mitochondrial DNA traces back to one African population, dated then to about 200,000-140,000 years ago. Critics later challenged the methods.",
+ "why": "Strong genetic support for a recent African origin of all living humans.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics",
+  "paper"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Mitochondrial_Eve",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Showed' overstates; source gives it as the 'published conclusion' and says its methodology was soon criticised.",
+    "evidence": "https://en.wikipedia.org/wiki/Mitochondrial_Eve"
+   }
+  ]
+ }
+}

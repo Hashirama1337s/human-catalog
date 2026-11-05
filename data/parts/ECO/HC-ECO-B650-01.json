@@ -1,0 +1,34 @@
+{
+ "id": "HC-ECO-B650-01",
+ "year": -650,
+ "yearEnd": null,
+ "dateLabel": "7th century BCE",
+ "title": "Lydian electrum coins, among the earliest",
+ "system": "ECO",
+ "place": "Sardis, Turkey",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "The kingdom of Lydia struck coins of electrum, a natural gold-silver alloy; they are among the oldest coins in existence.",
+ "why": "Lydia is often credited with the world's first coinage.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "money"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Lydia",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Title claims more than summary and source: 'Lydian coins, made of electrum, are among the oldest in existence'.",
+    "evidence": "https://en.wikipedia.org/wiki/Lydia"
+   },
+   {
+    "problem": "Priority of coinage is not settled; source's own body says 'among the oldest in existence'.",
+    "evidence": "https://en.wikipedia.org/wiki/Lydia"
+   }
+  ]
+ }
+}

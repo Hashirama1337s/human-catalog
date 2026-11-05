@@ -1,0 +1,27 @@
+{
+ "id": "HC-GOV-B7500-01",
+ "year": -7500,
+ "yearEnd": -5600,
+ "dateLabel": "c. 7500-5600 BCE",
+ "title": "Çatalhöyük town",
+ "system": "GOV",
+ "place": "Konya Plain, Turkey",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "Houses packed together without streets, entered through the roof, with murals and burials under floors. A mural often called the oldest map may instead show a leopard skin.",
+ "why": "A dense Neolithic town with art inside its homes.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "'Oldest map' is disputed in the source (Meece: more likely a leopard skin).",
+    "evidence": "https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk"
+   }
+  ]
+ }
+}

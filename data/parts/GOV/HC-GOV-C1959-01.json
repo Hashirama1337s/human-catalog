@@ -1,0 +1,24 @@
+{
+ "id": "HC-GOV-C1959-01",
+ "year": 1959,
+ "yearEnd": null,
+ "dateLabel": "1959",
+ "title": "Cuban Revolution triumphs",
+ "system": "GOV",
+ "place": "Havana, Cuba",
+ "region": "North America",
+ "figures": [
+  "Fidel Castro",
+  "Che Guevara"
+ ],
+ "summary": "Fidel Castro's rebels overthrew dictator Fulgencio Batista.",
+ "why": "Brought the Cold War to the Caribbean.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Cuban_Revolution",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "id": "HC-MIG-C1350-01",
+ "year": 1350,
+ "yearEnd": 1450,
+ "dateLabel": "c. 1350 – late 15th century",
+ "title": "Why Norse Greenland was abandoned",
+ "system": "MIG",
+ "place": "Greenland",
+ "region": "North America",
+ "figures": [],
+ "summary": "The Western Settlement was abandoned around 1350 and the Eastern by the late 15th century. Several theories explain the decline; newer research shows the Norse did try to adapt.",
+ "why": "A European colony in the Arctic faded out leaving almost no written record of its end.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "Vikings",
+  "Arctic",
+  "collapse"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Norse_colonization_of_North_America",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ },
+ "kind": "open",
+ "question": "Why did the Norse settlements in Greenland die out?",
+ "evidence": "Last written record a 1408 marriage; latest radiocarbon date 1430 (plus or minus 15 years); evidence of drought, colder climate and falling ivory demand.",
+ "wouldSettle": "Dated farm-by-farm records showing whether climate, trade loss or emigration came first.",
+ "theories": [
+  {
+   "name": "Little Ice Age",
+   "idea": "Colder, wetter weather shortened pastures and made seal hunting dangerous."
+  },
+  {
+   "name": "Collapse of ivory trade",
+   "idea": "European demand for walrus ivory fell, facing competition from African elephant ivory."
+  },
+  {
+   "name": "Drought and rising seas",
+   "idea": "Drought cut fodder and rising sea levels flooded coastal farms."
+  }
+ ]
+}

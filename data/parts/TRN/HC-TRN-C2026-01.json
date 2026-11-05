@@ -1,0 +1,25 @@
+{
+ "id": "HC-TRN-C2026-01",
+ "year": 2026,
+ "yearEnd": null,
+ "dateLabel": "2026",
+ "title": "Artemis II flies astronauts around the Moon",
+ "system": "TRN",
+ "place": "Kennedy Space Center, United States",
+ "region": "Global",
+ "figures": [
+  "Reid Wiseman",
+  "Victor Glover",
+  "Christina Koch"
+ ],
+ "summary": "Four astronauts flew around the Moon aboard the Orion spacecraft.",
+ "why": "First crewed flight beyond low Earth orbit since 1972.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Artemis_II",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

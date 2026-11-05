@@ -1,0 +1,29 @@
+{
+ "id": "HC-SCI-C1856-01",
+ "year": 1856,
+ "yearEnd": null,
+ "dateLabel": "1856",
+ "title": "First recognised Neanderthal fossil found",
+ "system": "SCI",
+ "place": "Kleine Feldhofer Grotte, Neander Valley, Germany",
+ "region": "Europe",
+ "figures": [
+  "Johann Carl Fuhlrott"
+ ],
+ "summary": "In 1856 schoolteacher Johann Carl Fuhlrott recognised bones from Kleine Feldhofer Grotte in the Neander Valley as distinct from modern humans. Neanderthal 1 became the first recognised Neanderthal fossil.",
+ "why": "The first fossil recognised as another kind of human, though experts disputed it for decades.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Neanderthal",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "'Quarry workers found' is not in the source; 'first proof' overclaims: Engis 2 (1829) and Gibraltar 1 (1848) were found earlier, and Virchow's opposition stalled acceptance until about 1900.",
+    "evidence": "https://en.wikipedia.org/wiki/Neanderthal"
+   }
+  ]
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "HC-TEC-C1926-01",
+ "year": 1926,
+ "yearEnd": null,
+ "dateLabel": "1926",
+ "title": "Television demonstrated",
+ "system": "TEC",
+ "place": "London, England",
+ "region": "Europe",
+ "figures": [
+  "John Logie Baird"
+ ],
+ "summary": "John Logie Baird demonstrated moving images by mechanical television.",
+ "why": "Start of television.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/John_Logie_Baird",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

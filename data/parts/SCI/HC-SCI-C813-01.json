@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-C813-01",
+ "year": 813,
+ "yearEnd": 833,
+ "dateLabel": "813-833 CE",
+ "title": "Al-Khwarizmi's algebra book",
+ "system": "SCI",
+ "place": "Baghdad, Iraq",
+ "region": "West Asia",
+ "figures": [
+  "al-Khwarizmi"
+ ],
+ "summary": "Al-Khwarizmi's book Al-Jabr gave the first systematic solution of linear and quadratic equations.",
+ "why": "Widely influential on later authors in the Islamic world and Europe.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Al-Khwarizmi",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

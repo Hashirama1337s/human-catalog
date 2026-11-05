@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-C30-01",
+ "year": 30,
+ "yearEnd": 375,
+ "dateLabel": "c. 30-375 CE",
+ "title": "Kushan Empire",
+ "system": "GOV",
+ "place": "Bactria (Afghanistan) to northern India",
+ "region": "Central Asia",
+ "figures": [],
+ "summary": "Formed by the Yuezhi, the Kushan Empire spread from Bactria across Afghanistan, Pakistan and northern India.",
+ "why": "A major power linking Central Asia and northern India.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Kushan_Empire",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

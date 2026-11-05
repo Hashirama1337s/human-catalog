@@ -1,0 +1,25 @@
+{
+ "id": "HC-SCI-C1831-01",
+ "year": 1831,
+ "yearEnd": null,
+ "dateLabel": "1831",
+ "title": "Faraday discovers electromagnetic induction",
+ "system": "SCI",
+ "place": "London, England",
+ "region": "Europe",
+ "figures": [
+  "Michael Faraday"
+ ],
+ "summary": "Michael Faraday showed that a moving magnet can make an electric current flow.",
+ "why": "Basis of electric generators and transformers.",
+ "interchange": [
+  "Joseph Henry discovered induction independently in the United States"
+ ],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Faraday%27s_law_of_induction",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

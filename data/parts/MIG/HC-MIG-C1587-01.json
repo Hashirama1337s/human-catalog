@@ -1,0 +1,43 @@
+{
+ "id": "HC-MIG-C1587-01",
+ "year": 1587,
+ "yearEnd": 1590,
+ "dateLabel": "1587–1590",
+ "title": "What happened to the Roanoke 'Lost Colony'",
+ "system": "MIG",
+ "place": "Roanoke Island, North Carolina",
+ "region": "North America",
+ "figures": [
+  "John White"
+ ],
+ "summary": "When John White returned in 1590 the settlement was abandoned, with 'CROATOAN' carved on the palisade. No conclusive evidence of the colonists' fate has been found.",
+ "why": "An entire English colony disappeared, leaving one carved word.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "colonies",
+  "North America",
+  "England"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Roanoke_Colony",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ },
+ "kind": "open",
+ "question": "What happened to the English colonists left on Roanoke Island in 1587?",
+ "evidence": "Colony left in 1587; abandoned by 1590; 'CROATOAN' carving; a 2011 study found a hidden fort symbol on White's map at the head of Albemarle Sound.",
+ "wouldSettle": "Securely dated colonist artefacts or remains at a specific later site.",
+ "theories": [
+  {
+   "name": "Joined Native communities",
+   "idea": "The colonists assimilated with nearby Native tribes, such as at Croatoan."
+  },
+  {
+   "name": "Killed",
+   "idea": "Jamestown-era reports claimed the settlers had been massacred."
+  }
+ ]
+}

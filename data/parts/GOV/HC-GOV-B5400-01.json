@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-B5400-01",
+ "year": -5400,
+ "yearEnd": null,
+ "dateLabel": "c. 5400 BCE",
+ "title": "Eridu founded",
+ "system": "GOV",
+ "place": "Tell Abu Shahrain, Dhi Qar, Iraq",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "Eridu, traditionally the earliest city of southern Mesopotamia, is founded with a long sequence of temples.",
+ "why": "Seed of the Sumerian city tradition.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Eridu",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

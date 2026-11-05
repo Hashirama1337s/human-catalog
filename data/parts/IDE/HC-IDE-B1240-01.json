@@ -1,0 +1,53 @@
+{
+ "id": "HC-IDE-B1240-01",
+ "year": -1240,
+ "yearEnd": 1160,
+ "dateLabel": "jars placed from c. 1240–660 BCE; burials to c. 1160 CE",
+ "title": "Who made the Plain of Jars, and how were they used?",
+ "system": "IDE",
+ "place": "Xiangkhouang, Laos",
+ "region": "Southeast Asia",
+ "figures": [
+  "Madeleine Colani"
+ ],
+ "summary": "Burial is the leading view of these huge stone jars, but how they were used for the dead, who made them and when are still uncertain because remains are hard to date.",
+ "why": "Megalithic stone jars dot a landscape, and their maker culture remains shadowy.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "megaliths",
+  "burial",
+  "Southeast Asia"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Plain_of_Jars",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Title implies the purpose is unknown; source says burial use has been supported since Colani (1930). Open parts are makers, dates and practice.",
+    "evidence": "https://en.wikipedia.org/wiki/Plain_of_Jars"
+   }
+  ]
+ },
+ "kind": "open",
+ "question": "Who made the giant stone jars of Laos, when, and what were they for?",
+ "evidence": "Luminescence dates jar placement as early as 1240–660 BCE; burials at Site 1 date to the 8th–13th centuries CE; a jar at Site 75 dated 890–1160 CE.",
+ "wouldSettle": "Dating the jars themselves and the remains in them using the same samples.",
+ "theories": [
+  {
+   "name": "Burial vessels",
+   "idea": "Jars were central burial vessels surrounded by secondary family burials."
+  },
+  {
+   "name": "Distilling the dead",
+   "idea": "Van Den Bergh suggested the jars may have been used to distil dead bodies."
+  },
+  {
+   "name": "Monuments marking graves",
+   "idea": "Nitta proposed the jars were symbolic markers for surrounding burials."
+  }
+ ]
+}

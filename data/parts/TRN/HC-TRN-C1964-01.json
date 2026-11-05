@@ -1,0 +1,27 @@
+{
+ "id": "HC-TRN-C1964-01",
+ "year": 1964,
+ "yearEnd": null,
+ "dateLabel": "1964",
+ "title": "Shinkansen bullet train",
+ "system": "TRN",
+ "place": "Tokyo to Osaka, Japan",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Japan opened the first railway line built for high-speed travel, between Tokyo and Osaka.",
+ "why": "Started high-speed rail.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Shinkansen",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source: 'first country to construct railway lines dedicated to high-speed travel'.",
+    "evidence": "https://en.wikipedia.org/wiki/Shinkansen"
+   }
+  ]
+ }
+}

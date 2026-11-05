@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-C224-01",
+ "year": 224,
+ "yearEnd": 651,
+ "dateLabel": "224-651 CE",
+ "title": "Sasanian Empire",
+ "system": "GOV",
+ "place": "Iran",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "The House of Sasan ruled Iran and nearby lands for over four centuries.",
+ "why": "Its reign over Iran was second in length only to the Parthians.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Sasanian_Empire",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

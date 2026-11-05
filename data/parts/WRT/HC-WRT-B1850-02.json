@@ -1,0 +1,32 @@
+{
+ "id": "HC-WRT-B1850-02",
+ "year": -1850,
+ "yearEnd": -1400,
+ "dateLabel": "c. 1850–1400 BCE (debated)",
+ "title": "Undeciphered: the Phaistos Disc",
+ "system": "WRT",
+ "place": "Phaistos, Crete",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Found in 1908, this clay disc is now generally accepted as authentic but remains undeciphered; it is not even clear that its signs are a script. Its date is also disputed.",
+ "why": "Its signs were pressed with reusable stamps, yet its message is unknown.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "writing",
+  "undeciphered",
+  "Minoan"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Phaistos_Disc",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ },
+ "kind": "open",
+ "question": "Is the stamped Phaistos Disc writing, and if so what does it say?",
+ "evidence": "45 distinct signs appear 242 times, impressed with individual stamps before firing; date estimates run from about 1850 BCE to after 1400 BCE.",
+ "wouldSettle": "Another object made with the same stamps, or a longer text in the same signs.",
+ "theories": []
+}

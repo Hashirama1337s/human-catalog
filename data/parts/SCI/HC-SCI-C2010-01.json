@@ -1,0 +1,34 @@
+{
+ "id": "HC-SCI-C2010-01",
+ "year": 2010,
+ "yearEnd": null,
+ "dateLabel": "2010",
+ "title": "First ancient human genome (Saqqaq man)",
+ "system": "SCI",
+ "place": "Greenland",
+ "region": "North America",
+ "figures": [],
+ "summary": "Scientists sequenced nearly 80% of the genome of a Paleo-Eskimo man of the Saqqaq culture from 4,000-year-old hair found in Greenland. It pointed to a separate migration from Siberia about 5,500 years ago.",
+ "why": "Opened the era of reading whole genomes of ancient people.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Paleo-Eskimo",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Wrong place: the 2010 genome paper says the hair was 'recovered from Qeqertasussuk, Greenland', not Qeqertarsuaq on Disko Island (cited page says only 'found in Greenland').",
+    "evidence": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3951495"
+   },
+   {
+    "problem": "Qeqertasussuk and 'related to peoples of northeastern Siberia' are not in the source; source gives Greenland, nearly 80%, and a separate Siberian migration about 5,500 years ago.",
+    "evidence": "https://en.wikipedia.org/wiki/Paleo-Eskimo"
+   }
+  ]
+ }
+}

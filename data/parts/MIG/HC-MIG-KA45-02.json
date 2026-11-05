@@ -1,0 +1,30 @@
+{
+ "id": "HC-MIG-KA45-02",
+ "year": -43050,
+ "yearEnd": null,
+ "dateLabel": "c. 45,000 years ago",
+ "title": "Ust'-Ishim man, an early Siberian genome",
+ "system": "MIG",
+ "place": "Ust'-Ishim, Omsk Oblast, Russia",
+ "region": "Central Asia",
+ "figures": [],
+ "summary": "45,000-year-old remains from western Siberia gave one of the oldest modern human genomes (2014). Its Neanderthal DNA segments dated human-Neanderthal mating to about 52,000-58,000 years ago; 2024 genomes narrowed this to 49,000-45,000.",
+ "why": "The length of Neanderthal DNA chunks works like a clock for when interbreeding happened.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ust%27-Ishim_man",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "'Later revised' is not in the cited page; name the revision and its source (2024 Ranis/Zlaty kun genomes, see HC-SCI-C2024-01).",
+    "evidence": "https://en.wikipedia.org/wiki/Ust%27-Ishim_man ; https://nachrichten.idw-online.de/2024/12/12/when-did-modern-humans-and-neanderthals-interbreed-the-oldest-genomes-of-modern-humans-to-date-provide-new-insights"
+   }
+  ]
+ }
+}

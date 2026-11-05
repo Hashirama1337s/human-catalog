@@ -1,0 +1,27 @@
+{
+ "id": "HC-MIG-KA13-01",
+ "year": -11050,
+ "yearEnd": null,
+ "dateLabel": "c. 13,000 years ago (oldest known carrier)",
+ "title": "SLC24A5 light-skin variant: oldest known carrier",
+ "system": "MIG",
+ "place": "Satsurblia Cave, Georgia",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "The oldest known carrier of the light-skin SLC24A5 variant lived about 13,000 years ago in Georgia. The variant may have arisen as early as 19,000 years ago and later spread widely in Europe.",
+ "why": "Skin colour changed recently, long after people reached Europe.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/SLC24A5",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Title 'appears' claims an origin date; source gives only the earliest known sample (13,000 y) and says it was 'possibly originating as long as 19,000 years ago'.",
+    "evidence": "https://en.wikipedia.org/wiki/SLC24A5"
+   }
+  ]
+ }
+}

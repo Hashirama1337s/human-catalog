@@ -1,0 +1,23 @@
+{
+ "id": "HC-FOD-C1944-01",
+ "year": 1944,
+ "yearEnd": null,
+ "dateLabel": "1944 onward",
+ "title": "Borlaug's high-yield wheat in Mexico",
+ "system": "FOD",
+ "place": "Mexico City, Mexico",
+ "region": "North America",
+ "figures": [
+  "Norman Borlaug"
+ ],
+ "summary": "From 1944 Norman Borlaug led a wheat program in Mexico, breeding semi-dwarf, high-yield, disease-resistant wheat. Often called the father of the Green Revolution, he won the 1970 Nobel Peace Prize.",
+ "why": "His wheat helped raise food supply worldwide; he is credited with saving many from starvation.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Norman_Borlaug",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

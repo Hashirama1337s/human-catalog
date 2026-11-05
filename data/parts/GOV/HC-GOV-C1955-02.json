@@ -1,0 +1,24 @@
+{
+ "id": "HC-GOV-C1955-02",
+ "year": 1955,
+ "yearEnd": 1956,
+ "dateLabel": "1955-1956",
+ "title": "Rosa Parks and the Montgomery bus boycott",
+ "system": "GOV",
+ "place": "Montgomery, Alabama, United States",
+ "region": "North America",
+ "figures": [
+  "Rosa Parks",
+  "Martin Luther King Jr."
+ ],
+ "summary": "After Rosa Parks was arrested on 1 December 1955 for refusing to give up her bus seat, Black residents boycotted the buses for over a year, led by Martin Luther King Jr., until courts struck down bus segregation.",
+ "why": "A turning point of the US civil rights movement.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Montgomery_bus_boycott",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

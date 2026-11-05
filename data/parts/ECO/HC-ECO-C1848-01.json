@@ -1,0 +1,21 @@
+{
+ "id": "HC-ECO-C1848-01",
+ "year": 1848,
+ "yearEnd": 1855,
+ "dateLabel": "1848-1855",
+ "title": "California Gold Rush",
+ "system": "ECO",
+ "place": "California, United States",
+ "region": "North America",
+ "figures": [],
+ "summary": "Gold found at Sutter's Mill drew about 300,000 people to California.",
+ "why": "Transformed the American West, devastating Native Californians.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/California_gold_rush",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "id": "HC-RCL-C1930-01",
+ "year": 1930,
+ "yearEnd": 1940,
+ "dateLabel": "1930s",
+ "title": "Dust Bowl",
+ "system": "RCL",
+ "place": "High Plains (Texas and Oklahoma panhandles and nearby states), United States",
+ "region": "North America",
+ "figures": [],
+ "summary": "Severe drought struck farmland whose native grasses had been ploughed up, and wind tore away the soil in huge dust storms. About 3.5 million people moved out of the Plains states between 1930 and 1940.",
+ "why": "Farming practices turned a drought into an ecological disaster and a mass migration.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Dust_Bowl",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-C618-01",
+ "year": 618,
+ "yearEnd": 907,
+ "dateLabel": "618-907 CE",
+ "title": "Tang dynasty",
+ "system": "GOV",
+ "place": "China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "The Tang ruled a vast, outward-looking empire larger than the Han.",
+ "why": "Seen as a high point of Chinese civilisation and a cosmopolitan golden age.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Tang_dynasty",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

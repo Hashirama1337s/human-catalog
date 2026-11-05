@@ -1,0 +1,24 @@
+{
+ "id": "HC-FOD-B6050-01",
+ "year": -6050,
+ "yearEnd": null,
+ "dateLabel": "c. 8,000 years ago",
+ "title": "Squash domesticated",
+ "system": "FOD",
+ "place": "Guilá Naquitz Cave, Oaxaca, Mexico",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "Squash remains from Guilá Naquitz Cave are the earliest known evidence of domesticated squash.",
+ "why": "One of the 'three sisters' crops of the Americas.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "domestication"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Cucurbita",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

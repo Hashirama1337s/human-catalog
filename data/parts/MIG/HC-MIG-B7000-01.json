@@ -1,0 +1,39 @@
+{
+ "id": "HC-MIG-B7000-01",
+ "year": -7000,
+ "yearEnd": -6000,
+ "dateLabel": "c. 7000-6000 BCE",
+ "title": "Early farmers spread into Europe",
+ "system": "MIG",
+ "place": "Anatolia into southeast Europe",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Early European Farmers arrive through Anatolia, bringing crops and livestock.",
+ "why": "Farming reached Europe largely by people moving, not just ideas.",
+ "interchange": [],
+ "supersedes": "",
+ "route": [
+  [
+   38.0,
+   32.5
+  ],
+  [
+   40.0,
+   29.5
+  ],
+  [
+   40.5,
+   22.0
+  ],
+  [
+   49.0,
+   9.0
+  ]
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

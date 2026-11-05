@@ -1,0 +1,21 @@
+{
+ "id": "HC-WAR-C2022-01",
+ "year": 2022,
+ "yearEnd": null,
+ "dateLabel": "2022",
+ "title": "Russia invades Ukraine",
+ "system": "WAR",
+ "place": "Ukraine",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Russia launched a full-scale invasion of Ukraine.",
+ "why": "Europe's largest war since WWII.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war_(2022%E2%80%93present)",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

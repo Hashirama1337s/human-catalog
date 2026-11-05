@@ -1,0 +1,21 @@
+{
+ "id": "HC-TEC-C808-01",
+ "year": 808,
+ "yearEnd": null,
+ "dateLabel": "808 CE (first known formula)",
+ "title": "Gunpowder",
+ "system": "TEC",
+ "place": "Tang China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Chinese Daoist alchemists, seeking medicines, wrote the first known formula for a gunpowder-like mixture.",
+ "why": "The earliest known chemical explosive.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Gunpowder",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

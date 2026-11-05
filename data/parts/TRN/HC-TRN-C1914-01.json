@@ -1,0 +1,21 @@
+{
+ "id": "HC-TRN-C1914-01",
+ "year": 1914,
+ "yearEnd": null,
+ "dateLabel": "1914",
+ "title": "Panama Canal opens",
+ "system": "TRN",
+ "place": "Panama",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "A canal across Panama linked the Atlantic and Pacific Oceans.",
+ "why": "Ships no longer had to sail around South America.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Panama_Canal",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

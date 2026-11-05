@@ -1,0 +1,23 @@
+{
+ "id": "HC-IDE-C1637-01",
+ "year": 1637,
+ "yearEnd": null,
+ "dateLabel": "1637",
+ "title": "Descartes: I think, therefore I am",
+ "system": "IDE",
+ "place": "Leiden, Netherlands",
+ "region": "Europe",
+ "figures": [
+  "René Descartes"
+ ],
+ "summary": "In his Discourse on the Method, Descartes set out to doubt everything that could be doubted.",
+ "why": "A starting point of modern philosophy.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Discourse_on_the_Method",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

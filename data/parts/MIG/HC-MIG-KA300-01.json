@@ -1,0 +1,21 @@
+{
+ "id": "HC-MIG-KA300-01",
+ "year": -298050,
+ "yearEnd": null,
+ "dateLabel": "c. 350,000-260,000 years ago",
+ "title": "Deepest split among living humans (Khoe-San)",
+ "system": "MIG",
+ "place": "Southern Africa",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Ancient southern African genomes suggest the ancestors of Khoe-San peoples separated from other modern human groups about 350,000-260,000 years ago, one of the deepest splits among people alive today.",
+ "why": "It shows Homo sapiens was already old and diverse inside Africa long before anyone left.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Khoisan",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

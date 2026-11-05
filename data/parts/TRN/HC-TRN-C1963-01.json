@@ -1,0 +1,23 @@
+{
+ "id": "HC-TRN-C1963-01",
+ "year": 1963,
+ "yearEnd": null,
+ "dateLabel": "1963",
+ "title": "Valentina Tereshkova, first woman in space",
+ "system": "TRN",
+ "place": "Earth orbit (Soviet Vostok 6)",
+ "region": "Global",
+ "figures": [
+  "Valentina Tereshkova"
+ ],
+ "summary": "On 16 June 1963 Valentina Tereshkova flew Vostok 6, orbiting Earth 48 times in nearly three days, and became the first woman in space.",
+ "why": "Showed space travel was not only for men, two years after Gagarin.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Valentina_Tereshkova",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

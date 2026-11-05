@@ -1,0 +1,21 @@
+{
+ "id": "HC-TRN-B7000-01",
+ "year": -7000,
+ "yearEnd": null,
+ "dateLabel": "c. 7000 BCE",
+ "title": "Dog sleds",
+ "system": "TRN",
+ "place": "Siberia",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Sled dogs and dog sleds are in use in Siberia.",
+ "why": "Fast travel over snow and ice in the far north.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "HC-GOV-B3500-01",
+ "year": -3500,
+ "yearEnd": -3000,
+ "dateLabel": "c. 3500 BCE",
+ "title": "Watson Brake mounds",
+ "system": "GOV",
+ "place": "Ouachita Parish, Louisiana, United States",
+ "region": "North America",
+ "figures": [],
+ "summary": "Hunter-gatherers build eleven earth mounds in an oval, joined by ridges. It is considered the oldest earthwork mound complex in North America.",
+ "why": "Showed that hunter-gatherers, not only later farming societies, could organise large building projects.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Watson_Brake",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Summary drops the source's hedge: 'Watson Brake is considered the oldest earthwork mound complex in North America.'",
+    "evidence": "https://en.wikipedia.org/wiki/Watson_Brake"
+   },
+   {
+    "problem": "Source does not say it 'overturned' a farmers-only idea; it says it changed views of what such groups could build.",
+    "evidence": "https://en.wikipedia.org/wiki/Watson_Brake"
+   }
+  ]
+ }
+}

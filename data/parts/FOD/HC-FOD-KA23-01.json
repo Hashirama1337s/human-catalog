@@ -1,0 +1,21 @@
+{
+ "id": "HC-FOD-KA23-01",
+ "year": -21050,
+ "yearEnd": null,
+ "dateLabel": "c. 23,000 years ago",
+ "title": "Wild cereal harvesting tools (Ohalo II)",
+ "system": "FOD",
+ "place": "Ohalo II, Israel",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "Ohalo II has the earliest evidence of composite tools for harvesting cereals, long before farming.",
+ "why": "Foragers were already gathering grains that farmers later domesticated.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Neolithic_Revolution",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

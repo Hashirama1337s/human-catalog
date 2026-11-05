@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1930-01",
+ "year": 1930,
+ "yearEnd": null,
+ "dateLabel": "1930",
+ "title": "Gandhi's Salt March",
+ "system": "GOV",
+ "place": "Gujarat, India",
+ "region": "South Asia",
+ "figures": [
+  "Mahatma Gandhi"
+ ],
+ "summary": "Gandhi led a 24-day march to the sea to make salt in defiance of British law.",
+ "why": "A model of nonviolent resistance.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Salt_March",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

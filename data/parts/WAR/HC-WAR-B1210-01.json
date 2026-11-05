@@ -1,0 +1,34 @@
+{
+ "id": "HC-WAR-B1210-01",
+ "year": -1210,
+ "yearEnd": -1175,
+ "dateLabel": "c. 1210–1175 BCE",
+ "title": "Who the Sea Peoples were",
+ "system": "WAR",
+ "place": "Eastern Mediterranean",
+ "region": "West Asia",
+ "figures": [
+  "Ramesses III"
+ ],
+ "summary": "Egyptian records name groups who raided and invaded around 1200 BCE, but the origins of several, such as the Weshesh, are unknown. Many seem to have travelled by land.",
+ "why": "They are bound up with the collapse of the Bronze Age world.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "migration",
+  "Bronze Age",
+  "Egypt"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Sea_Peoples",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ },
+ "kind": "open",
+ "question": "Who were the Sea Peoples who attacked Egypt, and where did they come from?",
+ "evidence": "Recorded by Ramesses II, Merneptah (c. 1200 BCE) and Ramesses III at Medinet Habu (Year 8, c. 1175 BCE); 'Sea Peoples' is a modern label.",
+ "wouldSettle": "Archaeological and genetic links between destruction layers, new settlers and named groups' homelands.",
+ "theories": []
+}

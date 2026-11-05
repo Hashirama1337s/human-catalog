@@ -1,0 +1,33 @@
+{
+ "id": "HC-TEC-C132-01",
+ "year": 132,
+ "yearEnd": null,
+ "dateLabel": "132 CE",
+ "title": "Zhang Heng's seismoscope",
+ "system": "TEC",
+ "place": "Luoyang, China",
+ "region": "East Asia",
+ "figures": [
+  "Zhang Heng"
+ ],
+ "summary": "The Han polymath Zhang Heng built what many historians consider the first seismoscope; it showed the direction of an earthquake about 500 km away.",
+ "why": "The earliest known instrument to detect distant earthquakes.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Zhang_Heng",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Date: record uses Zhang Heng's lifespan; source dates the seismoscope to 132.",
+    "evidence": "https://en.wikipedia.org/wiki/Zhang_Heng"
+   },
+   {
+    "problem": "Source hedges: 'what many historians consider ... the first seismoscope'.",
+    "evidence": "https://en.wikipedia.org/wiki/Zhang_Heng"
+   }
+  ]
+ }
+}

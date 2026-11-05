@@ -1,0 +1,47 @@
+{
+ "id": "HC-MIG-B4400-01",
+ "year": -4400,
+ "yearEnd": -3000,
+ "dateLabel": "c. 4400–3000 BCE",
+ "title": "Where Proto-Indo-European was first spoken",
+ "system": "MIG",
+ "place": "Pontic–Caspian steppe or Caucasus region",
+ "region": "Europe",
+ "figures": [],
+ "summary": "The steppe theory is the most widely accepted and the Anatolian hypothesis is largely abandoned, but where the archaic stage arose, and how some branches spread, is still debated.",
+ "why": "It is the ancestor of languages from Ireland to India.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "languages",
+  "Indo-European",
+  "migration"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Proto-Indo-European_homeland",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Steppe homeland for late PIE is near-consensus; open part is archaic PIE. 'Near the Caucasus' conflated the north-Caucasus steppe proposal with the south-Caucasus Armenian hypothesis.",
+    "evidence": "https://en.wikipedia.org/wiki/Proto-Indo-European_homeland"
+   }
+  ]
+ },
+ "kind": "open",
+ "question": "Where and when was the ancestor of the Indo-European languages first spoken?",
+ "evidence": "Steppe origin dated about 4000–3000 BCE; newer proposals put archaic PIE between the Caucasus and lower Volga about 4400–4000 BCE.",
+ "wouldSettle": "Ancient genomes and archaeology tracing a single population to the earliest Anatolian and steppe language splits.",
+ "theories": [
+  {
+   "name": "Pontic–Caspian steppe",
+   "idea": "PIE spread from the steppe north of the Black and Caspian Seas about 4000–3000 BCE."
+  },
+  {
+   "name": "Caucasus / Near Eastern origin",
+   "idea": "An earlier stage lay south of or near the Caucasus before reaching the steppe."
+  }
+ ]
+}

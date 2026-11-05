@@ -1,0 +1,26 @@
+{
+ "id": "HC-SCI-C1610-01",
+ "year": 1610,
+ "yearEnd": null,
+ "dateLabel": "1610",
+ "title": "Galileo's Starry Messenger",
+ "system": "SCI",
+ "place": "Venice, Italy",
+ "region": "Europe",
+ "figures": [
+  "Galileo Galilei"
+ ],
+ "summary": "Galileo published telescope observations of mountains on the Moon and four moons orbiting Jupiter.",
+ "why": "Strong evidence that not everything circles the Earth.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "astronomy"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Sidereus_Nuncius",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

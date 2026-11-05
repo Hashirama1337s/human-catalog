@@ -1,0 +1,24 @@
+{
+ "id": "HC-WAR-C1935-01",
+ "year": 1935,
+ "yearEnd": 1936,
+ "dateLabel": "1935-1936",
+ "title": "Italy invades Ethiopia",
+ "system": "WAR",
+ "place": "Ethiopia",
+ "region": "Africa",
+ "figures": [
+  "Haile Selassie",
+  "Benito Mussolini"
+ ],
+ "summary": "Fascist Italy invaded Ethiopia, dropping mustard gas from aircraft on soldiers and civilians. Haile Selassie fled into exile and Italy took Addis Ababa in May 1936. Weak League of Nations sanctions failed.",
+ "why": "The League of Nations' failure here discredited it before World War II.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Second_Italo-Ethiopian_War",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

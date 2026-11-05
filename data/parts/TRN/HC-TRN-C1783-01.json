@@ -1,0 +1,33 @@
+{
+ "id": "HC-TRN-C1783-01",
+ "year": 1783,
+ "yearEnd": null,
+ "dateLabel": "1783",
+ "title": "First human balloon flight",
+ "system": "TRN",
+ "place": "Paris, France",
+ "region": "Europe",
+ "figures": [
+  "Joseph-Michel Montgolfier",
+  "Jacques-Étienne Montgolfier"
+ ],
+ "summary": "A hot-air balloon built by the Montgolfier brothers made the first confirmed piloted ascent by humans.",
+ "why": "The first confirmed human flight; the first free flight followed in Paris on 21 November 1783.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "flight"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Montgolfier_brothers",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'First time humans flew' is stronger than 'first confirmed piloted ascent'; place over-broad: tethered flight from the Reveillon workshop, Faubourg Saint-Antoine (Paris).",
+    "evidence": "https://en.wikipedia.org/wiki/Montgolfier_brothers"
+   }
+  ]
+ }
+}

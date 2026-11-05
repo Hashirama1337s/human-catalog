@@ -1,0 +1,30 @@
+{
+ "id": "HC-GOV-C1808-01",
+ "year": 1808,
+ "yearEnd": 1833,
+ "dateLabel": "1808-1833",
+ "title": "Spanish American wars of independence",
+ "system": "GOV",
+ "place": "Spanish America (Mexico, Central and South America)",
+ "region": "Central & South America",
+ "figures": [
+  "Simón Bolívar",
+  "José de San Martín"
+ ],
+ "summary": "Across South and Central America, independence movements fought and defeated Spanish colonial rule.",
+ "why": "Created most of the nations of Latin America.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Spanish_American_wars_of_independence",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Place too narrow: summary and source cover Mexico (New Spain) and Central America as well as South America.",
+    "evidence": "https://en.wikipedia.org/wiki/Spanish_American_wars_of_independence"
+   }
+  ]
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "id": "HC-MIG-KA70-01",
+ "year": -68050,
+ "yearEnd": -48050,
+ "dateLabel": "c. 70,000-50,000 years ago",
+ "title": "Main dispersal of modern humans out of Africa",
+ "system": "MIG",
+ "place": "Africa into Asia",
+ "region": "Africa",
+ "figures": [],
+ "summary": "The dispersal that gave rise to most people living outside Africa today begins in this window.",
+ "why": "The ancestors of all non-African populations alive today.",
+ "interchange": [],
+ "supersedes": "",
+ "route": [
+  [
+   9.0,
+   39.0
+  ],
+  [
+   12.6,
+   43.4
+  ],
+  [
+   17.0,
+   50.0
+  ],
+  [
+   20.0,
+   78.0
+  ],
+  [
+   5.0,
+   100.0
+  ]
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Early_human_migrations",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

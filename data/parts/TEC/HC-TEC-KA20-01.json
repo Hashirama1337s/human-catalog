@@ -1,0 +1,29 @@
+{
+ "id": "HC-TEC-KA20-01",
+ "year": -18050,
+ "yearEnd": -17050,
+ "dateLabel": "c. 20,000-19,000 years ago",
+ "title": "Earliest known pottery vessels",
+ "system": "TEC",
+ "place": "Xianren Cave, China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Hunter-gatherers in China make the earliest known pottery for use, long before farming.",
+ "why": "Cooking and storing in fired clay changed diets and later underpinned village life.",
+ "interchange": [
+  "Earliest New World pottery in the Amazon basin, c. 6000-5000 BCE"
+ ],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Superlative needs 'known' (source: 'Earliest pottery use').",
+    "evidence": "https://en.wikipedia.org/wiki/Timeline_of_prehistory"
+   }
+  ]
+ }
+}

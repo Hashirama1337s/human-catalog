@@ -1,0 +1,32 @@
+{
+ "id": "HC-GOV-B2600-01",
+ "year": -2600,
+ "yearEnd": -1800,
+ "dateLabel": "c. 2600-2000 BCE (city; Caral culture c. 3000-1800 BCE)",
+ "title": "Caral: earliest known city in the Americas",
+ "system": "GOV",
+ "place": "Supe Valley, Peru",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "Caral, north of Lima, held pyramids, plazas and administrative buildings. It is considered the oldest city in the Americas and one of the oldest in the world.",
+ "why": "Shows that cities and monumental building arose independently in the Americas around the time Egypt's great pyramids were built.",
+ "interchange": [
+  "Early cities also in Mesopotamia and Egypt (no contact with the Americas)"
+ ],
+ "supersedes": "",
+ "tags": [
+  "pyramids"
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Caral",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Label used the culture span, not the city's 2600-2000 BCE; source says 'oldest city' claim is challenged; Mesopotamia comparison unsupported.",
+    "evidence": "https://en.wikipedia.org/wiki/Caral"
+   }
+  ]
+ }
+}

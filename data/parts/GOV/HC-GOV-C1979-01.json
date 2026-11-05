@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1979-01",
+ "year": 1979,
+ "yearEnd": null,
+ "dateLabel": "1979",
+ "title": "Iranian Revolution",
+ "system": "GOV",
+ "place": "Tehran, Iran",
+ "region": "West Asia",
+ "figures": [
+  "Ruhollah Khomeini"
+ ],
+ "summary": "The Shah was overthrown and replaced with an Islamic Republic.",
+ "why": "Reshaped Middle Eastern politics.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Iranian_Revolution",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

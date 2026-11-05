@@ -1,0 +1,21 @@
+{
+ "id": "HC-RCL-C2011-01",
+ "year": 2011,
+ "yearEnd": null,
+ "dateLabel": "2011",
+ "title": "Tōhoku earthquake and Fukushima disaster",
+ "system": "RCL",
+ "place": "Tōhoku, Japan",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "A massive earthquake and tsunami devastated northeast Japan and caused nuclear meltdowns at Fukushima.",
+ "why": "Reshaped debates on nuclear power.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

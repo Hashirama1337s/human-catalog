@@ -1,0 +1,23 @@
+{
+ "id": "HC-WAR-C1803-01",
+ "year": 1803,
+ "yearEnd": 1815,
+ "dateLabel": "1803-1815",
+ "title": "Napoleonic Wars",
+ "system": "WAR",
+ "place": "Europe",
+ "region": "Europe",
+ "figures": [
+  "Napoleon"
+ ],
+ "summary": "Napoleon's France fought shifting coalitions across Europe until his final defeat at Waterloo in 1815.",
+ "why": "Redrew Europe's map and spread French legal reforms.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Napoleonic_Wars",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

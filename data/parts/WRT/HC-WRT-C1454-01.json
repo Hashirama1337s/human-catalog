@@ -1,0 +1,26 @@
+{
+ "id": "HC-WRT-C1454-01",
+ "year": 1454,
+ "yearEnd": 1455,
+ "dateLabel": "1454 or 1455",
+ "title": "Gutenberg Bible",
+ "system": "WRT",
+ "place": "Mainz, Germany",
+ "region": "Europe",
+ "figures": [
+  "Johannes Gutenberg"
+ ],
+ "summary": "Gutenberg printed a 42-line Latin Bible; the first finished copies were available in 1454 or 1455.",
+ "why": "The earliest major book printed in Europe with metal movable type.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "printing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Gutenberg_Bible",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

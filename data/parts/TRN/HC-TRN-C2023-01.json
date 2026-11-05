@@ -1,0 +1,21 @@
+{
+ "id": "HC-TRN-C2023-01",
+ "year": 2023,
+ "yearEnd": null,
+ "dateLabel": "2023",
+ "title": "India lands near the Moon's south pole",
+ "system": "TRN",
+ "place": "Lunar south pole region, the Moon",
+ "region": "South Asia",
+ "figures": [],
+ "summary": "Chandrayaan-3 landed near the Moon's south pole.",
+ "why": "India became the fourth country to soft-land on the Moon.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Chandrayaan-3",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

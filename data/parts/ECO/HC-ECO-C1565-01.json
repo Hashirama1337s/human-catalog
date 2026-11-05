@@ -1,0 +1,21 @@
+{
+ "id": "HC-ECO-C1565-01",
+ "year": 1565,
+ "yearEnd": 1815,
+ "dateLabel": "1565-1815",
+ "title": "Manila galleons link Asia and the Americas",
+ "system": "ECO",
+ "place": "Manila, Philippines - Acapulco, Mexico",
+ "region": "Global",
+ "figures": [],
+ "summary": "Spanish ships crossed the Pacific between Manila and Acapulco for 250 years, trading American silver for Chinese silk and porcelain.",
+ "why": "For 250 years it swapped American silver for Asian luxury goods across the Pacific.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Manila_galleon",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

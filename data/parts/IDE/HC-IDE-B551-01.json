@@ -1,0 +1,23 @@
+{
+ "id": "HC-IDE-B551-01",
+ "year": -551,
+ "yearEnd": -479,
+ "dateLabel": "c. 551-479 BCE",
+ "title": "Confucius teaches",
+ "system": "IDE",
+ "place": "China",
+ "region": "East Asia",
+ "figures": [
+  "Confucius"
+ ],
+ "summary": "Confucius taught personal and government morality, family loyalty, respect for elders and rule by virtue.",
+ "why": "Much of the shared cultural heritage of East Asia comes from his teachings.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Confucius",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

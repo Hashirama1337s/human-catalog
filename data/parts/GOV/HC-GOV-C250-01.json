@@ -1,0 +1,27 @@
+{
+ "id": "HC-GOV-C250-01",
+ "year": 250,
+ "yearEnd": 900,
+ "dateLabel": "250-900 CE",
+ "title": "Classic Maya city-states",
+ "system": "GOV",
+ "place": "Southern Maya lowlands (Guatemala, Mexico, Belize, Honduras)",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "Cities such as Tikal, Palenque, Copán and Calakmul raised temples and carved dated inscriptions.",
+ "why": "The height of Maya writing, astronomy and art.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Classic_Maya_collapse",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Copán, named in the summary, is in Honduras, which the place field omitted.",
+    "evidence": "https://en.wikipedia.org/wiki/Classic_Maya_collapse"
+   }
+  ]
+ }
+}

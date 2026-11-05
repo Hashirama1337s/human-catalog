@@ -1,0 +1,37 @@
+{
+ "id": "HC-MIG-C1492-01",
+ "year": 1492,
+ "yearEnd": null,
+ "dateLabel": "12 October 1492",
+ "title": "Columbus lands in the Bahamas: two worlds reconnect",
+ "system": "MIG",
+ "place": "Guanahani (likely San Salvador Island), Bahamas",
+ "region": "Central & South America",
+ "figures": [
+  "Christopher Columbus"
+ ],
+ "summary": "Columbus's crews landed on an island its Lucayan people called Guanahani. The peoples of the Americas and of Europe and Africa came into lasting contact.",
+ "why": "Began lasting exchange of people, crops and diseases between the hemispheres.",
+ "interchange": [],
+ "supersedes": "",
+ "route": [
+  [
+   37.2,
+   -6.9
+  ],
+  [
+   28.1,
+   -15.4
+  ],
+  [
+   24.05,
+   -74.5
+  ]
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

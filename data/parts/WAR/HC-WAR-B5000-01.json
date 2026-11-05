@@ -1,0 +1,21 @@
+{
+ "id": "HC-WAR-B5000-01",
+ "year": -5000,
+ "yearEnd": null,
+ "dateLabel": "c. 5000 BCE",
+ "title": "Talheim Death Pit",
+ "system": "WAR",
+ "place": "Talheim, Baden-Württemberg, Germany",
+ "region": "Europe",
+ "figures": [],
+ "summary": "A pit holds 34 people, including 16 children, killed with no defensive wounds.",
+ "why": "Among the first signs of organised violence in Neolithic Europe.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Talheim_Death_Pit",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

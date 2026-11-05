@@ -1,0 +1,30 @@
+{
+ "id": "HC-RCL-C2020-01",
+ "year": 2020,
+ "yearEnd": 2023,
+ "dateLabel": "2020-2023",
+ "title": "COVID-19 pandemic",
+ "system": "RCL",
+ "place": "Worldwide",
+ "region": "Global",
+ "figures": [],
+ "summary": "A new coronavirus first found in Wuhan, China in late 2019 spread worldwide.",
+ "why": "Millions died; it caused the worst world recession since the Great Depression.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "epidemics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/COVID-19_pandemic",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "'World economy halted' overstates; source: 'largest global recession since the Great Depression'.",
+    "evidence": "https://en.wikipedia.org/wiki/COVID-19_pandemic"
+   }
+  ]
+ }
+}

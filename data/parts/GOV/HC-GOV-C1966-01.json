@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1966-01",
+ "year": 1966,
+ "yearEnd": 1976,
+ "dateLabel": "1966-1976",
+ "title": "Cultural Revolution",
+ "system": "GOV",
+ "place": "China",
+ "region": "East Asia",
+ "figures": [
+  "Mao Zedong"
+ ],
+ "summary": "Mao Zedong launched a movement against 'bourgeois' elements; it caused mass persecution and chaos.",
+ "why": "Deeply scarred Chinese society.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Cultural_Revolution",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

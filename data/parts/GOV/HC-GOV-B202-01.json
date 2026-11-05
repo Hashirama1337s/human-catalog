@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-B202-01",
+ "year": -202,
+ "yearEnd": 220,
+ "dateLabel": "202 BCE-220 CE",
+ "title": "Han dynasty",
+ "system": "GOV",
+ "place": "China",
+ "region": "East Asia",
+ "figures": [
+  "Liu Bang"
+ ],
+ "summary": "Liu Bang founded the Han dynasty, which ruled China for four centuries apart from a brief break.",
+ "why": "Ruled China for about four centuries.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Han_dynasty",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

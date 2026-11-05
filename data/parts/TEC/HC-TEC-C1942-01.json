@@ -1,0 +1,29 @@
+{
+ "id": "HC-TEC-C1942-01",
+ "year": 1942,
+ "yearEnd": null,
+ "dateLabel": "1942",
+ "title": "First artificial nuclear reactor",
+ "system": "TEC",
+ "place": "Chicago, United States",
+ "region": "North America",
+ "figures": [
+  "Enrico Fermi"
+ ],
+ "summary": "Enrico Fermi's team achieved the first human-made self-sustaining nuclear chain reaction.",
+ "why": "Start of the nuclear age.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Chicago_Pile-1",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source says 'first artificial' / 'first human-made'; natural fission reactors (Oklo) are far older.",
+    "evidence": "https://en.wikipedia.org/wiki/Chicago_Pile-1"
+   }
+  ]
+ }
+}

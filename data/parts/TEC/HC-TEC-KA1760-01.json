@@ -1,0 +1,21 @@
+{
+ "id": "HC-TEC-KA1760-01",
+ "year": -1758050,
+ "yearEnd": null,
+ "dateLabel": "c. 1.76 million years ago",
+ "title": "Carried over: Acheulean handaxe",
+ "system": "TEC",
+ "place": "Kenya",
+ "region": "Africa",
+ "figures": [],
+ "summary": "More advanced, shaped stone tools appear: the Acheulean toolkit, best known for the teardrop handaxe.",
+ "why": "A planned, symmetric tool design that stayed in use for well over a million years.",
+ "interchange": [],
+ "supersedes": "Carried over: oldest stone tools",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

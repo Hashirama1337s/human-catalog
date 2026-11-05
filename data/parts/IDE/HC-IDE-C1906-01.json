@@ -1,0 +1,23 @@
+{
+ "id": "HC-IDE-C1906-01",
+ "year": 1906,
+ "yearEnd": 1915,
+ "dateLabel": "1906-c. 1915",
+ "title": "Azusa Street Revival",
+ "system": "IDE",
+ "place": "Los Angeles, California, United States",
+ "region": "North America",
+ "figures": [
+  "William J. Seymour"
+ ],
+ "summary": "Led by African-American preacher William J. Seymour, revival meetings at 312 Azusa Street began in April 1906. Historians see them as the main spark for Pentecostalism's spread in the 20th century.",
+ "why": "Commonly regarded as the beginning of the modern Pentecostal movement.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Azusa_Street_Revival",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

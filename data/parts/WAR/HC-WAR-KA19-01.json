@@ -1,0 +1,27 @@
+{
+ "id": "HC-WAR-KA19-01",
+ "year": -16650,
+ "yearEnd": -11450,
+ "dateLabel": "c. 18,600-13,400 years ago",
+ "title": "Jebel Sahaba cemetery",
+ "system": "WAR",
+ "place": "Nile Valley near the Sudan-Egypt border (now under Lake Nasser), Sudan",
+ "region": "Africa",
+ "figures": [],
+ "summary": "At least 64 people buried, many with healed and fresh injuries and stone points in their bodies, showing repeated raids.",
+ "why": "Among the oldest evidence of organised, recurring violence between groups.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Jebel_Sahaba",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Place 'Wadi Halfa' not in source; source: 'in the Nile Valley (now submerged in Lake Nasser), near the northern border of Sudan with Egypt'.",
+    "evidence": "https://en.wikipedia.org/wiki/Jebel_Sahaba"
+   }
+  ]
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "id": "HC-FOD-B8000-02",
+ "year": -8000,
+ "yearEnd": null,
+ "dateLabel": "c. 8000 BCE",
+ "title": "Broomcorn millet domesticated",
+ "system": "FOD",
+ "place": "Cishan, northern China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Proso (broomcorn) millet is domesticated in semi-arid northern China.",
+ "why": "Millet fed early northern Chinese civilisation.",
+ "interchange": [
+  "Wheat and barley domesticated independently in the Fertile Crescent"
+ ],
+ "supersedes": "",
+ "tags": [
+  "domestication"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Proso_millet",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "HC-WRT-B7000-01",
+ "year": -7000,
+ "yearEnd": -5700,
+ "dateLabel": "c. 7000-5700 BCE",
+ "title": "Jiahu symbols",
+ "system": "WRT",
+ "place": "Jiahu, Henan, China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Eleven signs carved on tortoise shells and bone. Some scholars see possible proto-writing.",
+ "why": "Raises the question of how early sign systems began in China.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "writing"
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Jiahu",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

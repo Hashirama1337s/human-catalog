@@ -1,0 +1,24 @@
+{
+ "id": "HC-WAR-C1771-01",
+ "year": 1771,
+ "yearEnd": 1802,
+ "dateLabel": "1771-1802",
+ "title": "Tay Son rebellion",
+ "system": "WAR",
+ "place": "Tay Son, Vietnam",
+ "region": "Southeast Asia",
+ "figures": [
+  "Nguyen Hue (Quang Trung)",
+  "Nguyen Nhac"
+ ],
+ "summary": "Three peasant brothers from Tay Son revolted against the Nguyen lord in 1771. In early 1789 Nguyen Hue, later Emperor Quang Trung, routed an invading Qing army at Ngoc Hoi-Dong Da. The dynasty fell in 1802.",
+ "why": "A peasant revolt that toppled Vietnam's old order and defeated a Qing invasion.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/T%C3%A2y_S%C6%A1n_dynasty",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

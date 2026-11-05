@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1293-01",
+ "year": 1293,
+ "yearEnd": null,
+ "dateLabel": "1293",
+ "title": "Majapahit Empire founded",
+ "system": "GOV",
+ "place": "Java, Indonesia",
+ "region": "Southeast Asia",
+ "figures": [
+  "Raden Wijaya"
+ ],
+ "summary": "Raden Wijaya founded a stronghold at Majapahit, beginning a Javanese Hindu-Buddhist sea empire.",
+ "why": "A great sea-based empire of Southeast Asia.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Majapahit",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

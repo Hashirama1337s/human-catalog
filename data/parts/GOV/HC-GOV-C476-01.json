@@ -1,0 +1,30 @@
+{
+ "id": "HC-GOV-C476-01",
+ "year": 476,
+ "yearEnd": null,
+ "dateLabel": "476 CE",
+ "title": "Last Western Roman emperor deposed",
+ "system": "GOV",
+ "place": "Ravenna, Italy",
+ "region": "Europe",
+ "figures": [
+  "Odoacer",
+  "Romulus Augustulus"
+ ],
+ "summary": "The Germanic king Odoacer deposed Romulus Augustulus, the last Western emperor; the Eastern Empire lived on.",
+ "why": "Since Gibbon, 476 has been a common marker for the end of the Western Roman Empire.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'End of ancient history' not in source; source calls 476 one convenient marker among several dates.",
+    "evidence": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire ; https://en.wikipedia.org/wiki/Romulus_Augustulus"
+   }
+  ]
+ }
+}

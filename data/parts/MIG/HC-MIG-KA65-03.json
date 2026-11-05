@@ -1,0 +1,41 @@
+{
+ "id": "HC-MIG-KA65-03",
+ "year": -63050,
+ "yearEnd": -46050,
+ "dateLabel": "c. 65,000–48,000 years ago (debated)",
+ "title": "When people first reached Australia",
+ "system": "MIG",
+ "place": "Sahul (Australia–New Guinea)",
+ "region": "Oceania",
+ "figures": [],
+ "summary": "Most scholars place first arrival between about 50,000 and 65,000 years ago. The 65,000-year date from Madjedbebe has been challenged, and a conservative minimum is about 48,000 years.",
+ "why": "It anchors the deep history of Aboriginal Australians and of human spread out of Africa.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "migration",
+  "Australia",
+  "peopling"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Prehistory_of_Australia",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ },
+ "kind": "open",
+ "question": "When did the first people arrive in Australia?",
+ "evidence": "Madjedbebe rock shelter dated about 65,000 years; a 2020 study argued that dating is unreliable; genomic estimates point to roughly 43,000–60,000 years ago.",
+ "wouldSettle": "Independent dating methods agreeing on undisturbed human layers at Madjedbebe or another early site.",
+ "theories": [
+  {
+   "name": "Early arrival, about 65,000 years",
+   "idea": "Madjedbebe's artefacts show people were in northern Australia about 65,000 years ago."
+  },
+  {
+   "name": "Later arrival, about 50,000 years",
+   "idea": "Dating problems mean the secure minimum is about 48,000–50,000 years, matching genomic estimates."
+  }
+ ]
+}

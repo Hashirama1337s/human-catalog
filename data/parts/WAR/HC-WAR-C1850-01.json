@@ -1,0 +1,23 @@
+{
+ "id": "HC-WAR-C1850-01",
+ "year": 1850,
+ "yearEnd": 1864,
+ "dateLabel": "1850-1864",
+ "title": "Taiping Rebellion",
+ "system": "WAR",
+ "place": "Southern and central China",
+ "region": "East Asia",
+ "figures": [
+  "Hong Xiuquan"
+ ],
+ "summary": "Hong Xiuquan led a massive rebellion against the Qing dynasty.",
+ "why": "One of the bloodiest wars in history.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Taiping_Rebellion",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

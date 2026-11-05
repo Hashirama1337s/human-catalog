@@ -1,0 +1,27 @@
+{
+ "id": "HC-ECO-B3500-01",
+ "year": -3500,
+ "yearEnd": null,
+ "dateLabel": "c. 3500 BCE",
+ "title": "Cylinder seals",
+ "system": "ECO",
+ "place": "Uruk, Iraq",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "Carved stone cylinders rolled onto wet clay leave an impression used as a signature or brand.",
+ "why": "An administrative tool for marking ownership and approving goods.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Cylinder_seal",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Interchange item is not an independent invention: source says seals were invented 'at the contemporary sites of Uruk ... and slightly later at Susa' (and hedges 'According to some sources').",
+    "evidence": "https://en.wikipedia.org/wiki/Cylinder_seal"
+   }
+  ]
+ }
+}

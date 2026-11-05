@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1235-01",
+ "year": 1235,
+ "yearEnd": 1610,
+ "dateLabel": "c. 1235-1610",
+ "title": "Mali Empire founded",
+ "system": "GOV",
+ "place": "Upper Niger River, Mali",
+ "region": "Africa",
+ "figures": [
+  "Sundiata Keita"
+ ],
+ "summary": "Sundiata Keita defeated the Sosso and founded an empire.",
+ "why": "Largest empire in West Africa at its peak.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Mali_Empire",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

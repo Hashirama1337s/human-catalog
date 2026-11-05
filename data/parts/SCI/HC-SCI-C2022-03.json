@@ -1,0 +1,30 @@
+{
+ "id": "HC-SCI-C2022-03",
+ "year": 2022,
+ "yearEnd": null,
+ "dateLabel": "7 December 2022",
+ "title": "2-million-year-old DNA from Greenland sediments",
+ "system": "SCI",
+ "place": "Kap København Formation, northern Greenland",
+ "region": "North America",
+ "figures": [],
+ "summary": "Environmental DNA from sediments in northern Greenland, at least two million years old, revealed a lost forest ecosystem with mastodons.",
+ "why": "Shows how far back DNA can reach, far beyond human history.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Kap_K%C3%B8benhavn_Formation",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Oldest DNA ever' not in source, which says the DNA is 'at least two million years old'; 'ever' is an absolute claim.",
+    "evidence": "https://en.wikipedia.org/wiki/Kap_K%C3%B8benhavn_Formation"
+   }
+  ]
+ }
+}

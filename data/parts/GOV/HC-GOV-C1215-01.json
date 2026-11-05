@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1215-01",
+ "year": 1215,
+ "yearEnd": null,
+ "dateLabel": "15 June 1215",
+ "title": "Magna Carta",
+ "system": "GOV",
+ "place": "Runnymede, England",
+ "region": "Europe",
+ "figures": [
+  "King John"
+ ],
+ "summary": "King John sealed a charter promising barons protection from illegal imprisonment and swift justice.",
+ "why": "A milestone in limiting rulers' power under law.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Magna_Carta",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

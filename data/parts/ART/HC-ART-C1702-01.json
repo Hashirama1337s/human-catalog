@@ -1,0 +1,23 @@
+{
+ "id": "HC-ART-C1702-01",
+ "year": 1702,
+ "yearEnd": null,
+ "dateLabel": "1702",
+ "title": "Bashō's Narrow Road to the Deep North",
+ "system": "ART",
+ "place": "Japan",
+ "region": "East Asia",
+ "figures": [
+  "Matsuo Bashō"
+ ],
+ "summary": "Poet Matsuo Bashō's travel diary of a journey through northern Japan, mixing prose and haiku, was published after his death.",
+ "why": "A masterpiece of Japanese literature.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Oku_no_Hosomichi",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

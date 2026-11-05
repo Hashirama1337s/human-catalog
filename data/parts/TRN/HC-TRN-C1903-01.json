@@ -1,0 +1,33 @@
+{
+ "id": "HC-TRN-C1903-01",
+ "year": 1903,
+ "yearEnd": null,
+ "dateLabel": "1903",
+ "title": "Wright brothers' powered flight",
+ "system": "TRN",
+ "place": "Kill Devil Hills, near Kitty Hawk, North Carolina, United States",
+ "region": "North America",
+ "figures": [
+  "Orville Wright",
+  "Wilbur Wright"
+ ],
+ "summary": "The Wright brothers made the first controlled, sustained flights in a powered airplane.",
+ "why": "The start of aviation.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "flight"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Wright_Flyer",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Place: source says flights were at 'a location now part of the town of Kill Devil Hills', about 4 miles south of Kitty Hawk.",
+    "evidence": "https://en.wikipedia.org/wiki/Wright_Flyer"
+   }
+  ]
+ }
+}

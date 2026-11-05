@@ -1,0 +1,30 @@
+{
+ "id": "HC-GOV-C1964-01",
+ "year": 1964,
+ "yearEnd": null,
+ "dateLabel": "1964",
+ "title": "US Civil Rights Act",
+ "system": "GOV",
+ "place": "Washington, D.C., United States",
+ "region": "North America",
+ "figures": [
+  "Lyndon B. Johnson",
+  "Martin Luther King Jr."
+ ],
+ "summary": "A law banned discrimination based on race, colour, religion, sex or national origin.",
+ "why": "Outlawed segregation in schools and public places, and job discrimination.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Ended legal segregation' overclaims; source says the Act prohibits segregation in schools and public accommodations and job discrimination (housing came later).",
+    "evidence": "https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964"
+   }
+  ]
+ }
+}

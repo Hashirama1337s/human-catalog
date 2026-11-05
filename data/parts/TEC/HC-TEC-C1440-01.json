@@ -1,0 +1,34 @@
+{
+ "id": "HC-TEC-C1440-01",
+ "year": 1440,
+ "yearEnd": null,
+ "dateLabel": "c. 1440",
+ "title": "Gutenberg's printing press",
+ "system": "TEC",
+ "place": "Mainz, Germany",
+ "region": "Europe",
+ "figures": [
+  "Johannes Gutenberg"
+ ],
+ "summary": "The goldsmith Gutenberg combined metal movable type cast in a hand mould with a press to print quickly.",
+ "why": "Revolutionized book production and helped spread the Reformation and the Scientific Revolution.",
+ "interchange": [
+  "Movable type was made earlier in China (Bi Sheng, c. 1040) and Korea (metal type; Jikji, 1377); whether it influenced Europe is debated"
+ ],
+ "supersedes": "",
+ "tags": [
+  "printing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Printing_press",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Started... shaped the Renaissance' is stronger than source ('revolutionized', 'contributing to the Reformation and the Scientific Revolution'); interchange not shown independent: Movable type page calls East-West transmission debated.",
+    "evidence": "https://en.wikipedia.org/wiki/Printing_press ; https://en.wikipedia.org/wiki/Movable_type"
+   }
+  ]
+ }
+}

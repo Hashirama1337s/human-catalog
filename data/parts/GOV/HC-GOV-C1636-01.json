@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1636-01",
+ "year": 1636,
+ "yearEnd": null,
+ "dateLabel": "1636",
+ "title": "Gondar becomes Ethiopia's royal seat",
+ "system": "GOV",
+ "place": "Gondar, Ethiopia",
+ "region": "Africa",
+ "figures": [
+  "Fasilides"
+ ],
+ "summary": "Emperor Fasilides chose Gondar as his royal camp and built the castle complex now called Fasil Ghebbi. The city became capital of the Ethiopian Empire, and its stone castles still stand.",
+ "why": "A settled African imperial capital whose castles are a UNESCO World Heritage Site.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Gondar",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

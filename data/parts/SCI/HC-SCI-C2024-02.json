@@ -1,0 +1,27 @@
+{
+ "id": "HC-SCI-C2024-02",
+ "year": 2024,
+ "yearEnd": null,
+ "dateLabel": "September 2024",
+ "title": "Rapa Nui genomes: no collapse, early American contact",
+ "system": "SCI",
+ "place": "Rapa Nui (Easter Island), Chile",
+ "region": "Oceania",
+ "figures": [],
+ "summary": "Genomes of 15 Rapanui people who lived 1670-1950 show about 10% Indigenous American ancestry from contact in the 13th-15th centuries, and no population collapse before Europeans arrived.",
+ "why": "Supports pre-Columbian contact and challenges the popular 'ecocide' collapse story.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://www.sciencedaily.com/releases/2024/09/240911112147.htm",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Overturns' overclaims; source: the data 'did not contain any evidence of a population collapse in the 1600s' (one genomic study).",
+    "evidence": "https://www.sciencedaily.com/releases/2024/09/240911112147.htm"
+   }
+  ]
+ }
+}

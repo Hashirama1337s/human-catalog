@@ -1,0 +1,21 @@
+{
+ "id": "HC-RCL-KA50-01",
+ "year": -48050,
+ "yearEnd": null,
+ "dateLabel": "from c. 50,000 years ago",
+ "title": "Megafauna extinctions in Australia",
+ "system": "RCL",
+ "place": "Australia",
+ "region": "Oceania",
+ "figures": [],
+ "summary": "Major extinctions of large animals begin around the time modern humans arrive. Most scholars accept at least some human role, but this is debated.",
+ "why": "Humans may have reshaped ecosystems from their earliest migrations.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Quaternary_extinction_event",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

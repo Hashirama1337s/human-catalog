@@ -1,0 +1,23 @@
+{
+ "id": "HC-WAR-C1942-02",
+ "year": 1942,
+ "yearEnd": null,
+ "dateLabel": "July-November 1942",
+ "title": "Kokoda Track campaign",
+ "system": "WAR",
+ "place": "Territory of Papua (present-day Papua New Guinea)",
+ "region": "Oceania",
+ "figures": [
+  "Tomitaro Horii"
+ ],
+ "summary": "Australian and Papuan forces fought a Japanese detachment along a jungle track over the mountains of Papua. Papuan carriers who hauled supplies and wounded became known as the Fuzzy Wuzzy Angels.",
+ "why": "World War II was fought on land in Australian-ruled Papua.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Kokoda_Track_campaign",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

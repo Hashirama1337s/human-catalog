@@ -1,0 +1,21 @@
+{
+ "id": "HC-TEC-B5000-01",
+ "year": -5000,
+ "yearEnd": null,
+ "dateLabel": "c. 5000 BCE",
+ "title": "Cotton thread",
+ "system": "TEC",
+ "place": "Mehrgarh, Pakistan",
+ "region": "South Asia",
+ "figures": [],
+ "summary": "Cotton thread is in use at Mehrgarh in the Indus region.",
+ "why": "Cotton became one of the world's main textile fibres.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

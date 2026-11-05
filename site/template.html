@@ -1,0 +1,730 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Human Catalog — Part History</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="fonts/fonts-local.css">
+<style>
+/* Layout: a parts-catalog microfiche. Header plate, a true-scale ruler, then one expanding tree:
+   Era (fiche row) > Span (fiche column) > Year line > System > Parts. */
+:root {
+  --paper: #f5f7f8;      /* catalog stock, faint blue-grey */
+  --sheet: #ffffff;
+  --ink: #16233b;        /* navy print */
+  --muted: #5b6878;
+  --rule: #d5dce3;
+  --link: #1d4fa3;       /* catalog link blue */
+  --mark: #b8321f;       /* part-number red */
+  --hi: #fff3c4;         /* highlighter */
+  --chip: #e8edf2;
+  --land: #d3dbe3;
+  --ok: #2f7d4f; --warn: #a76a00;
+  --f-display: "Barlow Condensed", "Arial Narrow", "Roboto Condensed", sans-serif;
+  --f-body: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+  --f-mono: "JetBrains Mono", ui-monospace, "Cascadia Mono", Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --paper: #0b1719; --sheet: #0f2023; --ink: #cfe9e4; --muted: #86a6a1; --rule: #1f3a3d;
+  --link: #8fd3ff; --mark: #f0b04a; --hi: #2b3a1c; --chip: #16302f; --land: #234446; --ok: #6fd39a; --warn: #f0b04a; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --paper: #0b1719; --sheet: #0f2023; --ink: #cfe9e4; --muted: #86a6a1; --rule: #1f3a3d;
+  --link: #8fd3ff; --mark: #f0b04a; --hi: #2b3a1c; --chip: #16302f; --land: #234446; --ok: #6fd39a; --warn: #f0b04a; color-scheme: dark }
+
+* { box-sizing: border-box; }
+body { background: var(--paper); color: var(--ink); font: 15px/1.5 var(--f-body);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 0 48px; }
+.wrap { max-width: 1120px; margin: 0 auto; display: grid; gap: 18px; }
+a { color: var(--link); }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--mark); outline-offset: 2px; }
+
+/* Header plate */
+.plate { border-bottom: 3px double var(--ink); padding-block: 22px 14px; display: grid; gap: 10px; }
+.plate .eyebrow { font: 600 12px/1 var(--f-mono); letter-spacing: .14em; text-transform: uppercase; color: var(--muted); display: flex; flex-wrap: wrap; gap: 6px 18px; }
+.plate h1 { margin: 0; font: 700 clamp(34px, 6vw, 58px)/.95 var(--f-display); letter-spacing: .02em; text-transform: uppercase; text-wrap: balance; }
+.plate h1 span { color: var(--mark); }
+.plate p { margin: 0; max-width: 68ch; color: var(--muted); }
+.tools { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.search { flex: 1 1 260px; min-width: 0; display: flex; border: 1px solid var(--ink); background: var(--sheet); }
+.search label { font: 600 11px/1 var(--f-mono); letter-spacing: .1em; text-transform: uppercase; padding: 11px 10px; background: var(--ink); color: var(--paper); white-space: nowrap; }
+.search input { flex: 1; min-width: 0; border: 0; background: transparent; padding: 8px 10px; font: 15px var(--f-body); color: var(--ink); }
+.btn { border: 1px solid var(--rule); background: var(--sheet); padding: 8px 12px; cursor: pointer; font: 600 13px var(--f-body); }
+.btn:hover { border-color: var(--ink); }
+
+/* Systems filter */
+.systems { display: flex; flex-wrap: wrap; gap: 6px; }
+.sys { border: 1px solid var(--rule); background: var(--sheet); padding: 4px 9px 4px 6px; cursor: pointer; font: 600 12px var(--f-body); display: inline-flex; gap: 6px; align-items: center; }
+.sys code { font: 600 11px var(--f-mono); color: var(--mark); }
+.lv3.notice > .row { border-left: 4px solid var(--ink); }
+.sys[aria-pressed="false"] { opacity: .45; text-decoration: line-through; }
+
+/* True-scale ruler */
+.ruler { background: var(--sheet); border: 1px solid var(--rule); padding: 12px 14px; display: grid; gap: 8px; }
+.ruler .lab { display: flex; justify-content: space-between; font: 12px var(--f-mono); color: var(--muted); gap: 8px; flex-wrap: wrap; }
+.bar { position: relative; height: 26px; background: repeating-linear-gradient(90deg, var(--chip) 0 calc(10% - 1px), var(--rule) calc(10% - 1px) 10%); }
+.bar .sliver { position: absolute; top: 0; bottom: 0; right: 0; background: var(--mark); }
+.bar .you { position: absolute; top: -4px; bottom: -4px; width: 2px; background: var(--ink); transition: left .3s; }
+.ruler .note { font-size: 13px; color: var(--muted); }
+.ruler .note b { color: var(--ink); }
+.eras { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); gap: 4px; }
+@media (max-width: 760px) { .eras { grid-template-columns: repeat(auto-fit, minmax(78px, 1fr)); } }
+.eras button { border: 1px solid var(--rule); background: var(--paper); padding: 5px 4px; cursor: pointer; font: 600 11px/1.2 var(--f-mono); text-align: left; }
+.eras button:hover, .eras button.on { border-color: var(--ink); background: var(--chip); }
+.eras small { display: block; font: 10px var(--f-mono); color: var(--muted); }
+
+/* The tree */
+.tree { background: var(--sheet); border: 1px solid var(--rule); }
+.node > .row { display: grid; grid-template-columns: 22px minmax(0, 1fr) auto; gap: 8px; align-items: center; padding: 7px 10px; border-bottom: 1px solid var(--rule); cursor: pointer; user-select: none; background: none; border-left: 0; border-right: 0; border-top: 0; width: 100%; text-align: left; }
+.node > .row:hover { background: var(--chip); }
+.pm { width: 15px; height: 15px; border: 1px solid var(--ink); display: grid; place-items: center; font: 700 12px/1 var(--f-mono); }
+.row .t { min-width: 0; }
+.row .n { font: 12px var(--f-mono); color: var(--muted); white-space: nowrap; }
+.lv0 > .row { background: var(--ink); color: var(--paper); border-bottom-color: var(--ink); }
+.lv0 > .row:hover { background: var(--ink); opacity: .93; }
+.lv0 > .row .pm { border-color: var(--paper); }
+.lv0 > .row .n { color: var(--paper); opacity: .8; }
+.lv0 .t b { font: 700 18px/1.1 var(--f-display); letter-spacing: .05em; text-transform: uppercase; }
+.lv0 .t span { font: 12px var(--f-mono); opacity: .8; margin-left: 10px; }
+.lv1 > .row { padding-left: 30px; font: 600 15px var(--f-body); }
+.lv1 .fiche { font: 600 11px var(--f-mono); color: var(--mark); margin-right: 8px; }
+.lv2 > .row { padding-left: 52px; }
+.lv2 .t { display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: baseline; }
+.lv2 .date { font: 600 14px var(--f-mono); }
+.lv2 .peek { font-size: 13px; color: var(--muted); min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 60ch; }
+.lv3 > .row { padding-left: 74px; font: 600 13px var(--f-body); color: var(--muted); }
+.lv3 code { font: 600 11px var(--f-mono); color: var(--mark); margin-right: 6px; }
+.kids { display: none; }
+.node.open > .kids { display: block; }
+
+/* Parts table */
+.parts { padding: 4px 10px 12px 74px; overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; min-width: 620px; font-size: 14px; }
+th { font: 600 11px var(--f-mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); text-align: left; padding: 6px 8px; border-bottom: 2px solid var(--ink); }
+td { padding: 7px 8px; border-bottom: 1px solid var(--rule); vertical-align: top; }
+td.pn { font: 600 12px var(--f-mono); color: var(--mark); white-space: nowrap; }
+td.part button { background: none; border: 0; padding: 0; color: var(--link); text-decoration: underline; cursor: pointer; text-align: left; font: 600 14px var(--f-body); }
+td.fit { color: var(--muted); font-size: 13px; }
+.badge { font: 600 10px var(--f-mono); letter-spacing: .06em; text-transform: uppercase; padding: 2px 6px; border: 1px solid currentColor; white-space: nowrap; }
+.badge.est { color: var(--ok); }
+.badge.deb { color: var(--warn); }
+.badge.ix { color: var(--link); }
+tr.detail td { background: var(--paper); }
+.card { display: grid; gap: 8px; padding: 6px 2px 4px; max-width: 78ch; }
+.card p { margin: 0; }
+.card dl { display: grid; grid-template-columns: 130px minmax(0, 1fr); gap: 4px 12px; margin: 0; font-size: 14px; }
+.card dt { font: 600 11px var(--f-mono); letter-spacing: .06em; text-transform: uppercase; color: var(--muted); padding-top: 2px; }
+.card dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
+.cite { font: 12px var(--f-mono); color: var(--muted); border-top: 1px dashed var(--rule); padding-top: 8px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+.cite button { font: 600 11px var(--f-mono); border: 1px solid var(--rule); background: var(--sheet); cursor: pointer; padding: 3px 8px; }
+mark { background: var(--hi); color: inherit; }
+
+
+/* Peopling map */
+.map { background: var(--sheet); border: 1px solid var(--rule); padding: 12px 14px; display: grid; gap: 10px; }
+.map h2 { margin: 0; font: 700 20px/1.1 var(--f-display); letter-spacing: .05em; text-transform: uppercase; }
+.map .sub { margin: 0; color: var(--muted); font-size: 13px; max-width: 70ch; }
+.map canvas { width: 100%; display: block; background: var(--paper); border: 1px solid var(--rule); cursor: crosshair; }
+.mapctl { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.mapctl input[type=range] { flex: 1 1 220px; min-width: 0; accent-color: var(--mark); }
+.mapctl .yr { font: 600 15px var(--f-mono); min-width: 13ch; }
+.arrivals { font-size: 13px; color: var(--muted); min-height: 2.6em; }
+.arrivals b { color: var(--ink); }
+.credit { font: 11px var(--f-mono); color: var(--muted); }
+
+
+/* v2: cross-section, threads, audit stamp, index, pins */
+.badge.cor { color: var(--mark); }
+.badge.hold { color: var(--muted); }
+.xs { background: var(--sheet); border: 1px solid var(--rule); padding: 12px 14px; display: grid; gap: 10px; }
+.xs h2, .idx h2 { margin: 0; font: 700 20px/1.1 var(--f-display); letter-spacing: .05em; text-transform: uppercase; }
+.xs .row2 { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.xs input { font: 15px var(--f-mono); padding: 7px 9px; border: 1px solid var(--ink); background: var(--paper); color: var(--ink); width: 9ch; }
+.xs select { font: 14px var(--f-body); padding: 6px; border: 1px solid var(--rule); background: var(--paper); color: var(--ink); }
+.xsout { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 10px; }
+.xsout section { border-top: 2px solid var(--ink); padding-top: 6px; min-width: 0; }
+.xsout h3 { margin: 0 0 4px; font: 600 12px var(--f-mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.pl { background: none; border: 0; padding: 0; color: var(--link); text-decoration: underline; cursor: pointer; font: inherit; text-align: left; }
+.pl code { font: 600 11px var(--f-mono); color: var(--mark); margin-right: 5px; text-decoration: none; }
+.xsout ul, .card ul { margin: 0; padding-left: 16px; display: grid; gap: 3px; }
+.idx { background: var(--sheet); border: 1px solid var(--rule); padding: 12px 14px; }
+.idx summary { cursor: pointer; font: 700 16px var(--f-display); letter-spacing: .05em; text-transform: uppercase; }
+.idx .letters { display: flex; flex-wrap: wrap; gap: 4px 14px; margin-top: 10px; font-size: 14px; }
+.pins { font: 13px var(--f-mono); color: var(--muted); display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.pinbtn { font: 600 11px var(--f-mono); border: 1px solid var(--rule); background: var(--sheet); cursor: pointer; padding: 3px 8px; }
+
+
+/* v2: unknowns as back-ordered parts; guess-the-year game */
+tr.ghost td { border-bottom-style: dashed; }
+tr.ghost td.pn { color: var(--muted); }
+tr.ghost td.pn::before { content: "? "; color: var(--mark); font-weight: 700; }
+tr.ghost td.part button { font-style: italic; }
+.badge.bo { color: var(--mark); border-style: dashed; }
+.qmarks { position: relative; height: 16px; }
+.qmarks span { position: absolute; top: 0; transform: translateX(-50%); white-space: nowrap; font: 700 12px/1 var(--f-mono); color: var(--mark); cursor: pointer; }
+.board, .game { background: var(--sheet); border: 1px dashed var(--mark); padding: 12px 14px; display: grid; gap: 12px; }
+.game { border-style: solid; border-color: var(--rule); }
+.board h2, .game h2 { margin: 0; font: 700 20px/1.1 var(--f-display); letter-spacing: .05em; text-transform: uppercase; }
+.board .sub, .game .sub { margin: 0; color: var(--muted); font-size: 13px; max-width: 72ch; }
+.tickets { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
+.ticket { border: 1px dashed var(--ink); background: var(--paper); padding: 10px 12px; display: grid; gap: 6px; position: relative; min-width: 0; align-content: start; }
+.ticket .stamp { position: absolute; top: 8px; right: 10px; font: 700 26px/1 var(--f-display); color: var(--mark); transform: rotate(-8deg); }
+.ticket .tno { font: 600 11px var(--f-mono); color: var(--muted); letter-spacing: .06em; padding-right: 28px; }
+.ticket .q { font: 600 15px/1.3 var(--f-body); padding-right: 24px; }
+.ticket dl { display: grid; gap: 2px; margin: 0; font-size: 13px; }
+.ticket dt { font: 600 10px var(--f-mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.ticket dd { margin: 0 0 4px; }
+.theories { display: grid; gap: 4px; }
+.theories button { text-align: left; border: 1px solid var(--rule); background: var(--sheet); padding: 6px 8px; cursor: pointer; font: 13px/1.35 var(--f-body); color: var(--ink); }
+.theories button:hover { border-color: var(--ink); }
+.theories button[aria-pressed="true"] { border-color: var(--mark); box-shadow: inset 3px 0 0 var(--mark); }
+.theories b { display: block; font-size: 13px; }
+.reveal { font-size: 13px; border-top: 1px dashed var(--rule); padding-top: 6px; }
+.gcard { border: 1px solid var(--ink); background: var(--paper); padding: 12px; display: grid; gap: 6px; max-width: 70ch; }
+.gcard .gt { font: 700 22px/1.15 var(--f-display); letter-spacing: .02em; }
+.gctl { display: grid; gap: 6px; }
+.gctl input[type=range] { width: 100%; accent-color: var(--mark); }
+.gread { font: 600 16px var(--f-mono); }
+.gscore { font: 600 13px var(--f-mono); color: var(--muted); display: flex; flex-wrap: wrap; gap: 6px 16px; }
+.gres { font-size: 14px; min-height: 1.5em; }
+.gres b { color: var(--mark); }
+
+/* Front matter */
+.front { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 18px; font-size: 13px; color: var(--muted); border-top: 3px double var(--ink); padding-top: 14px; }
+.front h2 { font: 700 14px/1.2 var(--f-display); letter-spacing: .08em; text-transform: uppercase; color: var(--ink); margin: 0 0 6px; }
+.front p { margin: 0 0 6px; }
+.empty { padding: 18px; color: var(--muted); }
+@media (max-width: 640px) {
+  .lv1 > .row { padding-left: 18px; } .lv2 > .row { padding-left: 26px; } .lv3 > .row { padding-left: 34px; }
+  .parts { padding-left: 10px; } .lv2 .peek { display: none; } .card dl { grid-template-columns: 1fr; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+</head>
+<body>
+<div class="wrap">
+  <header class="plate">
+    <div class="eyebrow"><span>Second Edition (2.0) · 2026</span><span id="cov">Coverage: 300,000 years ago – 2026</span><span id="count"></span></div>
+    <h1>Human Catalog <span>·</span> Part History</h1>
+    <p>Every part that changed what people could do or think, filed by date the way a parts catalog files by make, model and year. Open an era, then a span, then a year line. Each year line holds everything from that moment, everywhere on Earth.</p>
+    <div class="tools">
+      <div class="search"><label for="q">Part no. / keyword</label><input id="q" type="search" placeholder="writing, Newton, HC-SCI, Africa…" autocomplete="off"></div>
+      <button class="btn" id="expand" type="button">Expand all</button>
+      <button class="btn" id="collapse" type="button">Collapse all</button>
+      <button class="btn" id="unk" type="button" aria-expanded="false">? Unknowns</button>
+      <button class="btn" id="play2" type="button" aria-expanded="false">Play: guess the year</button>
+    </div>
+    <div class="systems" id="systems" aria-label="Filter by system"></div>
+  </header>
+
+  <section class="ruler" aria-label="Where you are in time">
+    <div class="lab"><span>300,000 years ago</span><span id="here">You are viewing: all eras</span><span>2026</span></div>
+    <div class="qmarks" id="qmarks" aria-label="Open questions on the timeline"></div>
+    <div class="bar" id="bar"><div class="sliver" id="sliver"></div><div class="you" id="you" style="left:0"></div></div>
+    <div class="note">Drawn to true scale. The red sliver at the right end is the age of writing, about 5,000 years: <b>everything anyone ever wrote down fits in the last <span id="pct"></span> of our species' story.</b></div>
+    <div class="eras" id="eras"></div>
+  </section>
+
+
+  <section class="map" aria-label="Peopling of the World map">
+    <h2>Peopling of the World</h2>
+    <p class="sub">Routes of people moving across the planet, from the parts on file. Drag the slider or press Play; each route appears when its date is reached. Click a route to open its part. Routes are drawn coarsely, as the evidence allows.</p>
+    <canvas id="mapc" width="1000" height="520" role="img" aria-label="World map with human migration routes"></canvas>
+    <div class="mapctl">
+      <button class="btn" id="play" type="button">Play</button>
+      <label class="yr" for="tslider" id="tread">300,000 years ago</label>
+      <input id="tslider" type="range" min="0" max="1000" value="1000">
+    </div>
+    <div class="arrivals" id="arrivals"></div>
+    <div class="credit">Land outlines: Natural Earth via world-atlas (ISC licence, &copy; Mike Bostock). Map projection: Natural Earth.</div>
+  </section>
+
+
+  <section class="board" id="board" hidden aria-label="Unknowns board">
+    <h2>Back-ordered: parts humanity can't supply yet</h2>
+    <p class="sub">Open questions specialists still cannot answer, filed like back-ordered parts. Pick the theory you find most convincing, then see what we know and what would settle it. Know a source that settles one? Report it and the part ships.</p>
+    <div class="tickets" id="tickets"></div>
+    <p class="sub" id="contested"></p>
+  </section>
+  <section class="game" id="game" hidden aria-label="Guess the year">
+    <h2>Guess the year</h2>
+    <p class="sub">A random part from the catalog, date hidden. Slide to your guess and press Lock in. Closer guesses score more; deep time is scored by ratio, so being 5,000 years off at 100,000 years ago still counts as close.</p>
+    <div class="gcard" id="gcard"></div>
+    <div class="gctl">
+      <label class="gread" for="gslider" id="gread">Your guess</label>
+      <input id="gslider" type="range" min="0" max="1000" value="700">
+      <div style="display:flex;gap:8px;flex-wrap:wrap"><button class="btn" id="glock" type="button">Lock in</button><button class="btn" id="gnext" type="button">Next part</button></div>
+    </div>
+    <div class="gres" id="gres" aria-live="polite"></div>
+    <div class="gscore" id="gscore"></div>
+  </section>
+  <section class="xs" aria-label="Cross-section">
+    <h2>Cross-section</h2>
+    <div class="row2">
+      <label for="xsy">What was happening in</label>
+      <input id="xsy" type="text" inputmode="numeric" value="1450" aria-describedby="xshelp">
+      <select id="xse" aria-label="Era of the year"><option value="ce">CE</option><option value="bce">BCE</option><option value="ago">years ago</option></select>
+      <button class="btn" id="xsgo" type="button">Show</button>
+    </div>
+    <div id="xshelp" class="note" style="font-size:13px;color:var(--muted)">Everything on file that was happening at that date, around the world. Older dates use a wider window, because evidence is thinner.</div>
+    <div class="xsout" id="xsout"></div>
+    <div class="pins" id="pins"></div>
+  </section>
+
+  <main class="tree" id="tree" aria-live="polite"></main>
+  <details class="idx" id="idx"><summary>Index of people</summary><div class="letters" id="idxl"></div></details>
+
+  <footer class="front">
+    <div style="grid-column:1/-1;max-width:72ch"><h2>How this catalog began</h2><p>We kept running into the same surprise. Working across many different fields, we would find an idea in one place and then meet it again somewhere else, thousands of kilometres away, with no contact between the two. Farming began on several continents on its own. Writing was invented more than once. Some discoveries only made sense when set side by side with another from a different century or a different part of the world.</p><p>History books usually tell these stories one country or one subject at a time, so the connections get lost between the chapters. We wanted one place where you could see how everything fits together for humans, on a single timeline you can zoom into with simple clicks, the way a car-parts catalog lets you drill from make to model to the exact part. So we built it, checked every part against a source we opened, and are giving it away. If you spot a mistake or a missing part, tell us. It is your history too.</p><p>— Moki &amp; Julio (AI-assisted)</p></div>
+    <div><h2>How dates are given</h2><p>BCE and CE years; no year zero. Deep time is given in years ago, counted from 1950 as archaeologists do. "c." means circa. Ranges are given where specialists give ranges.</p></div>
+    <div><h2>Marks</h2><p><span class="badge est">Established</span> broad agreement among specialists. <span class="badge deb">Debated</span> the date or the claim is contested. <span class="badge ix">Interchange</span> the same part was invented independently somewhere else.</p></div>
+    <div><h2>Part numbers</h2><p>HC · system · date code · serial. Date codes: KA = thousands of years ago, B = BCE year, C = CE year. Fiche coordinates (row letter = era, column = span) locate a part on the sheet.</p></div>
+    <div><h2>Compiled by</h2><p id="credits">Moki &amp; Julio (AI-assisted). Research desks A (deep time), B (ancient and medieval) and C (modern), and a concept desk. Every part carries the source its researcher opened to check the date. Before publication, every part was re-checked against its source by an independent referee desk; 173 parts were corrected for wording, places and confidence marks, and 12 of those had a date corrected or refined. For the Second Edition, 66 new parts and every established part using a word like "first" or "oldest" were checked again; 62 were corrected.</p></div><div><h2>Selection and gaps</h2><p>A part is listed when it is the earliest known appearance of something that changed what people could do or think. "Earliest known" means the oldest evidence found so far, not proof that nothing came before. This first edition is a starting set, not a complete record; errors reported are corrected in the next edition.</p></div>
+  </footer>
+</div>
+
+<script type="application/json" id="data">/*DATA*/</script>
+<script type="application/json" id="land">/*LAND*/</script>
+<script>
+(function () {
+  const SYSTEMS = {
+    MIG: "Origins & Migration", TEC: "Tools & Technology", FOD: "Food & Farming", SCI: "Science & Mathematics",
+    MED: "Medicine & Health", WRT: "Writing & Records", ART: "Art, Music & Story", IDE: "Belief & Philosophy",
+    GOV: "Power, Law & Government", ECO: "Trade, Money & Work", WAR: "War & Conflict", TRN: "Exploration & Transport",
+    RCL: "Notices: plagues, eruptions, collapses"
+  };
+  // Eras: [label, name, from(inclusive), to(inclusive), span size in years]
+  const ERAS = [
+    ["A", "Early Sapiens", -9e9, -48051, 50000],
+    ["B", "Ice Age World", -48050, -10051, 10000],
+    ["C", "First Farmers & Towns", -10050, -3001, 1000],
+    ["D", "Bronze Age", -3000, -1001, 500],
+    ["E", "Iron & Axial Age", -1000, -1, 250],
+    ["F", "Classical Empires", 1, 500, 100],
+    ["G", "Early Middle Ages", 501, 1000, 100],
+    ["H", "High & Late Middle Ages", 1001, 1500, 100],
+    ["J", "Age of Contact", 1501, 1700, 50],
+    ["K", "Age of Revolutions", 1701, 1800, 25],
+    ["L", "Industrial Century", 1801, 1900, 25],
+    ["M", "World Wars", 1901, 1950, 10],
+    ["N", "Atomic & Digital Age", 1951, 2000, 10],
+    ["P", "Networked Century", 2001, 2026, 5]
+  ];
+  const NOW = 2026, START = -298050; // 300,000 years ago
+  const eraBase = e => e[0] === "A" ? START : e[0] === "C" ? -10000 : e[2];
+  const raw = JSON.parse(document.getElementById("data").textContent || "[]");
+  const fmtYear = y => y < -9050 ? (Math.round((1950 - y) / 1000)).toLocaleString() + ",000 years ago"
+                     : y < 0 ? ((-y) >= 10000 ? (-y).toLocaleString() : String(-y)) + " BCE" : y + " CE";
+  const dateCode = y => y < -9050 ? "KA" + Math.round((1950 - y) / 1000) : y < 0 ? "B" + (-y) : "C" + y;
+
+  // Assign era, span, part number, fiche coordinate
+  const parts = raw.filter(p => typeof p.year === "number" && SYSTEMS[p.system]).sort((a, b) => a.year - b.year || a.system.localeCompare(b.system));
+  const serial = {};
+  parts.forEach(p => {
+    const e = ERAS.find(e => p.year >= e[2] && p.year <= e[3]) || ERAS[0];
+    p._era = e[0];
+    const base = eraBase(e);
+    const span = Math.floor((p.year - base) / e[4]);
+    p._spanIdx = Math.max(0, span);
+    const key = p.system + dateCode(p.year);
+    serial[key] = (serial[key] || 0) + 1;
+    p._pn = p.id || "HC-" + p.system + "-" + dateCode(p.year) + "-" + String(serial[key]).padStart(2, "0");
+    p._fiche = e[0] + "-" + (p._spanIdx + 1);
+    p._hay = [p._pn, p.title, p.place, p.region, (p.figures || []).join(" "), p.summary, p.why, (p.interchange || []).join(" "), (p.tags || []).join(" "), p.confidence, p.question || "", p.kind === "open" ? "unknown open question back-ordered" : "", SYSTEMS[p.system], p.dateLabel].join(" ").toLowerCase();
+  });
+  document.getElementById("count").textContent = parts.length + " parts on file";
+
+  const sysOn = {}; Object.keys(SYSTEMS).forEach(k => sysOn[k] = true);
+  const sysBox = document.getElementById("systems");
+  Object.entries(SYSTEMS).forEach(([k, v]) => {
+    const b = document.createElement("button");
+    b.className = "sys"; b.type = "button"; b.setAttribute("aria-pressed", "true");
+    b.innerHTML = "<code>" + k + "</code>" + v;
+    b.onclick = () => { sysOn[k] = !sysOn[k]; b.setAttribute("aria-pressed", String(sysOn[k])); render(); };
+    sysBox.appendChild(b);
+  });
+
+  // Ruler
+  const total = NOW - START;
+  const pos = y => Math.max(0, Math.min(100, (y - START) / total * 100));
+  document.getElementById("sliver").style.width = (100 - pos(-3200)) + "%";
+  document.getElementById("pct").textContent = ((NOW + 3200) / total * 100).toFixed(1) + "%";
+  const erasBox = document.getElementById("eras");
+  ERAS.forEach(e => {
+    const b = document.createElement("button");
+    b.type = "button"; b.dataset.era = e[0];
+    const lo = e[0] === "A" ? START : e[2];
+    b.innerHTML = e[0] + " · " + e[1] + "<small>" + fmtYear(lo) + "</small>";
+    b.onclick = () => openEra(e[0]);
+    erasBox.appendChild(b);
+  });
+
+  const esc = s => String(s == null ? "" : s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  let query = "";
+  const hl = s => { s = esc(s); if (!query) return s; const i = s.toLowerCase().indexOf(query); return i < 0 ? s : s.slice(0, i) + "<mark>" + s.slice(i, i + query.length) + "</mark>" + s.slice(i + query.length); };
+
+  function node(level, label, count, build, id) {
+    const d = document.createElement("div");
+    d.className = "node lv" + level;
+    if (id) d.dataset.id = id;
+    const r = document.createElement("button");
+    r.type = "button"; r.className = "row"; r.setAttribute("aria-expanded", "false");
+    r.innerHTML = '<span class="pm" aria-hidden="true">+</span><span class="t">' + label + '</span><span class="n">' + count + '</span>';
+    const kids = document.createElement("div"); kids.className = "kids";
+    let built = false;
+    r.onclick = () => toggle(d, r, kids, build, () => built, v => built = v);
+    d.append(r, kids); d._open = (v) => { if (!!d.classList.contains("open") !== v) r.click(); };
+    return d;
+  }
+  function toggle(d, r, kids, build, isBuilt, setBuilt) {
+    const open = !d.classList.contains("open");
+    if (open && !isBuilt()) { build(kids); setBuilt(true); }
+    d.classList.toggle("open", open);
+    r.setAttribute("aria-expanded", String(open));
+    r.querySelector(".pm").textContent = open ? "−" : "+";
+    if (d.classList.contains("lv0")) markEra(open ? d.dataset.id : null);
+  }
+
+  function partsTable(list) {
+    const w = document.createElement("div"); w.className = "parts";
+    const t = document.createElement("table");
+    t.innerHTML = "<thead><tr><th>Part no.</th><th>Part</th><th>Fitment</th><th>Marks</th></tr></thead>";
+    const tb = document.createElement("tbody");
+    list.forEach(p => {
+      const tr = document.createElement("tr"); if (p.kind === "open") tr.className = "ghost";
+      const ix = (p.interchange || []).length ? '<span class="badge ix">Interchange ' + p.interchange.length + "</span> " : "";
+      const cf = p.kind === "open" ? '<span class="badge bo">Back-ordered</span>' : (p.confidence === "debated" ? '<span class="badge deb">Debated</span>' : '<span class="badge est">Established</span>') + (p.audit && p.audit.status === "corrected" ? ' <span class="badge cor">Corrected</span>' : "");
+      tr.innerHTML = '<td class="pn">' + hl(p._pn) + '</td><td class="part"><button type="button">' + hl(p.title) + '</button></td><td class="fit">' + hl(p.place) + (p.region ? " · " + hl(p.region) : "") + "</td><td>" + ix + cf + "</td>";
+      const det = document.createElement("tr"); det.className = "detail"; det.hidden = true;
+      const figs = "";
+      const inter = (p.interchange || []).length ? "<dt>Interchange</dt><dd>" + p.interchange.map(hl).join("<br>") + "</dd>" : "";
+      const sup = (p.supersedes ? "<dt>Supersedes</dt><dd>" + linkTitle(p.supersedes) + "</dd>" : "") + threads(p) + auditLine(p);
+      const src = p.source ? '<a href="' + esc(p.source) + '" target="_blank" rel="noopener">' + esc(p.source.replace(/^https?:\/\//, "").slice(0, 70)) + "</a>" : "—";
+      const citeTxt = "Human Catalog — Part History, Second Edition (2.0, 2026), part " + p._pn + ", " + p.title + ", " + p.dateLabel + ". Source: " + (p.source || "none");
+      const openq = p.kind === "open" ? "<dt>Open question</dt><dd><b>" + hl(p.question || "") + "</b></dd><dt>What we know</dt><dd>" + hl(p.evidence || "") + "</dd><dt>What would settle it</dt><dd>" + hl(p.wouldSettle || "") + "</dd>" : "";
+      det.innerHTML = '<td colspan="4"><div class="card"><p>' + hl(p.summary) + "</p><dl>" + openq + "<dt>Date</dt><dd>" + esc(p.dateLabel) + "</dd><dt>Why it matters</dt><dd>" + hl(p.why) + "</dd>" + figs + inter + sup + "<dt>Maker</dt><dd>" + ((p.figures || []).length ? hl(p.figures.join(", ")) : "Unknown (earliest known evidence)") + "</dd><dt>System</dt><dd>" + SYSTEMS[p.system] + "</dd><dt>Fiche</dt><dd>" + p._fiche + "</dd><dt>Source</dt><dd>" + src + '</dd></dl><div class="cite"><span>' + esc(citeTxt) + '</span><button type="button">Copy citation</button><button type="button" class="pinbtn" data-pin="' + esc(p._pn) + '">Pin to list</button></div></div></td>';
+      const cbtn = det.querySelector(".cite button");
+      cbtn.onclick = () => {
+        const done = () => { cbtn.textContent = "Copied"; setTimeout(() => cbtn.textContent = "Copy citation", 1500); };
+        try { navigator.clipboard.writeText(citeTxt).then(done, () => selectText(det.querySelector(".cite span"))); }
+        catch (e) { selectText(det.querySelector(".cite span")); }
+      };
+      tr.querySelector("button").onclick = () => { det.hidden = !det.hidden; };
+      tb.append(tr, det);
+    });
+    t.appendChild(tb); w.appendChild(t); return w;
+  }
+  function selectText(el) { const r = document.createRange(); r.selectNodeContents(el); const s = getSelection(); s.removeAllRanges(); s.addRange(r); }
+
+  function visible() {
+    const toks = query.split(/\s+/).filter(Boolean);
+    if (toks.length > 1 && toks.every(t => /^hc-[a-z]{3}-/.test(t))) { const want = new Set(toks); return parts.filter(p => want.has(p._pn.toLowerCase())); }
+    return parts.filter(p => sysOn[p.system] && (!query || p._hay.includes(query)));
+  }
+  // ---- v2 helpers: links between parts ----
+  const byTitle = {}; parts.forEach(p => byTitle[p.title.toLowerCase()] = p);
+  const byTag = {}; parts.forEach(p => (p.tags || []).forEach(t => (byTag[t] = byTag[t] || []).push(p)));
+  const after = {}; parts.forEach(p => { const t = (p.supersedes || "").toLowerCase(); if (byTitle[t]) (after[t] = after[t] || []).push(p); });
+  const plink = q => '<button type="button" class="pl" data-go="' + esc(q._pn) + '"><code>' + esc(q._pn) + "</code>" + esc(q.title) + "</button> <small>" + esc(q.dateLabel) + (q.region ? " · " + esc(q.region) : "") + "</small>";
+  function linkTitle(t) { const q = byTitle[t.toLowerCase()]; return q ? plink(q) : hl(t); }
+  function threads(p) {
+    let out = "";
+    const next = after[p.title.toLowerCase()];
+    if (next) out += "<dt>Superseded by</dt><dd>" + next.map(plink).join("<br>") + "</dd>";
+    (p.tags || []).forEach(t => {
+      const others = byTag[t].filter(q => q !== p);
+      if (others.length) out += "<dt>Thread: " + esc(t) + "</dt><dd><ul>" + others.slice(0, 12).map(q => "<li>" + plink(q) + "</li>").join("") + (others.length > 12 ? "<li>… " + (others.length - 12) + " more: search “" + esc(t) + "”</li>" : "") + "</ul></dd>";
+    });
+    return out;
+  }
+  function auditLine(p) {
+    const a = p.audit || {};
+    if (a.status === "corrected") return "<dt>Referee</dt><dd>Corrected before Edition " + esc(a.edition) + ": " + (a.notes || []).map(n => esc(n.problem) + (n.evidence ? ' (<a href="' + esc(n.evidence) + '" target="_blank" rel="noopener">evidence</a>)' : "")).join("; ") + "</dd>";
+    if (a.status === "hold") return "<dt>Referee</dt><dd>Checked against its source for Edition " + esc(a.edition) + "; no change needed.</dd>";
+    return "";
+  }
+  function go(id) { const q = document.getElementById("q"); q.value = id; query = id.toLowerCase(); render(); document.getElementById("tree").scrollIntoView({ block: "start" }); }
+  document.addEventListener("click", ev => {
+    const g = ev.target.closest("[data-go]"); if (g) { go(g.dataset.go); return; }
+    const pn = ev.target.closest("[data-pin]"); if (pn) { pin(pn.dataset.pin); pn.textContent = "Pinned"; }
+  });
+  const pins = [];
+  function pin(id) { if (!pins.includes(id)) pins.push(id); drawPins(); }
+  function drawPins() {
+    const box = document.getElementById("pins");
+    if (!pins.length) { box.innerHTML = ""; return; }
+    box.innerHTML = "Pinned list (" + pins.length + "): <span id=\"pinids\">" + pins.join(" ") + '</span> <button class="pinbtn" id="pinshow" type="button">Show list</button><button class="pinbtn" id="pincopy" type="button">Copy part numbers</button><button class="pinbtn" id="pinclear" type="button">Clear</button>';
+    document.getElementById("pinshow").onclick = () => go(pins.join(" "));
+    document.getElementById("pinclear").onclick = () => { pins.length = 0; drawPins(); };
+    document.getElementById("pincopy").onclick = ev => { const t = pins.join(" "); try { navigator.clipboard.writeText(t).then(() => ev.target.textContent = "Copied", () => selectText(document.getElementById("pinids"))); } catch (e) { selectText(document.getElementById("pinids")); } };
+  }
+  const plural = (n, w) => n + " " + w + (n === 1 ? "" : "s");
+
+  function render() {
+    const tree = document.getElementById("tree"); tree.innerHTML = "";
+    const vis = visible();
+    if (!vis.length) { tree.innerHTML = '<div class="empty">No parts match. Clear the search or turn systems back on.</div>'; return; }
+    ERAS.forEach(e => {
+      const inEra = vis.filter(p => p._era === e[0]);
+      if (!inEra.length) return;
+      const lo = eraBase(e);
+      const label = "<b>" + e[0] + " · " + e[1] + "</b><span>" + fmtYear(lo) + " – " + fmtYear(e[3] === -48051 ? -48050 : e[3]) + "</span>";
+      tree.appendChild(node(0, label, plural(inEra.length, "part"), kids => {
+        const spans = {};
+        inEra.forEach(p => (spans[p._spanIdx] = spans[p._spanIdx] || []).push(p));
+        Object.keys(spans).map(Number).sort((a, b) => a - b).forEach(si => {
+          const s0 = lo + si * e[4], s1 = Math.min(s0 + e[4] - 1, e[3]);
+          const sl = '<span class="fiche">FICHE ' + e[0] + "-" + (si + 1) + "</span>" + fmtYear(s0) + " – " + fmtYear(s1);
+          kids.appendChild(node(1, sl, plural(spans[si].length, "part"), k2 => {
+            const years = {};
+            spans[si].forEach(p => { const key = p.year + "|" + p.dateLabel; (years[key] = years[key] || []).push(p); });
+            Object.keys(years).sort((a, b) => parseFloat(a) - parseFloat(b)).forEach(key => {
+              const list = years[key];
+              const places = [...new Set(list.map(p => p.region).filter(Boolean))].join(" · ");
+              const yl = '<span class="date">' + esc(list[0].dateLabel) + '</span><span class="peek">' + list.map(p => esc(p.title)).join(" · ") + (places ? " — " + esc(places) : "") + "</span>";
+              k2.appendChild(node(2, yl, plural(list.length, "part"), k3 => {
+                const bySys = {};
+                list.forEach(p => (bySys[p.system] = bySys[p.system] || []).push(p));
+                Object.keys(SYSTEMS).filter(k => bySys[k]).forEach(k => {
+                  const nn = node(3, "<code>" + k + "</code>" + SYSTEMS[k], bySys[k].length, k4 => k4.appendChild(partsTable(bySys[k]))); if (k === "RCL") nn.classList.add("notice"); k3.appendChild(nn);
+                });
+              }));
+            });
+          }));
+        });
+      }, e[0]));
+    });
+    if (query) openAll();
+  }
+  function openAll() {
+    // Children are built on first open, so repeat until no closed node remains.
+    for (let pass = 0; pass < 6; pass++) {
+      const closed = document.querySelectorAll("#tree .node:not(.open)");
+      if (!closed.length) break;
+      closed.forEach(n => n._open && n._open(true));
+    }
+  }
+  function markEra(id) {
+    document.querySelectorAll("#eras button").forEach(b => b.classList.toggle("on", b.dataset.era === id));
+    const e = ERAS.find(x => x[0] === id);
+    document.getElementById("here").textContent = e ? "You are viewing: " + e[0] + " · " + e[1] : "You are viewing: all eras";
+    document.getElementById("you").style.left = e ? pos(e[0] === "A" ? START : e[2]) + "%" : "0";
+  }
+  function openEra(id) {
+    const n = document.querySelector('#tree .lv0[data-id="' + id + '"]');
+    if (!n) return;
+    n._open(true); n.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "start" });
+  }
+  let tmr;
+  document.getElementById("q").addEventListener("input", ev => { clearTimeout(tmr); tmr = setTimeout(() => { query = ev.target.value.trim().toLowerCase(); render(); }, 180); });
+  document.getElementById("expand").onclick = openAll;
+  document.getElementById("collapse").onclick = () => render();
+  render();
+
+  // ---- Peopling of the World map ----
+  (function map() {
+    const cv = document.getElementById("mapc"), ctx = cv.getContext("2d");
+    const land = JSON.parse(document.getElementById("land").textContent || "[]").filter(r => r.some(p => p[1] > -58));
+    const routes = parts.filter(p => Array.isArray(p.route) && p.route.length >= 2 && p.year <= 1600 && p.year >= -298050).sort((a, b) => a.year - b.year);
+    const slider = document.getElementById("tslider"), read = document.getElementById("tread"), arr = document.getElementById("arrivals");
+    const LOG0 = Math.log10(300000), LOG1 = Math.log10(426); // 300,000 years ago .. 1524 CE
+    const yearAt = t => Math.round(1950 - Math.pow(10, LOG0 + (LOG1 - LOG0) * t));
+    const ne = (lon, lat) => { const l = lon * Math.PI / 180, f = lat * Math.PI / 180, f2 = f * f, f4 = f2 * f2;
+      return [l * (0.8707 - 0.131979 * f2 + f4 * (-0.013791 + f4 * (0.003971 * f2 - 0.001529 * f4))),
+              f * (1.007226 + f2 * (0.015085 + f4 * (-0.044475 + 0.028874 * f2 - 0.005916 * f4)))]; };
+    const X0 = -2.74, X1 = 2.74, Y0 = ne(0, -58)[1], Y1 = ne(0, 84)[1];
+    let W = 1000, H = 520, segs = [];
+    const P = (lon, lat) => { const q = ne(lon, lat); return [(q[0] - X0) / (X1 - X0) * W, (Y1 - q[1]) / (Y1 - Y0) * H]; };
+    const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+    function size() {
+      const w = cv.clientWidth || 1000, dpr = window.devicePixelRatio || 1;
+      W = w; H = Math.round(w * (Y1 - Y0) / (X1 - X0));
+      cv.width = Math.round(W * dpr); cv.height = Math.round(H * dpr); cv.style.height = H + "px";
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0); draw();
+    }
+    function path(pts, shift) {
+      ctx.beginPath();
+      let prev = null;
+      pts.forEach((pt, i) => {
+        let L = pt[1] + shift;
+        if (prev !== null) { while (L - prev > 180) L -= 360; while (prev - L > 180) L += 360; }
+        prev = L;
+        const xy = P(L, pt[0]);
+        if (i) ctx.lineTo(xy[0], xy[1]); else ctx.moveTo(xy[0], xy[1]);
+      });
+    }
+    function draw() {
+      const yr = yearAt(slider.value / 1000);
+      ctx.clearRect(0, 0, W, H);
+      ctx.fillStyle = css("--land"); ctx.strokeStyle = css("--muted"); ctx.lineWidth = 0.4;
+      land.forEach(r => {
+        // a ring that crosses the date line is drawn as pieces, never joined straight across the map
+        const pieces = [[]];
+        r.forEach((pt, i) => { if (i && Math.abs(pt[0] - r[i - 1][0]) > 180) pieces.push([]); pieces[pieces.length - 1].push(pt); });
+        pieces.forEach(pc => { if (pc.length < 2) return; ctx.beginPath(); pc.forEach((pt, i) => { const xy = P(pt[0], Math.max(pt[1], -58)); if (i) ctx.lineTo(xy[0], xy[1]); else ctx.moveTo(xy[0], xy[1]); });
+          if (pieces.length === 1) ctx.closePath(); ctx.fill(); ctx.stroke(); });
+      });
+      segs = [];
+      const shown = routes.filter(r => r.year <= yr);
+      const newest = shown.slice(-3);
+      shown.forEach(r => {
+        const fresh = newest.includes(r);
+        ctx.strokeStyle = fresh ? css("--mark") : css("--link");
+        ctx.globalAlpha = fresh ? 1 : 0.55; ctx.lineWidth = fresh ? 2.4 : 1.5;
+        ctx.setLineDash(r.confidence === "debated" ? [5, 4] : []);
+        [0, 360, -360].forEach(sh => { path(r.route, sh); ctx.stroke(); });
+        const end = r.route[r.route.length - 1], e = P(end[1], end[0]);
+        ctx.setLineDash([]); ctx.fillStyle = ctx.strokeStyle; ctx.beginPath(); ctx.arc(e[0], e[1], fresh ? 3.5 : 2.5, 0, 7); ctx.fill();
+        for (let i = 1; i < r.route.length; i++) {
+          if (Math.abs(r.route[i][1] - r.route[i - 1][1]) > 180) continue;
+          segs.push([P(r.route[i - 1][1], r.route[i - 1][0]), P(r.route[i][1], r.route[i][0]), r]);
+        }
+      });
+      ctx.globalAlpha = 1; ctx.setLineDash([]);
+      read.textContent = fmtYear(yr);
+      arr.innerHTML = newest.length ? "Latest arrivals: " + newest.slice().reverse().map(r => "<b>" + esc(r.title) + "</b> (" + esc(r.dateLabel) + ")").join(" · ") + "<br>" + shown.length + " of " + routes.length + " routes shown. Dashed = debated."
+                                   : "No routes yet at this date. Press Play.";
+    }
+    function near(x, y) {
+      let best = null, bd = 9;
+      segs.forEach(sg => {
+        const a = sg[0], b = sg[1], dx = b[0] - a[0], dy = b[1] - a[1], L = dx * dx + dy * dy || 1;
+        const t = Math.max(0, Math.min(1, ((x - a[0]) * dx + (y - a[1]) * dy) / L));
+        const d = Math.hypot(x - (a[0] + t * dx), y - (a[1] + t * dy));
+        if (d < bd) { bd = d; best = sg[2]; }
+      });
+      return best;
+    }
+    cv.addEventListener("click", ev => {
+      const rc = cv.getBoundingClientRect(), r = near(ev.clientX - rc.left, ev.clientY - rc.top);
+      if (!r) return;
+      document.getElementById("q").value = r._pn; query = r._pn.toLowerCase(); render();
+      document.getElementById("tree").scrollIntoView({ block: "start" });
+    });
+    cv.addEventListener("mousemove", ev => { const rc = cv.getBoundingClientRect(); const r = near(ev.clientX - rc.left, ev.clientY - rc.top); cv.title = r ? r.title + " - " + r.dateLabel : ""; cv.style.cursor = r ? "pointer" : "crosshair"; });
+    slider.addEventListener("input", draw);
+    let raf = 0;
+    const btn = document.getElementById("play");
+    btn.onclick = () => {
+      if (raf) { cancelAnimationFrame(raf); raf = 0; btn.textContent = "Play"; return; }
+      if (matchMedia("(prefers-reduced-motion: reduce)").matches) { slider.value = 1000; draw(); return; }
+      if (+slider.value >= 1000) slider.value = 0;
+      btn.textContent = "Pause";
+      let last = performance.now();
+      const step = now => { slider.value = Math.min(1000, +slider.value + (now - last) / 22); last = now; draw();
+        if (+slider.value < 1000) raf = requestAnimationFrame(step); else { raf = 0; btn.textContent = "Play"; } };
+      raf = requestAnimationFrame(step);
+    };
+    if (!routes.length) document.querySelector(".map").hidden = true;
+    window.addEventListener("resize", size);
+    matchMedia("(prefers-color-scheme: dark)").addEventListener("change", draw);
+    new MutationObserver(draw).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+    size();
+  })();
+
+  // ---- v2: unknowns (back-ordered parts) with pick-a-theory ----
+  (function unknowns() {
+    const open = parts.filter(p => p.kind === "open").sort((a, b) => a.year - b.year);
+    const btn = document.getElementById("unk"), board = document.getElementById("board");
+    if (!open.length) { btn.hidden = true; return; }
+    btn.textContent = "? Unknowns (" + open.length + ")";
+    // merge marks closer than 2.5% of the ruler into one mark with a count; clicking it lists those questions
+    const groups = [];
+    open.forEach(p => { const x = pos(p.year), g = groups[groups.length - 1]; if (g && x - g.x0 < 2.5) { g.items.push(p); g.x1 = x; } else groups.push({ x0: x, x1: x, items: [p] }); });
+    document.getElementById("qmarks").innerHTML = groups.map(g => {
+      const x = Math.min(98.5, (g.x0 + g.x1) / 2), ids = g.items.map(p => p._pn).join(" ");
+      const tip = g.items.map(p => p.question || p.title).join(" | ");
+      return '<span data-go="' + esc(ids) + '" title="' + esc(tip) + '" style="left:' + x.toFixed(2) + '%">?' + (g.items.length > 1 ? "<sup>" + g.items.length + "</sup>" : "") + "</span>";
+    }).join("");
+    const tk = document.getElementById("tickets");
+    tk.innerHTML = open.map((p, i) => {
+      const th = (p.theories || []).map((t, j) => '<button type="button" aria-pressed="false" data-t="' + i + "-" + j + '"><b>' + esc(t.name) + "</b>" + esc(t.idea) + "</button>").join("");
+      return '<div class="ticket"><span class="stamp" aria-hidden="true">?</span><span class="tno">' + esc(p._pn) + " · " + esc(p.dateLabel) + " · " + esc(p.region || "") + '</span><span class="q">' + esc(p.question || p.title) + "</span>" +
+        (th ? '<div class="theories" role="group" aria-label="Pick a theory">' + th + "</div>" : "") +
+        '<div class="reveal"' + (th ? " hidden" : "") + "><dl><dt>What we know</dt><dd>" + esc(p.evidence || p.summary) + "</dd><dt>What would settle it</dt><dd>" + esc(p.wouldSettle || "") + '</dd></dl><button type="button" class="pl" data-go="' + esc(p._pn) + '">Open the part</button></div></div>';
+    }).join("");
+    tk.addEventListener("click", ev => {
+      const b = ev.target.closest("[data-t]"); if (!b) return;
+      const card = b.closest(".ticket");
+      card.querySelectorAll("[data-t]").forEach(x => x.setAttribute("aria-pressed", String(x === b)));
+      const rv = card.querySelector(".reveal"); rv.hidden = false;
+      if (!rv.querySelector(".your")) rv.insertAdjacentHTML("afterbegin", '<p class="your" style="margin:0 0 6px">Your pick is in. Nobody knows yet, so it is a fair bet. Here is where the evidence stands:</p>');
+    });
+    const deb = parts.filter(p => p.kind !== "open" && p.confidence === "debated").length;
+    document.getElementById("contested").innerHTML = 'Also contested: <button type="button" class="pl" data-go="debated">' + deb + " parts marked Debated</button>, where specialists still disagree about a date or a claim.";
+    btn.onclick = () => { board.hidden = !board.hidden; btn.setAttribute("aria-expanded", String(!board.hidden)); if (!board.hidden) board.scrollIntoView({ block: "start" }); };
+  })();
+  // ---- v2: guess the year ----
+  (function game() {
+    const pool = parts.filter(p => p.kind !== "open");
+    const btn = document.getElementById("play2"), sec = document.getElementById("game");
+    const sl = document.getElementById("gslider"), rd = document.getElementById("gread"), res = document.getElementById("gres"), sc = document.getElementById("gscore");
+    // slider t in [0,1]: log of years before 2027, from 300,000 years ago to the present
+    const LO = Math.log10(300000), HI = 0;
+    const yearAt = t => { const y = Math.round(2027 - Math.pow(10, LO + (HI - LO) * t)); return y === 0 ? 1 : y; };
+    let cur = null, locked = false, total = 0, rounds = 0, streak = 0, best = 0;
+    try { best = +localStorage.getItem("hc-best-streak") || 0; } catch (e) {}
+    const guess = () => yearAt(sl.value / 1000);
+    const show = () => { rd.textContent = "Your guess: " + fmtYear(guess()); };
+    function next() {
+      cur = pool[Math.floor(Math.random() * pool.length)]; locked = false;
+      const hint = cur.summary.replace(/\b(c\.\s*)?\d[\d,]*(\s*(years ago|BCE|CE|BC|AD))?\b/g, "…");
+      document.getElementById("gcard").innerHTML = '<span style="font:600 11px var(--f-mono);color:var(--muted)">' + esc(SYSTEMS[cur.system]) + " · " + esc(cur.region || "") + '</span><span class="gt">' + esc(cur.title.replace(/\b\d{3,}\b/g, "…")) + "</span><span>" + esc(hint) + "</span>";
+      res.textContent = ""; sl.value = 700; show();
+    }
+    function lock() {
+      if (!cur || locked) return; locked = true;
+      const g = guess(), a = cur.year;
+      const err = Math.abs(Math.log10(2027 - g) - Math.log10(2027 - a)); // ratio error in time before now
+      const pts = Math.max(0, Math.round(100 * (1 - err / 0.6)));
+      total += pts; rounds++;
+      streak = pts >= 60 ? streak + 1 : 0;
+      if (streak > best) { best = streak; try { localStorage.setItem("hc-best-streak", String(best)); } catch (e) {} }
+      res.innerHTML = "It was <b>" + esc(cur.dateLabel) + "</b> (" + esc(cur.place) + "). You guessed " + esc(fmtYear(g)) + ": <b>" + pts + " points</b>. " + '<button type="button" class="pl" data-go="' + esc(cur._pn) + '">Open the part</button>';
+      sc.innerHTML = "<span>Score " + total + " / " + rounds * 100 + "</span><span>Streak " + streak + "</span><span>Best streak " + best + "</span>";
+    }
+    sl.addEventListener("input", show);
+    document.getElementById("glock").onclick = lock;
+    document.getElementById("gnext").onclick = next;
+    btn.onclick = () => { sec.hidden = !sec.hidden; btn.setAttribute("aria-expanded", String(!sec.hidden)); if (!sec.hidden) { if (!cur) next(); sec.scrollIntoView({ block: "start" }); } };
+  })();
+  // ---- v2: cross-section ----
+  function xsWindow(y) { return y < -48050 ? 25000 : y < -10050 ? 5000 : y < -3000 ? 500 : y < -1000 ? 150 : y < 500 ? 50 : y < 1500 ? 25 : y < 1800 ? 10 : y < 1950 ? 3 : 1; }
+  function crossSection() {
+    let n = parseInt(String(document.getElementById("xsy").value).replace(/[^0-9]/g, ""), 10);
+    const mode = document.getElementById("xse").value, out = document.getElementById("xsout");
+    if (!n && n !== 0) { out.textContent = "Type a year, for example 1450."; return; }
+    const y = mode === "bce" ? -n : mode === "ago" ? 1950 - n : n;
+    const w = xsWindow(y);
+    const hits = parts.filter(p => { const a = p.year, b = p.yearEnd || p.year; return a - w <= y && y <= b + w; });
+    const regions = {};
+    hits.forEach(p => (regions[p.region || "Global"] = regions[p.region || "Global"] || []).push(p));
+    const head = "<p style='grid-column:1/-1;margin:0;font-size:13px;color:var(--muted)'>" + hits.length + " parts within ±" + w.toLocaleString() + " years of " + esc(fmtYear(y)) + ".</p>";
+    out.innerHTML = hits.length ? head + Object.keys(regions).sort().map(r => "<section><h3>" + esc(r) + "</h3><ul>" + regions[r].map(p => "<li>" + plink(p) + "</li>").join("") + "</ul></section>").join("")
+                                : head.replace(" parts", " parts on file") ;
+  }
+  document.getElementById("xsgo").onclick = crossSection;
+  document.getElementById("xsy").addEventListener("keydown", e => { if (e.key === "Enter") crossSection(); });
+  crossSection();
+  // ---- v2: index of people ----
+  (function index() {
+    const fig = {};
+    parts.forEach(p => (p.figures || []).forEach(f => (fig[f] = fig[f] || []).push(p)));
+    const names = Object.keys(fig).sort((a, b) => a.localeCompare(b));
+    document.getElementById("idxl").innerHTML = names.map(f => '<button type="button" class="pl" data-go="' + esc(f) + '">' + esc(f) + "</button>").join("");
+    document.querySelector("#idx summary").textContent = "Index of people (" + names.length + ")";
+  })();
+  // Permalinks: page link + #HC-XXX-... opens that part; #list.ID.ID opens a pinned list
+  const h = (location.hash || "").slice(1);
+  if (/^list\./.test(h)) { go(h.slice(5).split(".").join(" ")); }
+  if (/^HC-[A-Z]{3}-/.test(h)) {
+    const p = parts.find(x => x._pn === h);
+    if (p) { document.getElementById("q").value = p._pn; query = p._pn.toLowerCase(); render(); }
+  }
+})();
+</script>
+
+</body>
+</html>

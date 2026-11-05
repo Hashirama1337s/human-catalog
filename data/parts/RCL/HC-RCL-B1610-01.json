@@ -1,0 +1,47 @@
+{
+ "id": "HC-RCL-B1610-01",
+ "year": -1630,
+ "yearEnd": -1480,
+ "dateLabel": "c. 1630–1480 BCE (debated)",
+ "title": "When the Thera (Santorini) volcano erupted",
+ "system": "RCL",
+ "place": "Santorini, Greece",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Radiocarbon dates for the eruption run about a century older than archaeological dates; a 2020 recalibration narrowed the gap, but the exact year is not settled.",
+ "why": "The date is a fixed point for building Bronze Age timelines in the Aegean.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "eruptions",
+  "chronology",
+  "Bronze Age"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Minoan_eruption",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Range omitted the 1627-1600 BCE olive-branch date it cites; source says IntCal20 'mitigates' the disagreement.",
+    "evidence": "https://en.wikipedia.org/wiki/Minoan_eruption"
+   }
+  ]
+ },
+ "kind": "open",
+ "question": "When exactly did the Minoan eruption of Thera happen?",
+ "evidence": "Archaeology: c. 1550–1480 BCE; radiocarbon: 1627–1600 BCE (2006), 1609–1560 BCE (2022) and 1610–1510 BCE (2023).",
+ "wouldSettle": "A precisely dated tree-ring or ice-core marker tied to Thera ash.",
+ "theories": [
+  {
+   "name": "Radiocarbon high date",
+   "idea": "Radiocarbon puts the eruption in the late 17th or 16th century BCE."
+  },
+  {
+   "name": "Archaeological low date",
+   "idea": "Archaeological dating places it about 1550–1480 BCE."
+  }
+ ]
+}

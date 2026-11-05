@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-B4569-01",
+ "year": -4569,
+ "yearEnd": -4340,
+ "dateLabel": "c. 4569-4340 BCE",
+ "title": "Varna gold burials",
+ "system": "GOV",
+ "place": "Varna, Bulgaria",
+ "region": "Europe",
+ "figures": [],
+ "summary": "About 3,000 gold objects, unevenly spread among graves, including the oldest known burial of an elite man.",
+ "why": "Early clear evidence of rich and poor: social ranking.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Varna_Necropolis",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

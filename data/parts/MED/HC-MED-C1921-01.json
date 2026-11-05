@@ -1,0 +1,24 @@
+{
+ "id": "HC-MED-C1921-01",
+ "year": 1921,
+ "yearEnd": null,
+ "dateLabel": "1921",
+ "title": "Insulin isolated",
+ "system": "MED",
+ "place": "Toronto, Canada",
+ "region": "North America",
+ "figures": [
+  "Frederick Banting",
+  "Charles Best"
+ ],
+ "summary": "Frederick Banting and his student Charles Best isolated insulin, the hormone that controls blood sugar, at the University of Toronto.",
+ "why": "Opened the way to treating diabetes.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Frederick_Banting",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

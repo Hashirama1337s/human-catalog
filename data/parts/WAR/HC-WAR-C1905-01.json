@@ -1,0 +1,27 @@
+{
+ "id": "HC-WAR-C1905-01",
+ "year": 1905,
+ "yearEnd": 1907,
+ "dateLabel": "1905-1907",
+ "title": "Maji Maji Rebellion",
+ "system": "WAR",
+ "place": "German East Africa (present-day Tanzania)",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Africans across German East Africa rose in armed rebellion against German colonial rule. Between 75,000 and 300,000 people died, overwhelmingly from famine.",
+ "why": "A large uprising against colonial rule; most deaths came from a famine caused largely by German scorched-earth tactics.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Maji_Maji_Rebellion",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Omits the cause the source gives: 'German scorched earth policy deliberately caused famine'.",
+    "evidence": "https://en.wikipedia.org/wiki/Maji_Maji_Rebellion"
+   }
+  ]
+ }
+}

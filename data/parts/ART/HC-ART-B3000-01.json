@@ -1,0 +1,21 @@
+{
+ "id": "HC-ART-B3000-01",
+ "year": -3000,
+ "yearEnd": -2200,
+ "dateLabel": "c. 3000 BCE (first ditch and bank)",
+ "title": "Stonehenge begun",
+ "system": "ART",
+ "place": "Salisbury Plain, Wiltshire, England",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Neolithic builders dug a circular ditch and bank on Salisbury Plain; the giant stone rings were set up over the next centuries, aligned to the solstice sunrise and sunset.",
+ "why": "One of the best-known prehistoric monuments, showing long-term planning and sky-watching by farming peoples.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Stonehenge",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

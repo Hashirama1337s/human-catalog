@@ -1,0 +1,37 @@
+{
+ "id": "HC-TEC-C1947-01",
+ "year": 1947,
+ "yearEnd": null,
+ "dateLabel": "1947",
+ "title": "Transistor invented",
+ "system": "TEC",
+ "place": "Murray Hill, New Jersey, United States",
+ "region": "North America",
+ "figures": [
+  "John Bardeen",
+  "Walter Brattain",
+  "William Shockley"
+ ],
+ "summary": "Bell Labs built a tiny device to switch and amplify electric signals.",
+ "why": "A fundamental building block of modern electronics.",
+ "interchange": [
+  "Herbert Mataré and Heinrich Welker independently built a point-contact transistor in Paris in 1948"
+ ],
+ "supersedes": "Vacuum tube",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Transistor",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "'Basis of all modern electronics' overclaims; source: 'one of the fundamental building blocks of modern electronics'.",
+    "evidence": "https://en.wikipedia.org/wiki/Transistor"
+   },
+   {
+    "problem": "Source documents an independent 1948 invention by Mataré and Welker; interchange was empty.",
+    "evidence": "https://en.wikipedia.org/wiki/Transistor"
+   }
+  ]
+ }
+}

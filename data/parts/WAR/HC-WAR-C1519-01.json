@@ -1,0 +1,24 @@
+{
+ "id": "HC-WAR-C1519-01",
+ "year": 1519,
+ "yearEnd": 1521,
+ "dateLabel": "1519-1521",
+ "title": "Spanish conquest of the Aztec Empire",
+ "system": "WAR",
+ "place": "Tenochtitlan (Mexico City), Mexico",
+ "region": "North America",
+ "figures": [
+  "Hernán Cortés",
+  "Moctezuma II"
+ ],
+ "summary": "Spanish conquistadors and their many Indigenous allies overthrew the Aztec Empire, capturing its capital Tenochtitlan in 1521.",
+ "why": "Began three centuries of Spanish rule over Mexico.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

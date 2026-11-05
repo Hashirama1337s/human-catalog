@@ -1,0 +1,26 @@
+{
+ "id": "HC-SCI-C1929-01",
+ "year": 1929,
+ "yearEnd": null,
+ "dateLabel": "1929",
+ "title": "Hubble: the universe is expanding",
+ "system": "SCI",
+ "place": "Mount Wilson, California, United States",
+ "region": "North America",
+ "figures": [
+  "Edwin Hubble",
+  "Georges Lemaître"
+ ],
+ "summary": "Edwin Hubble showed that distant galaxies are moving away faster the farther they are.",
+ "why": "Evidence for an expanding universe and the Big Bang.",
+ "interchange": [
+  "Georges Lemaître derived the expansion in 1927 in Belgium"
+ ],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Hubble%27s_law",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

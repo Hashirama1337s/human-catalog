@@ -1,0 +1,23 @@
+{
+ "id": "HC-MED-C1846-01",
+ "year": 1846,
+ "yearEnd": null,
+ "dateLabel": "1846",
+ "title": "Ether anaesthesia demonstrated",
+ "system": "MED",
+ "place": "Boston, United States",
+ "region": "North America",
+ "figures": [
+  "William T. G. Morton"
+ ],
+ "summary": "Dentist William Morton publicly showed that ether could put a patient to sleep during surgery.",
+ "why": "Made pain-free surgery standard.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/William_T._G._Morton",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

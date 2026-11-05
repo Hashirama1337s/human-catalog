@@ -1,0 +1,24 @@
+{
+ "id": "HC-WAR-C1857-01",
+ "year": 1857,
+ "yearEnd": 1858,
+ "dateLabel": "1857-1858",
+ "title": "Indian Rebellion of 1857",
+ "system": "WAR",
+ "place": "Northern and central India",
+ "region": "South Asia",
+ "figures": [
+  "Rani of Jhansi",
+  "Bahadur Shah Zafar"
+ ],
+ "summary": "Indian soldiers rose against the East India Company and the revolt spread across northern India before being crushed.",
+ "why": "Shook British rule in India; the revolt was finally defeated in 1858.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

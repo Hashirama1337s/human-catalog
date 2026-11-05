@@ -1,0 +1,29 @@
+{
+ "id": "HC-TRN-C1869-01",
+ "year": 1869,
+ "yearEnd": null,
+ "dateLabel": "1869",
+ "title": "Suez Canal opens",
+ "system": "TRN",
+ "place": "Port Said to Suez, Egypt",
+ "region": "Africa",
+ "figures": [
+  "Ferdinand de Lesseps"
+ ],
+ "summary": "A canal linked the Mediterranean and Red Seas.",
+ "why": "Ships no longer had to sail around Africa.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Suez_Canal",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "opening was at Port Said",
+    "evidence": "https://en.wikipedia.org/wiki/Suez_Canal"
+   }
+  ]
+ }
+}

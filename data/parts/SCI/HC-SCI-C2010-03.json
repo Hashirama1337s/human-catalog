@@ -1,0 +1,26 @@
+{
+ "id": "HC-SCI-C2010-03",
+ "year": 2010,
+ "yearEnd": null,
+ "dateLabel": "May 2010",
+ "title": "Neanderthal genome shows interbreeding",
+ "system": "SCI",
+ "place": "Germany",
+ "region": "Europe",
+ "figures": [
+  "Svante Pääbo"
+ ],
+ "summary": "Pääbo's team published a draft Neanderthal genome in Science. It showed Neanderthals interbred with the ancestors of people outside sub-Saharan Africa, who carry roughly 1-4% Neanderthal DNA.",
+ "why": "Many living people carry a little Neanderthal in their DNA.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Archaic_human_admixture_with_modern_humans",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-C1866-01",
+ "year": 1866,
+ "yearEnd": null,
+ "dateLabel": "1866",
+ "title": "Mendel publishes the rules of inheritance",
+ "system": "SCI",
+ "place": "Brno, Czechia",
+ "region": "Europe",
+ "figures": [
+  "Gregor Mendel"
+ ],
+ "summary": "Gregor Mendel published his pea-plant experiments in 1866, showing traits pass down in predictable ratios. Almost ignored, his work was rediscovered in 1900.",
+ "why": "Founded genetics, the science later used to trace human ancestry.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Gregor_Mendel",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

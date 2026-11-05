@@ -1,0 +1,25 @@
+{
+ "id": "HC-SCI-C1869-01",
+ "year": 1869,
+ "yearEnd": null,
+ "dateLabel": "1869",
+ "title": "Mendeleev's periodic table",
+ "system": "SCI",
+ "place": "Saint Petersburg, Russia",
+ "region": "Europe",
+ "figures": [
+  "Dmitri Mendeleev"
+ ],
+ "summary": "Mendeleev arranged the elements by weight and properties, leaving gaps for undiscovered ones.",
+ "why": "Organised all of chemistry.",
+ "interchange": [
+  "Lothar Meyer developed a similar table independently in Germany"
+ ],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "HC-WAR-C1274-01",
+ "year": 1274,
+ "yearEnd": 1281,
+ "dateLabel": "1274 and 1281",
+ "title": "Mongol invasions of Japan",
+ "system": "WAR",
+ "place": "Japan",
+ "region": "East Asia",
+ "figures": [
+  "Kublai Khan"
+ ],
+ "summary": "Kublai Khan twice tried to conquer Japan; both attempts failed, the second partly due to a typhoon.",
+ "why": "Origin of the word kamikaze ('divine wind').",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Mongol_invasions_of_Japan",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

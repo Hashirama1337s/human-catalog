@@ -1,0 +1,27 @@
+{
+ "id": "HC-MED-B400-01",
+ "year": -400,
+ "yearEnd": 300,
+ "dateLabel": "compiled 4th century BCE-3rd century CE",
+ "title": "Huangdi Neijing (Yellow Emperor's Inner Canon)",
+ "system": "MED",
+ "place": "China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "A medical text of questions and answers between the mythical Yellow Emperor and his ministers.",
+ "why": "The founding text of Chinese medicine for over two thousand years.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Huangdi_Neijing",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "year -206 contradicts its own label 'Warring States to Han dynasty'; source infobox: 'Compiled 4th century BC - 3rd century AD'.",
+    "evidence": "https://en.wikipedia.org/wiki/Huangdi_Neijing"
+   }
+  ]
+ }
+}

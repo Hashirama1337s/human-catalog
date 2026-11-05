@@ -1,0 +1,32 @@
+{
+ "id": "HC-WRT-B3100-01",
+ "year": -3100,
+ "yearEnd": -2700,
+ "dateLabel": "c. 3100–2700 BCE",
+ "title": "Undeciphered: Proto-Elamite tablets of Iran",
+ "system": "WRT",
+ "place": "Susa and other sites, Iran",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "One of the world's earliest scripts, used briefly in Iran before Elamite cuneiform, has still not been completely deciphered.",
+ "why": "It is one of humanity's first experiments with writing, and we still cannot read it.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "writing",
+  "undeciphered",
+  "Elam"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Proto-Elamite",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ },
+ "kind": "open",
+ "question": "What do the Proto-Elamite tablets of early Iran actually say?",
+ "evidence": "Tablets come mainly from Susa, with others from Tepe Sofalin, Tepe Yahya and Tepe Sialk; the script was in use only a few centuries.",
+ "wouldSettle": "More tablets, especially longer or bilingual texts, allowing signs to be tied to sounds or words.",
+ "theories": []
+}

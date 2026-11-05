@@ -1,0 +1,29 @@
+{
+ "id": "HC-GOV-C1804-01",
+ "year": 1804,
+ "yearEnd": null,
+ "dateLabel": "1804",
+ "title": "Sokoto Caliphate founded",
+ "system": "GOV",
+ "place": "Northern Nigeria",
+ "region": "Africa",
+ "figures": [
+  "Usman dan Fodio"
+ ],
+ "summary": "Islamic scholar Usman dan Fodio led a jihad that created a large state in what is now northern Nigeria.",
+ "why": "One of 19th-century Africa's largest states.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Sokoto_Caliphate",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Place: source says Sokoto city was founded by Muhammed Bello in 1809; in 1804 dan Fodio's base was Gudu. 'Sokoto' did not exist at the 1804 founding.",
+    "evidence": "https://en.wikipedia.org/wiki/Sokoto_Caliphate"
+   }
+  ]
+ }
+}

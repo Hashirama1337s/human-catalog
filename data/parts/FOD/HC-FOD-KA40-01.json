@@ -1,0 +1,45 @@
+{
+ "id": "HC-FOD-KA40-01",
+ "year": -38050,
+ "yearEnd": -15550,
+ "dateLabel": "c. 40,000–17,500 years ago",
+ "title": "Where and when dogs were first domesticated",
+ "system": "FOD",
+ "place": "Eurasia (location unknown)",
+ "region": "Global",
+ "figures": [],
+ "summary": "There is no firm consensus on the timing or location of dog domestication; Central Asia, East Asia, Western Europe and Siberia have all been proposed.",
+ "why": "The dog partnership is older than farming, yet its birthplace is unknown.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "domestication",
+  "dogs",
+  "animals"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Domestication_of_the_dog",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ },
+ "kind": "open",
+ "question": "Where and when were wolves first turned into dogs?",
+ "evidence": "Dogs split from modern wolves 20,000–40,000 years ago; earliest undisputed dog about 17,500 years ago; disputed remains to about 36,000.",
+ "wouldSettle": "Ancient genomes from early dog and wolf remains pinning the source population and date.",
+ "theories": [
+  {
+   "name": "Siberian origin",
+   "idea": "Domestication began in Siberia 26,000–19,700 years ago, though no remains have been found yet."
+  },
+  {
+   "name": "East Asian origin",
+   "idea": "A mitochondrial study places an initial phase about 33,000 years ago in China or Southeast Asia."
+  },
+  {
+   "name": "Western European origin",
+   "idea": "Among the most plausible proposals, alongside Central and East Asia."
+  }
+ ]
+}

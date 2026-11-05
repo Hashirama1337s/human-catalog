@@ -1,0 +1,24 @@
+{
+ "id": "HC-WAR-C1066-01",
+ "year": 1066,
+ "yearEnd": null,
+ "dateLabel": "14 October 1066",
+ "title": "Battle of Hastings",
+ "system": "WAR",
+ "place": "Near Hastings, England",
+ "region": "Europe",
+ "figures": [
+  "William the Conqueror",
+  "Harold Godwinson"
+ ],
+ "summary": "William, Duke of Normandy, defeated King Harold of England.",
+ "why": "Began the Norman Conquest of England.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Battle_of_Hastings",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

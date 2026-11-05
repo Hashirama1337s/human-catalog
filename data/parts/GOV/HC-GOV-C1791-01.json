@@ -1,0 +1,24 @@
+{
+ "id": "HC-GOV-C1791-01",
+ "year": 1791,
+ "yearEnd": 1804,
+ "dateLabel": "1791-1804",
+ "title": "Haitian Revolution",
+ "system": "GOV",
+ "place": "Saint-Domingue (Haiti)",
+ "region": "North America",
+ "figures": [
+  "Toussaint Louverture",
+  "Jean-Jacques Dessalines"
+ ],
+ "summary": "Enslaved people in the French colony of Saint-Domingue rose up, abolished slavery and founded independent Haiti.",
+ "why": "One of the only slave rebellions in history that founded a state.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Haitian_Revolution",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

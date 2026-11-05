@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1923-01",
+ "year": 1923,
+ "yearEnd": null,
+ "dateLabel": "1923",
+ "title": "Republic of Turkey founded",
+ "system": "GOV",
+ "place": "Ankara, Turkey",
+ "region": "West Asia",
+ "figures": [
+  "Mustafa Kemal Atatürk"
+ ],
+ "summary": "After the fall of the Ottoman Empire, Mustafa Kemal Atatürk founded the Turkish Republic.",
+ "why": "Created a secular nation-state from an empire.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

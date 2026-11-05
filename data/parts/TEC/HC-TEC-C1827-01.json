@@ -1,0 +1,23 @@
+{
+ "id": "HC-TEC-C1827-01",
+ "year": 1827,
+ "yearEnd": null,
+ "dateLabel": "c. 1827",
+ "title": "Oldest surviving camera photograph",
+ "system": "TEC",
+ "place": "Saint-Loup-de-Varennes, France",
+ "region": "Europe",
+ "figures": [
+  "Nicéphore Niépce"
+ ],
+ "summary": "Nicéphore Niépce captured the view from his window on a treated metal plate, needing a very long exposure.",
+ "why": "The birth of photography.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/View_from_the_Window_at_Le_Gras",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

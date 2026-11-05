@@ -1,0 +1,29 @@
+{
+ "id": "HC-GOV-C1633-01",
+ "year": 1633,
+ "yearEnd": 1639,
+ "dateLabel": "1633-1639",
+ "title": "Japan restricts foreign contact (sakoku)",
+ "system": "GOV",
+ "place": "Edo (Tokyo), Japan",
+ "region": "East Asia",
+ "figures": [
+  "Tokugawa Iemitsu"
+ ],
+ "summary": "Shogun Tokugawa Iemitsu issued edicts that sharply limited foreign trade and travel; few foreigners could enter.",
+ "why": "Foreign contact ran through a few channels, like the Dutch at Dejima, until after 1853.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Sakoku",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Title/why overstate isolation: source says Japan 'was not completely isolated'; some scholars challenge the closed-country view and prefer 'kaikin'.",
+    "evidence": "https://en.wikipedia.org/wiki/Sakoku"
+   }
+  ]
+ }
+}

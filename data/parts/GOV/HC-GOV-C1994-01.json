@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1994-01",
+ "year": 1994,
+ "yearEnd": null,
+ "dateLabel": "1994",
+ "title": "Mandela elected; apartheid ends",
+ "system": "GOV",
+ "place": "South Africa",
+ "region": "Africa",
+ "figures": [
+  "Nelson Mandela"
+ ],
+ "summary": "South Africa held its first elections open to all races; Nelson Mandela became president.",
+ "why": "Ended white-minority rule.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Nelson_Mandela",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

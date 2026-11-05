@@ -1,0 +1,21 @@
+{
+ "id": "HC-RCL-C1315-01",
+ "year": 1315,
+ "yearEnd": 1317,
+ "dateLabel": "1315-1317",
+ "title": "Great Famine in Europe",
+ "system": "RCL",
+ "place": "Northern Europe",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Bad weather from spring 1315 caused crop failures across most of Europe for several years, with widespread loss of life.",
+ "why": "Ended two centuries of growth and began Europe's 14th-century crises.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Great_Famine_of_1315%E2%80%931317",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

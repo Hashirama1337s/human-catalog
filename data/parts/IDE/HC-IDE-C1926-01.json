@@ -1,0 +1,24 @@
+{
+ "id": "HC-IDE-C1926-01",
+ "year": 1926,
+ "yearEnd": null,
+ "dateLabel": "1926",
+ "title": "Caodaism founded",
+ "system": "IDE",
+ "place": "Tay Ninh, Vietnam",
+ "region": "Southeast Asia",
+ "figures": [
+  "Ngo Van Chieu",
+  "Pham Cong Tac"
+ ],
+ "summary": "Caodaism was officially established in Tay Ninh in 1926, growing from a Saigon spiritualist club. It blends Confucian ethics, Taoist practice, Buddhist karma and a Catholic-style hierarchy, holding that all religions share one source.",
+ "why": "A new 20th-century religion with millions of followers in Vietnam.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Caodaism",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

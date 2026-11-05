@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-KA14-01",
+ "year": -12500,
+ "yearEnd": -9500,
+ "dateLabel": "c. 12,500-9500 BCE",
+ "title": "Natufian settled life before farming",
+ "system": "GOV",
+ "place": "The Levant",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "The Natufian culture supports sedentary or semi-sedentary communities before agriculture.",
+ "why": "People settled down first; farming followed.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Natufian_culture",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

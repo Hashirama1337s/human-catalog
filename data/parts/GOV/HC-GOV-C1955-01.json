@@ -1,0 +1,30 @@
+{
+ "id": "HC-GOV-C1955-01",
+ "year": 1955,
+ "yearEnd": null,
+ "dateLabel": "1955",
+ "title": "Bandung Conference",
+ "system": "GOV",
+ "place": "Bandung, Indonesia",
+ "region": "Southeast Asia",
+ "figures": [
+  "Sukarno",
+  "Jawaharlal Nehru"
+ ],
+ "summary": "Leaders of newly independent Asian and African states met.",
+ "why": "A step toward the later Non-Aligned Movement.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Bandung_Conference",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Gave rise to' overclaims; source: 'a step towards the eventual creation of the Non-Aligned Movement'.",
+    "evidence": "https://en.wikipedia.org/wiki/Bandung_Conference"
+   }
+  ]
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "id": "HC-ART-C900-01",
+ "year": 900,
+ "yearEnd": 1150,
+ "dateLabel": "900-1150 CE",
+ "title": "Chaco Canyon great houses",
+ "system": "ART",
+ "place": "Chaco Canyon, New Mexico, United States",
+ "region": "North America",
+ "figures": [],
+ "summary": "Ancestral Puebloans built multi-storey great houses such as Pueblo Bonito, with at least 650 rooms.",
+ "why": "The scale of Pueblo Bonito rivalled that of the Colosseum.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Chaco_Culture_National_Historical_Park",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

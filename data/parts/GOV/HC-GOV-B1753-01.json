@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-B1753-01",
+ "year": -1753,
+ "yearEnd": null,
+ "dateLabel": "c. 1753 BCE",
+ "title": "Code of Hammurabi",
+ "system": "GOV",
+ "place": "Babylon, Iraq",
+ "region": "West Asia",
+ "figures": [
+  "Hammurabi"
+ ],
+ "summary": "King Hammurabi of Babylon had his laws carved on a 2.25 m basalt stele, written as 'if... then' rules covering crime, family, property and trade.",
+ "why": "One of the best-known ancient law codes; copied and studied by scribes for over a thousand years.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Code_of_Hammurabi",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

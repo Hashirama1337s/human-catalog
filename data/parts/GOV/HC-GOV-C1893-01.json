@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1893-01",
+ "year": 1893,
+ "yearEnd": null,
+ "dateLabel": "1893",
+ "title": "New Zealand women win the vote",
+ "system": "GOV",
+ "place": "New Zealand",
+ "region": "Oceania",
+ "figures": [
+  "Kate Sheppard"
+ ],
+ "summary": "New Zealand became the first self-governing country where women could vote in national elections.",
+ "why": "A milestone for women's suffrage worldwide.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Women%27s_suffrage_in_New_Zealand",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

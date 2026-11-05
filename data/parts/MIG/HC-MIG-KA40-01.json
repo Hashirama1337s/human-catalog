@@ -1,0 +1,21 @@
+{
+ "id": "HC-MIG-KA40-01",
+ "year": -38050,
+ "yearEnd": null,
+ "dateLabel": "c. 40,000 years ago",
+ "title": "Tianyuan Man, early modern human in China",
+ "system": "MIG",
+ "place": "Tianyuan Cave, China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Remains of an early modern human found in China, dated to about 40,000 years ago.",
+ "why": "Anchors when modern humans were established in East Asia.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Early_human_migrations",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

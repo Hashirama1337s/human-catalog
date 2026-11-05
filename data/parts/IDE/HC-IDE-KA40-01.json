@@ -1,0 +1,23 @@
+{
+ "id": "HC-IDE-KA40-01",
+ "year": -38050,
+ "yearEnd": -18050,
+ "dateLabel": "c. 40,000-20,000 years ago",
+ "title": "Oldest known ritual cremation",
+ "system": "IDE",
+ "place": "Lake Mungo, Australia",
+ "region": "Oceania",
+ "figures": [
+  "Mungo Lady"
+ ],
+ "summary": "The remains of Mungo Lady were cremated, the oldest known ritual cremation.",
+ "why": "Complex funeral practice in Australia's deep past.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

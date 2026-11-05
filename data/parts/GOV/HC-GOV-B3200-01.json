@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-B3200-01",
+ "year": -3200,
+ "yearEnd": null,
+ "dateLabel": "c. 3200 BCE",
+ "title": "Norte Chico (Caral-Supe) civilisation",
+ "system": "GOV",
+ "place": "Coast of Peru",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "The Norte Chico or Caral-Supe civilisation begins on the Peruvian coast.",
+ "why": "An early complex society in the Americas, far from Old World centres.",
+ "interchange": [
+  "Uruk in Mesopotamia; early Egypt"
+ ],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

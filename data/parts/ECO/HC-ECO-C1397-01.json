@@ -1,0 +1,21 @@
+{
+ "id": "HC-ECO-C1397-01",
+ "year": 1397,
+ "yearEnd": 1494,
+ "dateLabel": "1397-1494",
+ "title": "Medici Bank",
+ "system": "ECO",
+ "place": "Florence, Italy",
+ "region": "Europe",
+ "figures": [],
+ "summary": "The Medici family founded a bank that became the largest and most respected in Europe.",
+ "why": "Its wealth gave the Medici political power in Florence and beyond.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Medici_Bank",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

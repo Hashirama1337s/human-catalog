@@ -1,0 +1,29 @@
+{
+ "id": "HC-SCI-C1928-01",
+ "year": 1928,
+ "yearEnd": null,
+ "dateLabel": "1928",
+ "title": "Raman effect discovered",
+ "system": "SCI",
+ "place": "Calcutta (Kolkata), India",
+ "region": "South Asia",
+ "figures": [
+  "C. V. Raman"
+ ],
+ "summary": "C. V. Raman found that light scattering off molecules changes colour slightly.",
+ "why": "Made Raman the first Asian to win a Nobel Prize in Physics.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/C._V._Raman",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Source says 'first Asian and non-White person to receive a Nobel Prize in Physics', not first in all sciences.",
+    "evidence": "https://en.wikipedia.org/wiki/C._V._Raman"
+   }
+  ]
+ }
+}

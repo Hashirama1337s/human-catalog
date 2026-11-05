@@ -1,0 +1,29 @@
+{
+ "id": "HC-TEC-C100-01",
+ "year": 100,
+ "yearEnd": 200,
+ "dateLabel": "1st or 2nd century CE",
+ "title": "Hero's aeolipile steam engine",
+ "system": "TEC",
+ "place": "Alexandria, Egypt",
+ "region": "Africa",
+ "figures": [
+  "Hero of Alexandria"
+ ],
+ "summary": "Hero described a spinning ball driven by jets of steam, and a windwheel.",
+ "why": "Often called the first recorded steam engine, though Vitruvius mentioned an aeolipile earlier.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Hero_of_Alexandria",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Unqualified 'first'; source notes Vitruvius described the aeolipile, presumably before Hero.",
+    "evidence": "https://en.wikipedia.org/wiki/Hero_of_Alexandria"
+   }
+  ]
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "id": "HC-RCL-KA13-02",
+ "year": -10950,
+ "yearEnd": -9750,
+ "dateLabel": "c. 12,900-11,700 years ago",
+ "title": "Younger Dryas cold snap",
+ "system": "RCL",
+ "place": "Northern Hemisphere",
+ "region": "Global",
+ "figures": [],
+ "summary": "Temperatures fall abruptly within decades, then warm sharply about 1,200 years later. Its role in starting farming is debated.",
+ "why": "May have pushed Natufians to change how they lived; it ended in the Holocene.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Younger_Dryas",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

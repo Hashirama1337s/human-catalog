@@ -1,0 +1,29 @@
+{
+ "id": "HC-WRT-C1526-01",
+ "year": 1526,
+ "yearEnd": null,
+ "dateLabel": "1526",
+ "title": "Afonso I of Kongo protests illegal enslavement",
+ "system": "WRT",
+ "place": "Kingdom of Kongo (present-day Angola and DR Congo)",
+ "region": "Africa",
+ "figures": [
+  "Afonso I of Kongo"
+ ],
+ "summary": "Kongo's Christian king Afonso I wrote to the King of Portugal that traders kidnapped his people every day, even nobles' sons and his own family. He demanded Kongolese law be obeyed and set up a board to regulate trade.",
+ "why": "A written African voice from inside the early slave trade, protesting the enslavement of free Kongolese.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Afonso_I_of_Kongo",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Overclaim: source says Afonso protested illegal enslavement of freeborn Kongolese and set up a board to regulate the trade; 'asked that Kongo not become a slave-trade hub' is not in the source.",
+    "evidence": "https://en.wikipedia.org/wiki/Afonso_I_of_Kongo"
+   }
+  ]
+ }
+}

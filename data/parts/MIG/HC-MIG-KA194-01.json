@@ -1,0 +1,35 @@
+{
+ "id": "HC-MIG-KA194-01",
+ "year": -192050,
+ "yearEnd": -175050,
+ "dateLabel": "c. 194,000-177,000 years ago",
+ "title": "Modern humans reach the Levant (Misliya)",
+ "system": "MIG",
+ "place": "Misliya Cave, Israel",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "A jawbone from Misliya Cave shows modern humans in West Asia far earlier than once thought.",
+ "why": "One of the earliest steps out of Africa by our species.",
+ "interchange": [],
+ "supersedes": "",
+ "route": [
+  [
+   9.0,
+   39.0
+  ],
+  [
+   30.0,
+   32.5
+  ],
+  [
+   32.7,
+   35.0
+  ]
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

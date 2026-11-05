@@ -1,0 +1,30 @@
+{
+ "id": "HC-WRT-C1947-01",
+ "year": 1947,
+ "yearEnd": null,
+ "dateLabel": "1947",
+ "title": "Anne Frank's diary published",
+ "system": "WRT",
+ "place": "Amsterdam, Netherlands",
+ "region": "Europe",
+ "figures": [
+  "Anne Frank",
+  "Otto Frank"
+ ],
+ "summary": "Anne Frank kept a diary from June 1942, mostly while hiding from the Nazis in Amsterdam, until 1 August 1944. Her father Otto edited it, and it was published in 1947 as Het Achterhuis.",
+ "why": "Translated into more than 70 languages, it gave the Holocaust a single young voice.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/The_Diary_of_a_Young_Girl",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "She began the diary on 12 June 1942, before the family went into hiding; last entry 1 August 1944.",
+    "evidence": "https://en.wikipedia.org/wiki/The_Diary_of_a_Young_Girl"
+   }
+  ]
+ }
+}

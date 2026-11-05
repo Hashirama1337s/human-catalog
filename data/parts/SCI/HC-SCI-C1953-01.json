@@ -1,0 +1,28 @@
+{
+ "id": "HC-SCI-C1953-01",
+ "year": 1953,
+ "yearEnd": null,
+ "dateLabel": "April 1953",
+ "title": "Double-helix structure of DNA",
+ "system": "SCI",
+ "place": "Cambridge and London, UK",
+ "region": "Europe",
+ "figures": [
+  "Rosalind Franklin",
+  "James Watson",
+  "Francis Crick"
+ ],
+ "summary": "Watson and Crick published the double-helix model in Nature, built using X-ray data including Rosalind Franklin and Raymond Gosling's 'Photo 51'. Watson, Crick and Maurice Wilkins shared the 1962 Nobel.",
+ "why": "Showed how DNA copies itself and stores information.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Nucleic_acid_double_helix",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

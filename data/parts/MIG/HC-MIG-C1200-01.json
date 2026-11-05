@@ -1,0 +1,31 @@
+{
+ "id": "HC-MIG-C1200-01",
+ "year": 1200,
+ "yearEnd": null,
+ "dateLabel": "c. 1200 CE",
+ "title": "Polynesians and Native Americans meet",
+ "system": "MIG",
+ "place": "Eastern Polynesia; Native American group related to Colombia's peoples",
+ "region": "Oceania",
+ "figures": [],
+ "summary": "Genomes of 807 people (2020) show a single contact around 1200 CE between Polynesians and a Native American group most closely related to Indigenous people of present-day Colombia, centuries before Europeans.",
+ "why": "The Americas and Polynesia met long before Columbus.",
+ "interchange": [],
+ "supersedes": "",
+ "route": [
+  [
+   4.0,
+   -77.5
+  ],
+  [
+   -9.8,
+   -139.0
+  ]
+ ],
+ "confidence": "established",
+ "source": "https://pubmed.ncbi.nlm.nih.gov/32641827/",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "HC-TEC-C868-01",
+ "year": 868,
+ "yearEnd": null,
+ "dateLabel": "868 CE",
+ "title": "Diamond Sutra: oldest dated printed book",
+ "system": "TEC",
+ "place": "Dunhuang, China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "A woodblock-printed copy of the Diamond Sutra was found among the Dunhuang manuscripts.",
+ "why": "Broadly considered the oldest surviving dated printed book.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "printing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Diamond_Sutra",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

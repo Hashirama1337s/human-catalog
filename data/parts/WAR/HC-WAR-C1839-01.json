@@ -1,0 +1,31 @@
+{
+ "id": "HC-WAR-C1839-01",
+ "year": 1839,
+ "yearEnd": 1842,
+ "dateLabel": "1839-1842",
+ "title": "First Opium War",
+ "system": "WAR",
+ "place": "Coastal China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Britain went to war after China tried to stop the opium trade; China lost and ceded Hong Kong Island.",
+ "why": "Later seen by Chinese nationalists as the start of a 'century of humiliation'.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/First_Opium_War",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Place too narrow: infobox location is 'China'; war ended with the Treaty of Nanking imposed at Nanjing (east-central China), not only the south.",
+    "evidence": "https://en.wikipedia.org/wiki/First_Opium_War"
+   },
+   {
+    "problem": "Source: 'Twentieth-century nationalists considered 1839 the start of a century of humiliation'; treaty ceded Hong Kong Island.",
+    "evidence": "https://en.wikipedia.org/wiki/First_Opium_War"
+   }
+  ]
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-C1011-01",
+ "year": 1011,
+ "yearEnd": 1021,
+ "dateLabel": "1011-1021 CE",
+ "title": "Ibn al-Haytham's Book of Optics",
+ "system": "SCI",
+ "place": "Cairo, Egypt",
+ "region": "Africa",
+ "figures": [
+  "Ibn al-Haytham"
+ ],
+ "summary": "Ibn al-Haytham used experiments to show that light enters the eye from objects.",
+ "why": "A milestone in experimental science; he is called the father of modern optics.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ibn_al-Haytham",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "id": "HC-FOD-C1567-01",
+ "year": 1567,
+ "yearEnd": null,
+ "dateLabel": "1567",
+ "title": "Potato reaches Europe",
+ "system": "FOD",
+ "place": "Las Palmas, Canary Islands, Spain",
+ "region": "Europe",
+ "figures": [],
+ "summary": "A delivery receipt of 28 November 1567, for potatoes shipped from Las Palmas in the Canary Islands to Antwerp, is the first written mention of the potato. Mainland Spain likely received it around 1570.",
+ "why": "The Andean potato gave about three times the calories per acre of grain and changed Europe's population.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/History_of_the_potato",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source says 'first written mention of the potato' (not 'in Europe'); the record is a Canaries-to-Antwerp shipment.",
+    "evidence": "https://en.wikipedia.org/wiki/History_of_the_potato"
+   }
+  ]
+ }
+}

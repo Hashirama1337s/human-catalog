@@ -1,0 +1,23 @@
+{
+ "id": "HC-WAR-C1071-01",
+ "year": 1071,
+ "yearEnd": null,
+ "dateLabel": "26 August 1071",
+ "title": "Battle of Manzikert",
+ "system": "WAR",
+ "place": "Malazgirt, eastern Turkey",
+ "region": "West Asia",
+ "figures": [
+  "Romanos IV Diogenes"
+ ],
+ "summary": "The Seljuk Turks routed a Byzantine army and captured its emperor.",
+ "why": "Opened Anatolia to Turkish settlement.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Battle_of_Manzikert",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

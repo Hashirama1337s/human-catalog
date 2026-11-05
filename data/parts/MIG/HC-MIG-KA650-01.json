@@ -1,0 +1,24 @@
+{
+ "id": "HC-MIG-KA650-01",
+ "year": -648050,
+ "yearEnd": null,
+ "dateLabel": "c. 765,000-550,000 years ago (estimates vary)",
+ "title": "Our line splits from Neanderthal-Denisovan ancestors",
+ "system": "MIG",
+ "place": "Location unknown (genetic estimate)",
+ "region": "Global",
+ "figures": [],
+ "summary": "Comparing ancient and modern genomes, geneticists estimate that the ancestors of modern humans and the shared ancestors of Neanderthals and Denisovans became separate populations somewhere around 765,000-550,000 years ago. Different methods give different dates.",
+ "why": "This is the deepest branch point between us and our closest extinct relatives.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Neanderthal_genetics",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

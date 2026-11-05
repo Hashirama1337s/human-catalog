@@ -1,0 +1,23 @@
+{
+ "id": "HC-FOD-C760-01",
+ "year": 760,
+ "yearEnd": 762,
+ "dateLabel": "760-762 CE",
+ "title": "Lu Yu's Classic of Tea",
+ "system": "FOD",
+ "place": "Tang China",
+ "region": "East Asia",
+ "figures": [
+  "Lu Yu"
+ ],
+ "summary": "Lu Yu wrote about growing, preparing and drinking tea.",
+ "why": "The first known book devoted to tea, now a global drink.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/The_Classic_of_Tea",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "HC-WAR-B1274-01",
+ "year": -1274,
+ "yearEnd": null,
+ "dateLabel": "May 1274 BCE",
+ "title": "Battle of Kadesh",
+ "system": "WAR",
+ "place": "Kadesh, on the Orontes River, Syria",
+ "region": "West Asia",
+ "figures": [
+  "Ramesses II",
+  "Muwatalli II"
+ ],
+ "summary": "Ramesses II of Egypt fought the Hittite king Muwatalli II near the stronghold of Kadesh.",
+ "why": "The earliest pitched battle in recorded history whose tactics and formations are known in detail.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Battle_of_Kadesh",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "HC-MIG-B100-01",
+ "year": -100,
+ "yearEnd": 550,
+ "dateLabel": "c. 100 BCE – 550 CE",
+ "title": "Who lived in Teotihuacan, and what did they speak?",
+ "system": "MIG",
+ "place": "Valley of Mexico",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "The ethnicity of Teotihuacan's inhabitants is debated, and the predominant language or languages used there have been lost to history.",
+ "why": "The largest city of the early Americas left no readable record of the language its people spoke.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "languages",
+  "Mesoamerica",
+  "cities"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Teotihuacan",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "'No known name for its own people' is not in the source; 'no single dominant people' overstates; source says multi-ethnic presence is 'clear'.",
+    "evidence": "https://en.wikipedia.org/wiki/Teotihuacan"
+   }
+  ]
+ },
+ "kind": "open",
+ "question": "What people built Teotihuacan, and what language did they speak?",
+ "evidence": "Founded about 100 BCE, peaking about 450 CE; candidates include Nahuas, Otomi and Totonac; some scholars argue it was multi-ethnic.",
+ "wouldSettle": "Readable inscriptions, or ancient DNA from city burials linked to modern language communities.",
+ "theories": [
+  {
+   "name": "Nahua (early Nahuatl)",
+   "idea": "The builders spoke an early form of Nahuatl, plausible but unconfirmed."
+  },
+  {
+   "name": "Totonac or Otomi",
+   "idea": "Early Totonac or Otomi speakers formed the core population."
+  },
+  {
+   "name": "Multi-ethnic city",
+   "idea": "Several ethnic groups shared the city, with no single dominant people."
+  }
+ ]
+}

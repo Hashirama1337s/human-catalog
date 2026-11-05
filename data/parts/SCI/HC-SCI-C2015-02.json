@@ -1,0 +1,24 @@
+{
+ "id": "HC-SCI-C2015-02",
+ "year": 2015,
+ "yearEnd": null,
+ "dateLabel": "June 2015",
+ "title": "Kennewick Man genome: Native American",
+ "system": "SCI",
+ "place": "Kennewick, Washington, United States",
+ "region": "North America",
+ "figures": [],
+ "summary": "Found in 1996 and about 8,500 years old, Kennewick Man's genome falls within Native American diversity, close to Pacific Northwest peoples. He was reburied by Columbia Basin tribes in 2017.",
+ "why": "DNA confirmed his ties to Native American peoples.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Kennewick_Man",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

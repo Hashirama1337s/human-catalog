@@ -1,0 +1,41 @@
+{
+ "id": "HC-MIG-KA32-01",
+ "year": -30050,
+ "yearEnd": null,
+ "dateLabel": "c. 32,000 years ago",
+ "title": "Humans above the Arctic Circle (Yana)",
+ "system": "MIG",
+ "place": "Yana River, Siberia, Russia",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "The Yana site, about 32,000 years old, is among the earliest evidence of people living north of the Arctic Circle, with perhaps the earliest clear evidence of mammoth hunting.",
+ "why": "Shows humans could survive the high Arctic in the Ice Age.",
+ "interchange": [],
+ "supersedes": "",
+ "route": [
+  [
+   52.0,
+   104.0
+  ],
+  [
+   62.0,
+   129.7
+  ],
+  [
+   70.7,
+   135.4
+  ]
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Yana_Rhinoceros_Horn_Site",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Disputed 'earliest': the catalog's own migration source says humans 'reached sites in Arctic Russia by 40,000 years ago'; Yana page hedges mammoth hunting ('perhaps').",
+    "evidence": "https://en.wikipedia.org/wiki/Early_human_migrations"
+   }
+  ]
+ }
+}

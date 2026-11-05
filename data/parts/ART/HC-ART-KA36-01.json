@@ -1,0 +1,21 @@
+{
+ "id": "HC-ART-KA36-01",
+ "year": -34550,
+ "yearEnd": -28050,
+ "dateLabel": "c. 36,500-30,000 years ago",
+ "title": "Chauvet Cave paintings",
+ "system": "ART",
+ "place": "Vallon-Pont-d'Arc, Ardèche, France",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Hundreds of animal paintings, including lions, rhinos, bears and hyenas, cover the cave's walls.",
+ "why": "Shows mature, skilled painting very early in Europe.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Chauvet_Cave",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "HC-WRT-C1799-01",
+ "year": 1799,
+ "yearEnd": null,
+ "dateLabel": "1799",
+ "title": "Rosetta Stone found",
+ "system": "WRT",
+ "place": "Rashid (Rosetta), Egypt",
+ "region": "Africa",
+ "figures": [],
+ "summary": "French soldiers in Egypt found a stone carrying the same decree in hieroglyphs, Demotic and Greek.",
+ "why": "The key to reading Egyptian hieroglyphs.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "writing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

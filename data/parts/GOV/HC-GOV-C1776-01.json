@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1776-01",
+ "year": 1776,
+ "yearEnd": null,
+ "dateLabel": "1776",
+ "title": "US Declaration of Independence",
+ "system": "GOV",
+ "place": "Philadelphia, United States",
+ "region": "North America",
+ "figures": [
+  "Thomas Jefferson"
+ ],
+ "summary": "Thirteen British colonies declared themselves independent, stating that all men are created equal.",
+ "why": "Founded the United States and inspired later independence movements.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

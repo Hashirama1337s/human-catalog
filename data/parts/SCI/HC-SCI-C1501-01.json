@@ -1,0 +1,32 @@
+{
+ "id": "HC-SCI-C1501-01",
+ "year": 1501,
+ "yearEnd": null,
+ "dateLabel": "1501",
+ "title": "Tantrasamgraha astronomy treatise",
+ "system": "SCI",
+ "place": "Kerala, India",
+ "region": "South Asia",
+ "figures": [
+  "Nilakantha Somayaji"
+ ],
+ "summary": "Nilakantha Somayaji of the Kerala school of astronomy and mathematics completed a 432-verse Sanskrit treatise on astronomy.",
+ "why": "Its planetary model resembled Tycho Brahe's later system, and some of its equations stayed the most accurate until Kepler.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "astronomy"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Tantrasamgraha",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Advanced mathematics centuries before similar European results' is not in the source; it only compares the model to Tycho's system and an equation to Kepler.",
+    "evidence": "https://en.wikipedia.org/wiki/Tantrasamgraha"
+   }
+  ]
+ }
+}

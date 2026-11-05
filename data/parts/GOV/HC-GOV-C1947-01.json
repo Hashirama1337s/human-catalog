@@ -1,0 +1,24 @@
+{
+ "id": "HC-GOV-C1947-01",
+ "year": 1947,
+ "yearEnd": null,
+ "dateLabel": "1947",
+ "title": "Independence and Partition of India",
+ "system": "GOV",
+ "place": "India and Pakistan",
+ "region": "South Asia",
+ "figures": [
+  "Jawaharlal Nehru",
+  "Muhammad Ali Jinnah"
+ ],
+ "summary": "British rule ended and India and Pakistan became independent; partition caused mass migration and violence.",
+ "why": "Displaced 12 to 20 million people and created two new nations.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Partition_of_India",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

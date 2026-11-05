@@ -1,0 +1,32 @@
+{
+ "id": "HC-TRN-C1500-01",
+ "year": 1500,
+ "yearEnd": null,
+ "dateLabel": "1500",
+ "title": "Portuguese fleet reaches Brazil",
+ "system": "TRN",
+ "place": "Cabrália Bay (near Porto Seguro), Bahia, Brazil",
+ "region": "Central & South America",
+ "figures": [
+  "Pedro Álvares Cabral"
+ ],
+ "summary": "A Portuguese fleet sailing for India swung far west across the Atlantic and landed on the coast of what is now Brazil.",
+ "why": "Began Portugal's claim to Brazil, which is why Brazilians speak Portuguese today.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "seafaring"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Pedro_%C3%81lvares_Cabral",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "anchorage was Cabrália Bay, not the modern city",
+    "evidence": "https://en.wikipedia.org/wiki/Pedro_%C3%81lvares_Cabral"
+   }
+  ]
+ }
+}

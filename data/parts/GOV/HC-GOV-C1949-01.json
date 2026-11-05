@@ -1,0 +1,29 @@
+{
+ "id": "HC-GOV-C1949-01",
+ "year": 1949,
+ "yearEnd": null,
+ "dateLabel": "1949",
+ "title": "People's Republic of China founded",
+ "system": "GOV",
+ "place": "Beijing, China",
+ "region": "East Asia",
+ "figures": [
+  "Mao Zedong"
+ ],
+ "summary": "After a civil war, Mao Zedong proclaimed the People's Republic of China.",
+ "why": "Brought Communist rule to what was then the world's most populous country.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/China",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Present tense contradicts source: China 'is the world's second-most populous country after India'.",
+    "evidence": "https://en.wikipedia.org/wiki/China"
+   }
+  ]
+ }
+}

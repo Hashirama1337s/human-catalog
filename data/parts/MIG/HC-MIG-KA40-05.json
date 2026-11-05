@@ -1,0 +1,49 @@
+{
+ "id": "HC-MIG-KA40-05",
+ "year": -38050,
+ "yearEnd": null,
+ "dateLabel": "c. 40,000 years ago",
+ "title": "Why the Neanderthals vanished",
+ "system": "MIG",
+ "place": "Europe and West Asia",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Neanderthals disappeared around 40,000 years ago, perhaps later in Iberia. The cause is not settled; multiple factors likely hit an already small population.",
+ "why": "They were our closest relatives; their end tells us what gave modern humans the edge, or luck.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "Neanderthals",
+  "extinction",
+  "archaic humans"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Neanderthal_extinction",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ },
+ "kind": "open",
+ "question": "Why did the Neanderthals die out about 40,000 years ago?",
+ "evidence": "Extinction about 40,000 years ago; possible Iberian survival to about 35,000 disputed; overlap with modern humans, interbreeding, and cold dry phases all documented.",
+ "wouldSettle": "Finely dated regional records showing which pressure coincided with each local disappearance.",
+ "theories": [
+  {
+   "name": "Replacement by modern humans",
+   "idea": "A more efficient incoming population out-competed them for resources."
+  },
+  {
+   "name": "Climate swings",
+   "idea": "Cold, dry periods shrank their habitats and populations."
+  },
+  {
+   "name": "Small-population problems",
+   "idea": "Inbreeding in small isolated groups and dilution through interbreeding eroded populations."
+  },
+  {
+   "name": "Disease from newcomers",
+   "idea": "Modern humans brought diseases against which Neanderthals had no immunity."
+  }
+ ]
+}

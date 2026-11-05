@@ -1,0 +1,45 @@
+{
+ "id": "HC-RCL-C1200-01",
+ "year": 1200,
+ "yearEnd": 1431,
+ "dateLabel": "13th century – 1431 CE",
+ "title": "Why Angkor declined",
+ "system": "RCL",
+ "place": "Angkor, Cambodia",
+ "region": "Southeast Asia",
+ "figures": [],
+ "summary": "Angkor was already declining in the 13th and 14th centuries before Ayutthaya sacked it in 1431, but the main cause of its decline is unknown.",
+ "why": "A vast water-managed city fell, a case of how climate and politics interact.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "collapse",
+  "Khmer",
+  "climate"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Angkor",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ },
+ "kind": "open",
+ "question": "What caused the decline of the Khmer capital of Angkor?",
+ "evidence": "Decline in the 13th–14th centuries; sacked by Ayutthaya about 1431; irrigation works neglected; drought and monsoon shifts documented.",
+ "wouldSettle": "Dated records showing whether climate stress, war or religious change came first.",
+ "theories": [
+  {
+   "name": "War with Ayutthaya",
+   "idea": "Prolonged wars with Ayutthaya and rival factions drained the kingdom."
+  },
+  {
+   "name": "Religious change",
+   "idea": "The shift to Theravada Buddhism weakened the royal cult."
+  },
+  {
+   "name": "Water system failure",
+   "idea": "Neglected irrigation and droughts or monsoon shifts undermined rice farming."
+  }
+ ]
+}

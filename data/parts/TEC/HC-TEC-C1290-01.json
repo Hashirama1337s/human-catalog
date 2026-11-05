@@ -1,0 +1,21 @@
+{
+ "id": "HC-TEC-C1290-01",
+ "year": 1290,
+ "yearEnd": null,
+ "dateLabel": "c. 1290",
+ "title": "Eyeglasses invented",
+ "system": "TEC",
+ "place": "Pisa or Florence, Italy",
+ "region": "Europe",
+ "figures": [],
+ "summary": "The first glasses were probably made in central Italy, most likely in Pisa or Florence, by about 1290.",
+ "why": "The ancestor of all corrective eyewear.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Glasses",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

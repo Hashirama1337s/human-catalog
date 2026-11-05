@@ -1,0 +1,21 @@
+{
+ "id": "HC-TEC-C1543-01",
+ "year": 1543,
+ "yearEnd": null,
+ "dateLabel": "1543",
+ "title": "Firearms arrive in Japan",
+ "system": "TEC",
+ "place": "Tanegashima, Japan",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Portuguese traders landing on Tanegashima island brought matchlock guns, which Japanese smiths soon copied in large numbers.",
+ "why": "Guns changed Japanese warfare and helped the country's reunification.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Tanegashima_(gun)",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

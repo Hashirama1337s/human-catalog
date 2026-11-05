@@ -1,0 +1,26 @@
+{
+ "id": "HC-MED-C1854-01",
+ "year": 1854,
+ "yearEnd": null,
+ "dateLabel": "1854",
+ "title": "Snow traces cholera to a water pump",
+ "system": "MED",
+ "place": "London, England",
+ "region": "Europe",
+ "figures": [
+  "John Snow"
+ ],
+ "summary": "John Snow mapped cholera deaths in Soho and linked them to one contaminated public water pump.",
+ "why": "A founding moment of epidemiology.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "epidemics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

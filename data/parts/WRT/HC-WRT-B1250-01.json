@@ -1,0 +1,34 @@
+{
+ "id": "HC-WRT-B1250-01",
+ "year": -1250,
+ "yearEnd": -1197,
+ "dateLabel": "c. 1250 BCE",
+ "title": "Chinese oracle bone script",
+ "system": "WRT",
+ "place": "Yinxu (Anyang), China",
+ "region": "East Asia",
+ "figures": [
+  "Wu Ding"
+ ],
+ "summary": "Late Shang diviners carved questions and answers on ox bones and turtle shells; inscriptions from King Wu Ding's reign are radiocarbon dated to 1254-1197 BCE.",
+ "why": "The oldest attested Chinese writing, direct ancestor of characters used today.",
+ "interchange": [
+  "Four independent inventions of writing are most commonly recognised: Mesopotamia (c. 3400-3100 BCE), Egypt (c. 3250 BCE, still debated), China and Mesoamerica"
+ ],
+ "supersedes": "",
+ "tags": [
+  "writing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Oracle_bone_script",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Interchange says writing was invented 'at least four times' incl. Egypt; History of writing: four are 'most commonly recognized' and 'no definitive determination has been made as to the origin of hieroglyphics' (era-A 123 is marked debated).",
+    "evidence": "https://en.wikipedia.org/wiki/History_of_writing"
+   }
+  ]
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "id": "HC-ART-C850-01",
+ "year": 850,
+ "yearEnd": null,
+ "dateLabel": "9th century CE",
+ "title": "Borobudur",
+ "system": "ART",
+ "place": "Central Java, Indonesia",
+ "region": "Southeast Asia",
+ "figures": [],
+ "summary": "A huge Buddhist temple of nine stacked platforms decorated with 2,672 relief panels and 504 Buddha statues.",
+ "why": "A great monument of Mahayana Buddhism in Southeast Asia.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Borobudur",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

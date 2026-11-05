@@ -1,0 +1,26 @@
+{
+ "id": "HC-TRN-C1961-01",
+ "year": 1961,
+ "yearEnd": null,
+ "dateLabel": "1961",
+ "title": "Gagarin, first human in space",
+ "system": "TRN",
+ "place": "Baikonur, Kazakhstan",
+ "region": "Central Asia",
+ "figures": [
+  "Yuri Gagarin"
+ ],
+ "summary": "Yuri Gagarin became the first human to orbit the Earth.",
+ "why": "Opened human spaceflight.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "astronomy"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Vostok_1",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "id": "HC-RCL-B1600-01",
+ "year": -1600,
+ "yearEnd": null,
+ "dateLabel": "c. 1600 BCE",
+ "title": "Minoan eruption of Thera",
+ "system": "RCL",
+ "place": "Thera (Santorini), Greece",
+ "region": "Europe",
+ "figures": [],
+ "summary": "One of the largest volcanic eruptions in human history destroyed the Minoan town of Akrotiri and sent earthquakes and tsunamis toward Crete.",
+ "why": "Its ash layer is a key time-marker for dating sites across the eastern Mediterranean.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Minoan_eruption",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

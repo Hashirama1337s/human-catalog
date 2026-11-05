@@ -1,0 +1,21 @@
+{
+ "id": "HC-TEC-KA320-01",
+ "year": -318050,
+ "yearEnd": -303050,
+ "dateLabel": "c. 320,000-305,000 years ago",
+ "title": "Carried over: long-distance stone trade",
+ "system": "TEC",
+ "place": "Olorgesailie, southern Kenya",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Toolmaking improves and stone is moved over long distances at Olorgesailie, around the time our species appears.",
+ "why": "Early sign of networks linking groups across a landscape.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

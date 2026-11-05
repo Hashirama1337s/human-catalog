@@ -1,0 +1,23 @@
+{
+ "id": "HC-IDE-C30-01",
+ "year": 30,
+ "yearEnd": 33,
+ "dateLabel": "c. 30 or 33 CE",
+ "title": "Crucifixion of Jesus",
+ "system": "IDE",
+ "place": "Judaea (Roman province)",
+ "region": "West Asia",
+ "figures": [
+  "Jesus"
+ ],
+ "summary": "Jesus, a Jewish preacher, was put to death by crucifixion under Roman rule; his followers founded Christianity.",
+ "why": "Christianity became the world's largest religion.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Crucifixion_of_Jesus",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "id": "HC-SCI-C429-01",
+ "year": 429,
+ "yearEnd": 500,
+ "dateLabel": "lived 429-500 CE",
+ "title": "Zu Chongzhi calculates pi",
+ "system": "SCI",
+ "place": "Southern China",
+ "region": "East Asia",
+ "figures": [
+  "Zu Chongzhi"
+ ],
+ "summary": "The astronomer Zu Chongzhi showed that pi lies between 3.1415926 and 3.1415927.",
+ "why": "A record precision not surpassed for nearly 900 years.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "astronomy"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Zu_Chongzhi",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

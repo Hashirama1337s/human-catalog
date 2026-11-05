@@ -1,0 +1,29 @@
+{
+ "id": "HC-GOV-C1884-01",
+ "year": 1884,
+ "yearEnd": 1885,
+ "dateLabel": "1884-1885",
+ "title": "Berlin Conference sets rules for colonising Africa",
+ "system": "GOV",
+ "place": "Berlin, Germany",
+ "region": "Africa",
+ "figures": [
+  "Otto von Bismarck"
+ ],
+ "summary": "European colonial powers met to agree rules for claiming territory in Africa.",
+ "why": "Formalised the Scramble for Africa.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Berlin_Conference",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Title claims more than summary/source: source says it regulated colonisation, set no new colonies, fixed only Congo-region borders; scholars 'warn against overstating its role in the colonial partitioning'.",
+    "evidence": "https://en.wikipedia.org/wiki/Berlin_Conference"
+   }
+  ]
+ }
+}

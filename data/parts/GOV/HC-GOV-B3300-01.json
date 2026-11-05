@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-B3300-01",
+ "year": -3300,
+ "yearEnd": -2300,
+ "dateLabel": "c. 3300-2300 BCE",
+ "title": "Liangzhu culture",
+ "system": "GOV",
+ "place": "Lower Yangtze, Zhejiang, China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Liangzhu builds a walled city with flood-control works and ritual jades. Its ruins are World Heritage listed.",
+ "why": "An early complex society in China with major water engineering.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Liangzhu_culture",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

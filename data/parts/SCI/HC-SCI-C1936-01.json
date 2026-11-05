@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-C1936-01",
+ "year": 1936,
+ "yearEnd": null,
+ "dateLabel": "1936",
+ "title": "Turing's universal machine",
+ "system": "SCI",
+ "place": "Cambridge, England",
+ "region": "Europe",
+ "figures": [
+  "Alan Turing"
+ ],
+ "summary": "Alan Turing described an imaginary machine that could perform any calculation.",
+ "why": "The theoretical basis of computers.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Turing_machine",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

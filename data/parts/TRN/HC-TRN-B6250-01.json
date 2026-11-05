@@ -1,0 +1,30 @@
+{
+ "id": "HC-TRN-B6250-01",
+ "year": -6250,
+ "yearEnd": null,
+ "dateLabel": "c. 6250 BCE",
+ "title": "Dufuna canoe",
+ "system": "TRN",
+ "place": "Dufuna, Yobe State, Nigeria",
+ "region": "Africa",
+ "figures": [],
+ "summary": "A dugout canoe, the oldest known boat in Africa and the world's second-oldest.",
+ "why": "Early water travel in inland Africa.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "seafaring"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Dufuna_canoe",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Pesse canoe is a ranking comparison, not shown to be an independent invention.",
+    "evidence": "https://en.wikipedia.org/wiki/Dufuna_canoe"
+   }
+  ]
+ }
+}

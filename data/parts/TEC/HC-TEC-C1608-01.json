@@ -1,0 +1,32 @@
+{
+ "id": "HC-TEC-C1608-01",
+ "year": 1608,
+ "yearEnd": null,
+ "dateLabel": "1608",
+ "title": "Telescope patent sought",
+ "system": "TEC",
+ "place": "Middelburg, Netherlands",
+ "region": "Europe",
+ "figures": [
+  "Hans Lippershey"
+ ],
+ "summary": "Spectacle-maker Hans Lippershey applied for a patent on a device that made distant things look closer.",
+ "why": "Opened the skies to close study and launched telescopic astronomy.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "astronomy"
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/History_of_the_telescope",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "spelling mismatch Lipperhey/Lippershey",
+    "evidence": "https://en.wikipedia.org/wiki/History_of_the_telescope"
+   }
+  ]
+ }
+}

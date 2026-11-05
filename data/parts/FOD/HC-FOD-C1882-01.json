@@ -1,0 +1,21 @@
+{
+ "id": "HC-FOD-C1882-01",
+ "year": 1882,
+ "yearEnd": null,
+ "dateLabel": "1882",
+ "title": "Dunedin carries frozen meat to Britain",
+ "system": "FOD",
+ "place": "New Zealand to London, England",
+ "region": "Oceania",
+ "figures": [],
+ "summary": "The sailing ship Dunedin left New Zealand on 15 February 1882 with thousands of frozen mutton and lamb carcasses and reached London 98 days later: the first full refrigerated meat cargo from New Zealand to England.",
+ "why": "Showed meat could cross the world frozen, linking New Zealand farms to British tables.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Dunedin_(1874_ship)",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

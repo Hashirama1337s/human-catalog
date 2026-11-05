@@ -1,0 +1,27 @@
+{
+ "id": "HC-MED-C850-01",
+ "year": 850,
+ "yearEnd": null,
+ "dateLabel": "9th century CE",
+ "title": "Schola Medica Salernitana",
+ "system": "MED",
+ "place": "Salerno, Italy",
+ "region": "Europe",
+ "figures": [],
+ "summary": "A medical school using Greek and Arabic medical texts.",
+ "why": "The first and most important medical school of medieval Western Europe.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Schola_Medica_Salernitana",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Unqualified 'first' conflicts with earlier Gundeshapur and bimaristan teaching; source frames its primacy in Western Europe.",
+    "evidence": "https://en.wikipedia.org/wiki/Schola_Medica_Salernitana ; https://en.wikipedia.org/wiki/Bimaristan"
+   }
+  ]
+ }
+}

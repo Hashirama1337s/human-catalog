@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1603-01",
+ "year": 1603,
+ "yearEnd": 1868,
+ "dateLabel": "1603-1868",
+ "title": "Tokugawa shogunate",
+ "system": "GOV",
+ "place": "Edo (Tokyo), Japan",
+ "region": "East Asia",
+ "figures": [
+  "Tokugawa Ieyasu"
+ ],
+ "summary": "After winning the Battle of Sekigahara, Tokugawa Ieyasu set up a military government that ruled Japan from Edo for over 260 years.",
+ "why": "The Edo period shaped Japanese culture and cities.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Tokugawa_shogunate",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

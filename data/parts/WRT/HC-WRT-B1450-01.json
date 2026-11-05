@@ -1,0 +1,24 @@
+{
+ "id": "HC-WRT-B1450-01",
+ "year": -1450,
+ "yearEnd": -1200,
+ "dateLabel": "c. 1450 BCE (earliest examples)",
+ "title": "Linear B: earliest written Greek",
+ "system": "WRT",
+ "place": "Knossos, Crete, Greece",
+ "region": "Europe",
+ "figures": [],
+ "summary": "A syllable-based script used in Mycenaean palace archives to record the earliest attested form of the Greek language.",
+ "why": "The earliest Greek writing; it disappeared in the Late Bronze Age collapse.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "writing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Linear_B",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

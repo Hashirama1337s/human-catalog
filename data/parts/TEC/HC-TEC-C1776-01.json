@@ -1,0 +1,30 @@
+{
+ "id": "HC-TEC-C1776-01",
+ "year": 1776,
+ "yearEnd": null,
+ "dateLabel": "1776",
+ "title": "Watt's improved steam engine at work",
+ "system": "TEC",
+ "place": "Bloomfield Colliery, Tipton, England",
+ "region": "Europe",
+ "figures": [
+  "James Watt",
+  "Matthew Boulton"
+ ],
+ "summary": "James Watt's engine with a separate condenser used far less fuel than Newcomen's.",
+ "why": "Powered factories and the Industrial Revolution.",
+ "interchange": [],
+ "supersedes": "Newcomen atmospheric engine",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Watt_steam_engine",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Wrong place: source says the first 1776 engines worked at Bloomfield Colliery, Tipton and Wilkinson's Broseley ironworks, not Birmingham.",
+    "evidence": "https://en.wikipedia.org/wiki/Watt_steam_engine"
+   }
+  ]
+ }
+}

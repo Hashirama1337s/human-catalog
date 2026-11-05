@@ -1,0 +1,23 @@
+{
+ "id": "HC-TRN-C609-01",
+ "year": 609,
+ "yearEnd": null,
+ "dateLabel": "609 CE",
+ "title": "Grand Canal completed by the Sui",
+ "system": "TRN",
+ "place": "Hangzhou to Luoyang, China",
+ "region": "East Asia",
+ "figures": [
+  "Emperor Yang of Sui"
+ ],
+ "summary": "Emperor Yang of Sui expanded and completed a canal network linking the rice lands of the south to the north.",
+ "why": "The longest artificial waterway in the world.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Grand_Canal_(China)",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

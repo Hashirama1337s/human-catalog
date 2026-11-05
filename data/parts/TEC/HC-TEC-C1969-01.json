@@ -1,0 +1,21 @@
+{
+ "id": "HC-TEC-C1969-01",
+ "year": 1969,
+ "yearEnd": null,
+ "dateLabel": "1969",
+ "title": "ARPANET links computers",
+ "system": "TEC",
+ "place": "California, United States",
+ "region": "North America",
+ "figures": [],
+ "summary": "ARPANET, a US government-funded computer network using packet switching, began linking university computers, including UCLA.",
+ "why": "Ancestor of the internet.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/ARPANET",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

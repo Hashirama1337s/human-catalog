@@ -1,0 +1,30 @@
+{
+ "id": "HC-MIG-KA40-02",
+ "year": -38050,
+ "yearEnd": null,
+ "dateLabel": "c. 40,000 years ago",
+ "title": "Neanderthals go extinct",
+ "system": "MIG",
+ "place": "Eurasia",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Homo neanderthalensis disappears. Part of its DNA survives in people living outside Africa today.",
+ "why": "The end of a close human relative that lived alongside our species in Eurasia.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Only surviving humans' is wrong: Denisovans 'ranged across Asia ... approximately 200,000-32,000 years ago', i.e. after 40,000.",
+    "evidence": "https://en.wikipedia.org/wiki/Denisovan"
+   }
+  ]
+ }
+}

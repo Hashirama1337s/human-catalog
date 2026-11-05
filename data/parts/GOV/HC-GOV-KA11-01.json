@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-KA11-01",
+ "year": -9500,
+ "yearEnd": null,
+ "dateLabel": "c. 9500-9000 BCE",
+ "title": "Jericho's first permanent settlement",
+ "system": "GOV",
+ "place": "Jericho, West Bank",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "People settle year-round by the spring at Jericho, one of the oldest towns in the world.",
+ "why": "An early step from camp to town.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Jericho",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

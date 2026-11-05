@@ -1,0 +1,24 @@
+{
+ "id": "HC-MIG-B1600-01",
+ "year": -1600,
+ "yearEnd": -500,
+ "dateLabel": "c. 1600-500 BCE",
+ "title": "Lapita voyagers settle Island Melanesia",
+ "system": "MIG",
+ "place": "Island Melanesia",
+ "region": "Oceania",
+ "figures": [],
+ "summary": "Austronesian Lapita people, known for stamped pottery with geometric designs, settled Island Melanesia by sea.",
+ "why": "Direct ancestors of the Polynesians, who later settled the whole Polynesian Triangle.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "seafaring"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Lapita_culture",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

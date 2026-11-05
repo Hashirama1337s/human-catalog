@@ -1,0 +1,26 @@
+{
+ "id": "HC-TEC-C1879-01",
+ "year": 1879,
+ "yearEnd": null,
+ "dateLabel": "1879",
+ "title": "Practical light bulb",
+ "system": "TEC",
+ "place": "Menlo Park, New Jersey, United States",
+ "region": "North America",
+ "figures": [
+  "Thomas Edison",
+  "Joseph Swan"
+ ],
+ "summary": "Thomas Edison developed a long-lasting incandescent light bulb.",
+ "why": "Electric light transformed homes and cities.",
+ "interchange": [
+  "Joseph Swan developed an incandescent bulb independently in England"
+ ],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Incandescent_light_bulb",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "HC-IDE-C1751-01",
+ "year": 1751,
+ "yearEnd": 1772,
+ "dateLabel": "1751-1772",
+ "title": "Diderot's Encyclopédie",
+ "system": "IDE",
+ "place": "Paris, France",
+ "region": "Europe",
+ "figures": [
+  "Denis Diderot",
+  "Jean le Rond d'Alembert"
+ ],
+ "summary": "A huge encyclopedia gathered knowledge of science, crafts and ideas, often challenging church and royal authority.",
+ "why": "Spread Enlightenment ideas across Europe.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Encyclop%C3%A9die",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

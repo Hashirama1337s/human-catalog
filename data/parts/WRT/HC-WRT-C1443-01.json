@@ -1,0 +1,26 @@
+{
+ "id": "HC-WRT-C1443-01",
+ "year": 1443,
+ "yearEnd": 1446,
+ "dateLabel": "1443-1446",
+ "title": "Hangul alphabet created",
+ "system": "WRT",
+ "place": "Joseon Korea",
+ "region": "East Asia",
+ "figures": [
+  "Sejong the Great"
+ ],
+ "summary": "King Sejong created a simple Korean alphabet, announced in 1443-44 and published in 1446.",
+ "why": "Made reading far easier than with Chinese characters; Korea's script today.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "writing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Hangul",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

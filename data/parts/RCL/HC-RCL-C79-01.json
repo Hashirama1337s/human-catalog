@@ -1,0 +1,21 @@
+{
+ "id": "HC-RCL-C79-01",
+ "year": 79,
+ "yearEnd": null,
+ "dateLabel": "79 CE",
+ "title": "Vesuvius buries Pompeii",
+ "system": "RCL",
+ "place": "Pompeii and Herculaneum, Italy",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Mount Vesuvius erupted, burying Roman towns under ash and hot flows of gas and rock.",
+ "why": "The buried towns preserved daily Roman life in remarkable detail.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

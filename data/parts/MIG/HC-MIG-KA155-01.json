@@ -1,0 +1,30 @@
+{
+ "id": "HC-MIG-KA155-01",
+ "year": -153050,
+ "yearEnd": null,
+ "dateLabel": "c. 230,000-100,000 years ago (estimates vary)",
+ "title": "Mitochondrial common ancestor ('Mitochondrial Eve')",
+ "system": "MIG",
+ "place": "Africa",
+ "region": "Africa",
+ "figures": [],
+ "summary": "All living people inherit mitochondrial DNA through their mothers from one woman in Africa. Estimates of her age run from about 234,000 to 99,000 years ago; as of 2013 they clustered around 155,000.",
+ "why": "She was one of many women alive then; only her maternal line happens to survive in everyone.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Mitochondrial_Eve",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'One 2013 estimate is about 160,000' not in source; source: 'As of 2013, estimates ... ranged at around 155,000 years ago' (year = 1950-155000).",
+    "evidence": "https://en.wikipedia.org/wiki/Mitochondrial_Eve"
+   }
+  ]
+ }
+}

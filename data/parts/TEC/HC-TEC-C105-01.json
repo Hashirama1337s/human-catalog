@@ -1,0 +1,32 @@
+{
+ "id": "HC-TEC-C105-01",
+ "year": 105,
+ "yearEnd": null,
+ "dateLabel": "105 CE",
+ "title": "Papermaking improved by Cai Lun",
+ "system": "TEC",
+ "place": "China (Eastern Han court)",
+ "region": "East Asia",
+ "figures": [
+  "Cai Lun"
+ ],
+ "summary": "The Han court eunuch Cai Lun is credited with the papermaking process by 105 CE; paper-like material existed in China from the 2nd century BCE.",
+ "why": "Led to large-scale manufacture and the worldwide spread of paper.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "paper"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Paper",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Tree bark and hemp' is not in the cited source.",
+    "evidence": "https://en.wikipedia.org/wiki/Paper"
+   }
+  ]
+ }
+}

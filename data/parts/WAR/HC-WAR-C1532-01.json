@@ -1,0 +1,30 @@
+{
+ "id": "HC-WAR-C1532-01",
+ "year": 1532,
+ "yearEnd": 1572,
+ "dateLabel": "1532-1572",
+ "title": "Spanish conquest of the Inca Empire",
+ "system": "WAR",
+ "place": "Cajamarca, Peru",
+ "region": "Central & South America",
+ "figures": [
+  "Francisco Pizarro",
+  "Atahualpa"
+ ],
+ "summary": "Spanish forces captured the Inca emperor Atahualpa at Cajamarca in 1532 and, over four decades, took over the largest empire in pre-Columbian America.",
+ "why": "Brought the Andes under Spanish rule.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Inca_Empire",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "largest in pre-Columbian America, not the Americas",
+    "evidence": "https://en.wikipedia.org/wiki/Inca_Empire"
+   }
+  ]
+ }
+}

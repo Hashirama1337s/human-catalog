@@ -1,0 +1,23 @@
+{
+ "id": "HC-ART-C1967-01",
+ "year": 1967,
+ "yearEnd": null,
+ "dateLabel": "1967",
+ "title": "One Hundred Years of Solitude",
+ "system": "ART",
+ "place": "Buenos Aires, Argentina",
+ "region": "Central & South America",
+ "figures": [
+  "Gabriel García Márquez"
+ ],
+ "summary": "Colombian writer Gabriel García Márquez published his multi-generational story of the Buendía family.",
+ "why": "A landmark of magical realism.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

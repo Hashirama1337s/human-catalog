@@ -1,0 +1,23 @@
+{
+ "id": "HC-ART-C1918-01",
+ "year": 1918,
+ "yearEnd": null,
+ "dateLabel": "1918",
+ "title": "Lu Xun's A Madman's Diary",
+ "system": "ART",
+ "place": "Beijing, China",
+ "region": "East Asia",
+ "figures": [
+  "Lu Xun"
+ ],
+ "summary": "Lu Xun published a short story in everyday spoken Chinese criticising traditional society.",
+ "why": "A landmark of modern Chinese literature.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Diary_of_a_Madman_(Lu_Xun_short_story)",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

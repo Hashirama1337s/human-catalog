@@ -1,0 +1,21 @@
+{
+ "id": "HC-RCL-B4300-01",
+ "year": -4300,
+ "yearEnd": null,
+ "dateLabel": "c. 4300 BCE",
+ "title": "Akahoya eruption",
+ "system": "RCL",
+ "place": "Kikai Caldera, Japan",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "A huge eruption from the Kikai Caldera ends the early homogeneous Jōmon culture.",
+ "why": "A volcanic shock that reshaped prehistoric Japan.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

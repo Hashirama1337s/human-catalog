@@ -1,0 +1,25 @@
+{
+ "id": "HC-TRN-C1969-01",
+ "year": 1969,
+ "yearEnd": null,
+ "dateLabel": "1969",
+ "title": "Apollo 11 Moon landing",
+ "system": "TRN",
+ "place": "Sea of Tranquility, the Moon",
+ "region": "Global",
+ "figures": [
+  "Neil Armstrong",
+  "Buzz Aldrin",
+  "Michael Collins"
+ ],
+ "summary": "Neil Armstrong and Buzz Aldrin became the first humans to walk on the Moon.",
+ "why": "First humans on another world.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Apollo_11",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

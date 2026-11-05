@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-C1368-01",
+ "year": 1368,
+ "yearEnd": 1644,
+ "dateLabel": "1368-1644",
+ "title": "Ming dynasty",
+ "system": "GOV",
+ "place": "China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "The Ming took power after the collapse of the Mongol-led Yuan dynasty.",
+ "why": "The last imperial dynasty of China ruled by the Han people.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ming_dynasty",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

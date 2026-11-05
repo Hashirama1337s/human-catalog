@@ -1,0 +1,23 @@
+{
+ "id": "HC-TEC-C1989-01",
+ "year": 1989,
+ "yearEnd": null,
+ "dateLabel": "1989",
+ "title": "World Wide Web proposed",
+ "system": "TEC",
+ "place": "CERN, Geneva, Switzerland",
+ "region": "Europe",
+ "figures": [
+  "Tim Berners-Lee"
+ ],
+ "summary": "Tim Berners-Lee proposed a system of linked documents on the internet.",
+ "why": "Made the internet usable for everyone.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/World_Wide_Web",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "id": "HC-SCI-C1902-01",
+ "year": 1902,
+ "yearEnd": 1903,
+ "dateLabel": "1902-1903",
+ "title": "Chromosomes carry heredity (Boveri-Sutton)",
+ "system": "SCI",
+ "place": "USA and Germany",
+ "region": "Global",
+ "figures": [
+  "Walter Sutton",
+  "Theodor Boveri"
+ ],
+ "summary": "Working on grasshoppers and sea urchins, Walter Sutton and Theodor Boveri independently concluded that chromosomes carry inherited traits. Thomas Hunt Morgan's fruit-fly work around 1915 gave decisive evidence.",
+ "why": "Located Mendel's invisible 'factors' inside the cell.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Boveri%E2%80%93Sutton_chromosome_theory",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

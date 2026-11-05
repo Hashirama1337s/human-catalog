@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1901-01",
+ "year": 1901,
+ "yearEnd": null,
+ "dateLabel": "1901",
+ "title": "Federation of Australia",
+ "system": "GOV",
+ "place": "Australia",
+ "region": "Oceania",
+ "figures": [
+  "Edmund Barton"
+ ],
+ "summary": "On 1 January 1901 six self-governing British colonies united as the Commonwealth of Australia, with Edmund Barton as first prime minister.",
+ "why": "Created the Australian nation-state.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Federation_of_Australia",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

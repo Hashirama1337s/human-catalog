@@ -1,0 +1,24 @@
+{
+ "id": "HC-RCL-C1855-01",
+ "year": 1855,
+ "yearEnd": 1960,
+ "dateLabel": "1855-1960",
+ "title": "Third plague pandemic",
+ "system": "RCL",
+ "place": "Yunnan, China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Bubonic plague spread from Yunnan to all inhabited continents, causing at least 15 million deaths, most of them in India.",
+ "why": "One of the deadliest plague outbreaks in history.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "epidemics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Third_plague_pandemic",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

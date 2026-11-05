@@ -1,0 +1,21 @@
+{
+ "id": "HC-WAR-C2001-01",
+ "year": 2001,
+ "yearEnd": null,
+ "dateLabel": "2001",
+ "title": "September 11 attacks",
+ "system": "WAR",
+ "place": "New York and Washington, D.C., United States",
+ "region": "North America",
+ "figures": [],
+ "summary": "Al-Qaeda terrorists hijacked four planes and killed nearly 3,000 people.",
+ "why": "Led to the US-led war on terror.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/September_11_attacks",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "id": "HC-MIG-C1910-01",
+ "year": 1910,
+ "yearEnd": 1970,
+ "dateLabel": "1910-1970",
+ "title": "Great Migration of Black Americans",
+ "system": "MIG",
+ "place": "Rural Southern United States to Northern and Western cities",
+ "region": "North America",
+ "figures": [],
+ "summary": "About six million Black Americans left the rural South for cities such as New York, Chicago and Detroit, escaping segregation, lynching and poverty and seeking factory jobs.",
+ "why": "Moved about six million Black Americans from Southern farms to Northern and Western cities.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Great_Migration_(African_American)",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

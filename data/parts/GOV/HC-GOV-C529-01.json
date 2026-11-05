@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C529-01",
+ "year": 529,
+ "yearEnd": 534,
+ "dateLabel": "529-534 CE",
+ "title": "Justinian's Code of civil law",
+ "system": "GOV",
+ "place": "Constantinople (Istanbul), Turkey",
+ "region": "Europe",
+ "figures": [
+  "Justinian I"
+ ],
+ "summary": "Emperor Justinian had Roman law collected into a Code, a Digest of legal writings and a textbook.",
+ "why": "Brought Roman imperial law and legal writings together in one body of law.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Corpus_Juris_Civilis",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

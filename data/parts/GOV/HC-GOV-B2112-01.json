@@ -1,0 +1,26 @@
+{
+ "id": "HC-GOV-B2112-01",
+ "year": -2112,
+ "yearEnd": -2095,
+ "dateLabel": "c. 2100 BCE (reign of Ur-Nammu, 2112-2095 BCE)",
+ "title": "Code of Ur-Nammu: oldest surviving law code",
+ "system": "GOV",
+ "place": "Ur, Iraq",
+ "region": "West Asia",
+ "figures": [
+  "Ur-Nammu"
+ ],
+ "summary": "Sumerian laws credited to King Ur-Nammu of Ur, written on clay tablets. They include concern for widows, orphans and the poor.",
+ "why": "The oldest known surviving written law code, about three centuries before Hammurabi.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "law codes"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Code_of_Ur-Nammu",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-C1895-01",
+ "year": 1895,
+ "yearEnd": null,
+ "dateLabel": "1895",
+ "title": "X-rays discovered",
+ "system": "SCI",
+ "place": "Würzburg, Germany",
+ "region": "Europe",
+ "figures": [
+  "Wilhelm Röntgen"
+ ],
+ "summary": "Wilhelm Röntgen found invisible rays that pass through flesh and show bones.",
+ "why": "Transformed medicine and physics.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

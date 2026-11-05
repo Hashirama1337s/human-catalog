@@ -1,0 +1,26 @@
+{
+ "id": "HC-SCI-C2010-02",
+ "year": 2010,
+ "yearEnd": null,
+ "dateLabel": "March 2010",
+ "title": "Denisovans discovered from a finger bone",
+ "system": "SCI",
+ "place": "Denisova Cave, Altai Mountains, Russia",
+ "region": "Central Asia",
+ "figures": [
+  "Svante Pääbo"
+ ],
+ "summary": "DNA from a finger bone in a Siberian cave revealed an unknown extinct human group, the Denisovans, identified from genes before scientists had a skull to look at.",
+ "why": "A new branch of the human family identified from DNA rather than bone shape.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Svante_P%C3%A4%C3%A4bo",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

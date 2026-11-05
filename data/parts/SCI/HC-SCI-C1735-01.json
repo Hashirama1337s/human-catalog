@@ -1,0 +1,29 @@
+{
+ "id": "HC-SCI-C1735-01",
+ "year": 1735,
+ "yearEnd": null,
+ "dateLabel": "1735",
+ "title": "Linnaeus's Systema Naturae",
+ "system": "SCI",
+ "place": "Leiden, Netherlands",
+ "region": "Europe",
+ "figures": [
+  "Carl Linnaeus"
+ ],
+ "summary": "Carl Linnaeus published a system for classifying living things; a later edition gave species two-part Latin names.",
+ "why": "Still the basis of how scientists name species.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Systema_Naturae",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Every species' overclaims; source: the 10th edition 'introduced two-part names'.",
+    "evidence": "https://en.wikipedia.org/wiki/Systema_Naturae"
+   }
+  ]
+ }
+}

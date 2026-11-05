@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-B276-01",
+ "year": -276,
+ "yearEnd": -194,
+ "dateLabel": "3rd century BCE (lived c. 276-194 BCE)",
+ "title": "Eratosthenes measures the Earth",
+ "system": "SCI",
+ "place": "Alexandria, Egypt",
+ "region": "Africa",
+ "figures": [
+  "Eratosthenes"
+ ],
+ "summary": "Eratosthenes, chief librarian at Alexandria, calculated the Earth's circumference and its axial tilt.",
+ "why": "The first known calculation of the size of the Earth; he also coined the word 'geography'.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Eratosthenes",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

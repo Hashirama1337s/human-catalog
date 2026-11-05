@@ -1,0 +1,23 @@
+{
+ "id": "HC-IDE-B550-01",
+ "year": -550,
+ "yearEnd": null,
+ "dateLabel": "first recorded mid-6th century BCE",
+ "title": "Zoroastrianism recorded",
+ "system": "IDE",
+ "place": "Iran",
+ "region": "West Asia",
+ "figures": [
+  "Zoroaster"
+ ],
+ "summary": "Teachings of Zoroaster about one wise creator god, Ahura Mazda, became the official religion of successive Iranian empires.",
+ "why": "One of the world's oldest organised faiths; its origins may reach back to the 2nd millennium BCE.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Zoroastrianism",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

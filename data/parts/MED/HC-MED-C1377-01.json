@@ -1,0 +1,30 @@
+{
+ "id": "HC-MED-C1377-01",
+ "year": 1377,
+ "yearEnd": null,
+ "dateLabel": "1377",
+ "title": "Ragusa orders 30-day plague isolation",
+ "system": "MED",
+ "place": "Ragusa (Dubrovnik), Croatia",
+ "region": "Europe",
+ "figures": [],
+ "summary": "During the plague, the Republic of Ragusa first imposed a thirty-day isolation on arrivals; the later forty-day rule gave quarantine its name.",
+ "why": "Forerunner of the forty-day quarantine, still a key tool against epidemics.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "epidemics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Quarantine",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Title claims the first quarantine; source lists earlier isolation (Leviticus, early Islamic leprosy quarantine, Venice 1348) and dates the 40-day term to 1448.",
+    "evidence": "https://en.wikipedia.org/wiki/Quarantine"
+   }
+  ]
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "HC-IDE-C1142-01",
+ "year": 1142,
+ "yearEnd": 1151,
+ "dateLabel": "1142-1151",
+ "title": "Hildegard of Bingen writes Scivias",
+ "system": "IDE",
+ "place": "Germany",
+ "region": "Europe",
+ "figures": [
+  "Hildegard of Bingen"
+ ],
+ "summary": "Benedictine abbess Hildegard of Bingen composed Scivias (Know the Ways), the first of her three great visionary works, and also founded two monasteries. In 2012 she was named a Doctor of the Church.",
+ "why": "A medieval woman polymath, named a Doctor of the Church in 2012.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Hildegard_of_Bingen",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

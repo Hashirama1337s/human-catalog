@@ -1,0 +1,23 @@
+{
+ "id": "HC-ART-C1113-01",
+ "year": 1113,
+ "yearEnd": 1150,
+ "dateLabel": "1113-1150 CE",
+ "title": "Angkor Wat",
+ "system": "ART",
+ "place": "Angkor, Siem Reap, Cambodia",
+ "region": "Southeast Asia",
+ "figures": [
+  "Suryavarman II"
+ ],
+ "summary": "King Suryavarman II built a vast temple to Vishnu that later became Buddhist.",
+ "why": "The largest religious complex in the world.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Angkor_Wat",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

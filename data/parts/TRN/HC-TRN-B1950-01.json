@@ -1,0 +1,30 @@
+{
+ "id": "HC-TRN-B1950-01",
+ "year": -1950,
+ "yearEnd": -1880,
+ "dateLabel": "c. 1950-1880 BCE",
+ "title": "Earliest known chariots",
+ "system": "TRN",
+ "place": "Sintashta culture, Chelyabinsk Oblast, Russia",
+ "region": "Central Asia",
+ "figures": [],
+ "summary": "The oldest known chariots, light two-wheeled horse vehicles with spoked wheels, come from Sintashta culture burials on the Eurasian steppe. Some specialists class these finds as carts, not true chariots.",
+ "why": "Light spoked wheels made fast horse-drawn vehicles possible.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "wheels"
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Chariot",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Disputed 'oldest' claim marked established; source: 'Littauer and Crouwel (1996) and Raulwing and Burmeister (2012) disagree that the Sintashta culture vehicle finds are true chariots, but rather classed as carts.'",
+    "evidence": "https://en.wikipedia.org/wiki/Chariot"
+   }
+  ]
+ }
+}

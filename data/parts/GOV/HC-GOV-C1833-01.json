@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-C1833-01",
+ "year": 1833,
+ "yearEnd": null,
+ "dateLabel": "1833",
+ "title": "Slavery Abolition Act",
+ "system": "GOV",
+ "place": "London, England",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Britain's Parliament abolished slavery in most of the British Empire.",
+ "why": "Freed hundreds of thousands of enslaved people across the empire.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Slavery_Abolition_Act_1833",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

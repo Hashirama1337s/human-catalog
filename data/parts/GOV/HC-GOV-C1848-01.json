@@ -1,0 +1,24 @@
+{
+ "id": "HC-GOV-C1848-01",
+ "year": 1848,
+ "yearEnd": null,
+ "dateLabel": "1848",
+ "title": "Seneca Falls Convention",
+ "system": "GOV",
+ "place": "Seneca Falls, New York, United States",
+ "region": "North America",
+ "figures": [
+  "Elizabeth Cady Stanton",
+  "Lucretia Mott"
+ ],
+ "summary": "On 19-20 July 1848, about 300 people met at the Wesleyan Chapel. One hundred signed the Declaration of Sentiments, drafted by Elizabeth Cady Stanton and local Quaker women, demanding rights for women.",
+ "why": "Called the first women's rights convention.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Seneca_Falls_Convention",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

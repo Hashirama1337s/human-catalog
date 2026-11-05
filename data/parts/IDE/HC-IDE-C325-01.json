@@ -1,0 +1,23 @@
+{
+ "id": "HC-IDE-C325-01",
+ "year": 325,
+ "yearEnd": null,
+ "dateLabel": "325 CE",
+ "title": "First Council of Nicaea",
+ "system": "IDE",
+ "place": "Nicaea (Iznik), Turkey",
+ "region": "West Asia",
+ "figures": [
+  "Constantine I"
+ ],
+ "summary": "Constantine called at least 200 bishops to settle disputes over Christian belief.",
+ "why": "The first attempt to reach agreement across the whole Church.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/First_Council_of_Nicaea",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

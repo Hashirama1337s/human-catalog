@@ -1,0 +1,30 @@
+{
+ "id": "HC-ART-B2100-02",
+ "year": -2100,
+ "yearEnd": null,
+ "dateLabel": "21st century BCE",
+ "title": "Great Ziggurat of Ur",
+ "system": "ART",
+ "place": "Ur, near Nasiriyah, Iraq",
+ "region": "West Asia",
+ "figures": [
+  "Ur-Nammu",
+  "Shulgi"
+ ],
+ "summary": "King Ur-Nammu began a huge stepped temple tower to the moon god Nanna, estimated at over 30 m tall, at the heart of Ur; his son Shulgi completed it.",
+ "why": "A landmark of Sumerian temple building under the Third Dynasty of Ur.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ziggurat_of_Ur",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Source calls the 30 m height speculative and says Shulgi finished the building.",
+    "evidence": "https://en.wikipedia.org/wiki/Ziggurat_of_Ur"
+   }
+  ]
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "HC-FOD-C1909-01",
+ "year": 1909,
+ "yearEnd": null,
+ "dateLabel": "1909",
+ "title": "Haber process makes ammonia",
+ "system": "FOD",
+ "place": "Karlsruhe, Germany",
+ "region": "Europe",
+ "figures": [
+  "Fritz Haber",
+  "Carl Bosch"
+ ],
+ "summary": "Fritz Haber made ammonia from nitrogen in the air; Carl Bosch scaled it up.",
+ "why": "Synthetic fertiliser now helps feed billions.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Haber_process",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

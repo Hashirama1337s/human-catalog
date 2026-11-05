@@ -1,0 +1,24 @@
+{
+ "id": "HC-WAR-C1757-01",
+ "year": 1757,
+ "yearEnd": null,
+ "dateLabel": "1757",
+ "title": "Battle of Plassey",
+ "system": "WAR",
+ "place": "Palashi, India",
+ "region": "South Asia",
+ "figures": [
+  "Robert Clive",
+  "Siraj ud-Daulah"
+ ],
+ "summary": "East India Company troops under Robert Clive defeated the Nawab of Bengal.",
+ "why": "Began British company rule in India.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Battle_of_Plassey",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

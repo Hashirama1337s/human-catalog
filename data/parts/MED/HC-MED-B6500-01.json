@@ -1,0 +1,27 @@
+{
+ "id": "HC-MED-B6500-01",
+ "year": -6500,
+ "yearEnd": null,
+ "dateLabel": "c. 6500 BCE",
+ "title": "Trepanation (skull surgery)",
+ "system": "MED",
+ "place": "France",
+ "region": "Europe",
+ "figures": [],
+ "summary": "At one French burial site, 40 of 120 skulls have holes cut in them; many trepanned skulls show healing, so patients survived.",
+ "why": "Among the oldest known surgical procedures; a 31,000-year-old amputation from Borneo is older.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Trepanning",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Perhaps the oldest surgical procedure' contradicts this catalog's own 31,000-year-old Borneo amputation record (PMC9477728).",
+    "evidence": "https://en.wikipedia.org/wiki/Trepanning"
+   }
+  ]
+ }
+}

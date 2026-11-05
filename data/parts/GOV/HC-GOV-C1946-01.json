@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1946-01",
+ "year": 1946,
+ "yearEnd": null,
+ "dateLabel": "1946",
+ "title": "Philippines becomes independent",
+ "system": "GOV",
+ "place": "Manila, Philippines",
+ "region": "Southeast Asia",
+ "figures": [
+  "Manuel Roxas"
+ ],
+ "summary": "In the Treaty of Manila, signed on 4 July 1946, the United States gave up sovereignty over the Philippines and recognised the Republic of the Philippines as independent.",
+ "why": "The United States gave up its colony in Asia by treaty.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Treaty_of_Manila_(1946)",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "HC-WRT-C1404-01",
+ "year": 1404,
+ "yearEnd": 1438,
+ "dateLabel": "vellum dated 1404–1438",
+ "title": "Unread: the Voynich manuscript",
+ "system": "WRT",
+ "place": "Europe (origin unknown)",
+ "region": "Europe",
+ "figures": [],
+ "summary": "The illustrated book remains undeciphered; its origins, authorship and purpose are still debated. Its text shares some statistical features with natural language but differs in others.",
+ "why": "A whole illustrated book on early-15th-century vellum, in an unknown script, still defeats every reader.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "writing",
+  "undeciphered",
+  "manuscripts"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Voynich_manuscript",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source reports both similarities and differences (h2 entropy about 2 vs 3-4 for languages); 'Renaissance Europe' overstates a stylistic 'may have been composed in Italy'.",
+    "evidence": "https://en.wikipedia.org/wiki/Voynich_manuscript"
+   }
+  ]
+ },
+ "kind": "open",
+ "question": "Who wrote the Voynich manuscript, and is its text a real language?",
+ "evidence": "Vellum radiocarbon dated 1404–1438; word frequencies follow Zipf's law; character sequences are more predictable than typical languages.",
+ "wouldSettle": "A verified decipherment yielding coherent text, or documents identifying its maker and method.",
+ "theories": []
+}

@@ -1,0 +1,29 @@
+{
+ "id": "HC-ECO-C1324-01",
+ "year": 1324,
+ "yearEnd": null,
+ "dateLabel": "1324-1325",
+ "title": "Mansa Musa's pilgrimage to Mecca",
+ "system": "ECO",
+ "place": "Mali to Cairo and Mecca",
+ "region": "Africa",
+ "figures": [
+  "Mansa Musa"
+ ],
+ "summary": "The ruler of Mali made the hajj with an enormous entourage; his lavish gifts of gold in Cairo are said to have lowered the value of gold in Egypt.",
+ "why": "Showed the immense wealth of the Mali Empire at its peak.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Mansa_Musa",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Source hedges the Cairo gold effect ('said to') and dates the pilgrimage 1324-1325.",
+    "evidence": "https://en.wikipedia.org/wiki/Mansa_Musa"
+   }
+  ]
+ }
+}

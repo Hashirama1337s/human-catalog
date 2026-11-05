@@ -1,0 +1,27 @@
+{
+ "id": "HC-TEC-KA12-01",
+ "year": -10000,
+ "yearEnd": null,
+ "dateLabel": "c. 10,000 BCE",
+ "title": "Boomerang (Wyrie Swamp)",
+ "system": "TEC",
+ "place": "Wyrie Swamp, South Australia",
+ "region": "Oceania",
+ "figures": [],
+ "summary": "The oldest surviving Aboriginal boomerang, found in a peat bog, dates to about 10,000 BCE.",
+ "why": "A sophisticated aerodynamic throwing tool.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Boomerang",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Oblazowa Cave item is an older find, not shown to be an independent invention; source makes no independence claim.",
+    "evidence": "https://en.wikipedia.org/wiki/Boomerang"
+   }
+  ]
+ }
+}

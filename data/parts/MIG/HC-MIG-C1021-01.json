@@ -1,0 +1,41 @@
+{
+ "id": "HC-MIG-C1021-01",
+ "year": 1021,
+ "yearEnd": null,
+ "dateLabel": "1021 CE",
+ "title": "Norse in Newfoundland (tree-ring date)",
+ "system": "MIG",
+ "place": "L'Anse aux Meadows, Newfoundland, Canada",
+ "region": "North America",
+ "figures": [],
+ "summary": "Wood from the Norse site at L'Anse aux Meadows was dated to 1021 using a known spike in radiocarbon from the year 993. It is the only confirmed Norse site in the Americas outside Greenland.",
+ "why": "The earliest exact year for Europeans in the Americas outside Greenland, 471 years before Columbus.",
+ "interchange": [],
+ "supersedes": "",
+ "route": [
+  [
+   61.0,
+   -45.5
+  ],
+  [
+   56.0,
+   -52.0
+  ],
+  [
+   51.6,
+   -55.5
+  ]
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/L%27Anse_aux_Meadows",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "'Exactly 1021' overstates (source: 'pinpointed 1021 as a date of Norse activity'); 'first secure date for Europeans in the Americas' ignores Norse Greenland, which the summary itself excludes.",
+    "evidence": "https://en.wikipedia.org/wiki/L%27Anse_aux_Meadows"
+   }
+  ]
+ }
+}

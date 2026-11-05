@@ -1,0 +1,33 @@
+{
+ "id": "HC-GOV-C830-01",
+ "year": 830,
+ "yearEnd": null,
+ "dateLabel": "830 CE (first mention of its dynasty)",
+ "title": "Ghana Empire recorded",
+ "system": "GOV",
+ "place": "Southeast Mauritania and western Mali",
+ "region": "Africa",
+ "figures": [
+  "al-Khwarizmi"
+ ],
+ "summary": "The scholar al-Khwarizmi made the first identifiable written mention of Ghana's ruling dynasty, whose kings were also called 'king of gold'.",
+ "why": "A Sahel state that grew rich on the trans-Saharan gold and salt trade.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ghana_Empire",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source: earliest mention of Ghana is a 788-93 Arabic source; 830 is first mention of the dynasty. 'First great empire' unsupported.",
+    "evidence": "https://en.wikipedia.org/wiki/Ghana_Empire"
+   },
+   {
+    "problem": "'Most powerful Sahel state of its time' is not in the source; it gives the gold/salt monopoly.",
+    "evidence": "https://en.wikipedia.org/wiki/Ghana_Empire"
+   }
+  ]
+ }
+}

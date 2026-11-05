@@ -1,0 +1,24 @@
+{
+ "id": "HC-ART-C1631-01",
+ "year": 1631,
+ "yearEnd": 1653,
+ "dateLabel": "1631-1653",
+ "title": "Taj Mahal built",
+ "system": "ART",
+ "place": "Agra, India",
+ "region": "South Asia",
+ "figures": [
+  "Shah Jahan",
+  "Mumtaz Mahal"
+ ],
+ "summary": "Mughal emperor Shah Jahan commissioned a white marble tomb for his late wife, Mumtaz Mahal.",
+ "why": "A masterpiece of Mughal architecture and a world icon.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Taj_Mahal",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

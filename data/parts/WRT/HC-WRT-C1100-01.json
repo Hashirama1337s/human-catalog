@@ -1,0 +1,49 @@
+{
+ "id": "HC-WRT-C1100-01",
+ "year": 1100,
+ "yearEnd": 1532,
+ "dateLabel": "flourished c. 1100–1532 CE",
+ "title": "Unread: what the Andean khipus say beyond numbers",
+ "system": "WRT",
+ "place": "Andes, South America",
+ "region": "Central & South America",
+ "figures": [
+  "Leslie Leland Locke",
+  "Gary Urton",
+  "Frank Salomon"
+ ],
+ "summary": "Many khipus record numbers in base-10 knots, but how non-numeric information was encoded is disputed, and some features are thought to form an undeciphered system.",
+ "why": "An empire ran on knotted cords; if they held narratives, a whole history is waiting to be read.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "writing",
+  "records",
+  "Inca"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Quipu",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ },
+ "kind": "open",
+ "question": "Did Andean knotted-cord khipus record words and stories as well as numbers?",
+ "evidence": "Just under 1,400 pre-Columbian khipus known; Locke showed base-10 positional numbers; Hyland's phonetic reading uses colonial-era cords.",
+ "wouldSettle": "A pre-conquest khipu matched to a known written text, letting non-numeric features be read and tested.",
+ "theories": [
+  {
+   "name": "Binary coding (Urton)",
+   "idea": "Cord features form a binary system that could record sounds or word-signs."
+  },
+  {
+   "name": "Meaning without sounds (Salomon)",
+   "idea": "Khipus were semasiographic: their signs carried meaning without encoding speech."
+  },
+  {
+   "name": "Phonetic reading (Hyland)",
+   "idea": "Some khipus record sounds, though her examples are colonial and may reflect European influence."
+  }
+ ]
+}

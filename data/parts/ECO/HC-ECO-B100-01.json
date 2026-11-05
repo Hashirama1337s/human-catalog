@@ -1,0 +1,27 @@
+{
+ "id": "HC-ECO-B100-01",
+ "year": -100,
+ "yearEnd": 500,
+ "dateLabel": "c. 100 BCE-500 CE",
+ "title": "Hopewell exchange network",
+ "system": "ECO",
+ "place": "Eastern Woodlands, United States",
+ "region": "North America",
+ "figures": [],
+ "summary": "Native American communities along rivers were linked by trade routes running from Lake Ontario south to Florida.",
+ "why": "Linked many separate peoples in one exchange network across the Eastern Woodlands.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Hopewell_tradition",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Continent-scale ... without cities or writing' and the Gulf of Mexico endpoint are not in source (Lake Ontario to Crystal River, Florida).",
+    "evidence": "https://en.wikipedia.org/wiki/Hopewell_tradition"
+   }
+  ]
+ }
+}

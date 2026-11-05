@@ -1,0 +1,27 @@
+{
+ "id": "HC-WRT-C1991-01",
+ "year": 1991,
+ "yearEnd": null,
+ "dateLabel": "1991",
+ "title": "Unicode 1.0 released",
+ "system": "WRT",
+ "place": "California, United States",
+ "region": "Global",
+ "figures": [],
+ "summary": "The Unicode Consortium, incorporated in California in January 1991, published Unicode 1.0 that October with 7,129 characters in 24 scripts, the first step toward one code for every writing system.",
+ "why": "A single standard designed to let text in all the world's writing systems move between computers.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Unicode",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Unicode 1.0 did not code 'every character of the world's writing systems' (24 scripts, no Han until 1.0.1; source table).",
+    "evidence": "https://en.wikipedia.org/wiki/Unicode"
+   }
+  ]
+ }
+}

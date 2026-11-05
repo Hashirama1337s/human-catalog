@@ -1,0 +1,23 @@
+{
+ "id": "HC-FOD-C1864-01",
+ "year": 1864,
+ "yearEnd": null,
+ "dateLabel": "1864",
+ "title": "Pasteur's heat treatment for wine",
+ "system": "FOD",
+ "place": "Arbois, France",
+ "region": "Europe",
+ "figures": [
+  "Louis Pasteur"
+ ],
+ "summary": "Pasteur found that briefly heating young wine to about 50-60 C killed the microbes that spoiled it. The method, pasteurization, was later applied to milk; New York City made it mandatory for milk in 1910.",
+ "why": "Gentle heating to kill microbes made milk and other foods far safer.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Pasteurization",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

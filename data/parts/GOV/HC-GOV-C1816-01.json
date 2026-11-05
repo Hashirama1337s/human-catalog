@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1816-01",
+ "year": 1816,
+ "yearEnd": 1879,
+ "dateLabel": "1816-1879",
+ "title": "Shaka builds the Zulu Kingdom",
+ "system": "GOV",
+ "place": "KwaZulu-Natal, South Africa",
+ "region": "Africa",
+ "figures": [
+  "Shaka"
+ ],
+ "summary": "From 1816 Shaka built a standing army and joined rival clans into the Zulu Kingdom through war and diplomacy. It won at Isandlwana in 1879 but fell to Britain at Ulundi that year.",
+ "why": "A southern African state that dealt the British a defeat at Isandlwana before falling.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Zulu_Kingdom",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

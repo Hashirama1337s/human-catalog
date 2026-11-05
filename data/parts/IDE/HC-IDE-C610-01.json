@@ -1,0 +1,23 @@
+{
+ "id": "HC-IDE-C610-01",
+ "year": 610,
+ "yearEnd": null,
+ "dateLabel": "c. 610 CE",
+ "title": "Muhammad's first revelation; Islam begins",
+ "system": "IDE",
+ "place": "Cave of Hira, near Mecca, Saudi Arabia",
+ "region": "West Asia",
+ "figures": [
+  "Muhammad"
+ ],
+ "summary": "Muhammad reported receiving revelations from God through the angel Gabriel, and began preaching publicly in 613.",
+ "why": "Islam became one of the world's largest religions.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Muhammad",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

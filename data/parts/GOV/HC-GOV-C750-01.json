@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-C750-01",
+ "year": 750,
+ "yearEnd": 1258,
+ "dateLabel": "750-1258 CE",
+ "title": "Abbasid Caliphate",
+ "system": "GOV",
+ "place": "Baghdad, Iraq",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "The Abbasids overthrew the Umayyads and ruled from Iraq, mostly from Baghdad.",
+ "why": "Presided over the Islamic Golden Age of science and learning.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Abbasid_Caliphate",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

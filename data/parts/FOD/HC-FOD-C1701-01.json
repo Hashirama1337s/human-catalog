@@ -1,0 +1,29 @@
+{
+ "id": "HC-FOD-C1701-01",
+ "year": 1701,
+ "yearEnd": null,
+ "dateLabel": "1701",
+ "title": "Jethro Tull's seed drill",
+ "system": "FOD",
+ "place": "Howberry, near Crowmarsh Gifford, Oxfordshire, England",
+ "region": "Europe",
+ "figures": [
+  "Jethro Tull"
+ ],
+ "summary": "Jethro Tull developed a horse-drawn seed drill that planted seeds in neat rows at the right depth.",
+ "why": "Part of the British Agricultural Revolution.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Jethro_Tull_(agriculturist)",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Wrong place: source puts his farm at Howberry near Crowmarsh Gifford, Oxfordshire; Berkshire is only his probable birthplace.",
+    "evidence": "https://en.wikipedia.org/wiki/Jethro_Tull_(agriculturist)"
+   }
+  ]
+ }
+}

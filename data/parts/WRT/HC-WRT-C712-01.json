@@ -1,0 +1,30 @@
+{
+ "id": "HC-WRT-C712-01",
+ "year": 712,
+ "yearEnd": null,
+ "dateLabel": "712 CE",
+ "title": "Kojiki: Japan's oldest surviving literary work",
+ "system": "WRT",
+ "place": "Japan",
+ "region": "East Asia",
+ "figures": [
+  "O no Yasumaro",
+  "Empress Genmei"
+ ],
+ "summary": "A chronicle of Japanese myths, legends and royal genealogies, presented to Empress Genmei in 712.",
+ "why": "Usually considered the oldest surviving literary work in Japan.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Kojiki",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source: 'usually considered the oldest extant literary work in Japan', not oldest book.",
+    "evidence": "https://en.wikipedia.org/wiki/Kojiki"
+   }
+  ]
+ }
+}

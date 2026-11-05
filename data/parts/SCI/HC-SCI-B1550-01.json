@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-B1550-01",
+ "year": -1550,
+ "yearEnd": null,
+ "dateLabel": "c. 1550 BCE",
+ "title": "Rhind Mathematical Papyrus",
+ "system": "SCI",
+ "place": "Egypt",
+ "region": "Africa",
+ "figures": [
+  "Ahmes"
+ ],
+ "summary": "The scribe Ahmes copied an older maths text from the reign of Amenemhat III, full of worked problems.",
+ "why": "The best-known window into ancient Egyptian mathematics.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Rhind_Mathematical_Papyrus",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

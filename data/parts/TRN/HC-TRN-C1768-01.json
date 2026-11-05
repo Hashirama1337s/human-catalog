@@ -1,0 +1,32 @@
+{
+ "id": "HC-TRN-C1768-01",
+ "year": 1768,
+ "yearEnd": 1771,
+ "dateLabel": "1768-1771",
+ "title": "Cook's first Pacific voyage",
+ "system": "TRN",
+ "place": "Tahiti, New Zealand and Australia",
+ "region": "Oceania",
+ "figures": [
+  "James Cook"
+ ],
+ "summary": "James Cook's ship Endeavour observed the transit of Venus at Tahiti, then charted New Zealand and Australia's east coast.",
+ "why": "Charted New Zealand and eastern Australia for Europeans; Cook claimed the east coast for Britain.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "seafaring"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/First_voyage_of_James_Cook",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "'Mapped the Pacific' overclaims a voyage that charted New Zealand and Australia's east coast.",
+    "evidence": "https://en.wikipedia.org/wiki/First_voyage_of_James_Cook"
+   }
+  ]
+ }
+}

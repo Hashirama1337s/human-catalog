@@ -1,0 +1,55 @@
+{
+ "id": "HC-IDE-KA160-01",
+ "year": -158050,
+ "yearEnd": -38050,
+ "dateLabel": "c. 160,000–40,000 years ago",
+ "title": "When modern human behaviour appeared",
+ "system": "IDE",
+ "place": "Africa and beyond",
+ "region": "Africa",
+ "figures": [
+  "Richard Klein",
+  "Sally McBrearty",
+  "Alison Brooks"
+ ],
+ "summary": "One camp sees a sudden package of modern behaviour about 40,000–50,000 years ago; the view now gaining ground is a mosaic of traits emerging gradually in Africa's Middle Stone Age.",
+ "why": "It asks when people became 'us' in mind, not just in body.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "cognition",
+  "art",
+  "symbolism"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Behavioral_modernity",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source: behavioural modernity 'is increasingly understood as a mosaic of traits that emerged gradually'; summary should show the lean.",
+    "evidence": "https://en.wikipedia.org/wiki/Behavioral_modernity"
+   }
+  ]
+ },
+ "kind": "open",
+ "question": "Did modern human behaviour, like art and symbols, appear suddenly or build up gradually?",
+ "evidence": "Ochre and shell beads dated about 70,000–160,000 years ago in Africa; symbolic items also at Neanderthal sites; full package clear by 40,000–50,000 years ago.",
+ "wouldSettle": "Securely dated symbolic artefacts showing whether traits accumulated steadily or appeared together.",
+ "theories": [
+  {
+   "name": "Upper Paleolithic Revolution",
+   "idea": "A sudden cognitive change about 50,000 years ago in Africa preceded the spread out of Africa."
+  },
+  {
+   "name": "Gradual mosaic",
+   "idea": "Modern behaviours accumulated over a long period in Africa's Middle Stone Age."
+  },
+  {
+   "name": "Shared with Neanderthals",
+   "idea": "Symbolic behaviour such as pigment use also appears among Neanderthals, so it is not unique to us."
+  }
+ ]
+}

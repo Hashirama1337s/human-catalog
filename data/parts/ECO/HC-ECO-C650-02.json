@@ -1,0 +1,29 @@
+{
+ "id": "HC-ECO-C650-02",
+ "year": 650,
+ "yearEnd": 1920,
+ "dateLabel": "7th century-1920 (East Africa estimate)",
+ "title": "Indian Ocean slave trade",
+ "system": "ECO",
+ "place": "East Africa, Southern Arabia, west coast of India and Indian Ocean islands",
+ "region": "Africa",
+ "figures": [
+  "Barghash of Zanzibar"
+ ],
+ "summary": "Enslaved people, mainly from East Africa, were shipped around the Indian Ocean to Arabia, India and island plantations. One estimate puts about 8 million taken from East Africa between the 7th century and 1920.",
+ "why": "Shows slavery and its trade routes ran across the Indian Ocean world too; Zanzibar only outlawed the trade under pressure in 1873.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Indian_Ocean_slave_trade",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "The 8 million figure is one estimate (N'Diaye and Petre-Grenouilleau), not a consensus of historians.",
+    "evidence": "https://en.wikipedia.org/wiki/Indian_Ocean_slave_trade"
+   }
+  ]
+ }
+}

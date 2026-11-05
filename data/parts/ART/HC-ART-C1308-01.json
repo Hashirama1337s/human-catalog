@@ -1,0 +1,23 @@
+{
+ "id": "HC-ART-C1308-01",
+ "year": 1308,
+ "yearEnd": 1321,
+ "dateLabel": "c. 1308-1321",
+ "title": "Dante's Divine Comedy",
+ "system": "ART",
+ "place": "Italy",
+ "region": "Europe",
+ "figures": [
+  "Dante Alighieri"
+ ],
+ "summary": "Dante's long poem takes the reader on a journey through Hell, Purgatory and Paradise.",
+ "why": "Helped make Tuscan the standard Italian language; a summit of medieval literature.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Divine_Comedy",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

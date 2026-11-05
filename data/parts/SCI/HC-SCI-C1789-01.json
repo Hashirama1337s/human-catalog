@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-C1789-01",
+ "year": 1789,
+ "yearEnd": null,
+ "dateLabel": "1789",
+ "title": "Lavoisier founds modern chemistry",
+ "system": "SCI",
+ "place": "Paris, France",
+ "region": "Europe",
+ "figures": [
+  "Antoine Lavoisier"
+ ],
+ "summary": "Lavoisier's textbook listed chemical elements and stated that mass is conserved in reactions.",
+ "why": "Turned chemistry into a modern science.",
+ "interchange": [],
+ "supersedes": "Phlogiston theory",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Antoine_Lavoisier",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "HC-TEC-C2016-01",
+ "year": 2016,
+ "yearEnd": null,
+ "dateLabel": "2016",
+ "title": "AlphaGo beats Lee Sedol",
+ "system": "TEC",
+ "place": "Seoul, South Korea",
+ "region": "East Asia",
+ "figures": [
+  "Lee Sedol"
+ ],
+ "summary": "DeepMind's AlphaGo defeated a top Go player.",
+ "why": "A milestone for AI.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/AlphaGo_versus_Lee_Sedol",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "HC-MIG-B300-01",
+ "year": -300,
+ "yearEnd": 490,
+ "dateLabel": "c. 300 BCE-500 CE (debated)",
+ "title": "Austronesians settle Madagascar",
+ "system": "MIG",
+ "place": "Madagascar (from Borneo region)",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Sailors from island Southeast Asia crossed the Indian Ocean to Madagascar; firm signs of lasting settlement date to 490 CE. Malagasy people are roughly an equal mix of Austronesian and Bantu ancestry.",
+ "why": "An African island whose language comes from Borneo.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "seafaring"
+ ],
+ "route": [
+  [
+   -2.5,
+   114.5
+  ],
+  [
+   -6.0,
+   106.0
+  ],
+  [
+   -12.0,
+   80.0
+  ],
+  [
+   -19.0,
+   47.0
+  ]
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Settlement_of_Madagascar",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

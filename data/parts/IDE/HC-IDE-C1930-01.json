@@ -1,0 +1,24 @@
+{
+ "id": "HC-IDE-C1930-01",
+ "year": 1930,
+ "yearEnd": null,
+ "dateLabel": "1930s",
+ "title": "Rastafari emerges in Jamaica",
+ "system": "IDE",
+ "place": "Jamaica",
+ "region": "North America",
+ "figures": [
+  "Leonard Howell",
+  "Marcus Garvey"
+ ],
+ "summary": "In 1930s Jamaica, preachers such as Leonard Howell taught that Haile Selassie's 1930 crowning as Emperor of Ethiopia fulfilled biblical prophecy, drawing on Marcus Garvey's Back-to-Africa movement.",
+ "why": "A Caribbean faith centred on Africa, now with an estimated 700,000 to 1 million followers.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Rastafari",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

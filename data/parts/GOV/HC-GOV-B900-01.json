@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-B900-01",
+ "year": -900,
+ "yearEnd": -250,
+ "dateLabel": "c. 900-250 BCE",
+ "title": "Chavín culture in the Andes",
+ "system": "GOV",
+ "place": "Mosna Valley, Peru",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "The Chavín culture developed in the northern Andean highlands of Peru and spread its influence along the coast.",
+ "why": "An early unifying culture of the Andes, centuries before the Inca.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Chav%C3%ADn_culture",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

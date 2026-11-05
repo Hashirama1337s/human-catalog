@@ -1,0 +1,27 @@
+{
+ "id": "HC-ART-C1180-01",
+ "year": 1180,
+ "yearEnd": 1200,
+ "dateLabel": "1180-1200 CE",
+ "title": "Megalithic building begins at Nan Madol",
+ "system": "ART",
+ "place": "Pohnpei, Micronesia",
+ "region": "Oceania",
+ "figures": [],
+ "summary": "Megalithic building began on artificial islets linked by canals, capital of the Saudeleur dynasty.",
+ "why": "A stone city built in a lagoon; capital until about 1628.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Nan_Madol",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Title 'built' 1180-1200 overclaims; islets began by 8th-9th c., megalithic phase began 1180-1200.",
+    "evidence": "https://en.wikipedia.org/wiki/Nan_Madol"
+   }
+  ]
+ }
+}

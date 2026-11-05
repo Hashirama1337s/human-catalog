@@ -1,0 +1,21 @@
+{
+ "id": "HC-FOD-B6000-01",
+ "year": -6000,
+ "yearEnd": -5001,
+ "dateLabel": "6th millennium BCE",
+ "title": "Irrigation",
+ "system": "FOD",
+ "place": "Khuzestan, Iran",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "Irrigation can be traced back to the 6th millennium BCE in Khuzestan.",
+ "why": "Watering fields made dry plains productive and fed the first cities.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Neolithic_Revolution",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "HC-WAR-C1511-01",
+ "year": 1511,
+ "yearEnd": null,
+ "dateLabel": "1511",
+ "title": "Portugal captures Malacca",
+ "system": "WAR",
+ "place": "Malacca, Malaysia",
+ "region": "Southeast Asia",
+ "figures": [
+  "Afonso de Albuquerque",
+  "Mahmud Shah"
+ ],
+ "summary": "On 15 August 1511, Afonso de Albuquerque's forces took Malacca from Sultan Mahmud Shah, who fled. The city commanded the strait through which sea trade between China and India passed.",
+ "why": "Gave Europeans a grip on Asia's spice and sea trade.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Capture_of_Malacca_(1511)",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "'Ending the Malacca Sultanate' overstates: source says Mahmud Shah retreated and his son founded the Sultanate of Johor.",
+    "evidence": "https://en.wikipedia.org/wiki/Capture_of_Malacca_(1511)"
+   }
+  ]
+ }
+}

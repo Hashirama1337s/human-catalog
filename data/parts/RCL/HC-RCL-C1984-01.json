@@ -1,0 +1,21 @@
+{
+ "id": "HC-RCL-C1984-01",
+ "year": 1984,
+ "yearEnd": null,
+ "dateLabel": "1984",
+ "title": "Bhopal gas disaster",
+ "system": "RCL",
+ "place": "Bhopal, India",
+ "region": "South Asia",
+ "figures": [],
+ "summary": "Toxic gas leaked from a pesticide plant, killing thousands.",
+ "why": "The world's worst industrial disaster.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Bhopal_disaster",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

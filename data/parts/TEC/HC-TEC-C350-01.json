@@ -1,0 +1,27 @@
+{
+ "id": "HC-TEC-C350-01",
+ "year": 350,
+ "yearEnd": null,
+ "dateLabel": "4th century CE",
+ "title": "Earliest known paired stirrups",
+ "system": "TEC",
+ "place": "Jin dynasty China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Paired stirrups appeared in China, were common there by the 5th century and reached Europe by the 7th or 8th century.",
+ "why": "Helped riders stay mounted and control horses, changing cavalry warfare.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Stirrup",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source: 'earliest known paired stirrups'; earlier Indian toe-loop stirrups exist, so 'stirrup invented' is too broad.",
+    "evidence": "https://en.wikipedia.org/wiki/Stirrup"
+   }
+  ]
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "HC-WRT-B1850-01",
+ "year": -1850,
+ "yearEnd": -1550,
+ "dateLabel": "c. 1850 BCE (early date) or c. 1550 BCE (late date)",
+ "title": "Proto-Sinaitic: earliest alphabet",
+ "system": "WRT",
+ "place": "Serabit el-Khadim, Sinai, Egypt",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Canaanite-speaking people adapted Egyptian hieroglyphs into a small set of letters, each standing for one sound. This early alphabet is the ancestor of Phoenician, Greek and Latin letters.",
+ "why": "Ancestor of many modern alphabets, including Greek and Latin.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "writing"
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Proto-Sinaitic_script",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "id": "HC-MED-C1721-01",
+ "year": 1721,
+ "yearEnd": null,
+ "dateLabel": "1721",
+ "title": "Smallpox inoculation spreads West",
+ "system": "MED",
+ "place": "London, England and Boston, United States",
+ "region": "Global",
+ "figures": [
+  "Lady Mary Wortley Montagu",
+  "Onesimus"
+ ],
+ "summary": "Inoculation against smallpox, long practised in Asia and Africa, was promoted in Britain by Lady Mary Wortley Montagu and in Boston via the enslaved African Onesimus.",
+ "why": "Paved the way for vaccination.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "epidemics",
+  "vaccines"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Variolation",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

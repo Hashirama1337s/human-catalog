@@ -1,0 +1,23 @@
+{
+ "id": "HC-MIG-C1607-01",
+ "year": 1607,
+ "yearEnd": null,
+ "dateLabel": "1607",
+ "title": "Jamestown founded",
+ "system": "MIG",
+ "place": "Virginia, United States",
+ "region": "North America",
+ "figures": [
+  "John Smith"
+ ],
+ "summary": "English colonists founded Jamestown on land of the Powhatan people.",
+ "why": "First permanent English settlement in the Americas.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Jamestown",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

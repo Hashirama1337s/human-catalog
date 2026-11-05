@@ -1,0 +1,52 @@
+{
+ "id": "HC-IDE-KA2500-01",
+ "year": -2498050,
+ "yearEnd": -58050,
+ "dateLabel": "proposals range from 2.5 million to 60,000 years ago",
+ "title": "How and when language began",
+ "system": "IDE",
+ "place": "Africa (presumed)",
+ "region": "Global",
+ "figures": [
+  "Noam Chomsky",
+  "Johanna Nichols"
+ ],
+ "summary": "There is no scientific consensus on language's origin. Direct evidence is so scarce that many scholars view the topic as too speculative, and proposed dates span millions of years.",
+ "why": "Language is arguably the defining human ability, and its birth left no fossils.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "language",
+  "cognition",
+  "origins"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Origin_of_language",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ },
+ "kind": "open",
+ "question": "When and how did human language first emerge?",
+ "evidence": "Proposed dates: Homo habilis (~2.5 Ma), Homo erectus (~1.8 Ma), Homo heidelbergensis (~600 ka), at least 100,000 years (Nichols), 200,000–60,000 years (Berwick and Chomsky).",
+ "wouldSettle": "Converging evidence from genetics, fossil anatomy and archaeology tying speech capacity to a dated lineage.",
+ "theories": [
+  {
+   "name": "Continuity",
+   "idea": "Language evolved gradually out of earlier primate communication systems."
+  },
+  {
+   "name": "Discontinuity",
+   "idea": "Language appeared relatively suddenly as a uniquely human trait."
+  },
+  {
+   "name": "Gesture first",
+   "idea": "Language grew out of hand and facial gestures before speech."
+  },
+  {
+   "name": "Vocal or song first",
+   "idea": "Language grew out of vocal sounds, often linked to early song."
+  }
+ ]
+}

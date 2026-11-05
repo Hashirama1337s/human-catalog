@@ -1,0 +1,23 @@
+{
+ "id": "HC-WRT-C644-01",
+ "year": 644,
+ "yearEnd": 656,
+ "dateLabel": "reign of Uthman (644-656)",
+ "title": "Standard text of the Quran",
+ "system": "WRT",
+ "place": "Arabia (Rashidun Caliphate)",
+ "region": "West Asia",
+ "figures": [
+  "Uthman"
+ ],
+ "summary": "Caliph Uthman established a standard written version, the Uthmanic codex, of the Quran.",
+ "why": "The basis of the Quran read today.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Quran",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

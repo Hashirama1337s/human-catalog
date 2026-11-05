@@ -1,0 +1,24 @@
+{
+ "id": "HC-GOV-C1945-02",
+ "year": 1945,
+ "yearEnd": null,
+ "dateLabel": "1945",
+ "title": "Indonesia proclaims independence",
+ "system": "GOV",
+ "place": "Jakarta, Indonesia",
+ "region": "Southeast Asia",
+ "figures": [
+  "Sukarno",
+  "Mohammad Hatta"
+ ],
+ "summary": "On 17 August 1945 Sukarno, with Mohammad Hatta beside him, read Indonesia's proclamation of independence at his house in Jakarta. The Netherlands officially acknowledged independence in 1949.",
+ "why": "Indonesia's independence day; the Netherlands formally recognised the date only in 2023.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Proclamation_of_Indonesian_Independence",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

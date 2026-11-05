@@ -1,0 +1,23 @@
+{
+ "id": "HC-IDE-C1604-01",
+ "year": 1604,
+ "yearEnd": null,
+ "dateLabel": "1604",
+ "title": "Adi Granth, Sikh scripture, compiled",
+ "system": "IDE",
+ "place": "Amritsar, India",
+ "region": "South Asia",
+ "figures": [
+  "Guru Arjan"
+ ],
+ "summary": "The fifth Sikh guru, Guru Arjan, compiled the first version of the Sikh holy scripture.",
+ "why": "Became the Guru Granth Sahib, the living guru of Sikhism.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

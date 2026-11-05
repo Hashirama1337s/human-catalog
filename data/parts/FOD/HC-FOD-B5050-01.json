@@ -1,0 +1,27 @@
+{
+ "id": "HC-FOD-B5050-01",
+ "year": -5050,
+ "yearEnd": null,
+ "dateLabel": "c. 7,000 years ago",
+ "title": "Farming in the Nile Valley",
+ "system": "FOD",
+ "place": "Nile Valley, Egypt",
+ "region": "Africa",
+ "figures": [],
+ "summary": "A Neolithic crop-based economy appears in the Nile Valley around 7,000 years ago, probably brought by migrants from the Fertile Crescent.",
+ "why": "The food base for later Egyptian civilisation.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Neolithic_Revolution",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Permanent farming by about 6,500 years ago' is not in source; source gives crop economy 'around 7,000 BP' and ties Nile farming to migration from the Fertile Crescent.",
+    "evidence": "https://en.wikipedia.org/wiki/Neolithic_Revolution"
+   }
+  ]
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "id": "HC-MIG-C1892-01",
+ "year": 1892,
+ "yearEnd": 1954,
+ "dateLabel": "1892-1954",
+ "title": "Ellis Island immigration station",
+ "system": "MIG",
+ "place": "Ellis Island, New York, United States",
+ "region": "North America",
+ "figures": [],
+ "summary": "From 1892 to 1954, about 12 million immigrants arriving at the Port of New York and New Jersey were processed at Ellis Island, the busiest immigrant station in the United States.",
+ "why": "The gateway through which about 12 million immigrants entered the United States.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ellis_Island",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

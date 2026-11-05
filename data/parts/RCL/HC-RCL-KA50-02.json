@@ -1,0 +1,47 @@
+{
+ "id": "HC-RCL-KA50-02",
+ "year": -48050,
+ "yearEnd": -9450,
+ "dateLabel": "c. 50,000–11,400 years ago",
+ "title": "Humans or climate: who killed the megafauna?",
+ "system": "RCL",
+ "place": "Worldwide",
+ "region": "Global",
+ "figures": [],
+ "summary": "Giant animals vanished across continents in the Late Pleistocene. The weight of human versus climatic causes is long disputed, though most scholars accept at least some human role.",
+ "why": "If humans did it, it was one of our species' first continent-wide impacts.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "extinction",
+  "megafauna",
+  "climate"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Quaternary_extinction_event",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source: 'most scholars support at least a contributory role of humans'; pure-climate theory overstated as an equal rival.",
+    "evidence": "https://en.wikipedia.org/wiki/Quaternary_extinction_event"
+   }
+  ]
+ },
+ "kind": "open",
+ "question": "Were humans or climate change mainly responsible for the Ice Age megafauna extinctions?",
+ "evidence": "Sahul losses from about 50,000 years ago; northern Eurasia staggered 50,000–10,000; North America concentrated 13,800–11,400 years BP.",
+ "wouldSettle": "Precisely dated last appearances compared with human arrival and climate records, continent by continent.",
+ "theories": [
+  {
+   "name": "Human hunting and impact",
+   "idea": "Extinctions follow human arrival, suggesting people drove the losses."
+  },
+  {
+   "name": "Climate change",
+   "idea": "Late Pleistocene climate shifts, not people, caused the extinctions."
+  }
+ ]
+}

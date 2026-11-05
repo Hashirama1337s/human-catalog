@@ -1,0 +1,29 @@
+{
+ "id": "HC-ART-C1623-01",
+ "year": 1623,
+ "yearEnd": null,
+ "dateLabel": "1623",
+ "title": "Shakespeare's First Folio",
+ "system": "ART",
+ "place": "London, England",
+ "region": "Europe",
+ "figures": [
+  "William Shakespeare"
+ ],
+ "summary": "Seven years after Shakespeare's death, his colleagues published 36 of his plays in one collected book.",
+ "why": "Eighteen of its 36 plays were not known to have been printed before.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/First_Folio",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Saved about half his plays, which would otherwise have been lost' is not in the source; it says 18 plays were 'not known to have been previously printed'.",
+    "evidence": "https://en.wikipedia.org/wiki/First_Folio"
+   }
+  ]
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "HC-FOD-C997-01",
+ "year": 997,
+ "yearEnd": 1022,
+ "dateLabel": "reign of Zhenzong (997-1022)",
+ "title": "Champa rice in Song China",
+ "system": "FOD",
+ "place": "Song China",
+ "region": "East Asia",
+ "figures": [
+  "Emperor Zhenzong"
+ ],
+ "summary": "A quick-ripening rice from the Champa Kingdom was spread to farmers across China, allowing two harvests a season.",
+ "why": "Two harvests a season meant more food.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Champa_rice",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

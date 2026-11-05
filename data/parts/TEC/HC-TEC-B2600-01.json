@@ -1,0 +1,28 @@
+{
+ "id": "HC-TEC-B2600-01",
+ "year": -2600,
+ "yearEnd": null,
+ "dateLabel": "c. 2600 BCE",
+ "title": "Great Pyramid of Giza",
+ "system": "TEC",
+ "place": "Giza, Egypt",
+ "region": "Africa",
+ "figures": [
+  "Khufu"
+ ],
+ "summary": "Tomb of the pharaoh Khufu, built over about 26 years. At 146.6 m it was the tallest human-made structure on Earth for more than 3,700 years.",
+ "why": "The oldest of the Seven Wonders and the only one still largely standing; a peak of ancient engineering.",
+ "interchange": [
+  "Pyramids were also built in the Americas, e.g. Caral (Peru) and Teotihuacan (Mexico)"
+ ],
+ "supersedes": "",
+ "tags": [
+  "pyramids"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

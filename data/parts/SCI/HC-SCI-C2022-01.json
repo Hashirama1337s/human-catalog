@@ -1,0 +1,30 @@
+{
+ "id": "HC-SCI-C2022-01",
+ "year": 2022,
+ "yearEnd": null,
+ "dateLabel": "April 2022",
+ "title": "Gapless human genome, all chromosomes but Y (T2T)",
+ "system": "SCI",
+ "place": "International (Telomere-to-Telomere Consortium)",
+ "region": "Global",
+ "figures": [],
+ "summary": "The Telomere-to-Telomere consortium filled in the 8% of the genome the Human Genome Project missed. The Y chromosome was completed in 2023.",
+ "why": "Gave the first end-to-end reference for 23 of the 24 human chromosomes; the Y chromosome followed in 2023.",
+ "interchange": [],
+ "supersedes": "Human Genome Project reference (2003)",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Human_Genome_Project",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "not complete until 2023",
+    "evidence": "https://en.wikipedia.org/wiki/Human_Genome_Project"
+   }
+  ]
+ }
+}

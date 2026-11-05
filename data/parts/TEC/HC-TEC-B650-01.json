@@ -1,0 +1,29 @@
+{
+ "id": "HC-TEC-B650-01",
+ "year": -650,
+ "yearEnd": -206,
+ "dateLabel": "first walls 7th century BCE; joined under the Qin",
+ "title": "Great Wall of China begun",
+ "system": "TEC",
+ "place": "Northern China",
+ "region": "East Asia",
+ "figures": [
+  "Qin Shi Huang"
+ ],
+ "summary": "Chinese states built defensive walls against steppe peoples; the Qin joined them together, and the Ming later built the best-known sections.",
+ "why": "Its walls and trenches span about 21,196 km; it is a UNESCO World Heritage Site.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'One of the largest building projects in history' is not in the source; source gives total length 21,196 km and UNESCO listing.",
+    "evidence": "https://en.wikipedia.org/wiki/Great_Wall_of_China"
+   }
+  ]
+ }
+}

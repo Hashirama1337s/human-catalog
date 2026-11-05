@@ -1,0 +1,26 @@
+{
+ "id": "HC-ART-C1592-01",
+ "year": 1592,
+ "yearEnd": null,
+ "dateLabel": "1592",
+ "title": "Journey to the West: earliest surviving edition",
+ "system": "ART",
+ "place": "Nanjing, China",
+ "region": "East Asia",
+ "figures": [
+  "Wu Cheng'en"
+ ],
+ "summary": "The oldest surviving printed edition of this Ming novel, attributed to Wu Cheng'en, appeared in Nanjing; it follows a monk and the Monkey King on a pilgrimage.",
+ "why": "One of the great classic Chinese novels.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "printing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Journey_to_the_West",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

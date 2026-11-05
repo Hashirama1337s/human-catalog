@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Human Catalog: Part History</title>
+  <desc id="d">A parts-catalog title plate with a true-scale ruler of 300,000 years; the age of writing is a red sliver at the end.</desc>
+  <rect width="1200" height="300" fill="#0b1719"/>
+  <g font-family="'Barlow Condensed','Arial Narrow','Roboto Condensed',sans-serif" fill="#cfe9e4">
+    <text x="60" y="64" font-family="'JetBrains Mono',Consolas,monospace" font-size="15" letter-spacing="3" fill="#86a6a1">SECOND EDITION (2.0) · 300,000 YEARS AGO – 2026 · 775 PARTS ON FILE</text>
+    <text x="56" y="140" font-size="78" font-weight="700" letter-spacing="2">HUMAN CATALOG <tspan fill="#f0b04a">·</tspan> PART HISTORY</text>
+  </g>
+  <g font-family="'JetBrains Mono',Consolas,monospace" font-size="13" fill="#86a6a1">
+    <text x="60" y="190">300,000 years ago</text>
+    <text x="1140" y="190" text-anchor="end">2026</text>
+  </g>
+  <g>
+    <rect x="60" y="200" width="1080" height="26" fill="#16302f"/>
+    <g stroke="#1f3a3d" stroke-width="1">
+      <line x1="168" y1="200" x2="168" y2="226"/><line x1="276" y1="200" x2="276" y2="226"/><line x1="384" y1="200" x2="384" y2="226"/>
+      <line x1="492" y1="200" x2="492" y2="226"/><line x1="600" y1="200" x2="600" y2="226"/><line x1="708" y1="200" x2="708" y2="226"/>
+      <line x1="816" y1="200" x2="816" y2="226"/><line x1="924" y1="200" x2="924" y2="226"/><line x1="1032" y1="200" x2="1032" y2="226"/>
+    </g>
+    <rect x="1121.6" y="200" width="18.4" height="26" fill="#f0b04a"/>
+  </g>
+  <g font-family="'JetBrains Mono',Consolas,monospace" font-size="14" fill="#f0b04a">
+    <text x="60" y="262">HC-WRT-B3300-01</text>
+    <text x="300" y="262">HC-FOD-B9000-01</text>
+    <text x="540" y="262">HC-SCI-C1687-01</text>
+    <text x="780" y="262" fill="#86a6a1">? back-ordered: 42 open questions</text>
+  </g>
+  <text x="1140" y="262" text-anchor="end" font-family="'Source Sans 3','Segoe UI',sans-serif" font-size="14" fill="#86a6a1">everything ever written fits in the last 1.7%</text>
+</svg>

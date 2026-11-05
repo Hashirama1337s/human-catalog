@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-C1644-01",
+ "year": 1644,
+ "yearEnd": null,
+ "dateLabel": "1644",
+ "title": "Ming falls; Qing dynasty takes Beijing",
+ "system": "GOV",
+ "place": "Beijing, China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Rebels captured Beijing and the last Ming emperor died; Manchu armies then took the city and the Qing dynasty ruled China.",
+ "why": "The Qing became China's last imperial dynasty.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Transition_from_Ming_to_Qing",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

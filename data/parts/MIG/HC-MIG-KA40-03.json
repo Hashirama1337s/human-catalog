@@ -1,0 +1,34 @@
+{
+ "id": "HC-MIG-KA40-03",
+ "year": -38050,
+ "yearEnd": null,
+ "dateLabel": "c. 40,000 years ago",
+ "title": "Oase 1: Neanderthal ancestor a few generations back",
+ "system": "MIG",
+ "place": "Peștera cu Oase, Romania",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Remains of an early modern European, about 40,000 years old, carried about 6-9% Neanderthal DNA. His Neanderthal ancestor lived only about four to six generations before him.",
+ "why": "Shows modern humans and Neanderthals also mixed in Europe, not only earlier.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Pe%C5%9Ftera_cu_Oase",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Date arithmetic: c. 40,000 years ago gives year 1950-40000 = -38050, not -38500.",
+    "evidence": "https://en.wikipedia.org/wiki/Pe%C5%9Ftera_cu_Oase"
+   },
+   {
+    "problem": "'Not only once in the Near East' is not in the source; source supports admixture in Europe only.",
+    "evidence": "https://en.wikipedia.org/wiki/Pe%C5%9Ftera_cu_Oase"
+   }
+  ]
+ }
+}

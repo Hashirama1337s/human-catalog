@@ -1,0 +1,29 @@
+{
+ "id": "HC-TEC-C1799-01",
+ "year": 1799,
+ "yearEnd": null,
+ "dateLabel": "1799",
+ "title": "Volta's electric battery",
+ "system": "TEC",
+ "place": "Italy",
+ "region": "Europe",
+ "figures": [
+  "Alessandro Volta"
+ ],
+ "summary": "Alessandro Volta stacked metal discs and wet cloth to produce a steady electric current.",
+ "why": "The first battery; opened the age of electricity.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Voltaic_pile",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Pavia is not supported: source gives no place; Alessandro Volta page says his first inventions were made near Como while he held the Pavia chair.",
+    "evidence": "https://en.wikipedia.org/wiki/Voltaic_pile ; https://en.wikipedia.org/wiki/Alessandro_Volta"
+   }
+  ]
+ }
+}

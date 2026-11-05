@@ -1,0 +1,21 @@
+{
+ "id": "HC-WAR-C1618-01",
+ "year": 1618,
+ "yearEnd": 1648,
+ "dateLabel": "1618-1648",
+ "title": "Thirty Years' War",
+ "system": "WAR",
+ "place": "Central Europe",
+ "region": "Europe",
+ "figures": [],
+ "summary": "A war that began between Protestant and Catholic states drew in most European powers and devastated German lands.",
+ "why": "One of Europe's most destructive wars; ended by the Peace of Westphalia.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Thirty_Years%27_War",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

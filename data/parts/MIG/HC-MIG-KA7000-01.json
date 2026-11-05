@@ -1,0 +1,51 @@
+{
+ "id": "HC-MIG-KA7000-01",
+ "year": -6998050,
+ "yearEnd": -3998050,
+ "dateLabel": "c. 7–4 million years ago",
+ "title": "Why our ancestors started walking upright",
+ "system": "MIG",
+ "place": "Africa",
+ "region": "Africa",
+ "figures": [
+  "Owen Lovejoy"
+ ],
+ "summary": "There are at least twelve distinct hypotheses for how and why human bipedalism evolved. It is dated to at least 4 million years ago, possibly 7 million with Sahelanthropus.",
+ "why": "Upright walking is one of the earliest traits that set our lineage apart.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "bipedalism",
+  "hominins",
+  "evolution"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Bipedalism",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ },
+ "kind": "open",
+ "question": "Why did human ancestors evolve to walk on two legs?",
+ "evidence": "Bipedalism clear by about 4 million years ago (Australopithecus afarensis); possibly 7 million (Sahelanthropus); Danuvius suggests about 12 million.",
+ "wouldSettle": "Well-dated early hominin skeletons with environmental data showing what habitat and behaviour accompanied first upright walking.",
+ "theories": [
+  {
+   "name": "Postural feeding",
+   "idea": "Ancestors stood upright mainly to reach food in trees."
+  },
+  {
+   "name": "Savanna and travel efficiency",
+   "idea": "Walking upright was cheaper for moving between scattered trees in open country."
+  },
+  {
+   "name": "Provisioning (Lovejoy)",
+   "idea": "Males carrying food to mates and offspring favoured upright walking."
+  },
+  {
+   "name": "Thermoregulation",
+   "idea": "Standing upright reduced sun exposure and helped the body stay cool."
+  }
+ ]
+}

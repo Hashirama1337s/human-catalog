@@ -1,0 +1,26 @@
+{
+ "id": "HC-WRT-C1824-01",
+ "year": 1824,
+ "yearEnd": null,
+ "dateLabel": "1824",
+ "title": "Braille writing system",
+ "system": "WRT",
+ "place": "Paris, France",
+ "region": "Europe",
+ "figures": [
+  "Louis Braille"
+ ],
+ "summary": "Louis Braille, blind since childhood, created a reading system of raised dots.",
+ "why": "Lets blind people read and write worldwide.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "writing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Braille",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

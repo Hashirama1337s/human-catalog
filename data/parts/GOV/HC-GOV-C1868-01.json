@@ -1,0 +1,29 @@
+{
+ "id": "HC-GOV-C1868-01",
+ "year": 1868,
+ "yearEnd": null,
+ "dateLabel": "1868",
+ "title": "Meiji Restoration",
+ "system": "GOV",
+ "place": "Kyoto, Japan",
+ "region": "East Asia",
+ "figures": [
+  "Emperor Meiji"
+ ],
+ "summary": "The shogunate fell and power returned to the emperor, starting rapid modernisation.",
+ "why": "Made Japan an industrial great power within decades.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Meiji_Restoration",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Place: the 3 Jan 1868 restoration was proclaimed at the imperial court in Kyoto; the capital moved to Edo/Tokyo only in Nov 1868 (Emperor Meiji article).",
+    "evidence": "https://en.wikipedia.org/wiki/Emperor_Meiji"
+   }
+  ]
+ }
+}

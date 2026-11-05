@@ -1,0 +1,29 @@
+{
+ "id": "HC-TEC-C1712-01",
+ "year": 1712,
+ "yearEnd": null,
+ "dateLabel": "1712",
+ "title": "Newcomen steam engine",
+ "system": "TEC",
+ "place": "Coneygree Coalworks, Tipton (near Dudley), England",
+ "region": "Europe",
+ "figures": [
+  "Thomas Newcomen"
+ ],
+ "summary": "Thomas Newcomen built a steam engine to pump water out of mines.",
+ "why": "The first practical steam engine.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Newcomen_atmospheric_engine",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Place imprecise: source locates the 1712 Dudley Castle engine at the Coneygree (Conygree) Coalworks, Tipton.",
+    "evidence": "https://en.wikipedia.org/wiki/Newcomen_atmospheric_engine"
+   }
+  ]
+ }
+}

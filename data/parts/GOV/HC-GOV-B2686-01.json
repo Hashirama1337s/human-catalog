@@ -1,0 +1,24 @@
+{
+ "id": "HC-GOV-B2686-01",
+ "year": -2686,
+ "yearEnd": -2181,
+ "dateLabel": "2686-2181 BCE",
+ "title": "Old Kingdom of Egypt",
+ "system": "GOV",
+ "place": "Egypt",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Egypt's Third to Sixth Dynasties ruled a strong central state that organised huge building projects, including the pyramids.",
+ "why": "The age of the great pyramids.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "pyramids"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Old_Kingdom_of_Egypt",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

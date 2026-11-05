@@ -1,0 +1,23 @@
+{
+ "id": "HC-ART-C1824-01",
+ "year": 1824,
+ "yearEnd": null,
+ "dateLabel": "1824",
+ "title": "Beethoven's Ninth Symphony",
+ "system": "ART",
+ "place": "Vienna, Austria",
+ "region": "Europe",
+ "figures": [
+  "Ludwig van Beethoven"
+ ],
+ "summary": "Beethoven, by then almost completely deaf, premiered a symphony ending with a choir singing the 'Ode to Joy'.",
+ "why": "One of the most celebrated works of music.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

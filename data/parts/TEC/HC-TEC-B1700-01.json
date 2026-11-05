@@ -1,0 +1,21 @@
+{
+ "id": "HC-TEC-B1700-01",
+ "year": -1700,
+ "yearEnd": -1100,
+ "dateLabel": "c. 1700-1100 BCE",
+ "title": "Poverty Point earthworks",
+ "system": "TEC",
+ "place": "West Carroll Parish, Louisiana, United States",
+ "region": "North America",
+ "figures": [],
+ "summary": "Native Americans of the Late Archaic period built huge concentric earthen ridges and mounds beside the Mississippi Delta.",
+ "why": "One of North America's great early earthwork sites; now a UNESCO World Heritage Site.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Poverty_Point",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

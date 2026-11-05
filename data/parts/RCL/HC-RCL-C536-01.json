@@ -1,0 +1,21 @@
+{
+ "id": "HC-RCL-C536-01",
+ "year": 536,
+ "yearEnd": null,
+ "dateLabel": "536 CE",
+ "title": "Volcanic winter of 536",
+ "system": "RCL",
+ "place": "Northern Hemisphere",
+ "region": "Global",
+ "figures": [],
+ "summary": "Volcanic eruptions filled the air with sulphate haze, dimming sunlight and cooling the Northern Hemisphere for years.",
+ "why": "Among the worst cold spells of the last 2,000 years.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Volcanic_winter_of_536",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "id": "HC-ECO-B150-01",
+ "year": -150,
+ "yearEnd": 1450,
+ "dateLabel": "2nd century BCE-mid-15th century",
+ "title": "Silk Road trade routes",
+ "system": "ECO",
+ "place": "China to the Mediterranean",
+ "region": "Central Asia",
+ "figures": [],
+ "summary": "A network of trade routes, spanning over 6,400 km on land and joined by sea routes, carried silk, goods, religions and ideas between East and West.",
+ "why": "Carried economic, cultural, political and religious exchange between East and West.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Silk_Road",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Source gives 6,400 km for the land routes only, not land and sea combined.",
+    "evidence": "https://en.wikipedia.org/wiki/Silk_Road"
+   }
+  ]
+ }
+}

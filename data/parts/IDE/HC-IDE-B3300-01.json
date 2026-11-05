@@ -1,0 +1,21 @@
+{
+ "id": "HC-IDE-B3300-01",
+ "year": -3300,
+ "yearEnd": null,
+ "dateLabel": "c. 3300 BCE",
+ "title": "Newgrange and Ness of Brodgar",
+ "system": "IDE",
+ "place": "Newgrange, Ireland; Orkney, Scotland",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Large stone monuments are built at Newgrange in Ireland and the Ness of Brodgar in Orkney.",
+ "why": "Monument building spreads through Atlantic Europe.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

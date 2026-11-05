@@ -1,0 +1,27 @@
+{
+ "id": "HC-ART-KA51-01",
+ "year": -49250,
+ "yearEnd": null,
+ "dateLabel": "at least 51,200 years ago",
+ "title": "Earliest known narrative cave painting",
+ "system": "ART",
+ "place": "Leang Karampuang, Sulawesi, Indonesia",
+ "region": "Southeast Asia",
+ "figures": [],
+ "summary": "A painting shows three human-like figures interacting with a pig, read as an early scene that tells a story.",
+ "why": "Storytelling in pictures more than 50,000 years ago.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source gives no superlative for narrative art; it says 'three human-like figures interacting with a pig'.",
+    "evidence": "https://en.wikipedia.org/wiki/Timeline_of_prehistory"
+   }
+  ]
+ }
+}

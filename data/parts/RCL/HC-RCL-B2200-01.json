@@ -1,0 +1,21 @@
+{
+ "id": "HC-RCL-B2200-01",
+ "year": -2200,
+ "yearEnd": -2100,
+ "dateLabel": "c. 2200 BCE (lasting most of the 22nd century BCE)",
+ "title": "4.2-kiloyear drought",
+ "system": "RCL",
+ "place": "Mesopotamia, Egypt, Indus and Yangtze regions",
+ "region": "Global",
+ "figures": [],
+ "summary": "A severe, long drought began around 2200 BCE. It may have helped bring down the Old Kingdom of Egypt, the Akkadian Empire and China's Liangzhu culture.",
+ "why": "A warning from the past that climate shocks can topple whole states.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/4.2-kiloyear_event",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

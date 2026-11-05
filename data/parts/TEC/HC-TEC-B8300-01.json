@@ -1,0 +1,21 @@
+{
+ "id": "HC-TEC-B8300-01",
+ "year": -8300,
+ "yearEnd": -7800,
+ "dateLabel": "c. 8300 BCE",
+ "title": "Wall and Tower of Jericho",
+ "system": "TEC",
+ "place": "Jericho, West Bank",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "Jericho's people build a stone wall and tower, carbon-dated to about 8300 BCE and used until about 7800 BCE.",
+ "why": "Among the oldest monumental stone structures in a settlement.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Jericho",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

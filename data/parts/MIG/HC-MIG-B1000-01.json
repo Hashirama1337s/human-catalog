@@ -1,0 +1,35 @@
+{
+ "id": "HC-MIG-B1000-01",
+ "year": -1000,
+ "yearEnd": 300,
+ "dateLabel": "c. 1000 BCE-300 CE (start debated)",
+ "title": "Yayoi rice farmers migrate into Japan",
+ "system": "MIG",
+ "place": "Korean Peninsula into Japan",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Mainland migrants brought rice farming to Japan and mixed with Jōmon hunter-gatherers. Modern Japanese average about 9% Jōmon ancestry. The start date (300 BCE or as early as 1000 BCE) is contested.",
+ "why": "Most Japanese ancestry comes from this later farming migration.",
+ "interchange": [],
+ "supersedes": "",
+ "route": [
+  [
+   35.5,
+   128.0
+  ],
+  [
+   33.5,
+   130.5
+  ],
+  [
+   35.0,
+   136.0
+  ]
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Yayoi_people",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "id": "HC-TEC-C1895-01",
+ "year": 1895,
+ "yearEnd": 1901,
+ "dateLabel": "1895-1901",
+ "title": "Radio waves carry messages",
+ "system": "TEC",
+ "place": "Bologna, Italy, and Cornwall, England",
+ "region": "Europe",
+ "figures": [
+  "Guglielmo Marconi"
+ ],
+ "summary": "Guglielmo Marconi developed practical wireless telegraphy and in 1901 reported receiving a signal sent across the Atlantic.",
+ "why": "Helped make radio communication practical.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Guglielmo_Marconi",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Source: 1901 transatlantic reception had 'no independent confirmation' and 'considerable scepticism'; 1943 US Supreme Court 'essentially invalidated' his claim to have invented radio. Work moved to England in 1896 (Poldhu, Cornwall).",
+    "evidence": "https://en.wikipedia.org/wiki/Guglielmo_Marconi"
+   }
+  ]
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "id": "HC-ART-C1877-01",
+ "year": 1877,
+ "yearEnd": null,
+ "dateLabel": "1877",
+ "title": "Phonograph records sound",
+ "system": "ART",
+ "place": "Menlo Park, New Jersey, United States",
+ "region": "North America",
+ "figures": [
+  "Thomas Edison"
+ ],
+ "summary": "Thomas Edison invented a machine that could record sound and play it back.",
+ "why": "Made it possible to record sound and hear it played back.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Phonograph",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "'Birth of recorded music' overclaims; the 1857 phonautograph recorded sound earlier (without playback).",
+    "evidence": "https://en.wikipedia.org/wiki/Phonograph"
+   }
+  ]
+ }
+}

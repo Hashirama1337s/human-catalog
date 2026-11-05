@@ -1,0 +1,26 @@
+{
+ "id": "HC-WRT-C1820-01",
+ "year": 1820,
+ "yearEnd": null,
+ "dateLabel": "late 1810s-early 1820s",
+ "title": "Sequoyah's Cherokee syllabary",
+ "system": "WRT",
+ "place": "Cherokee Nation, United States",
+ "region": "North America",
+ "figures": [
+  "Sequoyah"
+ ],
+ "summary": "Sequoyah, who could not read any language, created a writing system for Cherokee.",
+ "why": "Rare case of one person inventing a working script; literacy spread fast.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "writing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Cherokee_syllabary",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

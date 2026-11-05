@@ -1,0 +1,24 @@
+{
+ "id": "HC-SCI-B4800-01",
+ "year": -4800,
+ "yearEnd": null,
+ "dateLabel": "c. 4800 BCE",
+ "title": "Nabta Playa stone circle",
+ "system": "SCI",
+ "place": "Nabta Playa, Egypt",
+ "region": "Africa",
+ "figures": [],
+ "summary": "A stone circle may mark the direction of summer-solstice sunrise; people here also buried cattle under stone mounds. Its 'calendar' use is doubted.",
+ "why": "Possible early sky-watching in Africa.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "calendars"
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Nabta_Playa",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "id": "HC-WAR-C1950-01",
+ "year": 1950,
+ "yearEnd": 1953,
+ "dateLabel": "1950-1953",
+ "title": "Korean War",
+ "system": "WAR",
+ "place": "Korean Peninsula",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "North Korea invaded South Korea; UN forces and China joined in; fighting ended in an armistice.",
+ "why": "Korea remains divided.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Korean_War",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

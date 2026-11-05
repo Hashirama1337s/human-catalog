@@ -1,0 +1,21 @@
+{
+ "id": "HC-ART-B776-01",
+ "year": -776,
+ "yearEnd": null,
+ "dateLabel": "776 BCE (traditional)",
+ "title": "First Olympic Games",
+ "system": "ART",
+ "place": "Olympia, Greece",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Greek city-states held athletic games at Olympia every four years in honour of Zeus; the four-year Olympiad became a unit of time.",
+ "why": "Ancestor of the modern Olympics and an early shared calendar for the Greek world.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ancient_Olympic_Games",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

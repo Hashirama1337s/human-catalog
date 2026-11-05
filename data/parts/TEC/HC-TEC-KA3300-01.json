@@ -1,0 +1,27 @@
+{
+ "id": "HC-TEC-KA3300-01",
+ "year": -3298050,
+ "yearEnd": -2598050,
+ "dateLabel": "c. 3.3-2.6 million years ago",
+ "title": "Carried over: oldest stone tools",
+ "system": "TEC",
+ "place": "Kenya and Ethiopia",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Human relatives knock sharp flakes off stones. The oldest claimed tools (Lomekwi 3, Kenya, c. 3.3 million years ago) are debated; Oldowan tools follow from c. 2.9 million years ago (Nyayanga, Kenya).",
+ "why": "The oldest known stone tools: the start of the human toolkit.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Lomekwi (Kenya) conflated with Oldowan (Ethiopia); descent claim unsupported",
+    "evidence": "https://en.wikipedia.org/wiki/Oldowan"
+   }
+  ]
+ }
+}

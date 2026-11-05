@@ -1,0 +1,29 @@
+{
+ "id": "HC-FOD-C1924-01",
+ "year": 1924,
+ "yearEnd": 1927,
+ "dateLabel": "1924-1927",
+ "title": "Birdseye's quick-freezing process",
+ "system": "FOD",
+ "place": "United States",
+ "region": "North America",
+ "figures": [
+  "Clarence Birdseye"
+ ],
+ "summary": "After watching Inuit freeze fish in bitter cold in Labrador, Clarence Birdseye developed a commercial quick-freezing process in 1924 and patented a multiplate freezing machine in 1927.",
+ "why": "He is widely considered the founder of the modern frozen food industry.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Clarence_Birdseye",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "A 1925 patent is not in the source; source gives the 1924 process and the 1927 multiplate patent.",
+    "evidence": "https://en.wikipedia.org/wiki/Clarence_Birdseye"
+   }
+  ]
+ }
+}

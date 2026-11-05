@@ -1,0 +1,23 @@
+{
+ "id": "HC-WAR-C1095-01",
+ "year": 1095,
+ "yearEnd": 1291,
+ "dateLabel": "1095-1291 CE",
+ "title": "The Crusades",
+ "system": "WAR",
+ "place": "Holy Land",
+ "region": "West Asia",
+ "figures": [
+  "Pope Urban II"
+ ],
+ "summary": "Pope Urban II called Christians to retake Jerusalem; wars against Muslim rulers followed for two centuries.",
+ "why": "Two centuries of war over the Holy Land.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Crusades",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

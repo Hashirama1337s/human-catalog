@@ -1,0 +1,29 @@
+{
+ "id": "HC-TRN-C1325-01",
+ "year": 1325,
+ "yearEnd": 1354,
+ "dateLabel": "1325-1354",
+ "title": "Travels of Ibn Battuta",
+ "system": "TRN",
+ "place": "Tangier, Morocco, to Africa, Asia and Iberia",
+ "region": "Africa",
+ "figures": [
+  "Ibn Battuta"
+ ],
+ "summary": "The Moroccan scholar Ibn Battuta travelled across Africa, Asia and Iberia for nearly 30 years and later dictated his Rihla, which claims about 117,000 km of travel; scholars doubt some of the journeys it describes.",
+ "why": "By his own account, he travelled farther than any other pre-modern explorer.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Ibn_Battuta",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Source says modern scholars doubt several journeys; the distance rests on the Rihla alone, so it is not established.",
+    "evidence": "https://en.wikipedia.org/wiki/Ibn_Battuta"
+   }
+  ]
+ }
+}

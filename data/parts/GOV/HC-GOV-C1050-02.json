@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-C1050-02",
+ "year": 1050,
+ "yearEnd": 1450,
+ "dateLabel": "construction 11th-15th century",
+ "title": "Great Zimbabwe",
+ "system": "GOV",
+ "place": "Near Masvingo, Zimbabwe",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Ancestors of the Shona people built a stone city, settled from about 1000 CE, which became capital of the Kingdom of Great Zimbabwe in the 13th century.",
+ "why": "The largest stone structure in precolonial Southern Africa.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Great_Zimbabwe",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "HC-FOD-B5050-03",
+ "year": -5050,
+ "yearEnd": -4050,
+ "dateLabel": "c. 7,000-6,000 years ago",
+ "title": "Llamas and alpacas domesticated",
+ "system": "FOD",
+ "place": "Peruvian Andes",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "Llamas are domesticated from the guanaco and alpacas from the vicuña in the Peruvian Andes.",
+ "why": "The Andes' only large domestic animals: wool, meat and pack transport.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "domestication"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Domestication_of_animals",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

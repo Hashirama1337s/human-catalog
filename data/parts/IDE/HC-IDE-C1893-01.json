@@ -1,0 +1,29 @@
+{
+ "id": "HC-IDE-C1893-01",
+ "year": 1893,
+ "yearEnd": null,
+ "dateLabel": "1893",
+ "title": "Vivekananda at the Parliament of Religions",
+ "system": "IDE",
+ "place": "Chicago, United States",
+ "region": "North America",
+ "figures": [
+  "Swami Vivekananda"
+ ],
+ "summary": "Swami Vivekananda introduced Hindu philosophy to a large Western audience at the first Parliament of the World's Religions.",
+ "why": "Later recognised as the birth of the worldwide interfaith movement.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Parliament_of_the_World%27s_Religions",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "'Began dialogue between world religions' overclaims; source: 'recognized as the birth of the worldwide interfaith movement'.",
+    "evidence": "https://en.wikipedia.org/wiki/Parliament_of_the_World%27s_Religions"
+   }
+  ]
+ }
+}

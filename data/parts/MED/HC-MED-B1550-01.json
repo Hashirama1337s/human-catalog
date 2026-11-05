@@ -1,0 +1,21 @@
+{
+ "id": "HC-MED-B1550-01",
+ "year": -1550,
+ "yearEnd": null,
+ "dateLabel": "c. 1550 BCE",
+ "title": "Ebers Papyrus: herbal medicine handbook",
+ "system": "MED",
+ "place": "Egypt",
+ "region": "Africa",
+ "figures": [],
+ "summary": "One of the oldest and most important Egyptian medical papyri, full of herbal remedies and medical knowledge.",
+ "why": "A major record of early pharmacy and medicine.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ebers_Papyrus",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

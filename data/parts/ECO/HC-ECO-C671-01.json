@@ -1,0 +1,29 @@
+{
+ "id": "HC-ECO-C671-01",
+ "year": 671,
+ "yearEnd": null,
+ "dateLabel": "671 CE (earliest reference)",
+ "title": "Srivijaya sea-trading empire",
+ "system": "ECO",
+ "place": "Sumatra, Indonesia (probably near Palembang)",
+ "region": "Southeast Asia",
+ "figures": [
+  "Yijing"
+ ],
+ "summary": "The Chinese monk Yijing stayed six months in Srivijaya, a Buddhist kingdom that grew rich from sea trade.",
+ "why": "The first polity to dominate much of western maritime Southeast Asia.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Srivijaya",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Why broadened to all of maritime SE Asia's trade; Palembang as the seat is a theory in source.",
+    "evidence": "https://en.wikipedia.org/wiki/Srivijaya"
+   }
+  ]
+ }
+}

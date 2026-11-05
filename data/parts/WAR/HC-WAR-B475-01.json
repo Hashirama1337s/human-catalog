@@ -1,0 +1,21 @@
+{
+ "id": "HC-WAR-B475-01",
+ "year": -475,
+ "yearEnd": -221,
+ "dateLabel": "c. 475-221 BCE",
+ "title": "Warring States period in China",
+ "system": "WAR",
+ "place": "China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Rival Chinese states fought for supremacy while reforming their armies and governments, until Qin conquered all of them in 221 BCE.",
+ "why": "An era of war that also produced a flowering of philosophy and trade.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Warring_States_period",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

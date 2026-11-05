@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-C857-01",
+ "year": 857,
+ "yearEnd": 859,
+ "dateLabel": "857-859 CE",
+ "title": "Al-Qarawiyyin founded",
+ "system": "SCI",
+ "place": "Fez, Morocco",
+ "region": "Africa",
+ "figures": [
+  "Fatima al-Fihri"
+ ],
+ "summary": "Fatima al-Fihri founded a mosque that became a leading centre of learning.",
+ "why": "Became a leading educational centre of the Islamic Golden Age.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/University_of_al-Qarawiyyin",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

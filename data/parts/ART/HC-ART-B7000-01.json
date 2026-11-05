@@ -1,0 +1,23 @@
+{
+ "id": "HC-ART-B7000-01",
+ "year": -7000,
+ "yearEnd": -5700,
+ "dateLabel": "c. 7000-5700 BCE",
+ "title": "Jiahu crane-bone flutes",
+ "system": "ART",
+ "place": "Jiahu, Henan, China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Flutes carved from crane wing bones; later ones can play more notes.",
+ "why": "Playable instruments showing an early musical scale in China.",
+ "interchange": [
+  "Bone and ivory flutes in Germany, c. 42,000 years ago"
+ ],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Jiahu",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

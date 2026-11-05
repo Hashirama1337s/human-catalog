@@ -1,0 +1,38 @@
+{
+ "id": "HC-MIG-C1190-01",
+ "year": 1190,
+ "yearEnd": 1290,
+ "dateLabel": "c. 1190-1290 CE",
+ "title": "Polynesians reach Hawaiʻi",
+ "system": "MIG",
+ "place": "Hawaiian Islands, United States",
+ "region": "Oceania",
+ "figures": [],
+ "summary": "Voyagers from central East Polynesia sailed thousands of kilometres north to Hawaiʻi in a single major dispersal dated about 1190-1290 CE by the 2011 study.",
+ "why": "Long open-ocean voyages across the central Pacific.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "seafaring"
+ ],
+ "route": [
+  [
+   -17.5,
+   -149.8
+  ],
+  [
+   -9.0,
+   -140.0
+  ],
+  [
+   19.6,
+   -155.5
+  ]
+ ],
+ "confidence": "debated",
+ "source": "https://manoa.hawaii.edu/news/article.php?aId=4097",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

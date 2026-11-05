@@ -1,0 +1,21 @@
+{
+ "id": "HC-RCL-KA31-01",
+ "year": -29050,
+ "yearEnd": -14050,
+ "dateLabel": "c. 31,000-16,000 years ago",
+ "title": "Last Glacial Maximum",
+ "system": "RCL",
+ "place": "Worldwide",
+ "region": "Global",
+ "figures": [],
+ "summary": "Ice sheets reach their greatest extent during the last Ice Age.",
+ "why": "Lower seas opened land bridges; ice shaped where people could live.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

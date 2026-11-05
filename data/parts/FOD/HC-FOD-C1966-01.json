@@ -1,0 +1,21 @@
+{
+ "id": "HC-FOD-C1966-01",
+ "year": 1966,
+ "yearEnd": null,
+ "dateLabel": "1966",
+ "title": "IR8 'miracle rice'",
+ "system": "FOD",
+ "place": "Los Baños, Philippines",
+ "region": "Southeast Asia",
+ "figures": [],
+ "summary": "The International Rice Research Institute released IR8, a high-yield rice variety.",
+ "why": "Part of the Green Revolution that cut famine across Asia.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/IR8",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

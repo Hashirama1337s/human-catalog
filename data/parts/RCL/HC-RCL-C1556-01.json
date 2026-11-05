@@ -1,0 +1,21 @@
+{
+ "id": "HC-RCL-C1556-01",
+ "year": 1556,
+ "yearEnd": null,
+ "dateLabel": "1556",
+ "title": "Shaanxi earthquake",
+ "system": "RCL",
+ "place": "Shaanxi, China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "A massive earthquake struck northern China; many people lived in cave dwellings dug into soft loess cliffs that collapsed.",
+ "why": "One of the deadliest earthquakes in history.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/1556_Shaanxi_earthquake",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

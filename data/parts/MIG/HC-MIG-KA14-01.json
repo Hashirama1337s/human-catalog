@@ -1,0 +1,43 @@
+{
+ "id": "HC-MIG-KA14-01",
+ "year": -12550,
+ "yearEnd": null,
+ "dateLabel": "c. 14,500 years ago",
+ "title": "Monte Verde camp in southern Chile",
+ "system": "MIG",
+ "place": "Monte Verde, Los Lagos, Chile",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "A campsite generally dated to about 14,500 years ago helped overturn the idea that Clovis people were first. A 2026 study argues it is much younger.",
+ "why": "Key evidence that people reached far South America very early.",
+ "interchange": [],
+ "supersedes": "",
+ "route": [
+  [
+   53.0,
+   -132.0
+  ],
+  [
+   37.0,
+   -122.0
+  ],
+  [
+   9.0,
+   -79.5
+  ],
+  [
+   -12.0,
+   -77.0
+  ],
+  [
+   -41.5,
+   -73.2
+  ]
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Monte_Verde",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

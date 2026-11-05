@@ -1,0 +1,23 @@
+{
+ "id": "HC-TRN-C1957-01",
+ "year": 1957,
+ "yearEnd": null,
+ "dateLabel": "1957",
+ "title": "Sputnik 1, first artificial satellite",
+ "system": "TRN",
+ "place": "Baikonur, Kazakhstan",
+ "region": "Central Asia",
+ "figures": [
+  "Sergei Korolev"
+ ],
+ "summary": "The Soviet Union launched the first artificial satellite.",
+ "why": "Triggered the Space Race between the US and the Soviet Union.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Sputnik_1",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

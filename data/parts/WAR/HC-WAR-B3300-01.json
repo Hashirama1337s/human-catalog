@@ -1,0 +1,21 @@
+{
+ "id": "HC-WAR-B3300-01",
+ "year": -3300,
+ "yearEnd": null,
+ "dateLabel": "c. 3300 BCE",
+ "title": "Earliest swords",
+ "system": "WAR",
+ "place": "Arslantepe, Turkey",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "The earliest documented swords are found at Arslantepe.",
+ "why": "A weapon made only for fighting people.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

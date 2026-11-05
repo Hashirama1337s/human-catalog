@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-C1420-01",
+ "year": 1420,
+ "yearEnd": null,
+ "dateLabel": "1420",
+ "title": "Forbidden City",
+ "system": "GOV",
+ "place": "Beijing, China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "The imperial palace complex in Beijing became the centre of Chinese political power from 1420.",
+ "why": "Home of 24 Ming and Qing emperors until 1924.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Forbidden_City",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

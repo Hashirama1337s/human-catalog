@@ -1,0 +1,27 @@
+{
+ "id": "HC-GOV-C1902-01",
+ "year": 1902,
+ "yearEnd": null,
+ "dateLabel": "1902",
+ "title": "Australian women win the federal vote",
+ "system": "GOV",
+ "place": "Australia",
+ "region": "Oceania",
+ "figures": [],
+ "summary": "The Commonwealth Franchise Act of 1902 gave Australian women the right to vote and to stand for federal parliament, but excluded Indigenous Australians and people from Asia, Africa and the Pacific unless already enrolled.",
+ "why": "White women gained national voting rights early, while the same law shut out most Indigenous Australians.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Commonwealth_Franchise_Act_1902",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "'Full national political rights' for women is wrong: the Act excluded Indigenous, Asian, African and Pacific women too.",
+    "evidence": "https://en.wikipedia.org/wiki/Commonwealth_Franchise_Act_1902"
+   }
+  ]
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "id": "HC-WRT-B2100-01",
+ "year": -2100,
+ "yearEnd": -1600,
+ "dateLabel": "Middle Minoan I–III, roughly 2100–1600 BCE",
+ "title": "Undeciphered: Cretan hieroglyphs",
+ "system": "WRT",
+ "place": "Crete",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Crete's oldest script, used about a century before Linear A and then alongside it, remains undeciphered as of 2026.",
+ "why": "It is Crete's oldest script, the start of the Aegean writing family.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "writing",
+  "undeciphered",
+  "Minoan"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Cretan_hieroglyphs",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source dates the script to MM I-MM III (infobox); 1700 BCE end is not supported.",
+    "evidence": "https://en.wikipedia.org/wiki/Cretan_hieroglyphs"
+   }
+  ]
+ },
+ "kind": "open",
+ "question": "What language do the Cretan hieroglyphs record?",
+ "evidence": "About 150 seal documents and 120 clay documents counted by 1989, with later finds such as the Petras deposit adding more.",
+ "wouldSettle": "A breakthrough on Linear A or a bilingual find linking hieroglyphic signs to a known language.",
+ "theories": []
+}

@@ -1,0 +1,27 @@
+{
+ "id": "HC-TEC-KA48-01",
+ "year": -46050,
+ "yearEnd": -43050,
+ "dateLabel": "c. 48,000-45,000 years ago",
+ "title": "Early microliths in Sri Lanka",
+ "system": "TEC",
+ "place": "Fa-Hien Lena Cave, Sri Lanka",
+ "region": "South Asia",
+ "figures": [],
+ "summary": "Tiny stone blades appear at Fa-Hien Lena Cave, the earliest known microlith assemblage in South Asia.",
+ "why": "Small replaceable parts: an early modular tool design.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Microlith",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Overclaim: source study says 'earliest microlith assemblage in South Asia'; Pinnacle Point (South Africa) microliths date to ~71,000 years (Brown et al. 2012, Nature, doi:10.1038/nature11660). Source also has microliths in Magdalenian Europe, contradicting 'only in the early Holocene'.",
+    "evidence": "https://en.wikipedia.org/wiki/Microlith"
+   }
+  ]
+ }
+}

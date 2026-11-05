@@ -1,0 +1,31 @@
+{
+ "id": "HC-MIG-C1025-01",
+ "year": 1025,
+ "yearEnd": 1120,
+ "dateLabel": "c. 1025-1120 CE",
+ "title": "Polynesians settle the Society Islands",
+ "system": "MIG",
+ "place": "Society Islands, French Polynesia",
+ "region": "Oceania",
+ "figures": [],
+ "summary": "A 2011 study of over 1,400 radiocarbon dates found the Society Islands were the first part of East Polynesia settled, about 1025-1120 CE. The chronology is still debated.",
+ "why": "The launch point for the last great human settlement of empty lands.",
+ "interchange": [],
+ "supersedes": "",
+ "route": [
+  [
+   -13.8,
+   -172.0
+  ],
+  [
+   -17.5,
+   -149.8
+  ]
+ ],
+ "confidence": "debated",
+ "source": "https://manoa.hawaii.edu/news/article.php?aId=4097",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

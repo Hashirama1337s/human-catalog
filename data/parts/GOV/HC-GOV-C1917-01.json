@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1917-01",
+ "year": 1917,
+ "yearEnd": null,
+ "dateLabel": "1917",
+ "title": "Russian Revolution",
+ "system": "GOV",
+ "place": "Petrograd (Saint Petersburg), Russia",
+ "region": "Europe",
+ "figures": [
+  "Vladimir Lenin"
+ ],
+ "summary": "Revolutions toppled the Tsar and brought Lenin's Bolsheviks to power.",
+ "why": "Led to the Soviet Union.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Russian_Revolution",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

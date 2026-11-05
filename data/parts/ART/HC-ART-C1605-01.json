@@ -1,0 +1,23 @@
+{
+ "id": "HC-ART-C1605-01",
+ "year": 1605,
+ "yearEnd": null,
+ "dateLabel": "1605",
+ "title": "Don Quixote published",
+ "system": "ART",
+ "place": "Madrid, Spain",
+ "region": "Europe",
+ "figures": [
+  "Miguel de Cervantes"
+ ],
+ "summary": "Cervantes published the first part of his story about a man who reads too many chivalry tales and sets out as a knight.",
+ "why": "Often called the first modern novel.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Don_Quixote",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

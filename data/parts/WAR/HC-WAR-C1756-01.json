@@ -1,0 +1,27 @@
+{
+ "id": "HC-WAR-C1756-01",
+ "year": 1756,
+ "yearEnd": 1763,
+ "dateLabel": "1756-1763",
+ "title": "Seven Years' War",
+ "system": "WAR",
+ "place": "Europe, North America, India and beyond",
+ "region": "Global",
+ "figures": [],
+ "summary": "Britain and France and their allies fought across several continents.",
+ "why": "A global conflict of great powers; Britain won France's North American lands east of the Mississippi and trade dominance in India.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Seven_Years%27_War",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Often called the first global war' is not in the source lead, which calls it 'a global conflict fought by numerous great powers'.",
+    "evidence": "https://en.wikipedia.org/wiki/Seven_Years%27_War"
+   }
+  ]
+ }
+}

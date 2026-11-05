@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C650-01",
+ "year": 650,
+ "yearEnd": null,
+ "dateLabel": "7th century CE",
+ "title": "Tibetan Empire",
+ "system": "GOV",
+ "place": "Lhasa, Tibet, China",
+ "region": "East Asia",
+ "figures": [
+  "Songtsen Gampo"
+ ],
+ "summary": "King Songtsen Gampo expanded the Yarlung kingdom into an empire and moved its capital to Lhasa.",
+ "why": "At its peak it reached Chang'an and the Bay of Bengal.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Tibetan_Empire",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

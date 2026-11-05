@@ -1,0 +1,24 @@
+{
+ "id": "HC-GOV-C1571-01",
+ "year": 1571,
+ "yearEnd": null,
+ "dateLabel": "1571",
+ "title": "Spain makes Manila its colonial capital",
+ "system": "GOV",
+ "place": "Manila, Philippines",
+ "region": "Southeast Asia",
+ "figures": [
+  "Miguel Lopez de Legazpi",
+  "Rajah Sulayman"
+ ],
+ "summary": "In 1571 Spaniards under Legazpi occupied the burned ruins of Maynila, ruled by Rajah Sulayman, and named Manila a city. It served as the capital of Spain's Philippines from then on.",
+ "why": "Manila became the seat of Spanish rule in the Philippines.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/History_of_Manila",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

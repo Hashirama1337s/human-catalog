@@ -1,0 +1,30 @@
+{
+ "id": "HC-WAR-C1592-01",
+ "year": 1592,
+ "yearEnd": 1598,
+ "dateLabel": "1592-1598",
+ "title": "Japanese invasions of Korea",
+ "system": "WAR",
+ "place": "Korean Peninsula",
+ "region": "East Asia",
+ "figures": [
+  "Toyotomi Hideyoshi",
+  "Yi Sun-sin"
+ ],
+ "summary": "Japan twice invaded Korea; Korean and Ming Chinese forces, with admiral Yi Sun-sin's navy, fought them to a stalemate, and Japan withdrew in 1598 after Hideyoshi's death.",
+ "why": "Devastated Korea and drained Ming China.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Imjin_War",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'drove the invaders out' overstated",
+    "evidence": "https://en.wikipedia.org/wiki/Imjin_War"
+   }
+  ]
+ }
+}

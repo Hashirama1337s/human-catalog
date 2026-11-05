@@ -1,0 +1,23 @@
+{
+ "id": "HC-WAR-C1955-01",
+ "year": 1955,
+ "yearEnd": 1975,
+ "dateLabel": "1955-1975",
+ "title": "Vietnam War",
+ "system": "WAR",
+ "place": "Vietnam, Laos and Cambodia",
+ "region": "Southeast Asia",
+ "figures": [
+  "Ho Chi Minh"
+ ],
+ "summary": "North Vietnam and its allies fought South Vietnam and the US; it ended with Saigon's fall.",
+ "why": "A defining Cold War conflict.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Vietnam_War",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "id": "HC-SCI-C1843-01",
+ "year": 1843,
+ "yearEnd": null,
+ "dateLabel": "1843",
+ "title": "Ada Lovelace's notes on the Analytical Engine",
+ "system": "SCI",
+ "place": "London, England",
+ "region": "Europe",
+ "figures": [
+  "Ada Lovelace",
+  "Charles Babbage"
+ ],
+ "summary": "Ada Lovelace published notes on Babbage's planned Analytical Engine, including Note G, a method for computing Bernoulli numbers on the machine. She is often called the first computer programmer, a label historians dispute.",
+ "why": "An early written program and vision of what a general computing machine could do.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Ada_Lovelace",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "HC-TEC-C1971-01",
+ "year": 1971,
+ "yearEnd": null,
+ "dateLabel": "1971",
+ "title": "Intel 4004, first microprocessor for general sale",
+ "system": "TEC",
+ "place": "Silicon Valley, California, United States",
+ "region": "North America",
+ "figures": [
+  "Federico Faggin"
+ ],
+ "summary": "Intel released the 4004, the first microprocessor sold for general use: a computer processor on one chip. A few earlier designs existed only inside other products.",
+ "why": "Put a computer's processor on one chip that anyone could buy.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Intel_4004",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source says 'first commercial microprocessor available for general use' (Four-Phase AL1 was in a product earlier); 'Santa Clara' is today's HQ, not given by source for 1971.",
+    "evidence": "https://en.wikipedia.org/wiki/Intel_4004"
+   },
+   {
+    "problem": "Bare 'first commercial microprocessor' overreaches: source says 4004 was first 'available for general use' and Four-Phase AL1 was first in a commercial product; 'made PCs possible' overclaims.",
+    "evidence": "https://en.wikipedia.org/wiki/Intel_4004"
+   }
+  ]
+ }
+}

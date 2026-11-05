@@ -1,0 +1,51 @@
+{
+ "id": "HC-RCL-C550-01",
+ "year": 550,
+ "yearEnd": 750,
+ "dateLabel": "c. 550–750 CE",
+ "title": "Why Teotihuacan fell",
+ "system": "RCL",
+ "place": "Valley of Mexico",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "Teotihuacan's monuments were sacked and burned around 550 CE. Older invasion theories have given way to internal unrest and drought, two hypotheses that are not mutually exclusive.",
+ "why": "A great city's ruling centre burned, possibly at the hands of its own people.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "collapse",
+  "Mesoamerica",
+  "cities"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Teotihuacan",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source hedges: 'Some think' revolt; collapse 'might be related' to 535-536. Record stated both as fact.",
+    "evidence": "https://en.wikipedia.org/wiki/Teotihuacan"
+   }
+  ]
+ },
+ "kind": "open",
+ "question": "What caused the fall of Teotihuacan, the great city of central Mexico?",
+ "evidence": "Burning focused on ruling-class buildings with no clear signs of foreign invasion; juvenile skeletons show malnutrition; possible link to the 535–536 climate event.",
+ "wouldSettle": "Precise dating of the burning set against climate records and evidence of who attacked elite buildings.",
+ "theories": [
+  {
+   "name": "Internal revolt",
+   "idea": "Civil strife and elite power struggles destroyed the ruling-class centre."
+  },
+  {
+   "name": "Drought and famine",
+   "idea": "The extreme weather of 535–536 caused crop failures and hunger."
+  },
+  {
+   "name": "Foreign invasion",
+   "idea": "An earlier view that invaders destroyed the city, now less favoured."
+  }
+ ]
+}

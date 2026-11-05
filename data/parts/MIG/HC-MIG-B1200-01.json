@@ -1,0 +1,49 @@
+{
+ "id": "HC-MIG-B1200-01",
+ "year": -1200,
+ "yearEnd": -900,
+ "dateLabel": "c. 1200-900 BCE",
+ "title": "Lapita voyagers reach Remote Oceania",
+ "system": "MIG",
+ "place": "Bismarck Archipelago to Vanuatu, Fiji, Tonga and Samoa",
+ "region": "Oceania",
+ "figures": [],
+ "summary": "Lapita potters sailed east from the Bismarck Archipelago, arriving in Vanuatu, Fiji, Tonga and Samoa about 1000-900 BCE. DNA from four skeletons (2016) links them to Taiwan and the Philippines.",
+ "why": "Among the first to cross open ocean into Remote Oceania; the Marianas were reached earlier, by 1500 BCE.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics",
+  "seafaring"
+ ],
+ "route": [
+  [
+   -4.0,
+   152.0
+  ],
+  [
+   -17.7,
+   168.3
+  ],
+  [
+   -18.0,
+   178.0
+  ],
+  [
+   -21.1,
+   -175.2
+  ]
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Lapita_culture",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Contradicted: Austronesians settled the Mariana Islands by 1500 BCE, 'becoming the first humans to reach Remote Oceania', before Lapita.",
+    "evidence": "https://en.wikipedia.org/wiki/Austronesian_peoples"
+   }
+  ]
+ }
+}

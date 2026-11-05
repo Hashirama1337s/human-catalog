@@ -1,0 +1,23 @@
+{
+ "id": "HC-WRT-C1782-01",
+ "year": 1782,
+ "yearEnd": null,
+ "dateLabel": "1782",
+ "title": "Siku Quanshu library completed",
+ "system": "WRT",
+ "place": "Beijing, China",
+ "region": "East Asia",
+ "figures": [
+  "Qianlong Emperor"
+ ],
+ "summary": "The Qianlong Emperor's scholars copied thousands of works into a vast hand-written collection.",
+ "why": "The largest collection of Chinese writings of imperial times.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Siku_Quanshu",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

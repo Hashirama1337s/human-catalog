@@ -1,0 +1,30 @@
+{
+ "id": "HC-ECO-B1500-01",
+ "year": -1500,
+ "yearEnd": null,
+ "dateLabel": "c. 1500-600 BCE",
+ "title": "Austronesian sea trade reaches South Asia",
+ "system": "ECO",
+ "place": "Maritime Southeast Asia to South Asia",
+ "region": "Southeast Asia",
+ "figures": [],
+ "summary": "Austronesian sailors of Island Southeast Asia set up spice and crop trade links with southern India and Sri Lanka, spreading outrigger boats and plants such as coconut and banana.",
+ "why": "The Indian Ocean became the 'cradle' of global trade, linking Asia, Arabia and Africa for millennia.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "seafaring"
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Indian_Ocean_trade",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "3000 BCE impossible: Austronesians reached northern Philippines c. 2200 BCE; links to South India and Sri Lanka c. 1500-600 BCE.",
+    "evidence": "https://en.wikipedia.org/wiki/Austronesian_peoples"
+   }
+  ]
+ }
+}

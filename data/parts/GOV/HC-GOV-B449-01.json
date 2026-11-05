@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-B449-01",
+ "year": -449,
+ "yearEnd": null,
+ "dateLabel": "449 BCE",
+ "title": "Twelve Tables of Roman law",
+ "system": "GOV",
+ "place": "Rome, Italy",
+ "region": "Europe",
+ "figures": [],
+ "summary": "After protests by the common people, Rome wrote down its laws on twelve tables displayed in the Forum.",
+ "why": "The foundation of Roman law, ancestor of many legal systems.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Twelve_Tables",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "HC-SCI-C2014-01",
+ "year": 2014,
+ "yearEnd": null,
+ "dateLabel": "13 February 2014",
+ "title": "Anzick child genome links Clovis to Native Americans",
+ "system": "SCI",
+ "place": "Near Wilsall, Montana, United States",
+ "region": "North America",
+ "figures": [],
+ "summary": "The genome of a Clovis-era child buried about 12,900 years ago (found 1968) was closest to Native Americans, especially those of Central and South America.",
+ "why": "Linked Clovis-era people to living Native Americans, especially those of Central and South America.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Anzick-1",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Today's Native Americans descend from' overclaims; source: closer relationship to Amerindians of Central and South America than to those of North America.",
+    "evidence": "https://en.wikipedia.org/wiki/Anzick-1"
+   }
+  ]
+ }
+}

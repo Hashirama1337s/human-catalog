@@ -1,0 +1,21 @@
+{
+ "id": "HC-RCL-C1257-01",
+ "year": 1257,
+ "yearEnd": null,
+ "dateLabel": "1257 CE",
+ "title": "Samalas eruption",
+ "system": "RCL",
+ "place": "Lombok, Indonesia",
+ "region": "Southeast Asia",
+ "figures": [],
+ "summary": "A catastrophic eruption of Samalas left a huge caldera.",
+ "why": "One of the largest volcanic eruptions of the Holocene.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/1257_Samalas_eruption",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

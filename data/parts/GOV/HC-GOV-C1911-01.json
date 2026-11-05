@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1911-01",
+ "year": 1911,
+ "yearEnd": null,
+ "dateLabel": "1911",
+ "title": "Xinhai Revolution ends imperial China",
+ "system": "GOV",
+ "place": "Wuchang, China",
+ "region": "East Asia",
+ "figures": [
+  "Sun Yat-sen"
+ ],
+ "summary": "A revolution overthrew the Qing dynasty and founded the Republic of China.",
+ "why": "Ended China's last imperial dynasty.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/1911_Revolution",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

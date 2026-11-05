@@ -1,0 +1,24 @@
+{
+ "id": "HC-WAR-C1900-01",
+ "year": 1900,
+ "yearEnd": null,
+ "dateLabel": "March-September 1900",
+ "title": "Yaa Asantewaa and the War of the Golden Stool",
+ "system": "WAR",
+ "place": "Kumasi, Ghana",
+ "region": "Africa",
+ "figures": [
+  "Yaa Asantewaa",
+  "Frederick Hodgson"
+ ],
+ "summary": "When British governor Hodgson demanded the sacred Golden Stool, Queen Mother Yaa Asantewaa raised a force against the British. Britain won and exiled her to the Seychelles, but the Asante kept the Stool hidden.",
+ "why": "A woman-led war over a sacred symbol; the Stool was never handed over.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/War_of_the_Golden_Stool",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

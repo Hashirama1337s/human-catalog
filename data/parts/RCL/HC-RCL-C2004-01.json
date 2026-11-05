@@ -1,0 +1,21 @@
+{
+ "id": "HC-RCL-C2004-01",
+ "year": 2004,
+ "yearEnd": null,
+ "dateLabel": "2004",
+ "title": "Indian Ocean tsunami",
+ "system": "RCL",
+ "place": "Indian Ocean coasts",
+ "region": "Global",
+ "figures": [],
+ "summary": "An undersea earthquake off Sumatra caused tsunamis that killed about 230,000 people in 14 countries.",
+ "why": "Among the deadliest natural disasters on record.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

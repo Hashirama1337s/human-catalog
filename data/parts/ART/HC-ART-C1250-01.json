@@ -1,0 +1,21 @@
+{
+ "id": "HC-ART-C1250-01",
+ "year": 1250,
+ "yearEnd": 1500,
+ "dateLabel": "1250-1500 CE",
+ "title": "Moai of Rapa Nui",
+ "system": "ART",
+ "place": "Easter Island (Rapa Nui), Chile",
+ "region": "Oceania",
+ "figures": [],
+ "summary": "The Rapa Nui people carved nearly 1,000 stone figures and moved many onto platforms around the island.",
+ "why": "Icons of Polynesian achievement on one of Earth's remotest islands.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Moai",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "id": "HC-FOD-KA14-01",
+ "year": -12450,
+ "yearEnd": null,
+ "dateLabel": "c. 14,400 years ago",
+ "title": "Oldest known bread-like food",
+ "system": "FOD",
+ "place": "Shubayqa 1, Jordan",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "Natufian foragers bake bread-like food about 4,000 years before farming begins in the region.",
+ "why": "Bread came before farming, and may have encouraged it.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Natufian_culture",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Title stronger than source and summary: 'oldest known evidence of the production of bread-like foodstuff'.",
+    "evidence": "https://en.wikipedia.org/wiki/Natufian_culture"
+   }
+  ]
+ }
+}

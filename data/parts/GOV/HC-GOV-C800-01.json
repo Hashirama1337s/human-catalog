@@ -1,0 +1,29 @@
+{
+ "id": "HC-GOV-C800-01",
+ "year": 800,
+ "yearEnd": null,
+ "dateLabel": "800 CE",
+ "title": "Charlemagne crowned emperor",
+ "system": "GOV",
+ "place": "St Peter's Basilica, Rome, Italy",
+ "region": "Europe",
+ "figures": [
+  "Charlemagne"
+ ],
+ "summary": "Charlemagne, king of the Franks, was crowned emperor, uniting most of Western and Central Europe.",
+ "why": "First recognised emperor in the West since Rome's fall.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Charlemagne",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Place: coronation was in Rome by Pope Leo III, not 'Frankish realm'.",
+    "evidence": "https://en.wikipedia.org/wiki/Charlemagne"
+   }
+  ]
+ }
+}

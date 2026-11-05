@@ -1,0 +1,31 @@
+{
+ "id": "HC-ART-KA40-01",
+ "year": -38050,
+ "yearEnd": null,
+ "dateLabel": "c. 40,000 years ago",
+ "title": "Venus of Hohle Fels",
+ "system": "ART",
+ "place": "Hohle Fels, Germany",
+ "region": "Europe",
+ "figures": [],
+ "summary": "A small carved figure of a woman, the oldest known carved figure of a human.",
+ "why": "One of the oldest known images of the human body, carved in the round.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Cited timeline says 'oldest known'; the figure's own page says 'oldest undisputed example of a depiction of a human being' (older claims exist).",
+    "evidence": "https://en.wikipedia.org/wiki/Venus_of_Hohle_Fels"
+   },
+   {
+    "problem": "'Oldest undisputed depiction of a human' conflicts with the catalog's own 51,200-year Sulawesi human-like figures; source says 'oldest known figurative art of a human figure'.",
+    "evidence": "https://en.wikipedia.org/wiki/Timeline_of_prehistory"
+   }
+  ]
+ }
+}

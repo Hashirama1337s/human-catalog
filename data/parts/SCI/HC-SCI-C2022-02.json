@@ -1,0 +1,29 @@
+{
+ "id": "HC-SCI-C2022-02",
+ "year": 2022,
+ "yearEnd": null,
+ "dateLabel": "3 October 2022",
+ "title": "Nobel Prize for Svante Pääbo",
+ "system": "SCI",
+ "place": "Stockholm, Sweden",
+ "region": "Europe",
+ "figures": [
+  "Svante Pääbo"
+ ],
+ "summary": "Pääbo was announced as winner of the Nobel Prize in Physiology or Medicine 'for his discoveries concerning the genomes of extinct hominins and human evolution'.",
+ "why": "Recognised ancient-DNA science as a new way to read human origins.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Svante_P%C3%A4%C3%A4bo",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Date is the announcement (3 Oct); 'received' happens at the December ceremony.",
+    "evidence": "https://en.wikipedia.org/wiki/Svante_P%C3%A4%C3%A4bo"
+   }
+  ]
+ }
+}

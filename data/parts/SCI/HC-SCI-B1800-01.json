@@ -1,0 +1,27 @@
+{
+ "id": "HC-SCI-B1800-01",
+ "year": -1800,
+ "yearEnd": null,
+ "dateLabel": "c. 1800 BCE",
+ "title": "Plimpton 322: Babylonian table of Pythagorean triples",
+ "system": "SCI",
+ "place": "Babylonia (southern Iraq)",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "A clay tablet whose rows each relate to a whole-number triple fitting a squared plus b squared equals c squared, more than a thousand years before Pythagoras.",
+ "why": "Shows advanced Babylonian mathematics; most surviving Babylonian maths tablets date from 1800-1600 BCE.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Plimpton_322",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Overstates the table: source says 'Each row of the table relates to a Pythagorean triple'; the tablet does not list all three numbers of each triple.",
+    "evidence": "https://en.wikipedia.org/wiki/Plimpton_322"
+   }
+  ]
+ }
+}

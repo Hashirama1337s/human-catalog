@@ -1,0 +1,23 @@
+{
+ "id": "HC-ART-C1181-01",
+ "year": 1181,
+ "yearEnd": 1221,
+ "dateLabel": "traditionally reign of Lalibela (c. 1181-1221)",
+ "title": "Rock-cut churches of Lalibela",
+ "system": "ART",
+ "place": "Lalibela, Ethiopia",
+ "region": "Africa",
+ "figures": [
+  "Gebre Meskel Lalibela"
+ ],
+ "summary": "Churches carved from solid rock, traditionally credited to King Lalibela.",
+ "why": "A holy pilgrimage site and wonder of Ethiopian building.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Lalibela",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

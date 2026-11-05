@@ -1,0 +1,23 @@
+{
+ "id": "HC-TRN-C629-01",
+ "year": 629,
+ "yearEnd": 645,
+ "dateLabel": "629-645 CE",
+ "title": "Xuanzang's journey to India",
+ "system": "TRN",
+ "place": "Chang'an, China to India",
+ "region": "Central Asia",
+ "figures": [
+  "Xuanzang"
+ ],
+ "summary": "The Chinese monk travelled to India and wrote an account of his journey.",
+ "why": "Brought at least 657 Indian texts to China and translated many.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Xuanzang",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

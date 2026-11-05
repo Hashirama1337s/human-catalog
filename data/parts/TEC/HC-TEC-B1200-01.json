@@ -1,0 +1,24 @@
+{
+ "id": "HC-TEC-B1200-01",
+ "year": -1200,
+ "yearEnd": null,
+ "dateLabel": "12th century BCE (Near East)",
+ "title": "Iron Age begins in the Near East",
+ "system": "TEC",
+ "place": "Ancient Near East and Anatolia",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "As the Bronze Age world collapsed, iron replaced bronze for tools and weapons in the Near East, spreading to the Mediterranean and South Asia by the 11th century BCE.",
+ "why": "Iron weapons replaced bronze across the Near East by the start of the 1st millennium BCE.",
+ "interchange": [],
+ "supersedes": "Bronze tools and weapons",
+ "tags": [
+  "metalworking"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Iron_Age",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

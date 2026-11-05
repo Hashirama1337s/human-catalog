@@ -1,0 +1,29 @@
+{
+ "id": "HC-ART-B2100-01",
+ "year": -2100,
+ "yearEnd": null,
+ "dateLabel": "c. 2100 BCE (earliest Sumerian poems)",
+ "title": "Epic of Gilgamesh: oldest surviving story",
+ "system": "ART",
+ "place": "Uruk, Iraq",
+ "region": "West Asia",
+ "figures": [
+  "Gilgamesh"
+ ],
+ "summary": "Sumerian poems about Gilgamesh, king of Uruk, some possibly dating to about 2100 BCE, were later combined into an Akkadian epic about friendship, death and the search for immortality.",
+ "why": "The world's oldest surviving example of narrative literature.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Source says only some poems 'may date' to c. 2100 BCE; summary stated it as fact.",
+    "evidence": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh"
+   }
+  ]
+ }
+}

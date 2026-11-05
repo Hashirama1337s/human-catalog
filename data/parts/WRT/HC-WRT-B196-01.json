@@ -1,0 +1,32 @@
+{
+ "id": "HC-WRT-B196-01",
+ "year": -196,
+ "yearEnd": null,
+ "dateLabel": "196 BCE",
+ "title": "Rosetta Stone carved",
+ "system": "WRT",
+ "place": "Egypt (probably a temple at Sais; found at Rashid)",
+ "region": "Africa",
+ "figures": [
+  "Ptolemy V"
+ ],
+ "summary": "A decree for King Ptolemy V was carved in hieroglyphic, Demotic and Greek.",
+ "why": "The parallel texts were the key to deciphering Egyptian scripts.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "writing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Wrong place for 'carved': source says it was 'almost certainly not originally placed at Rashid (Rosetta) where it was found', possibly from Sais.",
+    "evidence": "https://en.wikipedia.org/wiki/Rosetta_Stone"
+   }
+  ]
+ }
+}

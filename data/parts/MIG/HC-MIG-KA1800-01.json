@@ -1,0 +1,41 @@
+{
+ "id": "HC-MIG-KA1800-01",
+ "year": -1798050,
+ "yearEnd": null,
+ "dateLabel": "c. 1.8 million years ago",
+ "title": "Carried over: Homo erectus spreads out of Africa",
+ "system": "MIG",
+ "place": "Africa into Eurasia",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Homo erectus, an earlier human species, spreads from Africa into Eurasia by about 1.8 million years ago. Stone tools in China dated to 2.1 million years ago suggest even earlier exits.",
+ "why": "Shows Africa-to-Eurasia routes were open to humans long before us.",
+ "interchange": [],
+ "supersedes": "",
+ "route": [
+  [
+   9.0,
+   39.0
+  ],
+  [
+   30.0,
+   32.5
+  ],
+  [
+   41.4,
+   44.3
+  ]
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Early_human_migrations",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'First exit' overclaims: source says expansions began ~2 million years ago and cites Shangchen tools at 2.12 Ma, 300,000 years before Dmanisi.",
+    "evidence": "https://en.wikipedia.org/wiki/Early_human_migrations"
+   }
+  ]
+ }
+}

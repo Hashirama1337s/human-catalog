@@ -1,0 +1,32 @@
+{
+ "id": "HC-FOD-B8500-01",
+ "year": -8500,
+ "yearEnd": null,
+ "dateLabel": "c. 8500 BCE",
+ "title": "Cattle domesticated",
+ "system": "FOD",
+ "place": "Fertile Crescent",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "The earliest supposed date for domesticating cattle.",
+ "why": "Cattle gave milk, meat, leather and pulling power.",
+ "interchange": [
+  "Zebu cattle domesticated separately in the Indian subcontinent (now Pakistan)"
+ ],
+ "supersedes": "",
+ "tags": [
+  "domestication"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Cattle article says separate zebu domestication 'in the Indian subcontinent' / 'now Pakistan'; Mehrgarh is not named.",
+    "evidence": "https://en.wikipedia.org/wiki/Timeline_of_prehistory"
+   }
+  ]
+ }
+}

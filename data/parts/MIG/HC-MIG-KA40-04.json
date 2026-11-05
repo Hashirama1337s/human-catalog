@@ -1,0 +1,24 @@
+{
+ "id": "HC-MIG-KA40-04",
+ "year": -38050,
+ "yearEnd": -28050,
+ "dateLabel": "c. 40,000-30,000 years ago",
+ "title": "Tibetan Plateau settled; Denisovan high-altitude gene",
+ "system": "MIG",
+ "place": "Tibetan Plateau, China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "People lived on the Tibetan Plateau by about 40,000-30,000 years ago. Most Tibetans today carry an EPAS1 gene variant, inherited from Denisovans, that helps the body cope with thin air.",
+ "why": "A gene from an extinct human group now helps millions live at high altitude.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Tibetan_people",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

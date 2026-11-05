@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-B1046-01",
+ "year": -1046,
+ "yearEnd": -256,
+ "dateLabel": "c. 1046-256 BCE",
+ "title": "Zhou dynasty",
+ "system": "GOV",
+ "place": "Wei River valley, China",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "The Zhou overthrew the Shang and ruled for about 790 years, though their real power faded during the Eastern Zhou.",
+ "why": "The longest-lasting dynasty in Chinese history; the age of Confucius and Laozi.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Zhou_dynasty",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "HC-WAR-C1337-01",
+ "year": 1337,
+ "yearEnd": 1453,
+ "dateLabel": "1337-1453",
+ "title": "Hundred Years' War",
+ "system": "WAR",
+ "place": "France",
+ "region": "Europe",
+ "figures": [
+  "Edward III"
+ ],
+ "summary": "England and France fought a long series of wars over the French throne and the Duchy of Aquitaine.",
+ "why": "Fed emerging national feeling in both countries.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Hundred_Years%27_War",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

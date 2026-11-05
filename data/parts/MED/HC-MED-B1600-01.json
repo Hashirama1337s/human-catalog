@@ -1,0 +1,27 @@
+{
+ "id": "HC-MED-B1600-01",
+ "year": -1600,
+ "yearEnd": null,
+ "dateLabel": "c. 1600 BCE (copy)",
+ "title": "Edwin Smith Papyrus: oldest known trauma surgery text",
+ "system": "MED",
+ "place": "Egypt",
+ "region": "Africa",
+ "figures": [],
+ "summary": "An Egyptian manual describing 48 cases of wounds, fractures, dislocations and tumours, with examination and treatment, largely without magic.",
+ "why": "The oldest known surgical treatise on trauma; a rational, case-by-case approach to medicine.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Edwin_Smith_Papyrus",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source: 'oldest known surgical treatise on trauma', not oldest surgical text.",
+    "evidence": "https://en.wikipedia.org/wiki/Edwin_Smith_Papyrus"
+   }
+  ]
+ }
+}

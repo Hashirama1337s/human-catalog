@@ -1,0 +1,24 @@
+{
+ "id": "HC-WAR-C1767-01",
+ "year": 1767,
+ "yearEnd": null,
+ "dateLabel": "1767",
+ "title": "Fall of Ayutthaya",
+ "system": "WAR",
+ "place": "Ayutthaya, Thailand",
+ "region": "Southeast Asia",
+ "figures": [
+  "Ekkathat",
+  "Taksin"
+ ],
+ "summary": "Burmese forces took Ayutthaya, the Siamese royal capital for four centuries, on 7 April 1767, burning palaces and temples. Taksin retook the area that year and moved the capital to Thonburi.",
+ "why": "Ended the 417-year Ayutthaya Kingdom; Siam's capital moved to Thonburi.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1765%E2%80%931767)",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-B911-01",
+ "year": -911,
+ "yearEnd": -609,
+ "dateLabel": "911 BCE onward",
+ "title": "Neo-Assyrian Empire",
+ "system": "GOV",
+ "place": "Assyria (northern Iraq)",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "From 911 BCE the Assyrian kings built an empire across the Near East, later ruled from Nineveh, reaching Egypt under Esarhaddon.",
+ "why": "The largest empire in history up to that time, sometimes called the first world empire.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Neo-Assyrian_Empire",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

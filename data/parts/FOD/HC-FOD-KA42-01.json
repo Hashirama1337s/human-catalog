@@ -1,0 +1,21 @@
+{
+ "id": "HC-FOD-KA42-01",
+ "year": -40050,
+ "yearEnd": null,
+ "dateLabel": "c. 42,000 years ago",
+ "title": "Deep-sea fishing",
+ "system": "FOD",
+ "place": "Jerimalai cave, East Timor",
+ "region": "Southeast Asia",
+ "figures": [],
+ "summary": "People at Jerimalai catch deep-sea fish, the earliest evidence of advanced offshore fishing.",
+ "why": "Shows seafaring skill in island Southeast Asia very early.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

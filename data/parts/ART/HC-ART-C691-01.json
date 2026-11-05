@@ -1,0 +1,23 @@
+{
+ "id": "HC-ART-C691-01",
+ "year": 691,
+ "yearEnd": 692,
+ "dateLabel": "691-692 CE",
+ "title": "Dome of the Rock",
+ "system": "ART",
+ "place": "Jerusalem",
+ "region": "West Asia",
+ "figures": [
+  "Abd al-Malik"
+ ],
+ "summary": "The Umayyad caliph Abd al-Malik built an octagonal shrine over the Foundation Stone.",
+ "why": "The world's oldest surviving work of Islamic architecture.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Dome_of_the_Rock",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "HC-TEC-B6500-01",
+ "year": -6500,
+ "yearEnd": null,
+ "dateLabel": "c. 6500 BCE",
+ "title": "Copper tools in the Great Lakes",
+ "system": "TEC",
+ "place": "Great Lakes region, North America",
+ "region": "North America",
+ "figures": [],
+ "summary": "The Old Copper Complex hammers native copper from around Lake Superior into tools. Dates here run from about 6500 BCE.",
+ "why": "Metalworking invented independently in the Americas.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "metalworking"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Old_Copper_complex",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Interchange compares different techniques: Balkan ore smelting vs cold-hammered native copper; not a parallel invention.",
+    "evidence": "https://en.wikipedia.org/wiki/Old_Copper_complex"
+   }
+  ]
+ }
+}

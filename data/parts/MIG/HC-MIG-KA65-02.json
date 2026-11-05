@@ -1,0 +1,39 @@
+{
+ "id": "HC-MIG-KA65-02",
+ "year": -63050,
+ "yearEnd": -48050,
+ "dateLabel": "c. 65,000-50,000 years ago",
+ "title": "Humans reach Australia (Madjedbebe)",
+ "system": "MIG",
+ "place": "Madjedbebe, Australia",
+ "region": "Oceania",
+ "figures": [],
+ "summary": "Madjedbebe holds the oldest human habitation evidence in Australia. Getting there required crossing open sea. The older end of the date is contested.",
+ "why": "First people of Australia; one of the longest continuous cultures on Earth.",
+ "interchange": [],
+ "supersedes": "",
+ "route": [
+  [
+   5.0,
+   100.0
+  ],
+  [
+   -2.0,
+   118.0
+  ],
+  [
+   -9.0,
+   125.0
+  ],
+  [
+   -12.5,
+   133.0
+  ]
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

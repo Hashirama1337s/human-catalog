@@ -1,0 +1,29 @@
+{
+ "id": "HC-WRT-B650-01",
+ "year": -650,
+ "yearEnd": null,
+ "dateLabel": "7th century BCE",
+ "title": "Library of Ashurbanipal",
+ "system": "WRT",
+ "place": "Nineveh, Iraq",
+ "region": "West Asia",
+ "figures": [
+  "Ashurbanipal"
+ ],
+ "summary": "The Assyrian king Ashurbanipal gathered texts of all kinds; more than 30,000 clay tablets and fragments survive, including the Epic of Gilgamesh.",
+ "why": "One of the richest sources on the ancient Near East.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Library_of_Ashurbanipal",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Source counts 30,000 'tablets and fragments', not whole tablets.",
+    "evidence": "https://en.wikipedia.org/wiki/Library_of_Ashurbanipal"
+   }
+  ]
+ }
+}

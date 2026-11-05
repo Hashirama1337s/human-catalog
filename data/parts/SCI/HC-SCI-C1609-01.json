@@ -1,0 +1,32 @@
+{
+ "id": "HC-SCI-C1609-01",
+ "year": 1609,
+ "yearEnd": null,
+ "dateLabel": "1609",
+ "title": "Kepler's first two laws of planetary motion",
+ "system": "SCI",
+ "place": "Prague, Czech Republic",
+ "region": "Europe",
+ "figures": [
+  "Johannes Kepler"
+ ],
+ "summary": "In Astronomia nova, Kepler showed that Mars moves in an ellipse, not a circle, around the Sun.",
+ "why": "Gave the first accurate laws of planetary motion.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "astronomy"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Astronomia_nova",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Title claims all of Kepler's laws; Astronomia nova holds only the first two, the third came in Harmonices Mundi (1619).",
+    "evidence": "https://en.wikipedia.org/wiki/Astronomia_nova"
+   }
+  ]
+ }
+}

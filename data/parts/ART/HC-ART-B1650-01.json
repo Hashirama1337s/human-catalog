@@ -1,0 +1,21 @@
+{
+ "id": "HC-ART-B1650-01",
+ "year": -1650,
+ "yearEnd": null,
+ "dateLabel": "since at least 1650 BCE",
+ "title": "Mesoamerican ballgame",
+ "system": "ART",
+ "place": "Mesoamerica (Mexico and Central America)",
+ "region": "Central & South America",
+ "figures": [],
+ "summary": "Peoples of ancient Mesoamerica played a ballgame that was both a sport and a ritual.",
+ "why": "Shows sport and ritual tied together in Mesoamerica from early times.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Mesoamerican_ballgame",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

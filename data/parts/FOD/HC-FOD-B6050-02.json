@@ -1,0 +1,27 @@
+{
+ "id": "HC-FOD-B6050-02",
+ "year": -6050,
+ "yearEnd": null,
+ "dateLabel": "c. 8,000 years ago",
+ "title": "Pigs domesticated in East Asia",
+ "system": "FOD",
+ "place": "East Asia",
+ "region": "East Asia",
+ "figures": [],
+ "summary": "Pigs are domesticated in East Asia from wild boar genetically distinct from Fertile Crescent boar.",
+ "why": "A clear case of the same animal being tamed twice, independently.",
+ "interchange": [
+  "Pigs domesticated separately in the Fertile Crescent c. 11,000-10,000 years ago"
+ ],
+ "supersedes": "",
+ "tags": [
+  "domestication",
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Domestication_of_animals",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

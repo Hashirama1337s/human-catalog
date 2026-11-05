@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-C2010-01",
+ "year": 2010,
+ "yearEnd": 2012,
+ "dateLabel": "2010-2012",
+ "title": "Arab Spring",
+ "system": "GOV",
+ "place": "Tunisia, Egypt and across the Arab world",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "Protests spread across the Arab world, toppling several governments.",
+ "why": "Reshaped the Middle East and North Africa.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Arab_Spring",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

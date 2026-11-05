@@ -1,0 +1,21 @@
+{
+ "id": "HC-MIG-C1948-01",
+ "year": 1948,
+ "yearEnd": null,
+ "dateLabel": "1948",
+ "title": "Empire Windrush docks at Tilbury",
+ "system": "MIG",
+ "place": "Tilbury, England",
+ "region": "Europe",
+ "figures": [],
+ "summary": "On 21 June 1948 the Empire Windrush docked near London carrying 802 passengers whose last home was in the Caribbean. Postwar Caribbean migrants to Britain became known as the Windrush generation.",
+ "why": "A symbol of the postwar migration that reshaped modern Britain.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/HMT_Empire_Windrush",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

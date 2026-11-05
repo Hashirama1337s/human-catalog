@@ -1,0 +1,55 @@
+{
+ "id": "HC-RCL-B1250-01",
+ "year": -1250,
+ "yearEnd": -1150,
+ "dateLabel": "late 13th – early 12th century BCE",
+ "title": "What caused the Late Bronze Age collapse",
+ "system": "RCL",
+ "place": "Eastern Mediterranean and Near East",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "Competing theories for this collapse have been proposed since the 19th century, from drought to invasions and economic disruption. Most scholars now favour a combination of factors.",
+ "why": "A whole world system of palaces, trade and writing fell within a few generations.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "collapse",
+  "Bronze Age",
+  "climate"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source: 'It is likely that a combination of several factors is responsible' and names general systems collapse; record omitted both.",
+    "evidence": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse"
+   }
+  ]
+ },
+ "kind": "open",
+ "question": "What brought down the interconnected Bronze Age kingdoms around 1200 BCE?",
+ "evidence": "The collapse is dated to the late 13th to early 12th century BCE; proposed causes have been debated since the 19th century.",
+ "wouldSettle": "Site-by-site dating of destructions compared with precise climate and conflict records.",
+ "theories": [
+  {
+   "name": "Climate change and drought",
+   "idea": "Drier conditions caused famine and weakened palace economies."
+  },
+  {
+   "name": "Sea Peoples invasions",
+   "idea": "Raiders and migrants attacked coastal kingdoms."
+  },
+  {
+   "name": "Economic and military change",
+   "idea": "Trade disruption, ironworking and new tactics undermined chariot-based palace states."
+  },
+  {
+   "name": "Disease and volcanic eruptions",
+   "idea": "Epidemics or eruptions struck already stressed societies."
+  }
+ ]
+}

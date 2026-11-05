@@ -1,0 +1,28 @@
+name: checks
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Checks must reject the broken test parts
+        run: python tools/check.py --selftest
+      - name: Check parts (strict on changed files)
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            python tools/check.py --changed origin/${{ github.base_ref }}
+          else
+            python tools/check.py --all
+          fi
+      - name: Page builds
+        run: python tools/build.py --out _site

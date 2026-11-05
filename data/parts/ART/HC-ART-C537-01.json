@@ -1,0 +1,23 @@
+{
+ "id": "HC-ART-C537-01",
+ "year": 537,
+ "yearEnd": null,
+ "dateLabel": "532-537 CE",
+ "title": "Hagia Sophia",
+ "system": "ART",
+ "place": "Constantinople (Istanbul), Turkey",
+ "region": "Europe",
+ "figures": [
+  "Justinian I"
+ ],
+ "summary": "Justinian's great church was completed in 537, the world's largest interior space and an early full pendentive dome.",
+ "why": "The model of Byzantine architecture; later a mosque, a museum and a mosque again.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

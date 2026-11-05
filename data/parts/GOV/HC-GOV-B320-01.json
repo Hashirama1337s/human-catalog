@@ -1,0 +1,29 @@
+{
+ "id": "HC-GOV-B320-01",
+ "year": -320,
+ "yearEnd": -185,
+ "dateLabel": "c. 320-185 BCE",
+ "title": "Maurya Empire",
+ "system": "GOV",
+ "place": "Magadha (Bihar), India",
+ "region": "South Asia",
+ "figures": [
+  "Chandragupta Maurya"
+ ],
+ "summary": "Chandragupta Maurya founded an empire based in Magadha, ruling from Pataliputra. At its height it held the main cities and routes of the subcontinent except the deep south.",
+ "why": "A vast early Indian empire; Ashoka's edicts are a key source for it.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Maurya_Empire",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Ruled most of the Indian subcontinent' overstates; source: 'briefly controlled the major urban hubs and arteries of the subcontinent excepting the deep south'.",
+    "evidence": "https://en.wikipedia.org/wiki/Maurya_Empire"
+   }
+  ]
+ }
+}

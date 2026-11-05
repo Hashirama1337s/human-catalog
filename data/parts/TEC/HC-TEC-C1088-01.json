@@ -1,0 +1,29 @@
+{
+ "id": "HC-TEC-C1088-01",
+ "year": 1088,
+ "yearEnd": null,
+ "dateLabel": "1088 CE",
+ "title": "Shen Kuo describes the magnetic needle compass",
+ "system": "TEC",
+ "place": "Song China",
+ "region": "East Asia",
+ "figures": [
+  "Shen Kuo"
+ ],
+ "summary": "Shen Kuo's Dream Pool Essays gave the first known description of the magnetic needle compass; the first record of its use at sea dates to 1119.",
+ "why": "Made sailing out of sight of land safer.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Shen_Kuo",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Title/summary imply navigation use in 1088; source: first seafaring record is Zhu Yu, 1119.",
+    "evidence": "https://en.wikipedia.org/wiki/Shen_Kuo"
+   }
+  ]
+ }
+}

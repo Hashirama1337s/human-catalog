@@ -1,0 +1,26 @@
+{
+ "id": "HC-SCI-C1977-01",
+ "year": 1977,
+ "yearEnd": null,
+ "dateLabel": "1977",
+ "title": "Sanger DNA sequencing",
+ "system": "SCI",
+ "place": "Cambridge, UK",
+ "region": "Europe",
+ "figures": [
+  "Frederick Sanger"
+ ],
+ "summary": "Frederick Sanger and colleagues developed the chain-termination method for reading DNA letter by letter. It was the most widely used sequencing method for about 40 years.",
+ "why": "Made it possible to read genes and compare people's DNA.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Sanger_sequencing",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

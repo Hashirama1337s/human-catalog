@@ -1,0 +1,23 @@
+{
+ "id": "HC-ART-C977-01",
+ "year": 977,
+ "yearEnd": 1010,
+ "dateLabel": "c. 977-1010 CE",
+ "title": "Ferdowsi's Shahnameh",
+ "system": "ART",
+ "place": "Iran",
+ "region": "West Asia",
+ "figures": [
+  "Ferdowsi"
+ ],
+ "summary": "A Persian epic of about 50,000 couplets telling Iran's history from creation to the 7th-century Muslim conquest.",
+ "why": "One of the world's longest epics by a single author.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Shahnameh",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "id": "HC-WAR-C1946-01",
+ "year": 1946,
+ "yearEnd": 1958,
+ "dateLabel": "1946-1958",
+ "title": "Nuclear tests at Bikini Atoll",
+ "system": "WAR",
+ "place": "Bikini Atoll, Marshall Islands",
+ "region": "Oceania",
+ "figures": [],
+ "summary": "The United States forced Bikini's 167 inhabitants to relocate in 1946, promising they could return, then exploded 23 or 24 nuclear weapons there. The 1954 Castle Bravo test was far bigger than expected and spread fallout widely.",
+ "why": "Islanders lost their home to the nuclear age; a later return ended when the islands proved unsafe.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Nuclear_testing_at_Bikini_Atoll",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source: inhabitants were 'forced' to relocate; some did return later before being moved again, so 'promise was not kept' needs precision.",
+    "evidence": "https://en.wikipedia.org/wiki/Nuclear_testing_at_Bikini_Atoll"
+   }
+  ]
+ }
+}

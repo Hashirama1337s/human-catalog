@@ -1,0 +1,21 @@
+{
+ "id": "HC-GOV-C2015-01",
+ "year": 2015,
+ "yearEnd": null,
+ "dateLabel": "2015",
+ "title": "Paris Agreement on climate",
+ "system": "GOV",
+ "place": "Paris, France",
+ "region": "Global",
+ "figures": [],
+ "summary": "Nearly every country agreed to limit global warming.",
+ "why": "The main global climate treaty.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Paris_Agreement",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

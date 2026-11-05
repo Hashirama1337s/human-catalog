@@ -1,0 +1,21 @@
+{
+ "id": "HC-ART-B7200-01",
+ "year": -7200,
+ "yearEnd": -6250,
+ "dateLabel": "c. 7200-6250 BCE",
+ "title": "ʿAin Ghazal plaster statues",
+ "system": "ART",
+ "place": "ʿAin Ghazal, Amman, Jordan",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "Fifteen statues and fifteen busts made of lime plaster over reed bundles.",
+ "why": "Among the earliest large-scale representations of the human form.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ayn_Ghazal_statues",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

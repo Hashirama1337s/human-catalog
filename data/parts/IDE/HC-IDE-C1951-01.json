@@ -1,0 +1,29 @@
+{
+ "id": "HC-IDE-C1951-01",
+ "year": 1951,
+ "yearEnd": null,
+ "dateLabel": "1951",
+ "title": "Arendt's The Origins of Totalitarianism",
+ "system": "IDE",
+ "place": "New York, United States",
+ "region": "North America",
+ "figures": [
+  "Hannah Arendt"
+ ],
+ "summary": "Hannah Arendt argued that Nazism and Stalinism were a new form of government that used terror against whole populations, and traced their roots to antisemitism and imperialism.",
+ "why": "A founding work for understanding totalitarian rule.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/The_Origins_of_Totalitarianism",
+ "audit": {
+  "status": "corrected",
+  "edition": "2.0",
+  "notes": [
+   {
+    "problem": "Source gives first publication in English in 1951 with the citation '[1951, New York: Schocken]'; the UK 'Burden of Our Time' edition is not in the source.",
+    "evidence": "https://en.wikipedia.org/wiki/The_Origins_of_Totalitarianism"
+   }
+  ]
+ }
+}

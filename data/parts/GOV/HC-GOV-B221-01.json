@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-B221-01",
+ "year": -221,
+ "yearEnd": -206,
+ "dateLabel": "221-206 BCE",
+ "title": "Qin unifies China; first emperor",
+ "system": "GOV",
+ "place": "China",
+ "region": "East Asia",
+ "figures": [
+  "Qin Shi Huang"
+ ],
+ "summary": "King Ying Zheng of Qin conquered the rival states and took the new title of emperor, Qin Shi Huang.",
+ "why": "Created the first unified Chinese empire; the title emperor lasted 2,000 years.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Qin_dynasty",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "id": "HC-TEC-KA337-01",
+ "year": -335050,
+ "yearEnd": -298050,
+ "dateLabel": "c. 337,000-300,000 years ago",
+ "title": "Carried over: Schöningen wooden spears",
+ "system": "TEC",
+ "place": "Schöningen, Germany",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Wooden hunting spears preserved in a German lake deposit, made by an earlier human population. Usually dated 337,000-300,000 years ago; a 2025 study argues they are about 200,000 years old.",
+ "why": "Shows earlier humans crafted wooden weapons for hunting big game.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Source: 'a 2025 study suggested an even younger age of approximately 200,000 years ago'; at that age 'predates our species' fails, so the date is debated.",
+    "evidence": "https://en.wikipedia.org/wiki/Sch%C3%B6ningen_spears"
+   }
+  ]
+ }
+}

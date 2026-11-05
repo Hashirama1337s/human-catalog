@@ -1,0 +1,29 @@
+{
+ "id": "HC-MED-C1967-01",
+ "year": 1967,
+ "yearEnd": null,
+ "dateLabel": "1967",
+ "title": "First human-to-human heart transplant",
+ "system": "MED",
+ "place": "Cape Town, South Africa",
+ "region": "Africa",
+ "figures": [
+  "Christiaan Barnard"
+ ],
+ "summary": "Christiaan Barnard performed the world's first human-to-human heart transplant at Groote Schuur Hospital, Cape Town. A 1964 attempt in the US had used a chimpanzee heart.",
+ "why": "Opened the era of organ transplants.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Christiaan_Barnard",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Title overclaims: source credits Hardy (1964, chimpanzee heart) with the first heart transplant; Barnard's was the first human-to-human one.",
+    "evidence": "https://en.wikipedia.org/wiki/Christiaan_Barnard"
+   }
+  ]
+ }
+}

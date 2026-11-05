@@ -1,0 +1,27 @@
+{
+ "id": "HC-TRN-C1405-01",
+ "year": 1405,
+ "yearEnd": 1433,
+ "dateLabel": "1405-1433",
+ "title": "Zheng He's treasure voyages",
+ "system": "TRN",
+ "place": "China to the Indian Ocean",
+ "region": "East Asia",
+ "figures": [
+  "Zheng He",
+  "Yongle Emperor"
+ ],
+ "summary": "Admiral Zheng He commanded seven ocean voyages of the Ming treasure fleet to Southeast Asia and the Indian Ocean.",
+ "why": "Greatly increased China's political and trade influence across the Indian Ocean.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "seafaring"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Ming_treasure_voyages",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "id": "HC-WRT-B500-01",
+ "year": -500,
+ "yearEnd": 500,
+ "dateLabel": "c. 500 BCE – 500 CE (debated)",
+ "title": "Undeciphered: the Isthmian script",
+ "system": "WRT",
+ "place": "Isthmus of Tehuantepec, Mexico",
+ "region": "Central & South America",
+ "figures": [
+  "John Justeson",
+  "Terrence Kaufman"
+ ],
+ "summary": "It is not settled whether this early Mesoamerican script, best known from La Mojarra Stela 1, is a true writing system. A 1993 partial decipherment remains disputed and unproven.",
+ "why": "It could be one of the Americas' earliest readable voices.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "writing",
+  "undeciphered",
+  "Mesoamerica"
+ ],
+ "route": null,
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Isthmian_script",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ },
+ "kind": "open",
+ "question": "Is the Isthmian script true writing, and does it record a Zoquean language?",
+ "evidence": "Longest text on La Mojarra Stela 1; Justeson and Kaufman proposed Zoquean readings in 1993; Houston and Coe disputed them; Robinson (2008) called the decipherment unproven.",
+ "wouldSettle": "New Isthmian texts on which the proposed Zoquean readings correctly predict meaningful content.",
+ "theories": [
+  {
+   "name": "Zoquean-language writing",
+   "idea": "Justeson and Kaufman proposed the La Mojarra text encodes an early Zoquean language."
+  },
+  {
+   "name": "Decipherment unproven",
+   "idea": "Houston and Coe disputed that reading; critics say it rests on shaky foundations."
+  }
+ ]
+}

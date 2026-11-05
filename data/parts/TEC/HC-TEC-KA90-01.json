@@ -1,0 +1,21 @@
+{
+ "id": "HC-TEC-KA90-01",
+ "year": -88050,
+ "yearEnd": null,
+ "dateLabel": "c. 90,000 years ago",
+ "title": "Bone harpoons",
+ "system": "TEC",
+ "place": "Democratic Republic of the Congo",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Barbed bone harpoons are made for catching fish.",
+ "why": "Specialised gear for catching food from rivers.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

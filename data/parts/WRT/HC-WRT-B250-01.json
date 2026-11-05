@@ -1,0 +1,30 @@
+{
+ "id": "HC-WRT-B250-01",
+ "year": -250,
+ "yearEnd": null,
+ "dateLabel": "3rd century BCE (earliest securely dated: Ashoka edicts, 250-232 BCE)",
+ "title": "Brahmi script",
+ "system": "WRT",
+ "place": "Maurya India",
+ "region": "South Asia",
+ "figures": [],
+ "summary": "Brahmi appeared as a fully developed script in the 3rd century BCE; it is an abugida, adding vowel marks to consonant signs.",
+ "why": "Ancestor of the Brahmic scripts used across South and Southeast Asia today.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "writing"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Brahmi_script",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Vowel-mark description wrong (abugida); pre-Mauryan sherds are controversial, so the label should name the secure anchor.",
+    "evidence": "https://en.wikipedia.org/wiki/Brahmi_script"
+   }
+  ]
+ }
+}

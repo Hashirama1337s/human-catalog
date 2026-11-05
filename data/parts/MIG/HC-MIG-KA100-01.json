@@ -1,0 +1,35 @@
+{
+ "id": "HC-MIG-KA100-01",
+ "year": -98050,
+ "yearEnd": null,
+ "dateLabel": "c. 120,000-80,000 years ago",
+ "title": "Early sapiens in the Levant (Skhul and Qafzeh)",
+ "system": "MIG",
+ "place": "Skhul and Qafzeh caves, Israel",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "Homo sapiens remains in two Israeli caves date to roughly 120,000-80,000 years ago, an early move out of Africa. Later Neanderthal remains in the region suggest these groups did not last.",
+ "why": "An early exit that did not leave a lasting mark on most living people's ancestry.",
+ "interchange": [],
+ "supersedes": "",
+ "route": [
+  [
+   9.0,
+   39.0
+  ],
+  [
+   30.0,
+   33.0
+  ],
+  [
+   32.7,
+   35.0
+  ]
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Skhul_and_Qafzeh_hominins",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "HC-IDE-B1353-01",
+ "year": -1353,
+ "yearEnd": -1336,
+ "dateLabel": "c. 1353-1336 BCE",
+ "title": "Akhenaten's worship of the Aten",
+ "system": "IDE",
+ "place": "Egypt",
+ "region": "Africa",
+ "figures": [
+  "Akhenaten"
+ ],
+ "summary": "Pharaoh Akhenaten abandoned Egypt's traditional many gods and centred worship on the sun disc, the Aten.",
+ "why": "A religious revolution reversed after his death; scholars debate whether it was true monotheism.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Akhenaten",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "id": "HC-MED-B5350-01",
+ "year": -5350,
+ "yearEnd": null,
+ "dateLabel": "c. 7,300 years ago",
+ "title": "Sickle-cell gene arises (malaria shield)",
+ "system": "MED",
+ "place": "Sahara, during the Green Sahara wet phase",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Genome analysis points to a single origin of the sickle-cell variant about 7,300 years ago in the then-green Sahara. One copy gives substantial protection against deadly malaria.",
+ "why": "A classic case of disease shaping human genes, with a cost: two copies cause sickle-cell disease.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Sickle_cell_trait",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Single genome-model date ('is thought to have originated ... around 7,300 years ago'); genetic origin dates are model estimates and this one is contested.",
+    "evidence": "https://en.wikipedia.org/wiki/Sickle_cell_trait"
+   }
+  ]
+ }
+}

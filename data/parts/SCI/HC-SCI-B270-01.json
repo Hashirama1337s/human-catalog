@@ -1,0 +1,23 @@
+{
+ "id": "HC-SCI-B270-01",
+ "year": -270,
+ "yearEnd": null,
+ "dateLabel": "3rd century BCE (lived c. 310-230 BCE)",
+ "title": "Aristarchus: Sun-centred universe",
+ "system": "SCI",
+ "place": "Samos, Greece / Alexandria",
+ "region": "Europe",
+ "figures": [
+  "Aristarchus of Samos"
+ ],
+ "summary": "Aristarchus proposed that the Earth turns daily and circles the Sun yearly.",
+ "why": "The first known heliocentric model, about 1,800 years before Copernicus.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Aristarchus_of_Samos",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

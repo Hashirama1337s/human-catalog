@@ -1,0 +1,39 @@
+{
+ "id": "HC-MIG-B3550-02",
+ "year": -3550,
+ "yearEnd": -2550,
+ "dateLabel": "c. 5,500-4,500 years ago",
+ "title": "Paleo-Inuit cross from Siberia to Greenland",
+ "system": "MIG",
+ "place": "Siberia, Alaska, Arctic Canada, Greenland",
+ "region": "North America",
+ "figures": [],
+ "summary": "A new migration from Siberia about 5,500 years ago brought Paleo-Inuit peoples to North America. Their descendants reached Greenland by about 4,500 years ago.",
+ "why": "A separate peopling of the Arctic, thousands of years after the first Americans.",
+ "interchange": [],
+ "supersedes": "",
+ "route": [
+  [
+   66.0,
+   175.0
+  ],
+  [
+   68.0,
+   -160.0
+  ],
+  [
+   70.0,
+   -100.0
+  ],
+  [
+   69.0,
+   -51.0
+  ]
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Paleo-Eskimo",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

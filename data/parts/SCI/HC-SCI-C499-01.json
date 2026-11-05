@@ -1,0 +1,32 @@
+{
+ "id": "HC-SCI-C499-01",
+ "year": 499,
+ "yearEnd": null,
+ "dateLabel": "c. 499 CE (author was 23 in 499; exact composition date uncertain)",
+ "title": "Aryabhata's Aryabhatiya",
+ "system": "SCI",
+ "place": "India",
+ "region": "South Asia",
+ "figures": [
+  "Aryabhata"
+ ],
+ "summary": "Aryabhata wrote a treatise on mathematics and astronomy, including a place-value system and pi to four decimal places.",
+ "why": "The start of the classical age of Indian mathematics and astronomy.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "astronomy"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Aryabhata",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Source says the 499 reference does not mean the text was composed then.",
+    "evidence": "https://en.wikipedia.org/wiki/Aryabhata"
+   }
+  ]
+ }
+}

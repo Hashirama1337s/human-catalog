@@ -1,0 +1,27 @@
+{
+ "id": "HC-TEC-C850-01",
+ "year": 850,
+ "yearEnd": null,
+ "dateLabel": "9th century CE",
+ "title": "Windmill",
+ "system": "TEC",
+ "place": "Persia (Khorasan: eastern Iran and western Afghanistan)",
+ "region": "West Asia",
+ "figures": [],
+ "summary": "Horizontal (panemone) windmills appeared in Persia, first to pump water and then to grind grain.",
+ "why": "A new source of power alongside water and muscle.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Windmill",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "Source says Persian windmills were first built to pump water; the 9th-century report is from Khorasan.",
+    "evidence": "https://en.wikipedia.org/wiki/Windmill"
+   }
+  ]
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "id": "HC-ECO-C750-01",
+ "year": 750,
+ "yearEnd": 1600,
+ "dateLabel": "peak 8th-early 17th century",
+ "title": "Trans-Saharan caravan trade",
+ "system": "ECO",
+ "place": "Sahara Desert",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Camel caravans, often 1,000 animals, guided by Berbers, carried goods between North Africa and West Africa.",
+ "why": "Linked West Africa with North Africa and the Mediterranean.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Trans-Saharan_trade",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

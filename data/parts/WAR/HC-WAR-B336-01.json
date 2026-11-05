@@ -1,0 +1,23 @@
+{
+ "id": "HC-WAR-B336-01",
+ "year": -336,
+ "yearEnd": -323,
+ "dateLabel": "336-323 BCE",
+ "title": "Conquests of Alexander the Great",
+ "system": "WAR",
+ "place": "Greece to Egypt and India",
+ "region": "West Asia",
+ "figures": [
+  "Alexander the Great"
+ ],
+ "summary": "Alexander of Macedon conquered the Persian Empire, Egypt and lands to India, building one of the largest empires by age 30.",
+ "why": "One of the largest empires of the ancient world, built in about 13 years.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

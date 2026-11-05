@@ -1,0 +1,21 @@
+{
+ "id": "HC-IDE-KA34-01",
+ "year": -32050,
+ "yearEnd": -28550,
+ "dateLabel": "c. 32,000-28,500 BCE",
+ "title": "Sungir burials",
+ "system": "IDE",
+ "place": "Sungir, Vladimir Oblast, Russia",
+ "region": "Europe",
+ "figures": [],
+ "summary": "Graves covered in red ochre hold more than 13,000 beads, ivory jewellery and spears.",
+ "why": "Lavish burials hint at ritual and social rank among Ice Age hunters.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Sungir",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

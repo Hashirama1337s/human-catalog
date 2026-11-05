@@ -1,0 +1,21 @@
+{
+ "id": "HC-ART-KA30-02",
+ "year": -28050,
+ "yearEnd": null,
+ "dateLabel": "c. 30,000 years ago",
+ "title": "Bhimbetka rock painting tradition",
+ "system": "ART",
+ "place": "Bhimbetka rock shelters, India",
+ "region": "South Asia",
+ "figures": [],
+ "summary": "A rock painting tradition begins in the Bhimbetka shelters of India.",
+ "why": "Among the longest-running art traditions in the world.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_prehistory",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

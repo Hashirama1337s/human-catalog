@@ -1,0 +1,24 @@
+{
+ "id": "HC-SCI-KA20-01",
+ "year": -18050,
+ "yearEnd": null,
+ "dateLabel": "c. 20,000 years ago",
+ "title": "Ishango bone",
+ "system": "SCI",
+ "place": "Ishango, Democratic Republic of the Congo",
+ "region": "Africa",
+ "figures": [],
+ "summary": "A bone with three columns of notches, read by some as arithmetic or a lunar calendar. Both its date and meaning are debated.",
+ "why": "A famous candidate for early mathematics.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "calendars"
+ ],
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Ishango_bone",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "id": "HC-TEC-KA1500-01",
+ "year": -1498050,
+ "yearEnd": null,
+ "dateLabel": "c. 1.5 million years ago",
+ "title": "Carried over: control of fire",
+ "system": "TEC",
+ "place": "Not tied to one site",
+ "region": "Global",
+ "figures": [],
+ "summary": "The earliest likely evidence that human ancestors could control fire. Exactly when fire use became routine is still argued.",
+ "why": "Fire gave warmth, protection and cooking, and later powered pottery and metal.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "debated",
+ "source": "https://en.wikipedia.org/wiki/Timeline_of_historic_inventions",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

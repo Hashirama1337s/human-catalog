@@ -1,0 +1,30 @@
+{
+ "id": "HC-IDE-B387-01",
+ "year": -387,
+ "yearEnd": null,
+ "dateLabel": "c. 387 BCE",
+ "title": "Plato founds the Academy",
+ "system": "IDE",
+ "place": "Athens, Greece",
+ "region": "Europe",
+ "figures": [
+  "Plato",
+  "Aristotle"
+ ],
+ "summary": "Plato founded a school of philosophy in Athens; Aristotle studied there for twenty years.",
+ "why": "Lasted as a school until 83 BCE; Aristotle trained there before founding his own school.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Platonic_Academy",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Plato founded the Western philosophical tradition' is not in the cited source and overclaims.",
+    "evidence": "https://en.wikipedia.org/wiki/Platonic_Academy"
+   }
+  ]
+ }
+}

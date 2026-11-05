@@ -1,0 +1,25 @@
+{
+ "id": "HC-SCI-C2015-01",
+ "year": 2015,
+ "yearEnd": null,
+ "dateLabel": "2015",
+ "title": "Gravitational waves detected",
+ "system": "SCI",
+ "place": "Hanford and Livingston, United States",
+ "region": "North America",
+ "figures": [
+  "Kip Thorne",
+  "Rainer Weiss",
+  "Barry Barish"
+ ],
+ "summary": "LIGO detected ripples in spacetime from two black holes merging.",
+ "why": "Opened a new way to observe the universe.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/First_observation_of_gravitational_waves",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

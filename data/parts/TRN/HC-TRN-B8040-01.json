@@ -1,0 +1,24 @@
+{
+ "id": "HC-TRN-B8040-01",
+ "year": -8040,
+ "yearEnd": -7510,
+ "dateLabel": "c. 8040-7510 BCE",
+ "title": "Pesse canoe",
+ "system": "TRN",
+ "place": "Pesse, Drenthe, Netherlands",
+ "region": "Europe",
+ "figures": [],
+ "summary": "A dugout canoe found in a peat bog is the world's oldest known boat; a replica floats.",
+ "why": "Physical proof of early boats, long implied by sea crossings.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "seafaring"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Pesse_canoe",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

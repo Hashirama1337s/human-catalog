@@ -1,0 +1,24 @@
+{
+ "id": "HC-MED-C1980-01",
+ "year": 1980,
+ "yearEnd": null,
+ "dateLabel": "1980",
+ "title": "Smallpox eradicated",
+ "system": "MED",
+ "place": "Worldwide",
+ "region": "Global",
+ "figures": [],
+ "summary": "The World Health Organization declared smallpox eradicated.",
+ "why": "The first human disease wiped out.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "epidemics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Smallpox",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

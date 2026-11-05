@@ -1,0 +1,29 @@
+{
+ "id": "HC-MED-C1628-01",
+ "year": 1628,
+ "yearEnd": null,
+ "dateLabel": "1628",
+ "title": "Harvey shows blood circulates",
+ "system": "MED",
+ "place": "Frankfurt, Germany",
+ "region": "Europe",
+ "figures": [
+  "William Harvey"
+ ],
+ "summary": "English physician William Harvey published proof that the heart pumps blood around the body in a closed loop.",
+ "why": "A landmark in the history of physiology.",
+ "interchange": [],
+ "supersedes": "Galen's theory of blood",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Exercitatio_Anatomica_de_Motu_Cordis_et_Sanguinis_in_Animalibus",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Founded modern physiology' is stronger than the source ('a landmark in the history of physiology'). Frankfurt confirmed on William Harvey page.",
+    "evidence": "https://en.wikipedia.org/wiki/Exercitatio_Anatomica_de_Motu_Cordis_et_Sanguinis_in_Animalibus ; https://en.wikipedia.org/wiki/William_Harvey"
+   }
+  ]
+ }
+}

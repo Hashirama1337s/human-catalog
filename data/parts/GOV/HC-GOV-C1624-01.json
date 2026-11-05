@@ -1,0 +1,23 @@
+{
+ "id": "HC-GOV-C1624-01",
+ "year": 1624,
+ "yearEnd": 1663,
+ "dateLabel": "1624-1663",
+ "title": "Queen Nzinga resists Portugal",
+ "system": "GOV",
+ "place": "Ndongo and Matamba (present-day northern Angola)",
+ "region": "Africa",
+ "figures": [
+  "Nzinga of Ndongo and Matamba"
+ ],
+ "summary": "Nzinga ruled Ndongo and, from 1631, Matamba. Driven into exile by Portuguese war, she allied with the Imbangala and later the Dutch, won back land, and fought Portugal until a peace treaty in 1656.",
+ "why": "A woman ruler who held off a European colonial power for decades in the age of the slave trade.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Nzinga_of_Ndongo_and_Matamba",
+ "audit": {
+  "status": "hold",
+  "edition": "2.0"
+ }
+}

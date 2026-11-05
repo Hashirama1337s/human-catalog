@@ -1,0 +1,27 @@
+{
+ "id": "HC-TEC-KA100-01",
+ "year": -98050,
+ "yearEnd": null,
+ "dateLabel": "c. 100,000 years ago",
+ "title": "Ochre paint workshop",
+ "system": "TEC",
+ "place": "Blombos Cave, Western Cape, South Africa",
+ "region": "Africa",
+ "figures": [],
+ "summary": "Abalone shells used as containers for mixing ochre paint form a 100,000-year-old toolkit.",
+ "why": "Early evidence of paint making: chemistry, planning and color, all in one kit.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Blombos_Cave",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'Earliest known paint making' is not in the source, which says only 'ochre processing workshop' in 100,000-year-old levels.",
+    "evidence": "https://en.wikipedia.org/wiki/Blombos_Cave"
+   }
+  ]
+ }
+}

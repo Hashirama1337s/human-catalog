@@ -1,0 +1,27 @@
+{
+ "id": "HC-SCI-C2012-01",
+ "year": 2012,
+ "yearEnd": null,
+ "dateLabel": "2012",
+ "title": "CRISPR gene editing",
+ "system": "SCI",
+ "place": "Berkeley, United States and Umeå, Sweden",
+ "region": "Global",
+ "figures": [
+  "Jennifer Doudna",
+  "Emmanuelle Charpentier"
+ ],
+ "summary": "Doudna and Charpentier showed CRISPR could cut DNA at chosen spots.",
+ "why": "Made editing genes cheap and precise.",
+ "interchange": [],
+ "supersedes": "",
+ "tags": [
+  "genetics"
+ ],
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/CRISPR_gene_editing",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "HC-WRT-C1716-01",
+ "year": 1716,
+ "yearEnd": null,
+ "dateLabel": "1716",
+ "title": "Kangxi Dictionary",
+ "system": "WRT",
+ "place": "Beijing, China",
+ "region": "East Asia",
+ "figures": [
+  "Kangxi Emperor"
+ ],
+ "summary": "A dictionary of more than 47,000 Chinese characters ordered by the Kangxi Emperor was published.",
+ "why": "The standard Chinese dictionary for two centuries.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Kangxi_Dictionary",
+ "audit": {
+  "status": "hold",
+  "edition": "1.0"
+ }
+}

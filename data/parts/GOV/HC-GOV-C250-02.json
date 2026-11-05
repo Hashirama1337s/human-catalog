@@ -1,0 +1,31 @@
+{
+ "id": "HC-GOV-C250-02",
+ "year": 250,
+ "yearEnd": 550,
+ "dateLabel": "mid-3rd-mid-6th century CE",
+ "title": "Gupta Empire",
+ "system": "GOV",
+ "place": "Northern India",
+ "region": "South Asia",
+ "figures": [
+  "Chandragupta II",
+  "Kalidasa",
+  "Aryabhata"
+ ],
+ "summary": "The Gupta dynasty ruled much of northern India, a time of great art, science and literature.",
+ "why": "Indian place-value numerals, ancestors of today's digits, originated in this period.",
+ "interchange": [],
+ "supersedes": "",
+ "confidence": "established",
+ "source": "https://en.wikipedia.org/wiki/Gupta_Empire",
+ "audit": {
+  "status": "corrected",
+  "edition": "1.0",
+  "notes": [
+   {
+    "problem": "'First positional base-10 system' is disputed: Chinese rod numerals were positional decimal from c. 475 BCE.",
+    "evidence": "https://en.wikipedia.org/wiki/Gupta_Empire ; https://en.wikipedia.org/wiki/Counting_rods"
+   }
+  ]
+ }
+}
