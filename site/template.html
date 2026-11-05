@@ -739,12 +739,17 @@ tr.notice-row td { background: color-mix(in srgb, var(--s-RCL-bg) 60%, transpare
     const btn = document.getElementById("play");
     btn.onclick = () => {
       if (raf) { cancelAnimationFrame(raf); raf = 0; btn.textContent = "Play"; return; }
-      if (matchMedia("(prefers-reduced-motion: reduce)").matches) { slider.value = 1000; draw(); return; }
       if (+slider.value >= 1000) slider.value = 0;
       btn.textContent = "Pause";
-      let last = performance.now();
-      const step = now => { slider.value = Math.min(1000, +slider.value + (now - last) / 22); last = now; draw();
-        if (+slider.value < 1000) raf = requestAnimationFrame(step); else { raf = 0; btn.textContent = "Play"; } };
+      // The slider only holds whole steps, so the animation keeps its own exact position (t) and rounds for display.
+      // With reduced motion the map advances in a few calm jumps instead of a smooth sweep.
+      const calm = matchMedia("(prefers-reduced-motion: reduce)").matches;
+      let t = +slider.value, last = performance.now();
+      const step = now => {
+        if (calm) { if (now - last < 700) { raf = requestAnimationFrame(step); return; } t = Math.min(1000, t + 50); }
+        else t = Math.min(1000, t + (now - last) / 22);
+        last = now; slider.value = Math.round(t); draw(); slider.setAttribute("aria-valuetext", read.textContent);
+        if (t < 1000) raf = requestAnimationFrame(step); else { raf = 0; btn.textContent = "Play"; } };
       raf = requestAnimationFrame(step);
     };
     if (!routes.length) document.querySelector(".map").hidden = true;
