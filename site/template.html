@@ -228,7 +228,7 @@ tr.ghost td.part button { font-style: italic; }
 <body>
 <div class="wrap">
   <header class="plate">
-    <div class="eyebrow"><span>Second Edition (2.1) · 2026</span><span id="cov">Coverage: 300,000 years ago – 2026</span><span id="count"></span></div>
+    <div class="eyebrow"><span>Second Edition (2.1) · 2026</span><span id="cov">Coverage: about 7 million years ago – 2026 · our species from c. 315,000 years ago</span><span id="count"></span></div>
     <h1>Human Catalog <span>·</span> Part History</h1>
     <p>Every part that changed what people could do or think, filed by date the way a parts catalog files by make, model and year. Open an era, then a span, then a year line. Each year line holds everything from that moment, everywhere on Earth.</p>
     <div class="tools">
@@ -333,7 +333,8 @@ tr.ghost td.part button { font-style: italic; }
   };
   // Eras: [label, name, from(inclusive), to(inclusive), span size in years]
   const ERAS = [
-    ["A", "Early Sapiens", -9e9, -48051, 50000],
+    ["Z", "Before Our Species", -9e12, -348051, 1000000],
+    ["A", "Early Sapiens", -348050, -48051, 50000],
     ["B", "Ice Age World", -48050, -10051, 10000],
     ["C", "First Farmers & Towns", -10050, -3001, 1000],
     ["D", "Bronze Age", -3000, -1001, 500],
@@ -349,7 +350,7 @@ tr.ghost td.part button { font-style: italic; }
     ["P", "Networked Century", 2001, 2026, 5]
   ];
   const NOW = 2026, START = -298050; // 300,000 years ago
-  const eraBase = e => e[0] === "A" ? START : e[0] === "C" ? -10000 : e[2];
+  const eraBase = e => e[0] === "Z" ? -9998050 : e[0] === "A" ? -348050 : e[0] === "C" ? -10000 : e[2];
   const raw = JSON.parse(document.getElementById("data").textContent || "[]");
   const fmtYear = y => y < -9050 ? (Math.round((1950 - y) / 1000)).toLocaleString() + ",000 years ago"
                      : y < 0 ? ((-y) >= 10000 ? (-y).toLocaleString() : String(-y)) + " BCE" : y + " CE";
@@ -391,7 +392,7 @@ tr.ghost td.part button { font-style: italic; }
   ERAS.forEach(e => {
     const b = document.createElement("button");
     b.type = "button"; b.dataset.era = e[0];
-    const lo = e[0] === "A" ? START : e[2];
+    const lo = eraBase(e);
     b.innerHTML = e[0] + " · " + e[1] + "<small>" + fmtYear(lo) + "</small>";
     b.onclick = () => openEra(e[0]);
     erasBox.appendChild(b);
@@ -506,7 +507,7 @@ tr.ghost td.part button { font-style: italic; }
       const inEra = vis.filter(p => p._era === e[0]);
       if (!inEra.length) return;
       const lo = eraBase(e);
-      const label = "<b>" + e[0] + " · " + e[1] + "</b><span>" + fmtYear(lo) + " – " + fmtYear(e[3] === -48051 ? -48050 : e[3]) + "</span>";
+      const label = "<b>" + e[0] + " · " + e[1] + "</b><span>" + fmtYear(lo) + " – " + fmtYear(e[3] === -48051 ? -48050 : e[3] === -348051 ? -348050 : e[3]) + "</span>";
       tree.appendChild(node(0, label, plural(inEra.length, "part"), kids => {
         const spans = {};
         inEra.forEach(p => (spans[p._spanIdx] = spans[p._spanIdx] || []).push(p));
@@ -546,7 +547,7 @@ tr.ghost td.part button { font-style: italic; }
     document.querySelectorAll("#eras button").forEach(b => b.classList.toggle("on", b.dataset.era === id));
     const e = ERAS.find(x => x[0] === id);
     document.getElementById("here").textContent = e ? "You are viewing: " + e[0] + " · " + e[1] : "You are viewing: all eras";
-    document.getElementById("you").style.left = e ? pos(e[0] === "A" ? START : e[2]) + "%" : "0";
+    document.getElementById("you").style.left = e ? pos(eraBase(e)) + "%" : "0";
   }
   function openEra(id) {
     const n = document.querySelector('#tree .lv0[data-id="' + id + '"]');
