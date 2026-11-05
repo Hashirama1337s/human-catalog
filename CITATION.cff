@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use the Human Catalog, please cite it like this."
+title: "Human Catalog — Part History"
+type: dataset
+authors:
+  - name: "Moki & Julio (AI-assisted)"
+version: "2.1"
+date-released: "2026-11-05"
+license: CC-BY-4.0
+url: "https://hashirama1337s.github.io/human-catalog/"
+repository-code: "https://github.com/Hashirama1337s/human-catalog"
+keywords:
+  - world history
+  - timeline
+  - human evolution
+  - open data

@@ -1,0 +1,9 @@
+{
+  "title": "Human Catalog — Part History",
+  "upload_type": "dataset",
+  "description": "<p>A parts catalog for the history of our species: 775 parts from 300,000 years ago to 2026, filed by era, span, year line and system the way a car-parts catalog files by make, model and year. Includes 42 open questions specialists cannot yet answer (back-ordered parts), migration routes, idea threads and two learning games. Every part cites a source and was re-checked by an independent referee pass. Browse it at <a href=\"https://hashirama1337s.github.io/human-catalog/\">hashirama1337s.github.io/human-catalog</a>.</p>",
+  "creators": [{"name": "Moki & Julio (AI-assisted)"}],
+  "license": "cc-by-4.0",
+  "keywords": ["world history", "timeline", "human evolution", "archaeology", "history of science", "open data", "education"],
+  "related_identifiers": [{"identifier": "https://hashirama1337s.github.io/human-catalog/", "relation": "isDocumentedBy", "resource_type": "other"}]
+}

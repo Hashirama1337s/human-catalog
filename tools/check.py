@@ -15,7 +15,7 @@ SYSTEMS = {"MIG", "TEC", "FOD", "SCI", "MED", "WRT", "ART", "IDE", "GOV", "ECO",
 REGIONS = {"Africa", "West Asia", "South Asia", "East Asia", "Southeast Asia", "Central Asia", "Europe",
            "North America", "Central & South America", "Oceania", "Global"}
 REQUIRED = ["id", "year", "dateLabel", "title", "system", "place", "region", "summary", "why", "confidence", "source"]
-ALLOWED = set(REQUIRED) | {"yearEnd", "figures", "interchange", "supersedes", "tags", "route", "audit", "withdrawn", "reason", "kind", "question", "evidence", "wouldSettle", "theories"}
+ALLOWED = set(REQUIRED) | {"yearEnd", "figures", "interchange", "supersedes", "tags", "route", "audit", "withdrawn", "reason", "kind", "question", "evidence", "wouldSettle", "theories", "solved"}
 ID_RX = re.compile(r"^HC-([A-Z]{3})-(KA\d+|B\d+|C\d+)-\d{2}$")
 OVERCLAIM = re.compile(r"\b(first|oldest|earliest|only|invented|proved)\b", re.I)
 QUALIFIED = re.compile(r"\b(earliest|oldest|first)\s+(known|surviving|recorded|documented|dated|attested)\b"

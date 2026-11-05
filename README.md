@@ -43,7 +43,7 @@ missing part, tell us. It is your history too.
 | [Farming began on several continents](https://hashirama1337s.github.io/human-catalog/#list.HC-FOD-B9000-01.HC-FOD-B8000-02.HC-FOD-B7050-01.HC-FOD-B7050-02.HC-FOD-B8050-01.HC-FOD-B3500-01) | Barley, millet, rice, maize, potato and sorghum |
 | [Newton's Principia](https://hashirama1337s.github.io/human-catalog/#HC-SCI-C1687-01) | One part, with its source, threads and citation |
 | Press **? Unknowns** | 42 back-ordered parts: pick a theory, see what would settle it |
-| Press **Play: guess the year** | A random part with its date hidden; how close can you get? |
+| Press **Play** | *Guess the year* (a part with its date hidden) or *Which came first?* (tap the older of two parts) |
 | Type a year into **Cross-section** | Everything happening on Earth at that moment |
 
 ## What's inside
@@ -52,10 +52,10 @@ missing part, tell us. It is your history too.
 |---|---|
 | **Drill-down catalog** | Era → span → year line → system → part, with permanent part numbers like `HC-WRT-B3300-01` |
 | **Peopling of the World** | Press Play and watch 29 migration routes spread from Africa to the far Pacific |
-| **Back-ordered parts** | Open questions as dashed "ghost" parts, with competing theories and what would settle them |
+| **Back-ordered parts** | Open questions as dashed "ghost" parts, with competing theories, what would settle them, and a ledger of the ones solved |
 | **Idea threads** | Writing, printing, domestication, vaccines and more, linked across places and times |
 | **Referee stamp** | Every part was checked against its source; corrected parts say what was wrong, with evidence |
-| **Guess the year** | A quick game built from the catalog itself |
+| **Two games** | *Guess the year* and *Which came first?*, built from the catalog itself |
 | **Pinned lists** | Pin parts and share one link; made for classrooms |
 
 ## How to read a part
@@ -79,7 +79,7 @@ overclaims before a person reviews it.
 
 ## Cite it
 
-`Human Catalog — Part History, Second Edition (2.0, 2026), part HC-WRT-B3300-01.` Every part card has a copy-citation
+`Human Catalog — Part History, Second Edition (2.1, 2026), part HC-WRT-B3300-01.` Every part card has a copy-citation
 button, and the full catalog is downloadable as `human-catalog.json`.
 
 ## Licences

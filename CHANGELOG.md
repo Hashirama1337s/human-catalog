@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.1 (2026)
+- New game: **Which came first?** Two parts, tap the older one. Both games now sit under one **Play** button.
+- New: **Solved ledger** on the Unknowns board. When a source settles an open question, its ticket is stamped SHIPPED
+  and the answer becomes a real part.
+- Fixed: on the public site, closed panels (Unknowns, Play) could show before being opened.
+- Phone layout: search takes a full row; question marks on the ruler no longer overlap.
+- Archived on Zenodo with a DOI (see README).
+
 ## 2.0 — Second Edition (2026)
 - Permanent part numbers stored in the data; one file per part.
 - New: Cross-section (everything happening at a date you type), idea threads, "superseded by" links, referee stamp on

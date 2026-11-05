@@ -29,6 +29,12 @@ never dates. They were these:
 Wording: plagues, famines and collapses are shown as sober Notices. "Superseded" is used for tools and methods, never for
 peoples, faiths or cultures.
 
+## Settling an open question
+Open questions are "back-ordered" parts (`"kind": "open"`). If you know a source showing specialists now agree on the
+answer, [report it](../../issues/new?template=report-error.yml) with the part number and the source. If it holds up,
+the ticket gets `"solved": {"edition": "2.x", "part": "<id of the new answer part>"}`, its card is stamped SHIPPED,
+and the answer is filed as a normal part. Specialists agreeing is the bar, not one new paper.
+
 ## Dating
 Negative years are BCE and there is no year 0 (1 BCE = `-1`). Deep time: `year = 1950 - years_before_present`.
 See [SCHEMA.md](SCHEMA.md) for every field.
