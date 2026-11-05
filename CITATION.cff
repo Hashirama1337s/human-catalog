@@ -5,6 +5,7 @@ type: dataset
 authors:
   - name: "Moki & Julio (AI-assisted)"
 version: "2.1"
+doi: "10.5281/zenodo.23977246"
 date-released: "2026-11-05"
 license: CC-BY-4.0
 url: "https://hashirama1337s.github.io/human-catalog/"

@@ -6,7 +6,7 @@
   and the answer becomes a real part.
 - Fixed: on the public site, closed panels (Unknowns, Play) could show before being opened.
 - Phone layout: search takes a full row; question marks on the ruler no longer overlap.
-- Archived on Zenodo with a DOI (see README).
+- Archived on Zenodo: doi:10.5281/zenodo.23977246 (all versions), v2.1 = doi:10.5281/zenodo.23977247.
 
 ## 2.0 — Second Edition (2026)
 - Permanent part numbers stored in the data; one file per part.

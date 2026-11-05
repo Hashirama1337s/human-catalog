@@ -9,6 +9,7 @@
   <img alt="42 open questions" src="https://img.shields.io/badge/open%20questions-42-b8321f">
   <img alt="Every part referee-checked" src="https://img.shields.io/badge/every%20part-referee--checked-2f7d4f">
   <img alt="Contributions welcome" src="https://img.shields.io/badge/contributions-welcome-a76a00">
+  <a href="https://doi.org/10.5281/zenodo.23977246"><img alt="DOI 10.5281/zenodo.23977246" src="https://zenodo.org/badge/DOI/10.5281/zenodo.23977246.svg"></a>
   <img alt="Code MIT, data CC BY 4.0" src="https://img.shields.io/badge/licence-MIT%20%2B%20CC%20BY%204.0-5b6878">
 </p>
 
@@ -79,8 +80,10 @@ overclaims before a person reviews it.
 
 ## Cite it
 
-`Human Catalog — Part History, Second Edition (2.1, 2026), part HC-WRT-B3300-01.` Every part card has a copy-citation
-button, and the full catalog is downloadable as `human-catalog.json`.
+`Human Catalog — Part History, Second Edition (2.1, 2026), part HC-WRT-B3300-01. doi:10.5281/zenodo.23977246` Every part card has a copy-citation
+button, and the full catalog is downloadable as `human-catalog.json`. Every edition is archived on
+[Zenodo](https://doi.org/10.5281/zenodo.23977246) (this DOI always points to the newest version; v2.1 is
+[10.5281/zenodo.23977247](https://doi.org/10.5281/zenodo.23977247)).
 
 ## Licences
 
