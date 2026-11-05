@@ -7,7 +7,7 @@
   <img alt="873 parts" src="https://img.shields.io/badge/parts%20on%20file-873-16233b">
   <img alt="74% outside Europe" src="https://img.shields.io/badge/outside%20Europe-74%25-1d4fa3">
   <img alt="46 open questions" src="https://img.shields.io/badge/open%20questions-46-b8321f">
-  <img alt="24,057 people" src="https://img.shields.io/badge/people-24%2C057-523a87"> <img alt="96 unsung heroes" src="https://img.shields.io/badge/unsung%20heroes-96-8a5a00"> <img alt="Every part checked against its source" src="https://img.shields.io/badge/every%20part-source--checked-2f7d4f">
+  <img alt="24,117 people" src="https://img.shields.io/badge/people-24%2C117-523a87"> <img alt="96 unsung heroes" src="https://img.shields.io/badge/unsung%20heroes-96-8a5a00"> <img alt="Every part checked against its source" src="https://img.shields.io/badge/every%20part-source--checked-2f7d4f">
   <img alt="Contributions welcome" src="https://img.shields.io/badge/contributions-welcome-a76a00">
   <a href="https://doi.org/10.5281/zenodo.23977246"><img alt="DOI 10.5281/zenodo.23977246" src="https://zenodo.org/badge/DOI/10.5281/zenodo.23977246.svg"></a>
   <img alt="Code MIT, data CC BY 4.0" src="https://img.shields.io/badge/licence-MIT%20%2B%20CC%20BY%204.0-5b6878">
@@ -54,7 +54,7 @@ missing part, tell us. It is your history too.
 | | |
 |---|---|
 | **Drill-down catalog** | Era → span → year line → system → part, with permanent part numbers like `HC-WRT-B3300-01` |
-| **People** | 24,057 people from Wikidata with real dates: search anyone, or see who was alive in any year |
+| **People** | 24,117 people from Wikidata with real dates: search anyone, or see who was alive in any year |
 | **Unsung heroes** | 96 contributions whose credit was missed, delayed or given to others, as documented by the source |
 | **Peopling of the World** | Press Play and watch 29 migration routes spread from Africa to the far Pacific |
 | **Back-ordered parts** | Open questions as dashed "ghost" parts, with competing theories, what would settle them, and a ledger of the ones solved |

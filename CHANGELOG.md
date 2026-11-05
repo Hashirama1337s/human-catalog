@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.2.1 (2026-11-05)
+
+- **Fix:** Play on the Peopling of the World map now animates (the slider was rounding each small step away).
+- **People:** catalog figures linked to their Wikidata entries (468 of 480); 60 more people added, incl. Carl Linnaeus and Charlemagne. Every link checked against its part's date; 10 wrong namesakes caught and corrected or left unlinked.
+
 ## 2.2 (2026)
 Shaped by an independent review panel (a historian, a teacher with an accessibility specialist, and a research-data reviewer).
 - **People:** 24,057 people from Wikidata with real dates (precision kept, Julian dates corrected), search and "alive in"
